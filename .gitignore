@@ -1,0 +1,21 @@
+# Secrets & credentials
+.env
+cookies*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+.env/
+*.egg-info/
+*.egg/
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db

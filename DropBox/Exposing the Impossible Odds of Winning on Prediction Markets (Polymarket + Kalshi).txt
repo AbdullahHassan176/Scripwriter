@@ -1,0 +1,285 @@
+# tactiq.io free youtube transcript
+# Exposing the Impossible Odds of Winning on "Prediction Markets" (Polymarket + Kalshi)
+# https://www.youtube.com/watch/yLny9UshGpg
+
+00:00:00.080 On January 3rd, 2026, one Poly Market
+00:00:03.040 user made $436,000
+00:00:06.240 in less than 48 hours. Their secret,
+00:00:08.320 they knew the United States military was
+00:00:10.240 about to arrest the president of
+00:00:11.840 Venezuela before anyone else did. The
+00:00:13.840 account was brand new, created just days
+00:00:15.839 before. They made exactly four bets, all
+00:00:18.320 related to Maduro's removal. And hours
+00:00:20.160 later, the raid happened. Over 3 million
+00:00:22.240 people have used prediction markets like
+00:00:23.920 Poly Market and Kelshi to gamble on
+00:00:25.920 things you never thought possible. from
+00:00:27.599 what the weather will be to what will
+00:00:29.519 happen in your favorite TV show. And
+00:00:31.359 while they've essentially taken over
+00:00:32.719 gambling culture overnight, almost
+00:00:34.480 nobody knows how rigged the system truly
+00:00:36.559 is and who really has the advantage.
+00:00:38.640 Let's look at the account named
+00:00:39.840 Burdensome Emix created one week before
+00:00:42.239 the Venezuela raid. Look at their bet
+00:00:44.079 history. $32,000 on will Maduro be out
+00:00:46.879 by January 31st. $250 on will Trump
+00:00:49.840 invoke the War Powers Act against
+00:00:51.440 Venezuela. $1,000 on will the US invade
+00:00:54.399 Venezuela by January 31st. $146 on will
+00:00:58.000 US forces land in Venezuela by the end
+00:01:00.000 of the month. They bet four specific
+00:01:01.680 scenarios, all Venezuela. All within
+00:01:04.159 days of the actual operation. And here's
+00:01:06.000 what makes this absolutely wild. News
+00:01:08.080 organizations knew about the raid ahead
+00:01:10.000 of time. CNN, the Washington Post, they
+00:01:12.720 all had the story, but they held it to
+00:01:14.880 protect troops. Meanwhile, someone was
+00:01:17.119 loading up their Poly Market account
+00:01:18.560 with massive positions. We may never
+00:01:20.880 know who this person is, but it is
+00:01:22.640 almost a guarantee they were one of the
+00:01:24.960 few people on the planet in the no. In
+00:01:27.280 fact, there were two other accounts with
+00:01:29.119 the same level of shadiness, and they
+00:01:30.880 were created and funded just hours
+00:01:33.040 before the raid, turning 6K into 80K and
+00:01:36.000 25K into 170K. This is just one
+00:01:38.799 situation that highlights a massive
+00:01:40.560 problem with prediction markets. Insider
+00:01:42.720 trading. Dennis Keller from Better
+00:01:44.720 Markets puts it perfectly. The odds of
+00:01:46.880 losing money on these platforms are
+00:01:48.640 incredibly high. Unless you have
+00:01:50.240 information nobody else has. But it's
+00:01:52.399 not just Maduro. In December 2025,
+00:01:54.799 someone made nearly $1 million betting
+00:01:57.439 on Google's year-end search trends. They
+00:01:59.680 got 22 out of 23 predictions correct on
+00:02:02.880 specific search terms that Google
+00:02:05.119 controls. Let me tell you something. How
+00:02:07.280 do you predict what Google's algorithm
+00:02:09.199 will show as the top searches of the
+00:02:11.038 year? Unless you work there or know
+00:02:13.760 somebody who does. As a disclaimer, I've
+00:02:15.760 personally used these markets and am
+00:02:18.160 about to break even. So, no, I'm not
+00:02:19.680 making this video as some disgruntled
+00:02:21.440 customer that's upset about losing
+00:02:22.959 money. But it's starting to feel like
+00:02:24.480 I'm at a poker table where everyone else
+00:02:26.879 knows the game is fixed except for me.
+00:02:29.120 And of course, there's the infamous
+00:02:30.640 Coinbase earnings call. At the end of a
+00:02:32.720 quarterly call, Coinbase CEO Brian
+00:02:35.040 Armstrong said this.
+00:02:36.560 >> I was a little distracted because I was
+00:02:38.000 tracking the prediction market about
+00:02:39.680 what Coinbase will say on their next
+00:02:41.120 earnings call. And I just want to add
+00:02:42.959 here the words Bitcoin, Ethereum,
+00:02:44.800 blockchain, staking, and web 3 to make
+00:02:48.160 sure we get those in before the end of
+00:02:49.360 the call.
+00:02:49.760 >> Now, why is he just rattling off words,
+00:02:51.680 you may ask? The answer is because Poly
+00:02:54.080 Market had props if Brian would say
+00:02:56.400 those words on the earnings call, and he
+00:02:58.160 admittedly read them off directly from
+00:03:00.319 Poly Market. Now, there's no proof or
+00:03:02.319 any reason to believe he was placing
+00:03:03.840 bets here, but it goes to show how one
+00:03:06.159 person with knowledge and power could
+00:03:08.000 easily influence these outcomes. So the
+00:03:10.400 question becomes, are the prediction
+00:03:11.840 markets another rigged system designed
+00:03:14.159 to take your money, or are these insider
+00:03:16.800 trading situations just isolated
+00:03:18.800 incidents in otherwise fair market?
+00:03:20.879 Well, here's the data, and you can
+00:03:22.560 decide for yourself. Blockchain analyst
+00:03:24.879 DeFi Oasis analyzed 1.7 million
+00:03:27.760 Polymarket addresses. And you know what
+00:03:29.440 they found? 70% of users have lost
+00:03:32.239 money. And of those remaining 30% who
+00:03:34.239 made money, a tiny 0.04% 04% or less
+00:03:37.519 than 1 in 2,000 profitable users
+00:03:40.239 captured over 70% of all profits. We're
+00:03:43.040 talking 3.7 billion concentrated in the
+00:03:45.840 hands of roughly 700 accounts. For
+00:03:48.239 context, that's about 3.5 million each.
+00:03:51.120 But when I see these numbers, these
+00:03:52.879 prediction markets feel like less of a
+00:03:54.879 degenerate gambler's paradise and more
+00:03:56.959 of an insider traders paradise, which
+00:03:59.040 personally makes me want to withdraw all
+00:04:00.959 my money. Because even though deep down
+00:04:02.959 it reminds me of gambling, these markets
+00:04:05.120 still make it feel like you can find an
+00:04:06.959 edge or an advantage that isn't pure
+00:04:09.040 luck. For example, I would look for
+00:04:11.200 outcomes that were between 90 to 95% and
+00:04:14.319 buy those outcomes. After all, the stock
+00:04:16.720 market index funds yields 8 to 10% on
+00:04:19.040 average. So, hypothetically, one or two
+00:04:21.199 of these wins could beat the stock
+00:04:22.960 market. Reasons like this are why
+00:04:24.639 prediction market usage has exploded
+00:04:26.800 over the last year. These platforms
+00:04:28.560 weren't built to feel like reckless
+00:04:30.080 gambling. They were made to feel
+00:04:31.680 accurate and that's exactly what pulls
+00:04:33.919 people in. These platforms have gone
+00:04:35.759 from obscure tech experiment to
+00:04:37.919 mainstream in less than a year. And the
+00:04:39.919 growth has been so fast that DraftKings
+00:04:42.639 and FanDuel, the kings of the sports
+00:04:44.960 betting, both launched their own
+00:04:46.720 prediction market apps in December 2025
+00:04:49.759 just to compete. When the biggest
+00:04:51.360 gambling companies in America are
+00:04:53.199 scrambling to copy you, you're not just
+00:04:55.199 some niche experiment anymore. And while
+00:04:57.360 insider trading may seem like an issue
+00:04:59.360 with these markets, it isn't exactly an
+00:05:01.440 unfortunate byproduct. It's more of a
+00:05:03.680 feature. You see, prediction markets
+00:05:05.280 were created many years ago because
+00:05:07.120 people were fed up with forecasting.
+00:05:09.039 Polls were unreliable. Experts wouldn't
+00:05:11.199 commit to who they think would win, and
+00:05:13.520 group consensus was wrong a lot of the
+00:05:15.520 time. So, economists came up with an
+00:05:17.840 idea. What if you could influence people
+00:05:19.600 to put money behind their beliefs? The
+00:05:21.680 thinking was simple. When money's on the
+00:05:23.520 line, people tell the truth. And that's
+00:05:25.280 where prediction markets come from.
+00:05:26.800 That's why these markets use language
+00:05:29.039 that is very purposeful. They don't call
+00:05:31.280 users gamblers. They call them
+00:05:33.440 participants. And they don't say bets.
+00:05:35.600 They say contracts. They position these
+00:05:37.919 markets as skill-based,
+00:05:39.600 information-based, and financial, not
+00:05:41.840 based on chance like gambling. But
+00:05:43.759 here's where the whole philosophy behind
+00:05:45.360 prediction markets falls apart. Robin
+00:05:47.440 Hansen, one of the leading economists
+00:05:49.360 who championed prediction markets, said,
+00:05:51.280 &quot;If the point of markets is to get
+00:05:52.960 accurate information on prices, then you
+00:05:54.960 definitely want to allow insiders to
+00:05:57.280 trade.&quot; Read that again. The entire
+00:05:58.960 system is designed to encourage insider
+00:06:01.360 trading because it makes the prices more
+00:06:04.080 accurate. Who has the edge on these? The
+00:06:06.080 CEO's assistant, the academy voter, the
+00:06:08.479 Pentagon staffer, the Google engineer.
+00:06:10.560 And who doesn't? You. Another area for
+00:06:13.120 concern is if these prediction markets
+00:06:15.199 leak information early or can be
+00:06:16.960 manipulated to spread fake news.
+00:06:18.960 Remember our friend who made $436,000 on
+00:06:21.759 Maduro? What if this trader started a
+00:06:23.840 trend where everyone is watching these
+00:06:25.840 markets to predict what will happen with
+00:06:27.919 geopolitical issues? This Maduro gambler
+00:06:30.720 placed wages to make money, but imagine
+00:06:32.800 a nation's government placing a big bet
+00:06:35.440 solely to create panic. Things could get
+00:06:37.680 out of hand so fast. Another concern
+00:06:39.759 with these markets is are they even
+00:06:41.680 legal? Poly market was once raided by
+00:06:43.520 the FBI but recently rang the opening
+00:06:45.680 bell for the NYSE. As for Kelshi, they
+00:06:48.560 have their own legal drama. They wanted
+00:06:50.240 to offer betting on which party would
+00:06:52.160 control Congress. The CFTC said no.
+00:06:55.360 These are gambling contracts, not
+00:06:57.120 legitimate financial instruments. So,
+00:06:59.039 Kelshi sued. And in September 2024, they
+00:07:02.240 won. A federal judge said the CFTC
+00:07:04.560 overstepped and Kelshi could offer
+00:07:06.560 election betting. When the Trump
+00:07:08.080 administration took office, the CFTC
+00:07:10.240 dropped its appeal entirely. The case is
+00:07:12.560 closed. Election betting is legal. But
+00:07:15.280 here's where it gets messy. Kelshi now
+00:07:17.520 offers sports betting in all 50 states.
+00:07:19.759 States like Nevada and New Jersey sented
+00:07:22.560 assist letters saying, &quot;You're violating
+00:07:24.400 our gambling laws.&quot; Kelshi sued them,
+00:07:26.880 arguing federal law preempts state law.
+00:07:29.680 They won in Nevada and New Jersey. They
+00:07:32.080 lost in Maryland. The system is chaos.
+00:07:35.280 Even DraftKings and FanDuel prediction
+00:07:37.360 markets isn't available in all 50
+00:07:39.120 states. These platforms operate in a
+00:07:41.360 regulatory black hole. They're not stock
+00:07:43.599 markets. They're not sports books. They
+00:07:45.840 exist in between where nobody's really
+00:07:48.160 watching. Another thing that's really
+00:07:49.440 sad, and I have to imagine all of the
+00:07:51.039 prediction and gambling companies know
+00:07:52.720 this is that the reason people are even
+00:07:54.479 using their platforms at this
+00:07:55.840 exceptionally fast rate is because in a
+00:07:57.599 weird way, these prediction market
+00:07:59.599 platforms offer hope. We all feel the
+00:08:02.240 financial stress. Everyday purchases are
+00:08:04.160 getting out of hand. People are
+00:08:05.680 financing burritos with buy now pay
+00:08:08.080 later. Everyone feels behind, but these
+00:08:10.080 platforms feel like a cheat code to
+00:08:11.840 finally making well-deserved money.
+00:08:13.680 There's a certain psychology that
+00:08:15.199 prediction markets tap into. Saving is
+00:08:17.360 slow. It's boring and it takes time. But
+00:08:19.759 prediction markets are immediate. They
+00:08:21.919 feel productive and they make us feel
+00:08:24.080 like we're actually doing something with
+00:08:25.599 our money. And by the way, we have tons
+00:08:27.360 of resources on this channel if you're
+00:08:29.120 someone who is feeling the financial
+00:08:30.479 anxiety that so many of us are right
+00:08:32.479 now. Whether it's credit card debt,
+00:08:34.000 fixing a low credit score, or whatever
+00:08:35.679 it may be, I'll leave some video links
+00:08:37.200 in the description, and you should check
+00:08:38.799 them out. And if you're tight on cash
+00:08:40.240 right now and need a loan, make sure to
+00:08:41.760 check out the Credit Ninja website and
+00:08:43.839 watch this video to learn how they work
+00:08:45.680 with customers of all credit backgrounds
+00:08:47.519 to get you money fast. Lastly, I want to
+00:08:49.440 cover some final alarming stats about
+00:08:51.440 prediction markets. Poly Market raised
+00:08:53.360 70 million in funding from Peter Theel's
+00:08:55.519 Founders Fund. Yeah, that guy from the
+00:08:57.440 famous clip.
+00:08:58.320 >> You would prefer the human race to
+00:08:59.760 endure, right?
+00:09:01.600 >> Uh, you're hesitating.
+00:09:03.440 >> Well, I Yes.
+00:09:04.480 >> I don't know. I I would
+00:09:07.440 I would um
+00:09:09.279 >> This is a long hesitation. It's now
+00:09:11.519 valued at 9 billion. Shane Copelan at 26
+00:09:14.959 is considered the youngest self-made
+00:09:16.880 billionaire in the world. Kelchi raised
+00:09:19.120 300 million in series D funding valued
+00:09:21.680 at 5 billion. The investors are getting
+00:09:24.080 rich. The founders are billionaires. So
+00:09:26.480 if you're thinking about betting on
+00:09:27.680 prediction markets, ask yourself, do I
+00:09:29.680 know something that everyone else
+00:09:30.880 doesn't? Am I friends with the HBO CEO?
+00:09:33.440 Do I work at Google? Am I in the
+00:09:35.200 Pentagon situation room? If the answer
+00:09:36.959 is no, then you're not the hunter,
+00:09:39.040 you're the prey. Thanks for watching and
+00:09:40.720 we'll see you next time.

@@ -1,0 +1,15 @@
+# tactiq.io free youtube transcript
+# Why Can't Robots Check "I'm Not A Robot"?
+# https://www.youtube.com/watch/rme6PT7-CRI
+
+00:00:00.040 I have a question: why can't a robot just click "I'm not a robot"?turns out that the answer to  
+00:00:04.320 that question is part of a bigger story about being human. the tech is called reCAPTCHA. it  
+00:00:08.280 stands for "completely automated public turing test to tell computers and humans apart." you  
+00:00:11.960 might remember some of these older versions or these. robots are pretty good at those ones now  
+00:00:15.520 but the box test isn't really about the box. it's tracking all kinds of other things about your  
+00:00:19.560 behavior like for example where you put the mouse before you click the box. robots move like this  
+00:00:25.560 but humans move kind of like this. in other words these aren't about what makes humans better than  
+00:00:31.760 robots. they're about what makes humans human. that's not new. it's the same question we've been  
+00:00:36.080 thinking about for centuries and in a world where technology can do more and more surprising things,  
+00:00:40.240 I think there's something kind of beautiful about constantly trying to figure out what makes us  
+00:00:44.360 differentiated human. if you like optimistic science and tech stories follow for more...
