@@ -1,5 +1,6 @@
 @echo off
 setlocal
+cd /d "%~dp0.."
 set PYTHONIOENCODING=utf-8
 
 REM Max videos to process per channel this round. Already-fetched are skipped.
@@ -36,8 +37,8 @@ call python -m ytchan build-dataset "https://www.youtube.com/@MrBeast"
 
 echo ========================================
 echo Round done. To fetch more, run again with higher max:
-echo   run_transcripts_batched.bat 50
-echo   run_transcripts_batched.bat 75
+echo   bin\run_transcripts_batched.bat 50
+echo   bin\run_transcripts_batched.bat 75
 echo   ... (increase by 25 each round; wait 30-60 min between rounds if no proxy)
 echo ========================================
 goto :eof

@@ -34,7 +34,7 @@ The file must be Netscape format (starts with `# Netscape HTTP Cookie File`).
 
 The `.env` file should contain:
 ```
-YOUTUBE_API_KEY=AIzaSyAk7Scbw1cZM_32aHX9HOaTSmD1i17a-8U
+YOUTUBE_API_KEY=your_youtube_api_key_here
 YTCHAN_COOKIES_FILE=cookies.txt
 ```
 
@@ -44,10 +44,10 @@ YTCHAN_COOKIES_FILE=cookies.txt
 
 ## 4. Run the transcript loop
 
-Double-click `run_transcripts_loop.bat` or run from a terminal:
+Run from the project root:
 
 ```bat
-run_transcripts_loop.bat
+bin\run_transcripts_loop.bat
 ```
 
 - Fetches up to **25 transcripts per channel per round**
@@ -57,7 +57,7 @@ run_transcripts_loop.bat
 
 Override defaults:
 ```bat
-run_transcripts_loop.bat 50 10   REM 50 per round, wait 10 min
+bin\run_transcripts_loop.bat 50 10
 ```
 
 ---
@@ -67,7 +67,7 @@ run_transcripts_loop.bat 50 10   REM 50 per round, wait 10 min
 Only needed if you want to start completely fresh without the existing `data/` folder:
 
 ```bat
-run_channels.bat
+bin\run_channels.bat
 ```
 
 This runs the YouTube API metadata step (~30 seconds, no transcript fetching).

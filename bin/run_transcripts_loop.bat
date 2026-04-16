@@ -1,5 +1,6 @@
 @echo off
 setlocal
+cd /d "%~dp0.."
 set PYTHONIOENCODING=utf-8
 
 REM Automated transcript loop: fetches up to N per channel per round via yt-dlp,

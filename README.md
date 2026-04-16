@@ -1,4 +1,12 @@
-# ytchan
+# Scriptwriter
+
+A workspace for writing short-form video scripts modeled on target creators' styles. Source material lives in `DropBox/`, finished scripts in `scripts/`, and creator style-reference transcripts in their named folders (`h1t1/`, `DougSharpe/`, etc.). See `ai.md` for the full workflow.
+
+---
+
+## ytchan — YouTube Transcript Tool
+
+`ytchan` is the bundled CLI for fetching video metadata and transcripts from YouTube channels. It outputs ranked datasets to `data/<channel>/` which feed the script research process.
 
 YouTube channel analytics CLI: fetch video metadata, rank by popularity, fetch transcripts (via **yt-dlp**), export to JSONL/CSV.
 
@@ -62,7 +70,7 @@ yt-dlp will then send your authenticated cookies with every subtitle request, by
 ### Step 1 — Fetch metadata for all channels (fast)
 
 ```bat
-run_channels.bat
+bin\run_channels.bat
 ```
 
 This uses the YouTube Data API only. No transcript fetching, no blocking. Takes ~1–2 min for all 7 channels.
@@ -86,8 +94,8 @@ python -m ytchan build-dataset "@thomasmulligan"
 ### Step 3 — Auto-fetch remaining transcripts via yt-dlp
 
 ```bat
-run_transcripts_loop.bat          # 25/channel/round, 5 min wait
-run_transcripts_loop.bat 50 10    # 50/channel/round, 10 min wait
+bin\run_transcripts_loop.bat          # 25/channel/round, 5 min wait
+bin\run_transcripts_loop.bat 50 10    # 50/channel/round, 10 min wait
 ```
 
 The loop runs rounds automatically: fetches up to N per channel, waits, retries. Already-fetched transcripts are skipped. Stops when no new transcripts are found. Press **Ctrl+C** to pause.

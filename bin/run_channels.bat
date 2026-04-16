@@ -1,5 +1,6 @@
 @echo off
 setlocal
+cd /d "%~dp0.."
 set PYTHONIOENCODING=utf-8
 
 REM Fetch metadata only (videos + rank + empty dataset) for all 7 channels.
@@ -32,10 +33,10 @@ call python -m ytchan fetch-metadata "https://www.youtube.com/@MrBeast"
 if errorlevel 1 goto :error
 
 echo ========================================
-echo Metadata done! Now run: run_transcripts_loop.bat
+echo Metadata done! Now run: bin\run_transcripts_loop.bat
 echo ========================================
 goto :eof
 
 :error
-echo Pipeline failed. Check logs\
+echo Pipeline failed. Check the console output above.
 exit /b 1

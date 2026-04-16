@@ -10,10 +10,17 @@ A workspace for writing and rewriting short-form video scripts. The core workflo
 
 ## Directory Structure
 ```
-/h1t1/          # Reference transcripts for creator "h1t1" (YouTube short-form)
-/DropBox/       # Raw source material: transcripts, articles, research docs
-/scripts/       # Output: finished scripts (Markdown, one file per video)
-/docs/          # Extended style guides and creator profiles (see below)
+/h1t1/              # Style-reference transcripts — creator "h1t1"
+/DougSharpe/        # Style-reference transcripts — Doug Sharpe
+/CleoAbram/         # Style-reference transcripts — Cleo Abram
+/thomasmulligan/    # Style-reference transcripts — Thomas Mulligan
+/DropBox/           # Raw source material: articles, transcripts, research PDFs/docs
+/scripts/           # Output: finished scripts (Markdown, one file per video)
+/docs/              # Style guides, creator profiles, VM_SETUP.md
+/data/              # Machine-fetched YouTube metadata & transcripts (ytchan output)
+/src/ytchan/        # Python tooling: YouTube API client, transcript fetcher, CLI
+/tests/             # Unit tests for ytchan tooling
+/bin/               # Batch runners: run_channels, run_transcripts_batched, run_transcripts_loop
 ```
 
 ---
@@ -23,6 +30,16 @@ A workspace for writing and rewriting short-form video scripts. The core workflo
 ### h1t1 — Style Guide
 Short-form (~20–60 sec). See `/docs/h1t1-style.md` for full breakdown.
 Key markers: `"So,"` opener · concrete details · `"And well,"` / `"The thing is,"` pivots · sardonic close · no CTAs
+
+### Doug Sharpe — Style Guide
+Short-form fun fact (~30–60 sec). Style-reference transcripts in `/DougSharpe/`.
+Key markers: invariant `"Fun fact,"` opener · immediate concrete numbers · deadpan/no editorializing · "and/but" chaining · direct quote as ironic end kicker · no CTAs · no pivot phrases
+
+### Cleo Abram — Style Guide
+Style-reference transcripts in `/CleoAbram/`. Full style guide TBD in `/docs/`.
+
+### Thomas Mulligan — Style Guide
+Style-reference transcripts in `/thomasmulligan/`. Full style guide TBD in `/docs/`.
 
 ---
 
