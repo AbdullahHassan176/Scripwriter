@@ -1,0 +1,95 @@
+# tactiq.io free youtube transcript
+# We Made a One-Handed Keyboard
+# https://www.youtube.com/watch/9vW12gQ4Klc
+
+00:00:00.000 Last winter
+00:00:00.934 a father wrote to us
+00:00:02.669 his daughter lost her right hand’s function
+00:00:04.571 after a truck accident
+00:00:06.072 When using a computer
+00:00:07.040 she had to switch constantly between the keyboard
+00:00:09.309 and mouse
+00:00:09.909 Typing was slow and tiring
+00:00:11.878 He wanted us to build a one-handed keyboard for her
+00:00:14.481 and attached a hand-drawn sketch
+00:00:16.315 After the email
+00:00:17.317 we called them to discuss their needs
+00:00:19.052 They wanted a keyboard fully covered by one hand
+00:00:21.488 with a built-in mouse
+00:00:22.722 We checked existing ones
+00:00:24.190 Most were for gaming
+00:00:25.425 few keys
+00:00:26.025 no typing
+00:00:26.760 Others required memorizing tricky key combos or layers
+00:00:29.996 The closest match was a keyboard
+00:00:31.831 from an Austrian company
+00:00:32.999 but it wasn’t QWERTY and cost 990€.
+00:00:36.202 Can we build a keyboard that perfectly fits their needs
+00:00:39.039 Let’s start
+00:01:23.783 Here’s our keyboard
+00:01:24.717 To fit all keys under one hand
+00:01:26.586 we used a compact 61-key QWERTY layout in a fan shape
+00:01:30.056 We used smaller ALPS yellow switches
+00:01:31.991 but they felt stiff
+00:01:32.959 so we lubed everyone of them
+00:01:34.627 For key placement
+00:01:35.528 the original spacebar made the thumb stretch
+00:01:37.964 The delete key was too far
+00:01:39.866 We moved both to right corner for easier access
+00:01:42.535 For the mouse input
+00:01:43.470 after comparing the TrackPoint
+00:01:45.205 trackball
+00:01:45.839 joystick
+00:01:46.539 and touchpad
+00:01:47.207 we chose the trackball as it offers the best balance
+00:01:49.843 between precision and compact size
+00:01:51.878 Existing trackballs were too bulky
+00:01:53.580 so we tested materials
+00:01:55.281 until finding one with the right weight and grip
+00:01:57.851 Users can scroll the trackball
+00:01:59.285 with their thumb and click mouse buttons with their fingers
+00:02:02.355 We embedded six tiny balls in it for smooth rolling
+00:02:04.824 A magnetic cable was added
+00:02:06.359 for easy one-handed plugging
+00:02:07.794 Typing looked like this
+00:02:13.967 This looks done
+00:02:14.834 but it’s actually version seven
+00:02:16.469 Early versions ruled out wrong ideas
+00:02:18.738 like use the entire keyboard as a mouse
+00:02:20.773 Version 3 worked
+00:02:21.641 but had awkward angles and poor scroll wheel
+00:02:25.011 Version 4 fixed these
+00:02:26.479 Version 5 improved the case and replaced mouse switches
+00:02:29.582 We sent it to the user for feedback
+00:02:31.284 They loved it
+00:02:31.985 but noted issues like small keys easy to mispress
+00:02:34.621 and unstable magnetic cable
+00:02:36.456 We refined the design further and slimmed it down
+00:02:38.825 After learning that the user liked colorful designs
+00:02:41.761 we designed several color options for them to choose from
+00:02:44.097 and ultimately made this special macaron-themed version
+00:02:47.033 But this also had mispress risks
+00:02:49.035 and discomfort for larger hands
+00:02:50.770 So we made a Plus version
+00:02:52.405 The Plus uses standard-sized mechanical switches
+00:02:55.175 fewer typos
+00:02:56.042 Its larger size allowed adding LEDs
+00:02:58.111 and sound-dampening features
+00:02:59.445 Poron foam between the plate and case
+00:03:01.581 plus padding under the PCB
+00:03:03.483 Typing sounds like this
+00:03:14.527 Everything is ready
+00:03:15.428 we sent both keyboards to them
+00:03:52.966 Since we already made it
+00:03:54.133 why not make more
+00:03:55.301 We designed the Plus keyboard for the right hand
+00:03:58.104 and built 50 sets
+00:03:59.539 25 for the left hand
+00:04:00.873 and 25 for the right
+00:04:02.141 We’ve already donated the keyboards
+00:04:03.843 to people who need them
+00:04:05.011 We've also open-sourced these keyboards
+00:04:06.946 hoping to help more people
+00:04:08.514 Thank you for watching
+00:04:09.382 See you next time
+00:04:13.886 By the time this video is out

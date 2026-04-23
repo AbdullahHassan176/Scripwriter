@@ -1,0 +1,220 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/-IhuFgiWNS4
+
+00:00:00.000 This is an English typewriter
+00:00:01.901 Compact
+00:00:02.702 Simple
+00:00:03.303 Press a key
+00:00:03.970 and a letter is struck onto paper
+00:00:05.605 Using it feels almost identical to typing on a modern computer
+00:00:08.808 And this is a Chinese typewriter
+00:00:10.777 Bulky
+00:00:11.311 Complicated
+00:00:12.178 To type a word
+00:00:13.046 you first have to find it on a large character plate
+00:00:15.315 pull a lever
+00:00:15.982 and then the character is stamped onto paper
+00:00:18.151 It’s far less convenient than an English typewriter
+00:00:20.553 But English only has 26 letters
+00:00:22.555 Chinese has tens of thousands of characters
+00:00:25.191 In an era of limited technology
+00:00:26.826 this seemed like a problem impossible to solve
+00:00:29.429 Until, in 1947
+00:00:31.297 someone built this machine
+00:00:32.866 the Mingkwai Chinese Typewriter
+00:00:34.667 Instead of a tray with 2,000 character slots
+00:00:37.303 it used a 74-key keyboard
+00:00:39.205 You could type Chinese
+00:00:40.407 just like typing English
+00:00:41.674 And despite being only slightly larger than an English typewriter
+00:00:44.911 it didn’t just type 2,000 characters
+00:00:47.247 nor 20,000 characters
+00:00:48.782 it could type 90,000 characters in total
+00:00:51.551 Only one such machine was ever made
+00:00:53.987 And that one machine
+00:00:55.555 has been lost for more than half a century
+00:00:59.592 When I first heard of the Mingkwai Typewriter
+00:01:01.594 I thought it was an urban myth
+00:01:03.063 How could a purely mechanical device
+00:01:04.931 possibly type 90,000 characters?
+00:01:07.400 But numerous photos proved its real
+00:01:09.502 and even a video showed it in operation
+00:01:11.805 Its inventor
+00:01:12.605 was the Chinese author
+00:01:13.740 Noble Prize nominee Lin Yutang
+00:01:15.742 According to his biography
+00:01:17.343 as early as 1931
+00:01:19.079 he dreamed of inventing a Chinese typewriter
+00:01:21.448 that like its English counterpart
+00:01:23.082 anyone could use without special training
+00:01:25.085 He became obsessed
+00:01:26.319 Every morning at 5 or 6
+00:01:28.088 he rearranged characters
+00:01:29.789 redesigned the keyboard
+00:01:31.091 and repeated this again and again
+00:01:33.126 After 16 years
+00:01:34.527 he finally built the first fully functional prototype
+00:01:37.664 Unfortunately
+00:01:38.631 due to its high manufacturing cost
+00:01:40.500 no company was willing to mass-produce it
+00:01:42.635 And 19 years later
+00:01:43.870 that one prototype was lost during a move
+00:01:46.706 Luckily
+00:01:47.407 a set of patents filed in 1952
+00:01:50.410 preserved the Mingkwai's mechanism
+00:01:51.845 Those patents survive to this day
+00:01:54.147 We tried rebuilding the machine based on those patents
+00:01:56.382 even making small mechanical models to test it
+00:01:58.785 But as the diagrams went from this
+00:02:00.687 to this
+00:02:01.521 to… this
+00:02:02.622 we eventually had no idea what to do
+00:02:04.657 Still
+00:02:05.191 though we couldn’t recreate the Mingkwai Typewriter mechanically
+00:02:08.094 we built an electric replica based on its principles
+00:02:11.030 This is our version of the Chinese typewriter
+00:02:13.533 Although it’s far from the original
+00:02:15.502 it demonstrates how the Mingkwai worked
+00:02:17.270 So how could the Mingkwai Typewriter type 90,000 characters?
+00:02:20.673 It used a three-level drum system
+00:02:22.642 The large drum carried 6 medium drums
+00:02:24.878 each medium drum carried 6 small drums
+00:02:27.146 each small drum had 8 faces
+00:02:29.149 and each face held 20 type slugs
+00:02:31.184 29 in the original Mingkwai
+00:02:32.785 That means the Mingkwai could hold
+00:02:34.587 6 × 6 × 8 × 29 = 8,352 characters
+00:02:40.493 Here’s how it worked
+00:02:41.694 Say you wanted to type the character “呼” (“hu”).
+00:02:43.663 First
+00:02:44.030 you’d press the key for its left component
+00:02:46.099 the square ‘mouth’ radical
+00:02:47.433 The triple drum would rotate to characters carrying that radical on the left
+00:02:51.237 Next
+00:02:51.704 you’d press the key for the right-bottom stroke
+00:02:53.573 “vertical-hook”
+00:02:54.407 The carriage would move to characters that “vertical-hook” on the right
+00:02:58.144 There can be up to 8 such characters
+00:03:00.180 And this is where the magic happens
+00:03:02.315 By attaching a device called the “Magic eye”
+00:03:04.484 you could preview those 8 characters
+00:03:06.452 through a small display in front of you
+00:03:08.221 Beneath that window
+00:03:09.155 was a preview drum
+00:03:10.223 engraved with the same characters as the main drum
+00:03:12.859 User could see it with an optical system
+00:03:15.094 The preview drum was synchronized via belts
+00:03:17.463 So it moves with the paper carriage and the main drum
+00:03:20.033 The mechanism is so clever,
+00:03:21.701 that the eight characters ready to print
+00:03:23.636 were exactly the eight shown in the window
+00:03:25.939 Finally
+00:03:26.472 you’d press the number key corresponding to the desired character
+00:03:29.542 the mechanism would rotate the type arm
+00:03:31.578 the hammer would strike
+00:03:32.912 and the character would be printed
+00:03:34.514 The experience
+00:03:35.248 was remarkably similar to how we input Chinese characters today
+00:03:39.152 This method — searching characters
+00:03:40.820 by their upper-left and lower-right radicals —
+00:03:43.022 was Lin Yutang’s own invention:
+00:03:44.457 the Instant Index System
+00:03:45.925 But Even with the triple-drum design
+00:03:47.827 it could only directly print about 8,000 characters
+00:03:50.463 So how did it reach 90,000?
+00:03:52.265 Because among those 8,000 type slugs
+00:03:54.334 around 7,000 were complete characters
+00:03:56.502 and the rest were radicals —
+00:03:58.271 about 70 phonetic components and 1,300 graphic components
+00:04:02.508 By combining these radicals
+00:04:04.010 you could form new characters
+00:04:05.545 For instance, To type the character “唁,”
+00:04:07.513 you first press the key for mouth radical
+00:04:09.649 and print it on the paper
+00:04:11.251 Then, press these two keys
+00:04:12.518 that gives you the character “言”
+00:04:13.953 The smaller one is the radical
+00:04:15.755 Type that as well
+00:04:16.822 and they form the whole character
+00:04:18.458 That’s one of roughly 70 × 1,300 = 91,000 possible combinations
+00:04:23.963 Many of those combinations weren’t real characters
+00:04:26.299 but the concept was revolutionary
+00:04:28.334 Traditional Chinese typewriters couldn’t type characters they don't have
+00:04:31.404 But Mingkwai allowed rare or even new characters
+00:04:34.040 to be composed mechanically
+00:04:35.575 Its design brilliance was truly breathtaking
+00:04:38.611 Even today
+00:04:39.145 we’d find it challenging to reproduce such precision using brushless motors
+00:04:42.782 76 years ago
+00:04:44.150 Lin Yutang achieved it using gears
+00:04:46.552 chains
+00:04:47.120 and levers
+00:04:48.121 But With our electric version
+00:04:49.522 there’s one benefit
+00:04:50.523 once the keyboard is modified
+00:04:52.125 it can type automatically
+00:05:19.352 “When I sat before the typewriter
+00:05:20.987 practicing typing
+00:05:22.121 I felt it was a miracle,”
+00:05:23.890 wrote Lin Yutang’s daughter
+00:05:25.124 Lin Tai-yi
+00:05:25.925 Indeed, the triple-drum mechanism
+00:05:27.760 and the Top-Bottom Radical Indexing Method
+00:05:29.729 beautifully solved the problem
+00:05:30.963 of storing and retrieving thousands of Chinese characters
+00:05:34.300 In 1947
+00:05:35.601 it could only be described as a miracle
+00:05:38.137 Sadly
+00:05:38.738 this milestone invention was never mass-produced
+00:05:41.641 The project bankrupted Lin Yutang
+00:05:43.543 who had once published several bestsellers
+00:05:45.812 Lin Tai-yi later wrote
+00:05:46.979 “Every part was handmade and costly
+00:05:49.449 but father had already invested so much
+00:05:51.918 he couldn’t stop halfway
+00:05:53.353 The Mingkwai was admired
+00:05:55.154 but he was deep in debt
+00:05:56.756 One afternoon
+00:05:57.724 I came home to find my mother in tears — years of savings were gone
+00:06:01.761 and anxiety filled the house
+00:06:03.596 The sad part is
+00:06:04.597 The challenge of Chinese text input
+00:06:06.632 wouldn’t be truly solved until the computer age
+00:06:09.035 In a mechanical era
+00:06:10.336 to create a Chinese typewriter with an input system
+00:06:13.106 meant unbearable complexity and cost
+00:06:15.842 A machine born from such passion
+00:06:17.710 was almost destined to fail commercially
+00:06:20.012 If time could turn back
+00:06:21.614 would Lin Yutang regret building it?
+00:06:23.916 A story in his biography offers a clue
+00:06:26.819 “One day,” wrote Lin Tai-yi
+00:06:28.855 “father and I were in a taxi
+00:06:30.757 He was playing with a paper keyboard model
+00:06:32.925 proudly saying that the brilliance of his invention
+00:06:35.495 lay in the keyboard design
+00:06:36.763 and the mechanical problems weren’t difficult
+00:06:39.031 I nervously asked
+00:06:40.266 ‘Then why not just sell the keyboard idea itself
+00:06:43.069 without making the machine?’
+00:06:44.470 He looked at me, and softly said:
+00:06:46.939 Perhaps I could...
+00:06:48.107 but I can’t help myself
+00:06:49.842 I must build a real typewriter
+00:06:52.211 one that can truly type Chinese
+00:06:59.719 Alright everyone
+00:07:00.520 this video was first released in March 2023
+00:07:03.489 And then, in January 2025
+00:07:05.691 something incredible happened
+00:07:07.226 the only Mingkwai Typewriter in existence
+00:07:09.462 was discovered in a basement in New York
+00:07:11.864 It turned out Lin Yutang had sold it
+00:07:13.466 to the Mergenthaler Linotype Company
+00:07:15.334 and one of their engineers
+00:07:16.569 had kept it in storage all these years
+00:07:18.771 It has now been transferred
+00:07:19.972 to the Stanford Libraries
+00:07:21.307 and we’re eagerly awaiting their research findings
+00:07:24.277 Thank you for watching
+00:07:25.211 see you next time

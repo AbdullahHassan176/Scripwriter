@@ -1,0 +1,200 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/XhUuhl9iWpQ
+
+00:00:00.000 We made a machine line
+00:00:01.066 and we used it to send out 80,000 gifts
+00:00:03.433 Last year
+00:00:03.966 I wanted to send a themed calendar to some fans
+00:00:06.466 Packing was easy
+00:00:07.766 fold a cardboard into a box
+00:00:09.166 put in the calendar and wood block
+00:00:10.666 close the lid, and ship it out
+00:00:12.166 The only issue?
+00:00:13.233 I wanted to send out a few hundred
+00:00:15.000 which meant a whole week of packing
+00:00:16.866 So there I was, 2:30 am
+00:00:18.266 at the studio, folding boxes
+00:00:20.000 And I couldn’t help but think
+00:00:21.599 what if there was a machine that could fold these boxes automatically?
+00:00:25.066 Then I could go home early and read a book
+00:00:27.500 Good news
+00:00:28.199 such machines already exist
+00:00:29.900 And if you can buy it
+00:00:30.800 there’s no need to DIY it
+00:00:32.466 So we asked for price
+00:00:36.266 We love DIY to the bottom of our hearts
+00:00:38.266 It's time to make a small assembly line
+00:00:56.000 So we made this
+00:00:56.966 A robotic arm grabs a piece of cardboard
+00:00:59.266 moves it forward
+00:01:00.366 and presses it down
+00:01:01.866 Two side arms lock the sides in place
+00:01:04.500 That part was easy
+00:01:05.833 we took inspiration from existing designs
+00:01:08.466 But most commercial machines don’t close the lid
+00:01:10.866 So we had to figure that out ourselves
+00:01:13.000 Once the box is roughly folded
+00:01:14.900 the platform moves it forward
+00:01:17.000 and another mechanism quickly pushes the lid shut
+00:01:20.699 But here’s the tricky part
+00:01:21.866 how do you tuck this tiny flap
+00:01:23.300 into this slot?
+00:01:24.333 At first
+00:01:25.000 we tried pushing the lid down
+00:01:26.366 but that flap kept bending outward and wouldn’t go in
+00:01:30.833 So we added a guide piece to nudge it inwards
+00:01:33.733 Still
+00:01:34.233 tiny size differences in the boxes caused failures
+00:01:37.033 Our final fix?
+00:01:38.033 A spring-loaded guide on a movable air cylinder
+00:01:40.599 that adapts to each box size and gently pushes the flap in
+00:01:44.300 before the lid closes
+00:01:45.566 Success rate went way up
+00:01:47.433 But just closing the lid isn’t enough
+00:01:49.500 you’d still need to open it
+00:01:50.599 put things inside
+00:01:51.433 and close it again
+00:01:52.599 Totally pointless
+00:01:53.733 unless
+00:01:54.699 We added a robotic arm
+00:01:56.699 Now, once a box is folded
+00:01:58.266 it moves forward
+00:01:59.266 and the arm drops in a calendar and wood block while the box isn’t looking
+00:02:03.366 Then it gets pushed along
+00:02:04.733 lid closed
+00:02:05.566 and done
+00:02:06.500 a fully packed box
+00:02:07.866 completely automatic
+00:02:09.098 You might ask
+00:02:09.833 “Isn’t folding by hand faster than building all this?”
+00:02:12.500 Please don’t ask that question
+00:02:13.633 But still
+00:02:14.433 it looks pretty cool
+00:02:25.666 It can pack one box every 15 seconds
+00:02:27.900 That’s 1,000 in an afternoon
+00:02:29.933 Still
+00:02:30.233 there’s another problem
+00:02:31.500 the calendars cost money
+00:02:33.300 Sending tens of thousands would be way too expensive
+00:02:36.333 So we thought:
+00:02:37.099 what’s something meaningful we can send to everyone
+00:02:39.866 without breaking the bank?
+00:02:41.266 Introducing
+00:02:42.033 our Assembly Line 2.0
+00:03:11.800 This is a paper-folding machine we built
+00:03:13.800 It turns a flat sheet of paper into a paper dove
+00:03:16.433 a symbol of sky
+00:03:17.966 dream
+00:03:18.433 and ability to fly
+00:03:20.199 To fold this
+00:03:21.033 first step is picking up a single sheet from a stack
+00:03:23.633 Easy for humans
+00:03:24.766 hard for suction cups
+00:03:26.166 So we used a center-spinning wheel that first pulls one sheet back
+00:03:29.300 then forward into the rollers
+00:03:31.300 Step two: fold the paper
+00:03:32.833 First in half
+00:03:33.633 then make a boat shape
+00:03:34.566 then press the tip down
+00:03:35.733 creating four crease lines
+00:03:37.500 Kind of tricky for people
+00:03:38.800 but for machines...
+00:03:42.199 Next
+00:03:42.800 a robot arm picks up the papar
+00:03:44.800 move to the next step
+00:03:46.233 the steel blades on both sides fold along the creases
+00:03:49.233 with an extra one folding a small corner
+00:03:52.099 The rough dove shape is formed by more folds
+00:03:54.800 folding the paper again
+00:03:55.966 flipping the wings down — this is where it gets complex
+00:03:59.066 A robotic arm grabs the paper and feeds it into the Rollers
+00:04:02.699 Rollers flatten it
+00:04:03.866 then lift up the wings
+00:04:05.166 Mold presses to make the creases
+00:04:07.800 A third arm grips and pulls the paper further for shaping
+00:04:10.666 This step always gives me headaches
+00:04:12.833 Now we reach the hardest part
+00:04:14.833 the head and tail
+00:04:16.000 Normally you’d pinch the paper by hand
+00:04:18.033 very tricky even for humans
+00:04:19.966 So what does our machine do?
+00:04:21.433 Simple
+00:04:21.866 the robotic arm picks up the paper and places it
+00:04:24.300 into someone’s hand
+00:04:25.833 Just joking
+00:04:26.633 The arm places the paper down
+00:04:28.199 and then
+00:04:28.833 very fast
+00:04:31.466 the right mold punches down to form the head
+00:04:33.833 the left mold punches the tail
+00:04:35.900 and a cylinder clamps it all into shape
+00:04:38.166 swings to the end of the line
+00:04:39.666 And Boom
+00:04:40.433 a paper dove is born
+00:04:41.866 Here
+00:04:42.099 we slowed down the roller speed
+00:04:43.300 it actually looks like this
+00:04:45.566 But a blank dove isn’t very meaningful
+00:04:47.433 So we added a machine at the start
+00:05:05.066 now we can print messages on each dove
+00:05:07.233 We even included a little stand so you can display it on your desk
+00:05:10.666 I wrote “new video” on mine as a reminder to hurry up
+00:05:13.833 Our engineer wrote “99%”
+00:05:15.800 his goal for machine accuracy
+00:05:17.833 Our producer?
+00:05:18.833 wrote “Ana de Armas”for some reason
+00:05:20.866 So why did I do this?
+00:05:22.466 I’ve always been a shy person
+00:05:24.099 I never raised my hand in class
+00:05:26.033 I’d rather use a vending machine than talk to a cashier
+00:05:28.699 Watching videos alone at home was my comfort zone
+00:05:31.500 In a weird way
+00:05:32.433 the people on screen often felt more familiar than the ones around me
+00:05:35.966 Then I started making videos myself
+00:05:37.566 And I’ve been lucky
+00:05:38.833 I got a lot of support
+00:05:40.066 When our channel hit 10 million followers in China
+00:05:42.500 I wanted to do a giveaway
+00:05:44.066 But giveaways only reach a few lucky people
+00:05:46.266 I want more people to feel my gratitude
+00:05:48.199 This machine was our answer
+00:05:49.666 a way to turn cheap paper into something meaningful
+00:05:52.433 Why doves?
+00:05:53.466 Because I often delay posting videos
+00:05:55.166 In Chinese
+00:05:55.900 it's called “pigeon-ing” the upload
+00:05:57.733 It became a meme about our channel
+00:05:59.466 We turned that meme into a real gift
+00:06:01.466 This was by far our hardest project
+00:06:03.466 We started in April 2023
+00:06:05.933 spent 7 months folding the first dove
+00:06:08.433 and 2 more months making the machine reliable
+00:06:10.833 Every step took countless tests
+00:06:13.000 fails
+00:06:13.500 and fixes
+00:06:14.433 I doubted whether this was even possible
+00:06:16.533 But when that first dove came out
+00:06:18.266 it was the happiest moment of my year
+00:06:20.666 We plannd to send out 100,000 paper doves
+00:06:23.199 all folded by our own machine here in our studio
+00:06:25.866 Thanks for watching our videos
+00:06:27.333 But here's one problem
+00:06:28.466 Sending one dove is easy
+00:06:29.800 Just fold a box
+00:06:30.800 put in the dove and a wood stand
+00:06:32.333 and ship it
+00:06:33.333 Only issue?
+00:06:34.000 We had to do it 100,000 times
+00:06:36.266 So I couldn’t help but think
+00:06:37.933 what if there was a machine that could fold these boxes automatically?
+00:06:41.166 Oh wait
+00:07:19.099 Hi, I’m Richard
+00:07:20.300 This video was posted in China in January 2024
+00:07:23.833 Since then, we’ve shipped 88,000 doves for free
+00:07:27.033 and I'm really happy that our viewers get to receive them
+00:07:30.066 We’re now translating our videos for YouTube
+00:07:32.500 and in just a few months we’ve grown to 1,000,000 subscribers here
+00:07:35.833 Thank you so much
+00:07:36.866 We’re a DIY studio in China that makes werid stuff
+00:07:39.533 follow for more

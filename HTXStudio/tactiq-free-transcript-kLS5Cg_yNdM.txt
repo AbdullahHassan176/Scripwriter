@@ -1,0 +1,210 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/kLS5Cg_yNdM
+
+00:00:00.000 If you’ve bought a phone charger recently
+00:00:01.601 it probably supports fast charging
+00:00:03.403 And you probably still have some slow chargers lying around
+00:00:06.239 I’ve heard people say that when you charge overnight
+00:00:08.241 you should use the slow charger
+00:00:09.809 because fast charging supposedly hurts the battery more
+00:00:12.579 There’s also a saying that keeping your battery between 30% and 80% is the healthiest range
+00:00:17.484 So
+00:00:17.884 does fast charging actually damage your battery?
+00:00:20.120 What’s really the best way to charge your phone?
+00:00:22.222 Does battery wear make your phone slower?
+00:00:24.224 And at what point should you actually consider replacing your battery?
+00:00:27.293 Today
+00:00:27.727 let’s run an experiment to find out the answers
+00:00:31.464 First
+00:00:32.098 we prepared six iPhone 12s and divided them into a fast-charge group and a slow-charge group
+00:00:36.936 Then we opened them up and measured the battery capacity of each one
+00:00:40.106 and installed our custom software — called “Discharge Loop”
+00:00:43.410 Once the app starts
+00:00:44.644 the phone begins running a program to drain its battery
+00:00:47.347 When the battery drops to 5%
+00:00:49.215 the app sends a signal to a relay connected to the charger
+00:00:52.152 telling it to close the circuit and start charging
+00:00:54.621 Once the phone reaches 100%
+00:00:56.489 the app tells the switch to open again and stop charging
+00:00:59.225 then starts draining the battery again
+00:01:01.027 repeating the cycle endlessly
+00:01:02.829 Since each cycle charges and discharges about 95% of the capacity
+00:01:07.133 we count that as 0.95 of a full cycle
+00:01:09.936 After 500 cycles
+00:01:11.104 we open the phones again and re-measure their battery capacities
+00:01:14.407 If the fast-charge group shows significantly more capacity loss than the slow-charge group
+00:01:18.445 then we can say fast charging does hurt the battery more
+00:01:21.781 In addition
+00:01:22.382 we prepared another group of iPhone 12s
+00:01:24.584 These phones drain from 80% down to 30%
+00:01:27.153 then fast charge back up to 80%
+00:01:28.788 Since each round only uses 50% of the battery
+00:01:31.558 we count that as half a cycle
+00:01:33.193 If after 500 cycles this group’s battery loss is less than the full fast-charge group
+00:01:38.131 then it proves that keeping your phone between 30% and 80% really does help protect the battery
+00:01:43.670 Finally
+00:01:44.137 we had one more iPhone 12 as a control group
+00:01:46.739 This phone didn’t go through any charge cycles
+00:01:49.175 we only measured its capacity at the beginning and end
+00:01:51.845 to rule out the effects of time or other factors
+00:01:54.747 On Android
+00:01:55.348 we set up the same test groups
+00:01:56.883 But for fast charging
+00:01:57.884 we used the iQOO 7 with 120 watts
+00:02:00.620 and for slow charging
+00:02:01.621 we used 18 watts
+00:02:02.956 To keep the experiment running smoothly
+00:02:04.691 we built an anti-crash device
+00:02:06.693 If our discharge app crashes
+00:02:08.294 this device detects the screen color change and reopens the app automatically
+00:02:12.499 All the phones used in this experiment were purchased through official stores
+00:02:16.436 We didn’t communicate with any brands
+00:02:18.404 so the results are completely independent
+00:02:20.807 Running a test like this takes about six months —
+00:02:23.143 so if you could give us a like
+00:02:24.611 we’d really appreciate it
+00:02:25.912 Before the test began
+00:02:26.913 just to prove we were really doing this for a long time
+00:02:29.949 We planted some plants
+00:02:53.907 Time flies
+00:02:54.874 The plants didn’t survive
+00:02:57.076 but the experiment did
+00:02:58.478 After 167 days
+00:03:00.713 all the phones had completed 500 charge cycles
+00:03:03.750 The iPhone slow-charge group lost 11.8% of its battery capacity
+00:03:08.254 the fast-charge group lost 12.3%
+00:03:10.924 just 0.5% more
+00:03:12.559 On Android
+00:03:13.293 the slow-charge group dropped 8.8%
+00:03:15.895 while the fast-charge group dropped 8.5%
+00:03:18.531 about 0.3% less
+00:03:20.099 So over 500 cycles
+00:03:21.601 roughly a year and a half of use
+00:03:23.570 that difference is almost unnoticeable
+00:03:26.105 In addition
+00:03:26.906 the iPhone 50% fast-charge group lost 4% less capacity than the full fast-charge group
+00:03:31.945 The Android 50% fast-charge group lost 2.5% less
+00:03:35.982 So keeping your phone’s battery between 30% and 80% does help reduce wear
+00:03:40.186 but the improvement is limited
+00:03:42.188 There’s also a common belief that leaving your phone plugged in at 100% is bad for the battery
+00:03:46.993 That idea actually makes sense
+00:03:48.928 Apple even says
+00:03:49.963 “if you store it fully charged for an extended period of time
+00:03:53.199 the battery may lose some capacity”
+00:03:55.068 To test this
+00:03:55.902 we took six iPhone 12s
+00:03:57.637 measured their capacities
+00:03:58.871 and split them into three groups
+00:04:00.807 one left at 1%, one at 50%
+00:04:03.876 and one at 100% while plugged in
+00:04:06.279 Then we powered them off and left them for a week
+00:04:08.848 Guess what
+00:04:09.682 their battery capacities didn’t change at all
+00:04:12.252 So battery aging is a long-term process
+00:04:14.921 The best way to charge your phone is simply
+00:04:17.523 however you like
+00:04:18.591 Don’t overthink it
+00:04:19.659 Don’t trade mental energy for a tiny bit of battery life
+00:04:22.595 Now that we know how charging affects battery wear
+00:04:24.964 let’s look at how battery wear affects your actual phone experience
+00:04:28.268 We found four iPhone 12s with battery health at 94%
+00:04:31.371 89%
+00:04:32.105 85%
+00:04:32.839 and 81%
+00:04:33.640 plus one iPhone X at 77%
+00:04:36.442 We teamed up with our friends at Geekerwan to test their battery life and performance
+00:04:40.613 After four hours of continuous use
+00:04:42.682 the remaining battery levels were 39%
+00:04:44.951 41%
+00:04:45.585 32% and 26%
+00:04:47.220 The iPhone X at 77% battery health shut down after 3 hours and 52 minutes
+00:04:52.392 Then we replaced all their batteries and ran the test again
+00:04:55.261 This time
+00:04:55.895 their remaining power increased by 6%
+00:04:58.331 5%
+00:04:58.865 12% and 16%
+00:05:00.166 and 24%
+00:05:01.267 So once your battery health drops to around 85%
+00:05:04.203 you’ll start noticing shorter battery life
+00:05:06.406 When it falls near 80%
+00:05:07.874 it’s time to replace the battery
+00:05:09.676 Android doesn’t show official battery health numbers at the time
+00:05:12.512 but we tested three Android phones from our experiment
+00:05:15.214 Before the replacement
+00:05:16.349 their remaining power after the same test was 35%
+00:05:19.252 33% and 35%
+00:05:21.020 After new batteries
+00:05:21.854 it increased by 9%
+00:05:23.289 10% and 8%
+00:05:24.957 roughly an extra 90 minutes of use
+00:05:27.260 Does battery wear affect performance?
+00:05:29.329 Not really
+00:05:30.163 performance stayed nearly the same before and after replacement
+00:05:33.800 But phones with degraded batteries throttle earlier
+00:05:36.669 For example
+00:05:37.570 this iPhone with 85% battery health slows down at 11%
+00:05:42.008 while with a new battery
+00:05:43.042 it doesn’t throttle until 5%
+00:05:45.011 In games
+00:05:45.812 that means the new battery lets you play a bit longer before it lags
+00:05:49.282 That’s the end of our experiment section
+00:05:51.584 Some of you might be wondering
+00:05:53.052 if we only used 20 phones and six months
+00:05:55.088 why does the title say
+00:05:56.222 “40 phones two years”?
+00:05:57.990 That’s because
+00:05:59.125 we tried this
+00:06:00.293 three times
+00:06:01.194 The first one was back in October 2020
+00:06:03.763 with just four phones
+00:06:05.164 two fast
+00:06:05.732 two slow
+00:06:06.332 Back then
+00:06:06.899 I didn’t know how to automate anything
+00:06:08.801 so I literally drained the batteries by leaving games running
+00:06:11.704 charged them manually
+00:06:12.939 and repeated that for months
+00:06:14.540 From October 4th to March 3rd
+00:06:16.376 I completed 430 cycles
+00:06:18.778 but one fast-charge phone aged a lot
+00:06:20.947 the other didn’t at all
+00:06:22.548 No clear result
+00:06:23.750 So I tried again
+00:06:24.650 This time
+00:06:25.318 I bought four more phones for each group
+00:06:27.153 added Android
+00:06:28.121 and used a robotic arm and smart plugs to automate the whole process
+00:06:31.657 From May 31st to August 3rd 2021
+00:06:34.727 i ran over 200 cycles
+00:06:36.496 but four phones broke
+00:06:37.597 and the software kept crashing
+00:06:39.699 Another failure
+00:06:40.700 Then came the third try
+00:06:42.168 the one you just watched
+00:06:43.569 and it finally worked
+00:06:44.971 Sometimes I wonder
+00:06:46.305 does anyone still care about whether fast charging hurts batteries?
+00:06:49.609 Is it really worth all this time and effort?
+00:06:52.311 Then I remember my first phone
+00:06:54.213 I always waited until it dropped below 20% before charging
+00:06:57.683 and only unplugged at 100%
+00:06:59.919 because I thought that was “good for the battery”
+00:07:02.355 I did that for three years
+00:07:04.390 Looking back
+00:07:05.057 it didn’t help the phone
+00:07:06.359 but it made me feel like I was taking care of something important
+00:07:09.362 Because that phone meant a lot to me
+00:07:11.497 It was my window to the world
+00:07:13.266 my escape from boredom
+00:07:15.101 So even if that kind of “care” didn’t matter technically
+00:07:18.137 it still mattered emotionally
+00:07:20.106 If this video helps more people use their phones a little more freely
+00:07:23.476 then it’s all worth it
+00:07:26.546 All the phones from this test have been given away to our viewers after getting brand-new batteries
+00:07:31.117 If there’s anything else you’d like us to test
+00:07:33.252 let us know in the comments
+00:07:34.921 After this
+00:07:35.588 We’ve also done a video about whether using your phone while charging hurts the battery
+00:07:39.325 go check it out
+00:07:40.393 See you next time

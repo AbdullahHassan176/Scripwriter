@@ -1,0 +1,143 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/5A3D06D97jo
+
+00:00:00.000 We built a mobile observatory
+00:00:01.835 and we used it
+00:00:02.669 to capture the most beautiful nebula
+00:00:04.504 Sometimes I head to a nearby hill to shoot nebulae
+00:00:06.906 To the naked eye they look like tiny specks of light
+00:00:09.609 but with long exposure and magnification
+00:00:11.845 they turn into cosmic oil paintings
+00:00:13.813 made with light and dust
+00:00:15.382 utterly mesmerizing
+00:00:16.816 Trying to get better nebula shots
+00:00:18.451 I went a little overboard with the gear
+00:00:20.754 A telescope alone isn't enough—you need an equatorial mount to track the nebula
+00:00:24.791 an astronomy controller to tell it where the target is
+00:00:27.360 a cooled camera for long exposures
+00:00:29.195 and if you want those gorgeous Hubble colors
+00:00:31.598 a set of filters
+00:00:32.598 You can’t just dump all that gear on the ground
+00:00:34.567 so a tripod
+00:00:35.368 In the end
+00:00:35.969 a single telescope plus all the accessories adds up to… quite a lot
+00:00:40.073 Every shoot meant loading 20 kilograms of gear into the car
+00:00:43.710 driving to the location
+00:00:45.045 then unload, assemble, assemble
+00:00:47.080 assemble, focus
+00:00:48.081 align… 2 hours later—just as I was ready… the clouds rolled in
+00:00:52.252 I couldn’t help thinking:
+00:00:53.586 How convenient would it be if an assembled telescope just travel with me?
+00:00:58.291 So we built this
+00:01:22.315 This is our mobile telescope platform
+00:01:24.451 Normally
+00:01:25.051 our telescope sits in the trunk
+00:01:26.753 When it’s time to shoot
+00:01:27.854 it automatically connects to the equatorial mount
+00:01:30.256 locks the dovetail plate
+00:01:31.591 and lifts up
+00:01:32.492 Then it uses its motor to align with Polaris
+00:01:35.028 and once I pick a target in the app
+00:01:36.563 it starts shooting—so much easier than before
+00:01:40.834 It should be noted that mounting the telescope on the car is definitely less stable than on a tripod
+00:01:46.239 but it does work
+00:01:47.540 During shooting
+00:01:48.274 we also step out of the car
+00:01:50.109 And if you press this button
+00:01:56.749 These two shelves hold all our “essential” gear for shooting
+00:01:59.652 Before night falls
+00:02:00.386 we could grill some meat—just kidding
+00:02:02.355 we don't actually do that
+00:02:03.490 The coffee machine keeps me warm
+00:02:05.391 The anemometer… doesn’t do anything
+00:02:07.560 but it makes the rig look cooler
+00:02:09.195 In fact
+00:02:09.829 this platform was inspired by the our sponsor
+00:02:12.465 Seestar S30 smart telescope
+00:02:14.267 It integrates an equatorial mount
+00:02:16.002 telescope
+00:02:16.503 and camera into a device you can hold in one hand
+00:02:19.405 Just open the app
+00:02:20.273 pick your target
+00:02:22.775 and the Seestar S30 will automatically find it and start shooting
+00:02:26.012 When we go outdoors
+00:02:26.980 we always let the Seestar shoot alongside with ours
+00:02:29.649 Now
+00:02:30.016 let’s see what our telescope captured
+00:02:46.966 And here’s Jupiter
+00:02:48.434 Yeah
+00:02:49.002 you can’t really see anything
+00:02:50.170 That's why our platform can hold two telescopes
+00:03:05.185 This one is a telescope with a focal length of 2350 mm
+00:03:09.889 Its aperture and focal length are both much larger than the last telescope
+00:03:13.493 Here’s the Jupiter it captured
+00:03:17.397 We even mounted a high-speed camera on it to capture the Chinese Space Station(Tiangong)
+00:03:22.569 Along with the telescopes
+00:03:23.770 we brought lenses with different focal lengths—from a super-wide 12 millimeters to our big telescope at 2350 millimeters
+00:03:30.210 They can create an infinite zoom shot from the landscape all the way to the nebula
+00:03:34.280 Everything was ready
+00:03:35.381 but right before we headed up the mountain
+00:03:38.952 it started raining
+00:03:40.019 And not just for a couple of days—it was set to rain for two straight weeks
+00:03:43.756 Even without the rain
+00:03:44.591 the city’s light pollution makes it hard to capture the best-looking nebulae
+00:03:47.894 So we packed up
+00:03:48.761 and drove all the way to one of the best stargazing locations in China—Qinghai Lenghu
+00:04:00.873 This place has over 300 clear nights a year and minimal light pollution
+00:04:04.577 At night
+00:04:05.178 the sky is filled with stars
+00:04:06.980 and you can even see individual satellites tracing their paths
+00:04:09.849 During our stay
+00:04:10.683 we’d rest in town in the day
+00:04:12.352 then at dusk drive our observatory to a location that felt straight out of a movie set
+00:04:17.423 Here, among the crumbling walls
+00:04:19.459 there are rows of classrooms
+00:04:21.226 a branch of the Commercial Bank
+00:04:23.196 and even a sizable theater
+00:04:24.731 This is the No.5 Base of the Lenghu Oilfield Industrial Site
+00:04:29.202 In 1958
+00:04:30.370 a drill pierced rock layers 650 meters deep
+00:04:33.806 and crude oil shot 20 meters into the air like a fountain for three days
+00:04:38.211 forming a vast oil lake
+00:04:39.912 People flocked here from all over the country
+00:04:42.248 In what was once a wasteland
+00:04:43.883 a bustling new city sprang up overnight
+00:04:46.586 At its peak, it was home to 100,000 people
+00:04:49.489 But as the oil ran out
+00:04:50.990 the wells stopped pumping
+00:04:52.592 and people gradually left
+00:04:54.293 The bustle dried up with time
+00:04:56.029 leaving behind only memories anchored in the desert
+00:04:59.966 But the stars that witnessed it all still shine silently overhead
+00:05:16.916 We came here to shoot nebula
+00:05:18.451 how do you find a nebula in the sky?
+00:05:20.453 First
+00:05:21.020 locate three bright stars almost in a straight line
+00:05:23.623 below them is a row of dimmer stars—the middle one is the Orion Nebula
+00:05:28.361 And if you follow the three stars outward
+00:05:30.296 you’ll see an orange star called Aldebaran
+00:05:32.765 65 light-years away
+00:05:34.434 So the light we see tonight
+00:05:36.269 started its journey during the oil town’s golden age
+00:05:39.439 After exposing all our lenses at the same region of the sky for dozens of hours
+00:05:44.310 this is what we get
+00:06:41.968 OK everyone
+00:06:42.735 this was truly a long production—from summer to winter and back to summer again
+00:06:46.672 To have this journey
+00:06:47.740 and to see such a clear night sky
+00:06:49.575 we’re incredibly grateful
+00:06:50.877 Thank you for watching till the end
+00:06:52.011 and thanks to Seestar for sponsoring this video
+00:06:54.647 If you’re just getting into astrophotography
+00:06:56.816 you can start with a portable smart telescope like the Seestar S30
+00:07:00.353 Compared with professional telescopes
+00:07:02.321 it’s much more beginner-friendly in price
+00:07:04.424 Its all-in-one design spares you the trouble of complex assembly
+00:07:07.593 and with the app’s one-tap star-finding
+00:07:09.395 you just open the star map and tap what you want to shoot
+00:07:12.131 Even if you can’t tell if that light is Mars or a streetlamp
+00:07:14.967 it will still help you capture an astro shot of your own with ease
+00:07:20.706 Thanks for watching
+00:07:21.441 We are a diy studio in china that makes weird stuff
+00:07:23.810 follow for more

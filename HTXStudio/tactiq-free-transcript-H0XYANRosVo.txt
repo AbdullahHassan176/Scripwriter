@@ -1,0 +1,118 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/H0XYANRosVo
+
+00:00:00.000 To save everyone the hassle of taking out the trash
+00:00:02.402 we built 20 running trash bins
+00:00:04.537 Our studio is a mess
+00:00:05.939 There’s always garbage on the tables
+00:00:07.907 on the floor
+00:00:08.641 and the bins are always full
+00:00:10.276 At first
+00:00:10.844 I thought the problem
+00:00:11.678 was simply not enough trash cans
+00:00:13.346 So I bought more
+00:00:14.314 But for some reason
+00:00:15.448 people still didn’t bother
+00:00:18.685 Then I had a thought:
+00:00:19.486 What if the train bin catches trash mid-air
+00:00:21.921 and then empties itself automatically?
+00:00:23.823 Wouldn’t that solve everything?
+00:00:25.158 To catch trash
+00:00:26.092 there are two points
+00:00:27.494 First
+00:00:27.927 know where the trash will land
+00:00:29.429 Second, get there fast
+00:00:30.797 The second part’s easier
+00:00:31.998 we added three big motors and wheels under the bin
+00:00:34.667 so it can move quickly
+00:00:37.670 Nice move
+00:00:38.571 But how does it know where the trash is?
+00:00:40.440 Twelve years ago
+00:00:41.307 someone online made something similar
+00:00:42.909 He used a Kinect on the wall to detect trash
+00:00:45.345 But that only works in a fixed zone
+00:00:47.614 So instead
+00:00:48.281 we put the camera on the bin
+00:00:49.716 so it can go anywhere it wants
+00:00:51.684 Then we trained a model
+00:00:52.619 to identify common types of trash
+00:00:54.421 When it sees a trained object flying through the air
+00:00:56.456 it sprints to intercept
+00:00:58.792 After many rounds of fine-tuning by our engineers
+00:01:01.394 it finally caught its first piece of trash
+00:01:12.572 No way
+00:01:13.006 Directly hit
+00:01:22.082 With the basic function working
+00:01:23.450 we created three specialized bins
+00:01:25.652 One can mop the floor
+00:01:28.488 plays rock-paper-scissors with you
+00:01:30.223 Make you feel invincible
+00:01:33.660 One has a lid
+00:01:34.527 so it can now
+00:01:37.130 Practice rookie
+00:01:38.364 that’s baby stuff
+00:01:39.566 talk trash
+00:01:40.934 If you make it in
+00:01:42.235 I’ll eat my lid
+00:01:45.271 HAHA! Nice try
+00:01:46.940 genius
+00:01:48.541 And then came the ultimate bin
+00:01:50.276 The Punishment Bin
+00:01:51.344 equipped with a soft dart launcher
+00:01:53.580 If someone litters
+00:01:54.647 you can remote control it to fire a warning shot
+00:01:58.318 Swap the dart for a laser pointer
+00:02:00.019 and you’ve got a mobile cat toy
+00:02:01.688 Link them all to the same remote
+00:02:03.123 and you can take your bins for a walk
+00:02:05.058 But what if they ran out of battery?
+00:02:06.759 So hungry
+00:02:08.595 We made a rotating charging hub
+00:02:10.062 with magnetic contact points
+00:02:11.698 The bins line up
+00:02:12.665 roll in one by one
+00:02:13.933 and snap into place to charge
+00:02:16.703 Seriously?
+00:02:17.670 So now the “throwing trash” part is solved
+00:02:20.073 What about emptying the trash automatically?
+00:02:22.075 We built this massive robo-arm trash bin
+00:02:24.511 when a little bin shows up
+00:02:25.678 it does this
+00:02:28.014 Just kidding
+00:02:28.781 We actually made this
+00:02:29.949 a heat-seal mega bin
+00:02:31.618 and we gave each small bin a bag-swapping mechanism
+00:02:34.320 When a small bin approaches the big one
+00:02:36.656 the big bin extends a clamp
+00:02:38.158 lifts the bag system
+00:02:39.325 swings it over the mouth
+00:02:40.593 then tightens two heated wires to seal
+00:02:42.595 and cut off the full part of the bag
+00:02:44.430 which drops into the big bin
+00:02:45.865 A fresh bag is pulled into place
+00:02:47.901 But wait
+00:02:48.635 how do the small bins even find the big one？
+00:02:50.803 Now where’s the big dude?
+00:02:52.205 If you’ve been watching closely
+00:02:53.540 you might have noticed
+00:02:54.474 our floor looks weird
+00:02:56.409 Who uses black flooring?
+00:02:57.744 And what’s that stripe in the middle?
+00:02:59.546 Well
+00:03:00.079 When everyone leaves and the lights go off
+00:03:02.482 this is what it looks like
+00:03:30.743 We embedded LED strips under the floor
+00:03:32.946 and placed downward-facing cameras on each bin
+00:03:35.281 Then we taught them to follow the light
+00:03:37.016 So by programming the light trail
+00:03:38.885 we can guide the bins
+00:03:40.153 one by one
+00:03:40.987 straight to the mega trash bin
+00:04:05.345 Alright everyone
+00:04:06.212 that’s it for this video
+00:04:07.347 Ever since we set up this system
+00:04:09.349 our studio felt haunted every day
+00:04:11.751 Thanks so much for watching
+00:04:13.253 We’re a DIY studio in China that builds weird stuff
+00:04:15.521 Follow for more
