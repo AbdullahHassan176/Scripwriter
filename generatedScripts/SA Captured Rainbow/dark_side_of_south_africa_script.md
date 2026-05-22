@@ -1,6 +1,6 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SCRIPT: South Africa Didn't Fail Because of Corruption
-Estimated Runtime: 15–16 mins (~2,400 words spoken)
+Estimated Runtime: ~15 mins (~2,222 words spoken)
 Audience: International — explain every term, assume nothing
 
 VISUAL CONVENTION:
@@ -34,11 +34,13 @@ And honestly — it was.
 
 That was thirty years ago. So what happened since?
 
-If you have heard anything about South Africa lately, you have probably heard about corruption — a former president, Jacob Zuma, and a network of businessmen who used government contracts to steal on a massive scale. That really happened. People have gone to prison for it.
+If you have heard anything about South Africa lately, you have probably heard about corruption — a former president, Jacob Zuma, and a network of businessmen who used government contracts to steal on a massive scale. That really happened and some people have gone to prison for it.
 
-But if corruption is the whole explanation, then the fix sounds simple: vote in better leaders, clean up the state, and the country recovers.
+But if corruption is the whole explanation, then the fix sounds simple, right?
 
-When you look at the full thirty years — not just the nine years Zuma was president — the numbers tell a different story.
+Just vote in better leaders, clean up the state, and the country recovers.
+
+If only it was that simple.
 
 [SHOW: timeline 1994–2024 — inequality line nearly flat across whole period]
 
@@ -64,23 +66,27 @@ To understand 1994, you need to know what came before it.
 
 For decades, South Africa was run under apartheid — a legal system that separated people by race, denied Black South Africans the vote, restricted where they could live and work, and concentrated wealth in white hands. The African National Congress, or ANC, was the main party that fought to end that system. Its leader, Nelson Mandela, had spent twenty-seven years in prison for opposing apartheid.
 
-In April 1994, apartheid ended at the ballot box. The ANC won the first free election. Mandela became president. For the first time, everyone could vote.
+In April 1994, apartheid ended at the ballot box. The ANC won the first free election. Mandela became president and, for the first time, everyone could vote.
 
 [SHOW: two columns — "Politics changed" / "Who owned what — barely changed"]
 
-But there were really two transitions happening at once — and only one of them was completed.
+But when the power and control over a country is transferred from one party to another, then there should really be two transitions happening at once — and only one of them reached completion.
 
-The political transition was real and extraordinary. One person, one vote. Independent courts. A free press. A new constitution followed in 1996 that legal experts still describe as one of the strongest in the world.
+The political transition, where every person was granted an equal vote, which was upheld by Independent courts and preserved by a free press. This was followed by a new constitution in 1996 that legal experts still describe as one of the strongest in the world.
 
-The economic transition — who actually owned the mines, the farms, the banks, the big companies on the stock exchange — barely happened at all.
+And then there is the economic transition. Basically, what happens to the infrastructure? Who is now going to own the mines, the farms, the banks, the big companies on the stock exchange? How do you preserve value whilst correcting for past injustices?
 
 [SHOW: land ownership bars — "7% of population → 73% of farmland"]
 
-White South Africans are about seven percent of the population today. They still own roughly seventy-three percent of private farmland. That has barely shifted in thirty years.
+Look at this chart. White South Africans are only about seven in every hundred people in the country — but they still own roughly three quarters of private farmland. Thirty years into democracy, that share has barely moved.
 
-The new government did not leave things that way by accident. In the early 1990s, money was leaving the country fast. Investors feared the ANC would seize mines and banks. The currency collapsed. Mandela's government faced a brutal choice: break up white economic power and risk an immediate economic crisis, or keep the old economic structure in place and try to grow the country out of poverty over time.
+This was one of the first of many issues plaguing the new government. In the early 1990s, money was leaving the country fast. Investors feared the ANC would seize mines and banks. These fears caused the currency to collapse. Mandela's government faced a brutal choice:
 
-They chose to keep the structure.
+Option A: either break up white economic power and risk an immediate economic crisis, or
+
+Option B: keep the old economic structure in place and try to grow the country out of poverty over time.
+
+So they chose option B...
 
 [SHOW: document — "RDP, 1994"]
 
@@ -88,13 +94,13 @@ They still had a plan to spread opportunity. It was called the RDP — the Recon
 
 [SHOW: timeline — 1996. RDP crossed out → GEAR appears]
 
-In 1996, that plan was dropped.
+Two years later, they dropped it. Investors were still pulling money out of the country. The rand was under pressure. And South Africa's fifty largest corporations had just published a plan called "Growth for All" — budget cuts, privatisation, and market-led growth instead of heavy state spending. The new government needed calm markets, so the redistributive plan went.
 
-It was replaced by a new policy called GEAR — Growth, Employment and Redistribution. Where the RDP relied on the state to redistribute wealth, GEAR relied on budget cuts, privatisation, and market-led growth. South Africa's fifty largest corporations had pushed for exactly that approach in a document called "Growth for All," and the government adopted most of it.
+It was replaced by GEAR — Growth, Employment and Redistribution. Where the RDP used the state to spread wealth, GEAR relied on budget cuts, privatisation, and trusting growth to reach the poorest over time.
 
-The ANC had won political power. The corporations had kept their property.
+So by 1996, the trade-off was settled in plain terms. The ANC had political power — everyone could vote, with independent courts and a free press. But the firms that already owned the mines, the banks, and most of the land kept their property, and got the economic rules they had pushed for.
 
-That decision in 1996 is the fork in the road. Most of what follows — good and bad — branches from there.
+Change economic policy in 1996, and most of the story since follows from that moment — the houses and grants on one side, the land, the jobs crisis, and the scandals on the other.
 
 ---
 
@@ -102,11 +108,11 @@ That decision in 1996 is the fork in the road. Most of what follows — good and
 
 [SHOW: timeline — 1996–2007 highlighted. GDP line rising]
 
-From 1996 to 2007, the economy did grow — about four percent a year on average. Millions of Black South Africans got formal jobs for the first time. On the surface, the bet that growth would eventually reach everyone looked like it might work.
+From 1996 to 2007, the economy grew — about four percent a year on average. Millions of Black South Africans got formal jobs for the first time. On the surface, the bet that growth would eventually reach everyone looked like it might work.
 
 [SHOW: montage — houses, water pipes, classrooms]
 
-The government also delivered real improvements in this period. Millions of houses were built. Running water and electricity reached communities that had never had them. A social grant system was created — today it supports about eighteen million people, roughly a third of the country. Without those grants, poverty would be far worse. That is a genuine achievement.
+The government also delivered real improvements in this period. Millions of houses were built. Running water and electricity reached communities that had never had them. A social grant system was created and today it supports about eighteen million people, roughly a third of the country. Without those grants, poverty would be far worse. That is a genuine achievement.
 
 [SHOW: inequality dial — 0.63. World map — SA darkest]
 
@@ -190,7 +196,7 @@ In May 2024, the ANC received only forty percent of the vote — the first time 
 
 [SHOW: split card — electricity fixed / inequality, land, youth jobs unchanged]
 
-That matters. But the structural problems — who owns the land, who owns the economy, whether young people can find work — have not moved.
+That being said, the structural problems around who owns the land, who owns the economy, whether young people can find work. Yeah, those have not moved.
 
 [SHOW: unemployment dials — 33% official / 61% ages 15–24. Icon grid — 6 in 10 greyed]
 
@@ -214,21 +220,52 @@ The bottom layer is the decision made in the mid-1990s: political freedom withou
 
 The middle layer is what that produced over two decades — a state that became the main route to wealth, institutions run for political loyalty instead of competence, a power grid that crumbled, and youth unemployment that kept climbing no matter who was president.
 
-The top layer is the Zuma-era looting — real, criminal, and documented. It made everything worse, faster. It is not the root cause.
+The top layer is the Zuma-era looting — real, criminal, and documented. It made everything worse, faster, but it was not where the crisis began.
 
 [SHOW: title card — "Political freedom ≠ Economic freedom"]
 
 What we get wrong is treating that top layer as the whole story. South Africa has already tried the corruption fix: Zuma removed in 2018, a new coalition in 2024, the lights back on in 2025. Inequality is still the highest on earth. Six in ten young people still cannot find work. Land reform is still at eleven percent.
 
-So what has to change is not just cleaner government — though that matters. It is finishing the economic transition that was postponed in 1996.
+Cleaner government helps, but the real work is finishing the economic transition that was postponed in 1996.
 
-That means land and business ownership that actually shifts, not just targets on paper. It means state institutions that work for everyone, not only the connected. And it means growth that reaches the majority — because eighteen million people on grants keeps families alive, but it does not give a generation a future.
+Finishing that transition means ownership on the ground actually changing, state institutions that hire for competence instead of loyalty, and growth that reaches people who are not already connected to the party or the boardroom. Eighteen million people on grants keeps families alive, but a grant cannot be the only future offered to a generation.
+
+[SHOW: Abdullah on camera]
+	🎥  SELF
+
+[TH] I also want to be straight about why this is still so difficult in 2026, because none of this is a switch a president flips in one term.
+
+[VO] The 1996 bargain is still baked into how the economy runs. Most wealth and productive land sit where they did before democracy. Global investors still punish anything that looks like sudden expropriation. For millions of people, the state became the main route to a living, so cleaning up institutions means taking on patronage networks that took decades to build. After 2024, no single party runs the country alone, so serious reform has to be negotiated inside a coalition. And all of that is happening while one in three adults cannot find work and six in ten young people cannot — which makes every policy fight more desperate and more political.
+
+[SHOW: data card — "Why change is slow" + five short labels: locked ownership / capital markets / patronage state / coalition politics / unemployment crisis]
+	🎨  CUSTOM
+
+[TH] That is a brutal hand to play. It does not excuse thirty years of missed targets on land and jobs. But it is why working electricity and a few corruption convictions were never going to finish the job.
+
+[VO] So what can South Africans actually work toward, in concrete terms?
+
+[SHOW: data card — "What people can push for" numbered list]
+	🎨  CUSTOM
+
+[VO] One place to start is the 2024 coalition, because no party governs alone anymore. Voters, unions, faith groups, and community organisations can ask parties to report on a few plain numbers every year: how much land actually changed hands, whether youth unemployment moved, whether major state contracts were published before they were signed, and whether companies like Eskom brought in people who could run them.
+
+Courts, journalists, and watchdogs like the Public Protector still have teeth when they are used. The Zondo Commission proved that scrutiny can force consequences. The useful work now is to connect each new scandal to a rule change — open procurement, fewer politically loyal appointments, real transparency at state companies — instead of treating one arrest as the finish line.
+
+Government procurement is already one of the biggest flows of money in the economy. When bidding is open and audits are enforced, jobs and contracts can open up for people who never had a path through the private sector.
+
+On land, the gap between eleven percent and the old thirty percent target was never only about bad intentions. It is slow bureaucracy, weak support for new farmers, and fear of crashing property markets. Progress shows up when transfers speed up lawfully, when new farmers get capital and training after they receive land, and when the public can see hectares and harvests instead of another deadline on a podium.
+
+Listed firms still concentrate ownership on the Johannesburg Stock Exchange. Pension funds, unions, workers, and communities can push those companies on who actually owns shares and who gets hired, rather than another empowerment report that changes little on the ground.
+
+[TH] National leadership still matters. But South Africans have already changed a country once by refusing to accept the old system. The second fight is slower because you are moving ownership and power, not repealing one law in a single election. It is still a fight people can organise around — with contracts, court cases, published tenders, and land that actually changes hands.
 
 [SHOW: 1994 queue footage returns]
 
-The people in those 1994 queues were not voting only for the right to vote. They were voting for a country where their children could have what they never did — jobs, land, dignity. They got political freedom.
+The people in those 1994 queues were not voting only for the right to vote. They were voting for a country where their children could have what they never did — jobs, land, dignity.
 
-They are still waiting for the rest.
+They won the first revolution at the ballot box — a constitution, independent courts, and the right to stand in line after a lifetime of being told they did not count, and finally to be counted.
+
+The second revolution is still economic: who owns the land, who owns the economy, and whether a young person can build a life without leaving their dignity at the gate. That fight was postponed in 1996, not lost, and what was postponed can still be finished.
 
 [SHOW: Mandela inauguration]
 
@@ -240,11 +277,21 @@ On his inauguration day, Nelson Mandela said:
 
 [PAUSE]
 
-He was talking about more than apartheid. He was talking about making freedom real in people's daily lives — in whether they can feed their families and find work.
+He was burying apartheid, but he was also drawing a line in the sand for every government that came after: freedom has to show up in ordinary life — in the wage, the roof over your head, the future your child is allowed to imagine.
 
 [SHOW: Sandton–Alexandra aerial — hold 8 seconds]
 
-South Africa is still working out how to do that. And any country that changes its politics without changing its economics should pay close attention.
+This country has already done the impossible once — it broke apartheid without civil war, built institutions that still stand when scandals hit, and went back to the polls in 2024 when the old party finally bled support. South Africans have not run out of fight yet.
+
+When you look at this image, you are seeing one of Africa's richest districts and one of its poorest townships in the same city, five hundred metres apart, thirty years after everyone voted.
+
+After thirty years, a gap like that is still a policy choice — and it will only stay there if the people in power keep treating the rest of the promise as optional.
+
+The hope from 1994 is still alive in every house built, every grant that keeps a family alive tonight, and in every young person who still refuses to accept that six in ten will never find work and call that normal.
+
+South Africa has had enough miracle headlines. The country still needs political freedom and economic freedom in the same place, five hundred metres apart, with the rest of the promise actually delivered.
+
+What began in 1994 was never meant to end at the ballot box alone, and that race is still running — for South Africa, and for any country that has raised a flag without changing who owns the ground beneath it.
 
 Thank you for watching. If this helped you see the story differently, subscribe — it genuinely helps the channel. I'll see you in the next one.
 
@@ -260,7 +307,9 @@ DIRECTOR'S NOTES
 - Each section opens with where we are on the timeline and what the viewer needs to know
 - Cut ~600 words: merged Sections 4–5, dropped US comparison, shortened GEAR/RDP detail, one unemployment pass
 
-**Runtime:** ~2,400 words ≈ 15–16 min
+**Abdullah Word edit (May 2026):** Spoken pivots (*right?*, *If only it was that simple*); Section 1 two-transitions rewrite + Option A/B; *economy grew* not *did grow*; *That being said… Yeah, those have not moved* — see `AbdullahHassan/edit-patterns-from-sa-script.md`
+
+**Runtime:** ~2,222 words ≈ 15 min
 
 **If cutting further:** Trim Section 2 grant/house montage; shorten Section 5 three-layer recap to two sentences per layer
 
