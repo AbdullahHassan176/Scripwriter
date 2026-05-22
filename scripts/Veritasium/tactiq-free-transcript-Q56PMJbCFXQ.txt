@@ -1,0 +1,788 @@
+# tactiq.io free youtube transcript
+# The Most Dangerous Building in Manhattan
+# https://www.youtube.com/watch/Q56PMJbCFXQ
+
+00:00:00.180 This is Citicorp Center.
+00:00:02.070 In the summer of 1978,
+00:00:03.750 it had been open for less than a year
+00:00:05.520 when its structuralengineer, Bill LeMessurier,
+00:00:07.680 made a terrifying discovery.
+00:00:10.020 His cutting edge skyscraper,an engineering marvel
+00:00:13.095 had a fatal flaw.
+00:00:14.850 Winds of just 110 kilometers per hour
+00:00:17.640 could cause it to collapsein the middle of Manhattan,
+00:00:21.120 potentially killing thousands.
+00:00:23.190 Over 200,000 people lived and worked
+00:00:25.680 in the surrounding area,
+00:00:27.330 and hurricane season was only weeks away.
+00:00:30.750 Here I am, the only manin the world who knew this.
+00:00:34.803 This thing is in real trouble.
+00:00:37.500 LeMessurierfaced a stark choice.
+00:00:39.720 He could stay silentand hope for the best,
+00:00:42.450 or he could try to fix it
+00:00:44.250 and risk professional ruin and mass panic.
+00:00:47.370 But Citicorp Center had a 100% probability
+00:00:50.550 of total collapse bythe end of the century.
+00:00:53.310 How could he save New Yorkfrom a near certain disaster?
+00:00:56.910 And how was this allowedin the first place?
+00:01:00.030 Veritasium producer andengineer, Henry van Dyck,
+00:01:02.400 traveled to New Yorkto investigate further.
+00:01:05.640 So in the 1960s, thefinancial giant, Citicorp,
+00:01:08.370 was trying to build a newheadquarters in Manhattan.
+00:01:10.710 So just down the street fromtheir original headquarters
+00:01:13.080 was this entire city block,which was up for sale.
+00:01:16.170 Well, everything except forthis church, Saint Peter's.
+00:01:19.740 So Citicorp came to thepastor, Ralph Peterson,
+00:01:21.840 and asked, "What's it gonnatake for you guys to leave?"
+00:01:24.180 And he came back andsaid, "We're not leaving.
+00:01:26.970 Anything that Citicorp builds
+00:01:28.890 has to involve the church as part of it."
+00:01:30.630 What the pastor wanted was for the church
+00:01:32.520 to have its own separate identity.
+00:01:34.200 So eventually they agreed on two things.
+00:01:36.600 One was to replace thisold crumbling gothic church
+00:01:39.660 with a brand new one, whichyou see in front of you.
+00:01:42.060 And the second thing was that the church
+00:01:43.770 had to be physicallydistinct from the new tower.
+00:01:46.890 In other words, it had tobe completely independent.
+00:01:49.800 And again, most importantly,two thirds of the space
+00:01:54.840 above the church had to befree and clear, had to be open.
+00:02:00.450 Citicorp thenhired architect Hugh Stubbins
+00:02:02.790 to design the tower and the church
+00:02:04.860 and Bill LeMessurier asthe structural engineer,
+00:02:08.160 Stubbins explained theconstraints they faced.
+00:02:10.560 The church needed to bein the exact same spot
+00:02:12.990 and they needed to buildthe tower around it.
+00:02:15.270 If they were to maximize thefloor area, they would have to
+00:02:17.550 notch out one corner ofthe tower for the church.
+00:02:20.670 LeMessurier agreed that could work,
+00:02:22.860 but why not notch two, three,or even all four corners,
+00:02:27.240 essentially constructingthe skyscraper on stilts.
+00:02:31.140 So it's probably thefirst time in history
+00:02:33.180 that an engineer has cometo an architect and said,
+00:02:35.137 "Let's make our job harder for us."
+00:02:38.220 The stilts wouldserve two main purposes.
+00:02:40.740 First, they would needto support at least half
+00:02:43.020 of the building's gravity load.
+00:02:44.700 The rest would be held upby a larger central column.
+00:02:48.210 Second, they would needto withstand the load
+00:02:50.550 due to high winds.
+00:02:52.140 But unlike an ordinary structure,
+00:02:54.330 the stilts wouldn't be at the corners.
+00:02:56.790 They would be at the center of each face.
+00:02:59.730 Imagine a chair, andinstead of the columns
+00:03:03.450 or the supports on eachcorner of the chair,
+00:03:07.380 it's at the midpoint of each side.
+00:03:10.440 Obviously, it's not an ideal situation.
+00:03:13.380 It doesn't seem very stable.
+00:03:14.820 Exactly. So it createdan engineering problem.
+00:03:19.650 As LeMessurierconsidered the problem,
+00:03:21.450 he suddenly had a flash of inspiration.
+00:03:24.270 He grabbed a napkin andsketched out an idea.
+00:03:26.970 He drew six layers
+00:03:28.290 of diagonal braces upeach face of the tower.
+00:03:31.590 These chevrons would transferthe forces to the middle
+00:03:34.680 of each face and down to the stilts.
+00:03:38.550 Now we have to see thegravity loads, right?
+00:03:40.770 But now here's the trick.
+00:03:41.940 The gravity loads arecoming down the column.
+00:03:44.520 When they get to the brace,
+00:03:46.050 they need to find theirway into the brace.
+00:03:49.620 Okay.So what you do
+00:03:50.910 is you take out that column right there.
+00:03:52.860 There is no way that load can jump over
+00:03:55.890 and go to that column.
+00:03:57.030 And now they're comingdown into the braces.
+00:03:58.770 They get down to the bottom here,
+00:04:00.480 and now they continue to go down.
+00:04:02.310 You take that column out,
+00:04:03.570 it has nowhere to goexcept into the brace.
+00:04:06.660 By removing the columns at the top
+00:04:08.370 and middle of each chevron,
+00:04:10.140 every tier acted as a separate unit.
+00:04:12.930 They were only connected to the braces
+00:04:14.880 and through the central core.
+00:04:16.769 So every eight stories,half of the gravity load
+00:04:19.740 would be forced through the chevrons
+00:04:21.360 to the midface columns,leading down to the stilts.
+00:04:24.720 Can you tell me how bigof a new idea was this?
+00:04:28.920 Yeah, well, this particularsystem was entirely unique,
+00:04:32.430 driven by the placement of the columns,
+00:04:35.370 driven by the conditions of the building.
+00:04:37.860 As satisfied the chevronscould transfer the gravity load,
+00:04:40.800 LeMessurier turned hisattention to the second problem,
+00:04:43.620 the wind.
+00:04:45.420 When wind hits the leftside of a normal building
+00:04:47.610 with corner columns, theentire frame deforms like this.
+00:04:51.360 So to reduce this deformation,
+00:04:53.130 we could strengthen thesejoints, but there's a better way
+00:04:57.300 because beams and columns aremuch stronger in compression
+00:05:00.270 or tension than theyare with bending loads.
+00:05:02.670 So if we add diagonal bracing,
+00:05:04.620 they can carry this horizontal load.
+00:05:07.290 The beams sort of act like springs,
+00:05:09.510 and when they're compressed,they push on the joints.
+00:05:12.090 When they're stretched, they pull inwards.
+00:05:14.820 With braces like these,
+00:05:16.170 the wind load compresses this diagonal
+00:05:18.120 and stretches this one.
+00:05:19.830 The left column pulls down in tension
+00:05:21.960 and the right columnpushes up in compression.
+00:05:24.720 Where the braces meet,
+00:05:25.710 they both push thebottom beam to the right.
+00:05:28.380 This stretches the left sideand compresses the right one.
+00:05:32.070 But this floor is thetop of the next chevron,
+00:05:34.830 so this lower sectionis carrying the force
+00:05:37.080 from the layer above it
+00:05:38.370 and the normal wind load from the side.
+00:05:40.470 And this keeps happening at every chevron
+00:05:43.050 so the wind load builds upas you go down the building.
+00:05:46.350 But Citicorp can't havecorner columns like this
+00:05:48.630 because of the gravity load.
+00:05:49.950 So in the wind, this entire triangle
+00:05:52.260 wants to rotate like this
+00:05:54.240 and to prevent that from happening,
+00:05:55.740 this chevron pulls down going into tension
+00:05:58.350 and the far chevronpushes up in compression.
+00:06:01.200 The top and bottom beams
+00:06:02.250 are again forced intocompression and tension.
+00:06:04.980 The wind load ends up wrappingaround the entire building.
+00:06:08.070 So every chevron worksto transfer the wind load
+00:06:10.620 to the section below.
+00:06:13.140 When we think about skyscrapers,
+00:06:14.220 like how big of a deal is wind?
+00:06:15.810 If we made a skyscraper here, you know,
+00:06:17.910 out of all these differentthings, you push with your phone,
+00:06:20.490 you get a certain amount of force,
+00:06:21.930 but then you push on my phone as well
+00:06:23.490 with a certain amount of force,
+00:06:24.323 but your phone is alsopushing on my phone.
+00:06:26.520 And so that's the shear in the building,
+00:06:28.500 what we call the building shear.
+00:06:30.000 It increases as you go down the building.
+00:06:32.220 You know, at the 10th floor,
+00:06:33.810 you may have a smaller forcethan at the 60th floor,
+00:06:36.360 but the total force of the 10th floor
+00:06:38.910 is like carrying everything above it.
+00:06:40.950 So it's much bigger than what'sgoing on on the 60th floor.
+00:06:44.550 So these chevrons were key to LeMessurier's design,
+00:06:47.804 but the braces were massive, almost 40 meters long end to end. 
+00:06:51.362 So even if you could fabricatea steel brace that long,
+00:06:55.380 there would be no way toget it through Manhattan.
+00:06:57.960 So instead it was sent in pieces
+00:07:00.300 to be welded together on site.
+00:07:03.930 The chevron bracing solved thewind and gravity load issues,
+00:07:07.530 but it also created a different problem.
+00:07:11.520 Because of the chevron bracing system,
+00:07:14.760 they were able to save alot of money and weight.
+00:07:18.630 It was a lighter constructthan most other buildings
+00:07:22.830 in New York, I think it was22 pounds a square foot,
+00:07:25.140 which is very light.
+00:07:27.270 Unfortunately, that madethe building swayable,
+00:07:31.230 it could move in the wind.
+00:07:32.670 That wasn't necessarily astructural problem, it was just,
+00:07:36.870 it could have beenuncomfortable for the patrons.
+00:07:41.490 The way they could solve this was just
+00:07:42.750 let's add more structural steeland make it a lot stiffer.
+00:07:45.300 But the solution thatLeMessurier came up with
+00:07:47.610 was far more elegant.
+00:07:50.100 He adopted something thathad been regularly used
+00:07:52.470 in bridges, power lines and ships,
+00:07:54.870 but never before in a building:a tuned mass damper or TMD.
+00:08:00.870 So we're here at Stark Laboratories,
+00:08:02.670 and I'm not with Iron Man,
+00:08:03.870 but instead the Columbia Space Initiative,
+00:08:06.030 the student team here oncampus who has helped us build
+00:08:08.790 this incredible tuned massdamper kind of system.
+00:08:12.690 We'll use this cart torepresent a building.
+00:08:15.390 By pulling it back and releasing it,
+00:08:17.100 we can excite its resonant frequency,
+00:08:19.860 And then we'll put on alittle pendulum, aluminum rod,
+00:08:23.700 and a mass at the bottom.
+00:08:26.280 As the building sways,
+00:08:27.450 it transfers some of itskinetic energy to the pendulum,
+00:08:30.420 which starts to swing.
+00:08:32.220 Then some of its energy isdissipated through friction
+00:08:35.159 at the hinge.
+00:08:36.480 The pendulum and the building oscillate
+00:08:38.429 out of phase from each other.
+00:08:39.840 So every time the buildingpulls the pendulum
+00:08:42.179 in a different direction,more energy is lost,
+00:08:45.150 significantly dampingthe sway of the tower.
+00:08:48.840 But this system needsto be carefully tuned
+00:08:51.030 so it has the same frequencyas the building itself
+00:08:53.550 and the right amount of friction.
+00:08:57.090 So first, the mass needsto be at least one to 5%
+00:09:00.377 of the building's weight to be effective.
+00:09:02.280 And we tune the frequency of the TMD
+00:09:04.530 by adjusting the length of the pendulum.
+00:09:06.870 I assume engineers domath around this thing,
+00:09:09.060 but we're just doing it by feel.
+00:09:10.691 (both laugh)
+00:09:12.000 Second, by looseningor tightening the bolt,
+00:09:14.640 we can tune the amount of damping.
+00:09:16.950 We need to dissipate more energyfrom friction at the hinge
+00:09:19.770 to stop the swaying faster.
+00:09:21.870 We just tighten the top bolt,
+00:09:23.280 make the whole system a little bit,
+00:09:25.082 you know, add a littlebit more resistance,
+00:09:26.640 and we'll see if we candampen it now further.
+00:09:29.897  
+00:09:32.520 Woohoo.Much different. Yeah.
+00:09:33.990 Yeah, that lookedgreat. That was so quick.
+00:09:36.060 Yeah, that was.
+00:09:37.440 It is cool when an experiment works.
+00:09:39.465 Does not always happen.
+00:09:42.660 There are manydifferent types of TMDs,
+00:09:44.730 like pendulums, liquid columns,and a large mass on springs.
+00:09:49.740 LeMessurier used thislast one in Citicorp.
+00:09:52.680 What you seeis a mass of concrete,
+00:09:54.960 which is 29 feet squareand about eight feet thick
+00:09:58.350 and weighs 400 tons.
+00:10:01.470 It was installed on the top floor
+00:10:03.540 and it's affectionately knownas that great block of cheese.
+00:10:07.950 As Citicorp sways to one side,
+00:10:10.110 the block starts to movein the same direction.
+00:10:13.020 Some energy is dissipatedthrough separate viscous dampers.
+00:10:17.010 Citicorp's oscillations are damped
+00:10:18.600 through those energy lossesas the block oscillates
+00:10:21.420 out of phase to the building's motion.
+00:10:24.090 LeMessurier expected thedamper to reduce the amplitude
+00:10:26.910 of swaying by roughly 50%,
+00:10:29.130 and he saved around $4 million
+00:10:31.290 by not needing an additional2,800 tons of structural steel.
+00:10:36.240 With both the chevron bracing
+00:10:38.040 to channel forces to the stilts
+00:10:39.600 and the tuned mass damper to reduce sway,
+00:10:42.150 LeMessurier was convinced
+00:10:43.440 the building was structurally sound.
+00:10:46.290 On Citicorp Center's opening day in 1977,
+00:10:49.080 it was the 11th tallestbuilding in the world.
+00:10:52.200 It was described by the press
+00:10:53.580 as an acrobatic act of architecture.
+00:10:56.760 Later, the AmericanInstitute of Architects
+00:10:59.130 even gave it an honor award,calling it a tour de force
+00:11:02.700 as a stylish silhouette in the skyline,
+00:11:05.040 and, for the pedestrian, ahovering cantilevered hulk.
+00:11:09.000 So then, it's goingswimmingly for years, right?
+00:11:13.230 Well, it's goingswimmingly for about a year.
+00:11:18.060 The first hint oftrouble came in May, 1978.
+00:11:20.880 LeMessurier was talkingwith another client
+00:11:23.400 about welding similar chevron braces.
+00:11:26.100 The architect and thesteel fabricator said,
+00:11:28.897 "Tell me, how did thosewelded braces work out?"
+00:11:32.580 Seems like overkill, they thought.
+00:11:34.500 And LeMessurier says,"Yeah, they were fine.
+00:11:36.630 Let me call my guys inNew York and I'll check."
+00:11:39.150 So he put the call intohis office in New York
+00:11:42.690 and they say, "Oh, Bill, didn't you know?
+00:11:45.450 We bolted those connections."
+00:11:47.970 The contractorhad suggested saving
+00:11:49.980 a quarter of a milliondollars by using bolts
+00:11:52.230 to attach the braces instead of welds.
+00:11:54.480 And LeMessurier's firm had agreed.
+00:11:57.240 There is nothing thatsays a bolt is inherently
+00:11:59.640 worse or better than a weld.
+00:12:01.230 You use them in different circumstances
+00:12:03.060 for different reasons,
+00:12:04.080 but it's a little surprising to find out,
+00:12:07.020 I thought the connectionsin this tour de force,
+00:12:09.570 one of a kind skyscraper, you know,
+00:12:11.520 that's on the cutting edgeof structural engineering,
+00:12:13.920 was connected one way,
+00:12:15.450 but apparently it's connected another way.
+00:12:17.640 But if the braces are going like this,
+00:12:20.160 where are they gonna go?
+00:12:21.845 You know, you only need the weld
+00:12:23.190 when the braces are going like this.
+00:12:25.320 Since the gravity load
+00:12:26.370 was always compressing thebraces, some of the chevrons
+00:12:29.280 only went into tensionunder very high winds.
+00:12:32.100 And even then, it wasn't a lot of tension.
+00:12:35.220 LeMessurier trusted that his team
+00:12:36.690 did the right calculations,and the substitution was fine,
+00:12:40.050 logical, even.
+00:12:41.203 (phone ringing)
+00:12:43.260 But around a month later,
+00:12:44.310 LeMessurier got a phonecall from a student
+00:12:45.960 who wanted to ask some questionsabout the Citicorp Center.
+00:12:48.840 And his teacher said to him,
+00:12:50.437 "That engineer didn't know what he's doing
+00:12:52.050 and nobody should put thecolumns in the middle.
+00:12:54.480 They should put 'em in thecorners. That's silly."
+00:12:57.540 And I told the student, I said,
+00:12:59.137 "Well, you're a professor's full of it.
+00:13:01.710 He doesn't understand theproblem we had to solve."
+00:13:04.677 LeMessurier wentthrough the calculations
+00:13:06.390 with the student
+00:13:07.223 to reassure him the stiltswere in the right place.
+00:13:09.990 But the interesting thingis, is in that moment,
+00:13:12.540 he's thinking about windloads from all directions.
+00:13:17.700 You know, late spring,early summer of 1978,
+00:13:20.250 Bill LeMessurier is workingon the back of a Hilton Hotel
+00:13:23.100 that, in plan, forms atriangle, not a rectangle.
+00:13:27.330 Now you got a triangle. What'syour orthogonal direction?
+00:13:31.140 You just have to give up and say,
+00:13:33.217 "We're gonna analyze itfrom every direction."
+00:13:35.640 That's going on the momentthat Bill LeMessurier
+00:13:38.490 gets this phone call.
+00:13:40.410 Then I called him backand pointed it out to him
+00:13:42.510 that there's some peculiarthings about this building.
+00:13:44.880 The worst loading casewas not the diagonal,
+00:13:47.160 but it was the ordinary windthat everybody thinks about.
+00:13:49.800 The wind pushes straight on the building.
+00:13:51.330 That was the critical case.
+00:13:52.980 He said, you know what,
+00:13:53.820 I've been getting all thesecalls from all these people.
+00:13:56.160 I'm gonna sit down and explain this thing.
+00:13:59.700 He decided to double check
+00:14:00.810 what happens to thebuilding if wind is hitting
+00:14:02.940 a corner of the building, notstraight on one of the faces.
+00:14:06.510 These are also known as quartering winds.
+00:14:09.150 So he split the wind intoits perpendicular components.
+00:14:12.150 So the west side and northside are hit by the force
+00:14:15.420 divided by the square root of two.
+00:14:17.280 He computed the forces foreach, as we did before,
+00:14:20.130 and summed up the result,
+00:14:21.960 but then he noticed something strange.
+00:14:24.810 Then now welook at the diagonals,
+00:14:27.000 the stresses in half of them vanish,
+00:14:30.258 and in the other half, double.
+00:14:32.850 Since the force on each side
+00:14:34.500 was F over the square root of two,
+00:14:36.600 these beams get double that.
+00:14:38.790 Compared to LeMessurier calculations
+00:14:40.320 for the perpendicular wind load,
+00:14:41.850 the forces here were 40% higher.
+00:14:45.360 So 1.4 by itself is notenough to wreck havoc.
+00:14:50.820 Okay? It may be, but it may not be.
+00:14:53.160 Okay.So then the question is,
+00:14:54.570 well, what happens?
+00:14:57.030 This increase inforces wouldn't have mattered
+00:14:59.400 in the original design
+00:15:00.600 since the chevrons werefully welded together.
+00:15:03.540 But that wasn't the case anymore.
+00:15:05.730 LeMessurier rememberedhis earlier phone call.
+00:15:08.310 The welds holding the chevrons together
+00:15:10.470 were swapped for bolts.
+00:15:12.360 How did his team calculatethe number of bolts per joint?
+00:15:16.170 Did they consider quartering winds?
+00:15:18.840 It would be a miracle ifthey ever thought that through,
+00:15:22.320 to think about the diagonal wind.
+00:15:23.910 It just wasn't in the nature of anybody.
+00:15:26.910 So I had a bit of a worry.
+00:15:29.940 I didn't panic right away,
+00:15:31.620 but I decided to go downto New York to my office.
+00:15:34.290 LeMessurierrequested the building diagrams
+00:15:36.300 and poured over all of the connections.
+00:15:38.820 He looked at how his firmcalculated the number of bolts.
+00:15:42.150 There was no question, theyhad taken straight on wind,
+00:15:44.820 not the diagonal wind.
+00:15:46.380 Although wind speed is highest
+00:15:47.820 at the top of the tower,
+00:15:48.870 the wind shear builds up as you go lower.
+00:15:51.780 Looking at this brace aroundhalfway down the tower,
+00:15:54.600 the perpendicular wind load is 454 tons.
+00:15:58.740 Because of the skipped columns,
+00:16:00.510 all of these braces carrythe same gravity load,
+00:16:03.120 just 340 tons, from theeight stories above.
+00:16:07.140 The gravity load buildsup in the center column,
+00:16:09.780 not in the braces,
+00:16:11.430 which means there are 114tons of tension in this brace.
+00:16:16.290 If each bolt can withstand around 28 tons,
+00:16:19.350 that would require four bolts.
+00:16:21.900 The original calculations saidjust four bolts were enough.
+00:16:25.680 So that was all they used.
+00:16:28.140 But when he added quartering winds,
+00:16:30.060 LeMessurier's calculationsshowed there were some braces
+00:16:32.640 that needed far more bolts.
+00:16:34.920 At this particular part of the building,
+00:16:37.500 which I can show you on mycalculations is right about here,
+00:16:42.060 and Bill LeMessurier talkedabout the 30th floor,
+00:16:44.160 and I always wondered whywas it the 30th floor?
+00:16:47.040 The 40% increasefrom quartering winds
+00:16:49.530 means that this brace hasa wind load of 635 tons.
+00:16:53.670 The tension in the brace is now 295 tons,
+00:16:57.480 over double the original calculation.
+00:17:00.510 So these braces actually needaround 10 bolts, not four.
+00:17:04.650 But then it turned outthey had done something else.
+00:17:07.589 LeMessurier'sfirm considered the braces
+00:17:09.180 to be minor structural elements.
+00:17:11.160 They didn't use the right factor of safety
+00:17:12.990 to calculate the number of bolts.
+00:17:14.819 They should have overestimatedthe tension in the brace
+00:17:17.130 by underestimating the gravity load.
+00:17:19.410 With only 75% of the gravity load,
+00:17:22.170 the tension in the beam is now 380 tons.
+00:17:25.710 So they really needed 14bolts, but they used only four.
+00:17:30.750 I thought thisthing is in real trouble.
+00:17:34.230 Imagine, you know,
+00:17:35.250 what Bill LeMessurier wasthinking at that moment.
+00:17:37.380 You see that number and you're like,
+00:17:40.267 "Oh my God, this is serious.It's really serious."
+00:17:43.460 LeMessurierwas starting to panic.
+00:17:46.290 He didn't wanna rush to conclusions,
+00:17:48.210 so he flew to Canada tocheck his calculations
+00:17:50.490 with Alan Davenport at theBoundary Layer Wind Tunnel.
+00:17:53.790 After running more tests,
+00:17:54.870 they found that it was evenworse than LeMessurier thought.
+00:17:59.280 The estimated 40% increase in stress
+00:18:01.680 was technically correct,
+00:18:03.120 but LeMessurier made his calculations
+00:18:04.770 assuming the building wasn't moving.
+00:18:06.780 This is called static conditions.
+00:18:09.060 But the wind tunnel gaveLeMessurier a dynamic analysis,
+00:18:12.360 how the forces change whenthe building is moving around.
+00:18:15.780 To LeMessurier's horror,the wind tunnel analysis
+00:18:18.660 showed that the stresses could increase
+00:18:20.490 up to 60% more thanoriginally anticipated.
+00:18:25.380 LeMessurier squirreledhimself away in Maine
+00:18:27.390 and worked through the datafrom the wind tunnel again,
+00:18:29.760 joint by joint on every floor.
+00:18:32.040 The weakest joints were atthe building's 30th floor.
+00:18:34.950 If those failed, theentire building would fall.
+00:18:39.360 But what were the chancesthat a storm strong enough
+00:18:41.790 to topple the building wouldpass through New York City?
+00:18:45.780 LeMessurier dug through thehistorical weather reports.
+00:18:49.110 On average, a storm strongenough to tear the building apart
+00:18:52.260 occurred every 67 years.
+00:18:54.810 But only if the tunedmass damper was working.
+00:18:57.570 If a storm knocked out power,
+00:18:59.370 then even 110 kilometer per hour winds
+00:19:02.430 blowing for just five minuteswould collapse the building.
+00:19:06.300 In any given year,
+00:19:07.590 the chance of a storm thatsize happening was one in 16.
+00:19:11.970 Just one year beforeCiticorp was completed,
+00:19:14.430 wind gusts of 110 kilometers per hour
+00:19:17.010 roared through New York City
+00:19:18.600 as Hurricane Belle passed through.
+00:19:22.140 What do you think this momentwas like for LeMessurier,
+00:19:24.480 when he ran these calculations, like-
+00:19:26.010 Oh, it must have been devastating.
+00:19:28.410 I mean, it just must havebeen, I can't imagine the fear.
+00:19:32.100 I can't imagine the feelings.
+00:19:33.720 I mean, like, it just must have been truly
+00:19:39.420 a moment he never thoughthe would live through.
+00:19:42.030 That storm was gonnafall down in my lifetime.
+00:19:45.540 And since this was July,
+00:19:48.420 it could fall down the summer of 1978.
+00:19:51.960 LeMessurier needed todecide and decide fast.
+00:19:54.750 But revealing this mistakecould mean lawsuits,
+00:19:57.180 bankruptcy and professional ruin.
+00:19:59.250 He could stay silent,
+00:20:00.480 only Davenport knew and hewouldn't reveal anything,
+00:20:03.510 or he could entirely disappear.
+00:20:05.910 In a later interview headmitted, "I did say to myself,
+00:20:08.700 I could drive down the Maine Turnpike
+00:20:10.620 at a hundred miles an hour
+00:20:11.700 and deliberately driveinto a bridge abutment.
+00:20:14.340 That would be the end andall of this would go away.
+00:20:17.520 I thought about that."
+00:20:20.850 But there was a 1 in 16 chanceof collapse that very fall.
+00:20:25.650 With thousands of lives at risk,
+00:20:27.930 there was never anyother choice but to act.
+00:20:31.770 After speaking to a few lawyers
+00:20:33.330 and other engineering experts,
+00:20:34.830 LeMessurier told the architect,Stubbins, and together
+00:20:37.830 they informed Citicorp'schairman, Walter Wriston.
+00:20:41.070 Within hours of that meeting,
+00:20:42.450 LeMessurier acquired emergency generators
+00:20:44.520 for the tuned mass damper.
+00:20:45.990 The TMD was originallydesigned to stabilize
+00:20:48.480 any swaying for comfort,but now it became the crutch
+00:20:51.690 that the tower leaned on.
+00:20:53.430 LeMessurier pinned all his hopes on it.
+00:20:55.860 He called the confidentialrepair plan Project Pandora,
+00:20:59.910 but that sounded ominous,
+00:21:01.770 so he came up with theSpecial Engineering Review
+00:21:04.890 of Events Nobody Envisioned,or Project Serene for short.
+00:21:10.170 Each night, welderswould enter the building
+00:21:12.210 after everyone left,rip off the sheet rock
+00:21:14.610 around the chevron beams,
+00:21:15.870 and then weld two five-centimeter thick,
+00:21:18.450 two-meter long steel plates on each joint.
+00:21:21.060 Like Band-Aids, literally Band-Aids,
+00:21:23.580 on both sides of these joints.
+00:21:25.350 After, they'd replaced the wall
+00:21:26.940 and clean everything upbefore the office workers
+00:21:29.310 came back the next morning,
+00:21:31.320 They needed to weld over 200 joints
+00:21:34.260 and LeMessurier ranked them by importance,
+00:21:36.180 starting with the ones on the 30th floor.
+00:21:38.790 But the repairs wouldn't be completed
+00:21:40.410 before hurricane season.
+00:21:41.970 So Citicorp worked with the Red Cross
+00:21:43.920 to develop a 10 block evacuation plan.
+00:21:46.980 Like, how many peoplewere at risk in the building
+00:21:49.080 and if it fell, would itaffect other buildings?
+00:21:51.030 Like, were there chances of it
+00:21:52.500 leading to something more disastrous?
+00:21:54.180 Absolutely, this would have toppled
+00:21:57.540 and it would've toppledinto another building,
+00:22:00.330 which would've toppledinto another building,
+00:22:02.910 which would've continueda horrific process.
+00:22:06.450 So it was untold what theultimate effects could have been.
+00:22:11.160 I mean, like,just the evacuation plans
+00:22:12.900 were how many people?
+00:22:14.340 Thousands, the buildingitself housed thousands
+00:22:17.250 and then the residents and the businesses
+00:22:20.310 surrounding the building,it was into the thousands.
+00:22:23.940 Despite the risk,
+00:22:25.140 they decided not to tell the public
+00:22:26.910 or even the officeworkers in the building.
+00:22:29.310 No one wanted a mass panic.
+00:22:31.590 Instead, they fitted strain gauges
+00:22:33.540 on important structural members.
+00:22:35.670 The gauges monitored theskyscrapers every bend and twist
+00:22:38.880 from a comm center eight blocks away.
+00:22:41.640 At least that would givethem a little bit of warning.
+00:22:44.820 But this plan required new telephone lines,
+00:22:46.680 and the phone company wouldn't get around to doing this
+00:22:48.735 for months.
+00:22:50.040 So Citicorp's chairman immediately called AT&T's president
+00:22:53.040 and the lines wereinstalled the next morning.
+00:22:55.200 Now you might not be able to install
+00:22:57.712 emergency telephone lines at a whim,
+00:22:59.463 but you can still stayconnected no matter what.
+00:23:01.382 (phone ringing)
+00:23:05.010 It's probably not that important.
+00:23:06.630 Henry, can you hear me? Hello!
+00:23:10.098 Team Veritasium travels allover the globe for our videos
+00:23:12.850 We traveled here to New Yorkto visit the Citicorp Center,
+00:23:15.352 and there's one really annoying problem.
+00:23:17.688 It's hard to stay connectedwith the rest of the team
+00:23:19.564 while we're on site.
+00:23:20.815 We either have to payridiculous roaming charges,
+00:23:22.692 find a local SIM card andhope it actually works,
+00:23:25.027 or search around for public Wi-Fi
+00:23:26.695 that might not be the most secure.
+00:23:28.447 That's not something wewanna be dealing with
+00:23:29.948 while making a video.
+00:23:31.241 So Saily makes it incrediblyeasy and affordable
+00:23:33.868 to stay connected while abroad.
+00:23:35.537 Download it once and useit in over 180 countries.
+00:23:37.530 You choose how much datayou want and for how long.
+00:23:41.041 It's much cheaper than roamingand super quick to set up.
+00:23:43.919 I just select the country and plan,
+00:23:45.462 then activate the e-SIM beforeI take off and I'm done.
+00:23:47.910 Then when I land, I'llautomatically connect
+00:23:50.883 to a local network with no hidden charges
+00:23:53.010 and be able to do the important things,
+00:23:54.261 like access maps, booka car or call your boss.
+00:23:57.514 So if you've got travel plans coming up,
+00:23:59.516 scan this QR code to download the app.
+00:24:01.685 Choose a plan in thecountry you're going to
+00:24:03.269 and, here's the important thing,
+00:24:04.896 use our code, Veritasium, at checkout
+00:24:06.814 to get an exclusive 15%off your first purchase.
+00:24:09.692 Again, check out with code, Veritasium,
+00:24:11.735 and get connected no matter where you are.
+00:24:13.737 Thank you Saily for sponsoring this video.
+00:24:15.363 And now back to Project Serene.
+00:24:16.513 (phone ringing)
+00:24:19.247 (sighs) I mean, should probably take this.
+00:24:22.125 (phone beeps)
+00:24:23.040 But even though LeMessurier
+00:24:25.205 tried to keep Project Serene under wraps,
+00:24:26.400 people started asking questions.
+00:24:29.280 On August 8th, Citicorpreleased a statement
+00:24:31.830 about the repairs.
+00:24:33.300 Now, we had to cook up aline of bull, I'll tell you.
+00:24:36.120 And white lies at thispoint are entirely moral.
+00:24:39.650 (class laughs)You don't wanna spread terror
+00:24:42.840 in the community to people thatdon't need to be terrorized.
+00:24:46.260 We were terrorized, noquestion about that.
+00:24:48.660 Severalnewspapers reported on it,
+00:24:50.730 but they didn't have the details.
+00:24:52.830 Then LeMessurier got a message.
+00:24:54.937 The New York Timeswas trying to reach him.
+00:24:57.210 If he didn't respond, theywould know something was up.
+00:25:02.280 So I mixed a martini for myself
+00:25:04.440 and it's one minute past six.
+00:25:06.810 I dialed The New York Times.
+00:25:08.610 I pick it up the phone,they pick up the phone,
+00:25:11.610 it's a tape recorder saying,
+00:25:13.327 The New York Times has goneon strike as of six o'clock.
+00:25:17.639 (class laughs)
+00:25:18.990 Not only did The NewYork Times go on strike,
+00:25:21.270 but all the newspapers inNew York went on strike
+00:25:24.690 until October.
+00:25:26.190 So we had a press blackout
+00:25:28.320 and that was the greatestthing that ever happened.
+00:25:30.240 (class laughs)
+00:25:32.880 The press was off their back
+00:25:34.560 and the weather was beautiful.
+00:25:36.060 The repair work continued smoothly.
+00:25:39.090 But late August brought thenews everyone had been dreading.
+00:25:42.960 Hurricane Ella startsbrewing in the Caribbean.
+00:25:47.280 And this is the one stormthat they're nervous about.
+00:25:52.080 The repairswere halfway done by now.
+00:25:55.410 I think it was a one in 200 year storm
+00:25:58.530 that it could withstand,
+00:26:00.060 but LeMessurier wasn't taking chances
+00:26:02.280 'cause he didn't know theintensity of the storm.
+00:26:04.350 And this was a strong storm.
+00:26:06.480 So there was, there was a chance.
+00:26:08.124 There was absolutely a chance
+00:26:09.617 and they had to prepare for that chance.
+00:26:11.557  
+00:26:14.010 By Friday, September 1st,
+00:26:15.660 Ella was making her way toward New York,
+00:26:17.580 with winds reaching 200kilometers per hour.
+00:26:20.760 City officials bracedto start the evacuation.
+00:26:23.520 Police would go door todoor to get everyone out
+00:26:25.680 within a 10 block radius.
+00:26:28.470 For 24 tense hours, Ellastalled around North Carolina.
+00:26:33.660 Like LeMessurier said,we were sweating blood.
+00:26:37.080 But sometime in the night,
+00:26:38.370 Hurricane Ella veered off intothe sea at the last minute.
+00:26:41.910 It intensified and hit Canada
+00:26:43.800 with peak winds of 225kilometers per hour.
+00:26:48.600 But Citicorp was safe.
+00:26:52.560 LeMessurier described thatnext morning in New York
+00:26:55.140 as the most beautiful daythat the world's ever seen.
+00:26:59.340 They completed the repairs in October,
+00:27:01.500 just six weeks afterLeMessurier told Citicorp.
+00:27:04.620 Now the building,according to LeMessurier,
+00:27:07.200 can withstand a one in 1000 storm.
+00:27:10.410 The repairs costbetween $4 and $5 million,
+00:27:13.750 but LeMessurier arguedthat Citicorp approved
+00:27:15.840 an earlier building designthat cost $5 to $6 million more,
+00:27:19.110 so they were willing to spend that much
+00:27:20.880 on the skyscraper anyway.
+00:27:24.720 And for almost two decades,
+00:27:26.220 the secret was confinedto a small inner circle.
+00:27:29.790 But in 1995, "The New Yorker"
+00:27:32.220 finally brought ProjectSerene into the light.
+00:27:35.340 Far from being vilified,
+00:27:36.720 LeMessurier was praised
+00:27:38.100 for owning up to his mistake
+00:27:39.120 and fixing the issue as soon as possible.
+00:27:42.045 After the article, NewYork updated the building code
+00:27:45.840 to require quartering wind calculations.
+00:27:47.842 And since thatfirst damper in Citicorp,
+00:27:49.718 TMDs have spread across the globe.
+00:27:52.804 allowing architects to pushskyscrapers taller and slimmer.
+00:27:55.432 It's in the first tallbuilding in the world
+00:27:58.434 ever built with mechanical helpto make the structure work.
+00:28:02.313 That's remarkable.
+00:28:03.522 Incidentally, that has been now copied
+00:28:05.190 a hundred times in Japan,this is ubiquitous,
+00:28:08.068 and when I go to Japan,I'm treated like a tin god
+00:28:10.570 'cause I'm the father ofthe tuned mass damper.
+00:28:12.530 I said, "Really?"
+00:28:14.010 Of the 20 tallestbuildings in the world,
+00:28:16.590 six include the tuned mass damper,
+00:28:18.060  and they're especially critical in typhoon or earthquake-prone regions.
+00:28:22.622 For example, Taipei 101 hasa massive 660 ton pendulum
+00:28:27.240 that stabilizes the building. It can withstand up to 200kilometer per hour winds
+00:28:32.339 and earthquakes with magnitudes over 6.8.
+00:28:35.926 But the legacy of this building
+00:28:37.552 is still steeped in controversy.
+00:28:39.887 First, who was the mysteriousstudent that started it all?
+00:28:43.849  I think it was spring of 1978. There's a student at Princeton,an undergraduate student
+00:28:51.606 by the name of Diane Hartley, and she's studying structural engineering.
+00:28:56.402 It was time for her toconsider a senior thesis,
+00:28:59.655 and then they decided that a study
+00:29:02.407 of the new CiticorpTower would be wonderful.
+00:29:05.577 It's a remarkable thesis.
+00:29:06.744 It contains a lot of theoriginal engineering calculations
+00:29:09.455 by the engineers.
+00:29:10.831 She's looking through the documentation,
+00:29:14.960 where did they consider quartering winds?
+00:29:17.629 And she's not seeing it"I must be wrong," she says.
+00:29:19.839 She's just an undergraduate student
+00:29:22.759 and you guys are award-winningstructural engineers.
+00:29:26.595 The engineer explains to Diane Hartley,
+00:29:29.473 quartering winds are nota factor in this building.
+00:29:33.560 So she's satisfied. Shegraduates, that's it.
+00:29:36.896 Doesn't think about it again.
+00:29:39.148 But a year after "TheNew Yorker" article,
+00:29:41.358 the BBC released adocumentary on the crisis.
+00:29:44.152 And so she, she was holding her baby
+00:29:47.030 and she turned on thetelevision, and lo and behold,
+00:29:51.200 she heard them reference aconversation with a student,
+00:29:56.455 an engineering student from New Jersey
+00:29:58.582 reaching out to LeMessurier.
+00:30:00.250 And she said, "I almostdropped my baby." 
+00:30:03.127 And then so she just assumedfor years afterwards,
+00:30:06.047 she assumed that it wasn't me
+00:30:08.507 because I didn't speak to LeMessurier.
+00:30:10.425 But then in 2003,her thesis advisor told Diane
+00:30:13.970 that he checked all theother New Jersey engineering
+00:30:16.306 and architecture programs, and no one else
+00:30:18.683 was working on a projectabout Citicorp in 1978.
+00:30:22.227 She was the only one.
+00:30:24.354 She never spoke toLeMessurier personally.
+00:30:26.857 She never claimed to speakto LeMessurier personally.
+00:30:29.192 The assumption was that eitherLeMessurier was mistaken
+00:30:33.404 and that it was DianeHartley who made the call,
+00:30:36.323 it was a female, or more likely
+00:30:38.825 that LeMessurier was basically tipped off
+00:30:42.037 by his New York engineers.
+00:30:44.080 Then, in 2011,
+00:30:45.790 a man named Lee DeCarolis came forward.
+00:30:48.792 And the phone call, as we understand it,
+00:30:50.586 came from a student
+00:30:51.461 at the New Jersey Institute of Technology.
+00:30:53.463 His name is Lee DeCarolis.
+00:30:55.006 He's not asking for money,
+00:30:56.508 he's not asking for fame or glory.
+00:30:58.801 He's just saying, "This is interesting.
+00:31:00.761 And I'm the guy who made this call."
+00:31:03.222 And he said, "Yeah,
+00:31:05.057 I had a conversationwith Bill LeMessurier."
+00:31:06.767 And he pretty much lined up
+00:31:07.267 with what LeMessurier himself said.
+00:31:09.269 Sadly, LeMessurierpassed away in 2007
+00:31:12.647 before he could confirmthe student's identity.
+00:31:16.859 Believe it or not, 40years later, there's still,
+00:31:19.486 I learned, a lot of rawfeeling still on this.
+00:31:23.239 People aren't anxious to talk about this,
+00:31:25.908 especially people thatwere involved in it,
+00:31:28.244 even people that weren't involved in it
+00:31:29.912 but were tangentially involved in it.
+00:31:33.290 We reached out to aLeMessurier Associates
+00:31:35.750 and they refused torespond to our request.
+00:31:36.960 You think that the namesakefor their company stood up
+00:31:41.172 and did the right thing,
+00:31:42.048 but I don't think they wannabe associated with mistakes.
+00:31:45.676 Their projectdescription for Citicorp
+00:31:47.594 doesn't even mention the repairs.
+00:31:49.304 The building was sold toBoston Properties in 2001,
+00:31:51.931 who renamed it 601 Lexington.
+00:31:55.351 They also didn't respondto our request for comment
+00:31:57.853 and refused to let usfilm inside the building.
+00:32:00.981 Further questions arosein 2021, with a new study
+00:32:04.693 from the National Instituteof Standards and Technology.
+00:32:07.195 They wanted to see if quarteringwinds were more demanding
+00:32:09.405 for a building like Citicorp,
+00:32:11.198 Although they did conclude
+00:32:12.408 that the pressure fromperpendicular winds was greater,
+00:32:15.118 their analysis didn't includeany internal structure
+00:32:18.121 specific to Citicorp.
+00:32:19.998 As for LeMessurier,the engineering field
+00:32:21.791 still regards his actions as upstanding.
+00:32:23.876 And the Citicorp case istaught all over the world
+00:32:25.920 as a case of good engineering ethics.
+00:32:27.880 In fact, in my ownengineering ethics course,
+00:32:29.589 I learned about the Citicorp building.
+00:32:31.341 And every structuralengineer experiences this.
+00:32:33.885 When you actually feel theweight of the responsibility,
+00:32:37.555 you're saying, "Based on my engineering,
+00:32:39.431 that building is gonna stand up."
+00:32:40.933 Nobody else worries about it.
+00:32:42.267 And so if you think aboutthe emotional pressure
+00:32:44.895 that Bill LeMessurier was under
+00:32:46.396 and then needing to come backand do something about it
+00:32:48.898 and to mobilize and to holdthat during this entire process,
+00:32:52.735 it's truly a remarkable story.
+00:32:55.487 I mean, I can't imagineit. I can't imagine it.
+00:32:59.032 I said, look, if you gota license from the state
+00:33:01.868 and a certification from university first,
+00:33:04.537 then now you're gonna use that license
+00:33:06.038 to hold yourself out as a professional,
+00:33:08.082 you have a responsibility beyond yourself.
+00:33:11.293 If you see somethingthat is a social risk,
+00:33:14.087 good heavens, this thingwould kill thousands,
+00:33:16.756 you must do something,you must do something.

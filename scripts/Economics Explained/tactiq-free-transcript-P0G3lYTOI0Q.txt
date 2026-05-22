@@ -1,0 +1,191 @@
+# tactiq.io free youtube transcript
+# How Has Brexit Been Going? | Economics Explained
+# https://www.youtube.com/watch/P0G3lYTOI0Q
+
+00:00:00.320 It was just over five years ago that the citizens of the UK  
+00:00:03.760 went to the polls to vote on whether or not to leave the European Union.
+00:00:07.760 A non-binding referendum which most onlookers saw as little more than an opportunity to  
+00:00:11.840 silence a vocal minority shocked the world when it came back in favor of the decision to leave.
+00:00:17.600 Four and a half years later after a long and drawn-out period of negotiations, the UK  
+00:00:22.320 finally left the EU, ending its 47 years of membership.
+00:00:26.320 At the time there were widespread concerns that this would prevent people from traveling back  
+00:00:30.480 and forth with the UK, it had the potential to shut down certain businesses especially  
+00:00:34.480 those catering to frequent travelers from the EU, and above all it threatened the living standards  
+00:00:39.520 of average brits who had benefited from EU membership whether they realized it or not.
+00:00:44.720 Of course, all of these concerns came true to an extent, but not necessarily because of Brexit,  
+00:00:50.960 but rather the global pandemic which hit  
+00:00:52.880 the country particularly hard during the lead up to the actual exit day.
+00:00:57.040 This has made it difficult to assess what hardships are being felt as a result of  
+00:01:00.480 Brexit and which hardships would have been felt anyway as a result of the pandemic.
+00:01:04.879 By the same logic and in the interest of fairness it makes it difficult to determine  
+00:01:08.400 if the promises made by Brexit supporters were founded in reality given that even  
+00:01:12.320 the best economic plans would be struggling in the global economic environment of 2021.
+00:01:17.600 So,
+00:01:18.320 How much damage has Brexit done to the United Kingdoms' economy?
+00:01:22.160 Has the UK benefited from the fact that Brexit took place during the pandemic?
+00:01:26.160 And finally
+00:01:27.440 What will this all mean for the UK’s ability to recover from the pandemic?
+00:01:31.600 Once we have done all of that we can put the United Kingdom  
+00:01:33.840 on the economics explained national leaderboard.
+00:01:37.200 Now one of the biggest issues facing the UK in the years between the referendum and actually  
+00:01:41.360 leaving the EU, was the uncertainty around what a post-Brexit UK would actually look like.
+00:01:46.800 There were a range of conflicting theories suggesting everything from it being some  
+00:01:50.240 kind of pommy utopia, finally free from the shackles of the continent,  
+00:01:54.000 all the way down to it being armageddon, complete with rioting in the streets and empty shelves.
+00:01:58.800 Of course, the second option doesn’t sound great,  
+00:02:01.360 but what might have been worse is not actually knowing which way the country would go.
+00:02:06.560 The biggest and most immediate impact of Brexit would be on trade.  
+00:02:10.160 The European Union is first and foremost a union of free trade.
+00:02:14.320 The countries within the union all agree to trade amongst one another without levying  
+00:02:18.400 tariffs or imposing import quotas. This is further assisted by the fact that all of the  
+00:02:23.200 remaining members have used the same currency, the euro since it was introduced in 1999.
+00:02:28.800 On the opposite side of the same coin,  
+00:02:30.960 the EU imposes heavy restrictions on trade with non-member countries  
+00:02:34.880 as a way to incentivize EU nations to trade with one another, rather than trading with an outsider.
+00:02:40.480 It does still happen, and exceptions are made for certain goods and materials that are not abundant  
+00:02:45.040 within the EU, natural gas from Russia that’s fed to Germany is a perfect example of this.
+00:02:49.920 Now I am not going to get into the benefits and drawbacks of free trade in this video,  
+00:02:53.920 because it’s really beside the point. Regardless of if this kind of free trade  
+00:02:57.840 region is beneficial to its members, the UK is now an outsider. They have gone from being the  
+00:03:03.360 beneficiary of free trade agreements to the victim of harsh trade restrictions.
+00:03:07.840 This wouldn't be good for any country but it’s especially bad for the UK  
+00:03:11.840 given just how dependant they are on trade to support their economy.
+00:03:15.760 To understand just how important, we need to look at a figure called trade intensity.
+00:03:20.800 When economists look at trade figures they normally focus on net trade, as in,  
+00:03:25.360 exports minus imports. If we want to calculate GDP we look at the sum  
+00:03:29.360 total of consumer spending, government spending, investments, and net exports.
+00:03:34.160 Net exports also make up the balance of trade and by extension things like current  
+00:03:38.000 account balances so it’s easy to see why it gets a lot of attention, but consider this.
+00:03:43.120 Imagine two countries, one that has no imports, and no exports,  
+00:03:47.360 it’s completely isolated. Then imagine a country that imports a trillion dollars worth  
+00:03:51.760 of goods in a given year, and exports a trillion dollars of goods as well.
+00:03:55.520 Both of these countries would have the same net export figure,  
+00:03:59.040 but the second example would likely be doing much better for itself. A trillion dollars  
+00:04:03.440 worth of exports would require the employment of millions of people and a trillion dollars  
+00:04:07.760 worth of imports would massively improve the average living standards of those same workers.
+00:04:12.880 The second country would also naturally be much more dependent on free trade agreements,  
+00:04:17.200 so that’s why it’s also important for economists to consider trade intensity figures.
+00:04:22.160 Trade intensity is just the sum total of imports and exports divided by GDP. So if  
+00:04:27.920 we take our oversimplified example of these two countries here and assume they both have  
+00:04:31.520 a GDP of 4 trillion dollars then the first would have a trade intensity of zero percent,  
+00:04:36.720 where the second would have a trade intensity of fifty percent. You can clearly see that  
+00:04:41.040 trade intensity is often a much more indicative figure of what is really going on in an economy.
+00:04:46.720 So why is this important to the UK?
+00:04:49.120 Well the UK has one of the highest trade intensity levels in the world.
+00:04:53.760 The UK’s trade intensity was 63% in 2019. Compare that to other major  
+00:04:59.680 advanced trading nations like Australia at 46%, Japan at 35% and the US at 24%  
+00:05:06.320 and you can start to see just how important trade really is to the UK.
+00:05:10.480 Historically this makes sense, the UK itself is a relatively barren rock in the middle of the  
+00:05:15.760 Atlantic devoid of much of the natural resources it would need to properly fuel it’s economy.  
+00:05:20.240 It’s also historically been a great colonial power so trade is something  
+00:05:24.160 that came naturally to it as it became more and more important throughout the last few decades.
+00:05:29.520 This is where that uncertainty about what Brexit would look like becomes really important again.
+00:05:34.400 A worst-case scenario like the much-feared no-deal  
+00:05:37.360 Brexit with hard borders, and no free trade at all between the EU  
+00:05:41.200 would not have been good, obviously, but it would have been possible to plan for.
+00:05:46.960 Let’s say you ran a tool manufacturing business, you have a small factory, and a warehouse and you  
+00:05:52.480 primarily sell high-end machining equipment to other businesses within the UK and across the EU.
+00:05:58.400 Once those referendum results came in you would have been put in a pretty difficult situation.  
+00:06:03.520 Without a free trade agreement in place, you would no longer remain competitive in  
+00:06:06.960 Europe because you would need to pay import taxes on all of the tools you sell there.
+00:06:11.920 You could get around this by setting up a separate factory in the EU,  
+00:06:15.200 but that’s a huge capital investment and if it turns out that the UK is able to negotiate  
+00:06:19.840 a favorable trade deal with the EU then it would have been an investment made for nothing.
+00:06:24.720 You could also save up money so that you had the cash on hand to buy a factory quickly if required,  
+00:06:30.240 but then you have a pile of cash sitting around not being reinvested into the business,  
+00:06:34.160 or being paid to new employees or even getting sent out as dividends to your investors.
+00:06:38.880 Money sitting around waiting for something to happen does not help the economy,  
+00:06:43.040 money being used for any of these purposes does.
+00:06:46.320 If businesses owners knew what was happening, even if it wasn’t good news,  
+00:06:50.160 they could take measures to deal with it.
+00:06:52.880 The combination of drawn-out decision to actually leave,  
+00:06:55.840 followed up by a year-long transition period combined with the existing economic fallout  
+00:07:00.080 from the global pandemic made it incredibly hard for individuals,  
+00:07:03.520 businesses, and even entire governments to plan much beyond the immediate future.
+00:07:08.160 But of course, now we have the benefit of hindsight we can actually look at a proper
+00:07:12.080 Before and After of Brexit
+00:07:15.040 Trade has dropped significantly, no surprises there, especially considering  
+00:07:19.280 the impact of the pandemic on things like travel and general business activity.
+00:07:23.280 Trade intensity fell from 63% in 2019 to 55% in 2020. That might not sound  
+00:07:30.480 like a huge drop, and it still puts it well ahead of most other countries,  
+00:07:34.560 but this figure was captured during the so-called Brexit Transition Period.
+00:07:39.040 That period is now over and the UK’s trade relationship with the EU is now being defined  
+00:07:44.080 by the EU-UK Trade and Cooperation Agreement, or TCA for short. The timeline is that the UK  
+00:07:50.800 officially left the EU at the end of 2019, the transition period agreement was then in  
+00:07:55.440 place until the end of 2020 and now the TCA has been in place for just over 11 months.
+00:08:01.120 The terms of the TCA are in general much more limiting than the terms of  
+00:08:06.560 the transition agreement, and the terms of the transition agreement  
+00:08:09.600 were in turn much more limiting than being a full member of the EU.
+00:08:13.920 It is of course less limiting than a no-deal Brexit but perhaps not by much.
+00:08:19.120 Goods exports to the EU are down significantly this year,  
+00:08:23.040 meaning trade intensity may very well see another 10% slide in 2021 on the conservative side.
+00:08:29.440 The Centre for European Reform has attempted to isolate the impact of Brexit using a statistically  
+00:08:34.480 modeled ‘doppelganger UK’ to assess what would have happened had the UK remained in the EU.
+00:08:40.640 That analysis concluded that, since the transition period ended, leaving the  
+00:08:44.240 single market and customs union had reduced UK goods trade by 15.8 percent as of August 2021.
+00:08:50.880 15.8% is huge, this will directly impact hundreds of thousands of workers and not for the better.
+00:08:58.000 Now despite being the first thing that everybody thinks of, lost trade might not  
+00:09:02.320 actually be the biggest hit to the British economy. Rather it might be lost manpower.
+00:09:08.160 You might have seen the headlines about empty shelves and gas stations turning  
+00:09:11.600 away customers in the UK at the moment. Well this is being caused by a sever labor shortage.
+00:09:17.760 The UK is down about one hundred thousand truck drivers, many of whom used to be  
+00:09:22.480 non-british citizens who worked in the UK under the EU shared labor agreement.
+00:09:27.360 You see prior to Brexit any citizen from any EU  
+00:09:30.400 country could live and work in whatever other country they wanted within the EU.
+00:09:34.960 This had some advantages, like companies being able to leverage  
+00:09:38.400 the best and brightest from a large labor pool,  
+00:09:40.720 and it had some disadvantages, like the brain drain pulling promising young workers from  
+00:09:45.280 poorer countries to richer countries where they could earn more money, furthering the divide.
+00:09:49.680 I really can see the arguments of both sides here, but regardless of all of that,  
+00:09:54.240 truck drivers were one of the most represented groups of workers taking advantage of this policy.
+00:09:59.280 Truck driving, in general, lends itself to being on the move,  
+00:10:03.120 when you combine that with free trade agreements across a relatively small  
+00:10:06.320 landmass and language barriers not being a huge issue to driving a truck around  
+00:10:10.800 it’s no wonder that a lot of European truck drivers basically just went where the demand was.
+00:10:15.280 This meant that overall the EU needed a smaller trucking fleet than what would exist if  
+00:10:20.240 all of these countries maintained all of the trucks that they needed year-round.
+00:10:24.400 The downside of this is that as the UK left this shared labor  
+00:10:27.760 pool it was shut off from the workers it needed to keep the country running.
+00:10:31.680 The same problem is becoming apparent with other seasonal workers,  
+00:10:35.680 especially in agriculture, where workers from across the channel were responsible  
+00:10:39.280 for a large portion of harvesting activities which take place only once or twice a year.
+00:10:43.840 This is raising concerns over empty tables at Christmas this year, which is leading to  
+00:10:48.080 panic buying which is further accelerating the supply shortages the country is facing.
+00:10:53.040 The government has tried to fix these issues by granting 5,000 3 month emergency visas to  
+00:10:58.160 truck drivers and putting military drivers on standby for if things get really dire.
+00:11:03.040 Altogether this drop in trade, employment and consumption has cost the government around 30  
+00:11:07.680 billion pounds, just over 41 billion USD, in lost tax revenue. Coincidentally this is roughly the  
+00:11:13.440 same amount that was raised by introducing new taxation measures earlier this year.  
+00:11:17.440 Heavy taxation during a period of economic turbulence is the exact  
+00:11:20.720 opposite of what economists recommend, but the money needs to come from somewhere.
+00:11:25.280 The Uk’s fiscal watchdog, The Office for Budget Responsibility has projected that all of these  
+00:11:29.920 factors working together will mean that Brexit will result in a 4% reduction in the UK’s long-run  
+00:11:35.200 GDP, this is on top of the 2% reduction in GDP projected to be caused by the pandemic.
+00:11:41.040 Again this might not sound like much but the UK hasn’t really had sustained growth since the GFC,  
+00:11:48.240 this 4% hit could genuinely push its economy back over a decade.
+00:11:52.800 Rankings
+00:11:53.760 Alright, now it’s time to put the UK on the economics explained national leaderboard.
+00:11:58.400 Starting as always with GDP, the UK is the fifth-largest economy in the world with an  
+00:12:03.520 annual output of over 3.1 trillion USD. It’s still well behind the true superpowers,  
+00:12:09.360 China and America, and also comfortably behind Japan and Germany but it still gets a 9/10.
+00:12:15.920 That output is spread between 67 million people to give the country  
+00:12:19.520 a GDP per capita figure of Just over $46,000 ($46,344) this is pretty much  
+00:12:24.880 in line with it’s old European peers like France and Germany and it gets a 7/10.
+00:12:30.480 Stability and confidence is really difficult to say, of course this is a completely subjective  
+00:12:35.440 measure. The country is obviously going through some turbulence but it has historically been seen  
+00:12:41.200 as one of the most stable nations in the world, especially for things like banking.
+00:12:46.000 We actually made an entire video on this a long time ago so go and check  
+00:12:49.600 that out if you are interested. Look it’s still an advanced nation with robust laws,  
+00:12:54.640 a good financial systems, a well regarded currency and a functioning democratic system  
+00:12:59.760 so it gets an 8/10. Five years ago, it would have been the easiest 10/10 ever.
+00:13:06.320 Growth has not been great, as we saw earlier in this video it’s GDP  
+00:13:10.400 is still below it’s previous peak in 2007. Since then it has been a victim of the GFC,  
+00:13:15.920 the eurozone crisis, brexit and the pandemic. It’s certainly resilient and hasn’t fallen much,  
+00:13:21.680 but it just hasn’t grown. It gets a 3/10.
+00:13:25.760 Finally, industry, this is surprisingly strong. The UK is still home to a healthy industrial  
+00:13:32.480 sector which manufactures everything from high-end sports cars to cutting-edge jet engines. It is  
+00:13:37.760 also still home to the second-largest financial center in the world, so the country gets a 9/10.
+00:13:44.160 Altogether that gives the United Kingdom an average score of 7.2 out of 10.  
+00:13:48.640 A very healthy score indeed which puts the country into equal third on the leaderboard  
+00:13:53.040 alongside France, the Netherlands, and Taiwan.
+00:13:56.560 Thanks for watching mate, bye.

@@ -1,0 +1,797 @@
+# tactiq.io free youtube transcript
+# Something Strange Happens When You Follow Einstein's Math
+# https://www.youtube.com/watch/6akmv1bsz1M
+
+00:00:00.000 You can never seeanything enter a black hole.
+00:00:03.600 (bell dings)
+00:00:04.740 Imagine you trap yournemesis in a rocket ship
+00:00:07.440 and blast him off towards a black hole.
+00:00:10.170 He looks back at you shakinghis fist at a constant rate.
+00:00:14.310 As he zooms in, gravity gets stronger,
+00:00:17.250 so you would expect him to speed up,
+00:00:19.410 but that is not what you see.
+00:00:21.660 Instead, the rocket shipappears to be slowing down.
+00:00:25.290 Not only that, he also appears
+00:00:27.330 to be shaking his fist slower and slower.
+00:00:30.450 That's because from your perspective,
+00:00:32.729 his time is slowing down
+00:00:35.370 at the very instant when heshould cross the event horizon,
+00:00:38.730 the point beyond whichnot even light can escape,
+00:00:41.520 he and his rocket ship do not disappear,
+00:00:45.210 instead, they seem to stop frozen in time.
+00:00:51.420 The light from the spaceshipgets dimmer and redder
+00:00:54.120 until it completely fades from view.
+00:00:57.600 This is how any object would look
+00:00:59.640 crossing the event horizon.
+00:01:01.680 Light is still coming fromthe point where he crossed,
+00:01:04.260 it's just too redshifted to see,
+00:01:08.250 but if you could see that light,
+00:01:10.170 then in theory you would see everything
+00:01:12.210 that has ever fallen into the black hole
+00:01:14.610 frozen on its horizon, includingthe star that formed it,
+00:01:19.500 but in practice, photons areemitted at discreet intervals,
+00:01:22.710 so there will be a last photonemitted outside the horizon,
+00:01:26.040 and therefore these imageswill fade after some time.
+00:01:29.940 This is just one of the strange results
+00:01:32.040 that comes outta the generaltheory of relativity,
+00:01:34.140 our current best theory of gravity.
+00:01:36.510 The first solution of Einstein's equations
+00:01:38.970 predicted not only black holes,
+00:01:40.980 but also their opposite, white holes.
+00:01:43.620 It also implied the existenceof parallel universes
+00:01:46.830 and even possibly a wayto travel between them.
+00:01:50.070 This is a video about thereal science of black holes,
+00:01:53.370 white holes, and wormholes.
+00:01:56.940 The general theory of relativity
+00:01:58.230 arose at least in partdue to a fundamental flaw
+00:02:00.840 in Newtonian gravity.
+00:02:02.520 In the 1600s Isaac Newton
+00:02:04.110 contemplated how an applefalls to the ground,
+00:02:06.450 how the moon orbits the earthand earth orbits the sun
+00:02:09.479 and he concluded thatevery object with mass
+00:02:12.180 must attract every other,
+00:02:14.250 but Newton was troubled by his own theory.
+00:02:17.730 How could masses separatedby such vast distances
+00:02:20.460 apply a force on each other?
+00:02:22.590 He wrote, "That one body mayact upon another at a distance
+00:02:26.070 through a vacuum without themediation of anything else
+00:02:29.040 is to me, so great andabsurdity that I believe no man
+00:02:33.030 who has a competent faculty of thinking
+00:02:34.860 could ever fall into it."
+00:02:38.910 One man who definitely had acompetent faculty of thinking,
+00:02:42.060 was Albert Einstein andover 200 years later,
+00:02:45.480 he figured out how gravity is mediated.
+00:02:48.840 Bodies do not exert forceson each other directly.
+00:02:52.230 Instead, a mass like thesun curves the spacetime
+00:02:55.950 in its immediate vicinity.
+00:02:58.020 This, then curves the spacetime around it
+00:03:00.750 and so on all the way to the earth.
+00:03:03.300 So the earth orbits thesun, because the spacetime
+00:03:06.630 earth is passing through is curved.
+00:03:09.840 Masses are affected by the local curvature
+00:03:12.270 of spacetime, so no actionat a distance is required.
+00:03:16.680 Mathematically, this is described
+00:03:18.480 by Einstein's field equations.
+00:03:20.850 Can you write down theEinstein field equation?
+00:03:23.040 This was the the result ofEinstein's decade of hard work
+00:03:26.610 after special relativity
+00:03:28.020 and essentially what we'vegot in the field equations
+00:03:30.150 on one side it says,
+00:03:32.010 tell me about the distributionof matter and energy.
+00:03:34.710 The other side tells youwhat the resultant curvature
+00:03:37.440 of spacetime is from that distribution
+00:03:40.500 of matter and energyand it's a single line.
+00:03:43.680 It looks like, oh, this isa simple equation, right?
+00:03:46.350 But it's not really one equation.
+00:03:47.880 It's a family of equations andto make life more difficult,
+00:03:51.690 they're coupled equations, sothey depend upon each other
+00:03:54.510 and they are differential equations,
+00:03:56.610 so it means that there are integrals
+00:03:58.950 that have to be done, da, da da.
+00:04:00.150 So there's a whole bunch ofsteps that you need to do
+00:04:02.160 to solve the field equations.
+00:04:04.350 To see what a solution to theseequations would look like,
+00:04:07.110 we need a tool to understand spacetime.
+00:04:11.340 So imagine your floatingaround in empty space.
+00:04:14.730 A flash of light goes off above your head
+00:04:16.740 and spreads out in all directions.
+00:04:19.560 Now your entire future, anything that can
+00:04:22.560 and will ever happen to youwill occur within this bubble
+00:04:27.150 because the only way to get out of it
+00:04:29.160 would be to travel faster than light.
+00:04:31.590 In two dimensions, this bubbleis just a growing circle.
+00:04:35.010 If we allow time to run up the screen
+00:04:37.020 and take snapshots at regular intervals,
+00:04:39.210 then this light bubble traces out a cone,
+00:04:41.520 your future light cone.
+00:04:43.530 By convention, the axes arescaled so that light rays
+00:04:46.230 always travel at 45 degrees.
+00:04:48.780 This cone reveals theonly region of spacetime
+00:04:51.690 that you can ever hopeto explore and influence.
+00:04:55.200 Now imagine that insteadof a flash of light
+00:04:57.270 above your head, those photonswere actually traveling in
+00:05:00.750 from all corners of the universe
+00:05:02.400 and they met at that instant
+00:05:03.990 and then continued traveling on
+00:05:05.460 in their separate directions.
+00:05:08.070 Well, in that case then into the past,
+00:05:10.620 these photons also reveal a light cone,
+00:05:13.350 your past light cone.
+00:05:15.510 Only events that happened inside this cone
+00:05:17.970 could have affected youup to the present moment.
+00:05:21.030 We can simplify this diagram even further
+00:05:23.040 by plotting just one spatialand one time dimension.
+00:05:26.460 This is the spacetimediagram of empty space.
+00:05:29.700 If you want to measure how far apart
+00:05:31.530 two events are in spacetime,you use something called
+00:05:34.680 the spacetime interval.
+00:05:36.480 The interval squared isequal to minus dt squared,
+00:05:39.870 plus dx squared, since spacetime is flat,
+00:05:43.230 the geometry is the same everywhere
+00:05:45.000 and so this formula holdsthroughout the entire diagram,
+00:05:48.630 which makes it really easyto measure the separation
+00:05:50.880 between any two events, but around a mass,
+00:05:54.510 spacetime is curved andtherefore you need to modify
+00:05:57.420 the equation to take intoaccount the geometry.
+00:06:00.900 This is what solutions toEinstein's equations are like.
+00:06:04.290 They tell you how spacetime curves
+00:06:06.690 and how to measure theseparation between two events
+00:06:09.510 in that curved geometry.
+00:06:12.840 Einstein published his equations in 1915
+00:06:15.360 during the First World War,
+00:06:16.980 but he couldn't find an exact solution.
+00:06:19.950 Luckily, a copy of his paper made its way
+00:06:22.050 to the eastern front whereGermany was fighting Russia,
+00:06:25.590 stationed there was one ofthe best astrophysicists
+00:06:27.870 of the time, Karl Schwarzschild.
+00:06:30.450 Despite being 41 yearsold, he had volunteered
+00:06:33.120 to calculate artillerytrajectories for the German army.
+00:06:36.870 At least until a greaterchallenge caught his attention,
+00:06:40.890 how to solve Einstein's field equations.
+00:06:45.060 Schwarzschild did thestandard physicist thing
+00:06:47.040 and imagined the simplestpossible scenario,
+00:06:49.620 an eternal static universewith nothing in it
+00:06:52.380 except a single sphericallysymmetric point mass.
+00:06:55.500 This mass was electricallyneutral and not rotating.
+00:06:59.130 Since this was the onlyfeature of his universe,
+00:07:01.920 he measured everythingusing spherical coordinates
+00:07:04.590 relative to this center of this mass.
+00:07:06.840 So r is the radius and thetaand phi give the angles.
+00:07:10.830 For his time coordinate, hechose time as being measured
+00:07:13.530 by someone far away from the mass,
+00:07:15.330 where spacetime is essentially flat.
+00:07:18.150 Using this approach,Schwarzschild found the first
+00:07:20.910 non-trivial solution toEinstein's equations,
+00:07:23.760 which nowadays we write like this.
+00:07:26.490 This Schwarzschild metricdescribes how spacetime curves
+00:07:30.120 outside of the mass.
+00:07:32.160 It's pretty simple andmakes intuitive sense,
+00:07:34.530 far away from the massspacetime is nearly flat,
+00:07:37.320 but as you get closer and closer to it,
+00:07:39.540 spacetime becomes more and more curved,
+00:07:41.730 it attracts objects inand time runs slower.
+00:07:45.647 (gunshots firing)
+00:07:47.310 Schwarzschild sent hissolution to Einstein,
+00:07:49.680 concluding with, "The wartreated me kindly enough
+00:07:52.710 in spite of the heavy gunfire
+00:07:54.090 to allow me to get away from it all
+00:07:55.860 and take this walk inthe land of your ideas."
+00:08:00.120 Einstein replied, "I have read your paper
+00:08:02.340 with the utmost interest,I had not expected
+00:08:04.620 that one could formulate theexact solution to the problem
+00:08:06.960 in such a simple way."
+00:08:12.420 But what seemed at first quite simple,
+00:08:15.000 soon became more complicated.
+00:08:17.220 Shortly after Schwarzschildsolution was published,
+00:08:19.770 people noticed two problem spots.
+00:08:22.950 At the center of themass, at r equals zero,
+00:08:25.800 this term is divided by zero,so it blows up to infinity
+00:08:30.570 and therefore this equation breaks down
+00:08:32.100 and it can no longer describewhat's physically happening.
+00:08:35.520 This is what's called a singularity.
+00:08:38.520 Maybe that point could be excused,
+00:08:40.530 because it's in the middle of the mass,
+00:08:42.360 but there's anotherproblem spot outside of it
+00:08:45.690 at a special distance from the center
+00:08:47.520 known as the Schwarzschildradius, this term blows up.
+00:08:50.880 So there is a second singularity.What is going on here?
+00:08:57.990 Well, at the Schwarzschild radius,
+00:09:00.150 the spacetime curvature becomes so steep
+00:09:02.730 that the escape velocity, thespeed that anything would need
+00:09:06.360 to leave there is the speed of light
+00:09:10.650 and that would mean that insidethe Schwarzschild radius,
+00:09:13.560 nothing, not even lightwould be able to escape.
+00:09:17.340 So you'd have this dark object
+00:09:18.900 that swallows up matter and light,
+00:09:22.650 a black hole, if you will,
+00:09:26.370 but most scientists doubtedthat such an object could exist,
+00:09:29.340 because it would require a lot of mass
+00:09:31.890 to collapse down into a tiny space.
+00:09:35.640 How could that possibly ever happen?
+00:09:39.562 (thrilling music)
+00:09:40.830 Astronomers at the time were studying
+00:09:42.510 what happens at the end of a star's life.
+00:09:44.940 During its lifetime the inwardforce of gravity is balanced
+00:09:47.820 by the outward radiation pressure
+00:09:49.620 created by the energy releasedthrough nuclear fusion,
+00:09:52.770 but when the fuel runs out,the radiation pressure drops.
+00:09:55.830 So gravity pulls all the starmaterial inwards, but how far?
+00:10:01.290 Most astronomers believedsome physical process
+00:10:04.170 would hold it up and in 1926,
+00:10:07.290 Ralph Fowler came up witha possible mechanism.
+00:10:10.050 Pauli's exclusion principles states that,
+00:10:11.707 "Fermions like electronscannot occupy the same state,
+00:10:15.540 so as matter gets pushedcloser and closer together,
+00:10:18.210 the electrons each occupytheir own tiny volumes,"
+00:10:21.810 but Heisenberg's uncertaintyprinciple says that,
+00:10:23.587 "You can't know the positionand momentum of a particle
+00:10:26.430 with absolute certainty,so as the particles become
+00:10:29.730 more and more constrained in space,
+00:10:32.070 the uncertainty in their momentum,
+00:10:34.080 and hence their velocity must go up."
+00:10:37.140 So the more a star is compressed,
+00:10:39.120 the faster electrons will wiggle around
+00:10:41.250 and that creates an outward pressure.
+00:10:44.490 This electron degeneracypressure would prevent the star
+00:10:47.460 from collapsing completely.
+00:10:49.350 Instead, it would form a white dwarf
+00:10:51.450 with the density muchhigher than a normal star
+00:10:54.360 and remarkably enoughastronomers had observed stars
+00:10:57.360 that fit this description.
+00:10:58.950 One of them was Sirius B.
+00:11:04.080 But the relief from thisdiscovery was short-lived.
+00:11:06.660 Four years later, 19-year-oldSubrahmanyan Chandrasekhar
+00:11:09.930 traveled by boat to Englandto study with Fowler
+00:11:12.720 and Arthur Eddington, one ofthe most revered scientists
+00:11:15.360 of the time.
+00:11:17.130 During his voyage, Chandrasekhar realized
+00:11:19.320 that electron degeneracypressure has its limits.
+00:11:22.350 Electrons can wiggle faster and faster,
+00:11:24.750 but only up to the speed of light.
+00:11:27.450 That means this effectcan only support stars
+00:11:30.180 up to a certain mass,the Chandrasekhar limit.
+00:11:33.510 Beyond this, Chandrasekhar believed,
+00:11:35.310 not even electron de degeneracy pressure
+00:11:37.260 could prevent a star from collapsing,
+00:11:40.530 but Eddington was not impressed.
+00:11:42.840 He publicly blasted Chandrasekhar saying,
+00:11:45.577 "There should be a law of nature
+00:11:47.190 to prevent a star frombehaving in this absurd way"
+00:11:51.180 and indeed scientists did discover a way
+00:11:53.730 that stars heavier thanthe Chandrasekhar limit
+00:11:55.950 could support themselves.
+00:11:58.170 When a star collapsesbeyond a white dwarf,
+00:12:00.540 electrons and protons fuse together
+00:12:02.520 to form neutrinos and neutrons.
+00:12:05.310 These neutrons are also fermions,
+00:12:07.260 but with nearly 2000 timesthe mass an electron,
+00:12:10.380 their degeneracy pressureis even stronger.
+00:12:13.290 So this is what holds up neutron stars.
+00:12:16.920 There was this conviction among scientists
+00:12:19.020 that even if we didn't know the mechanism,
+00:12:21.210 something would preventa star from collapsing
+00:12:23.850 into a single point andforming a black hole,
+00:12:28.620 because black holes were justtoo preposterous to be real.
+00:12:34.800 The big blow to this beliefcame in the late 1930s
+00:12:38.070 when Jay Robert Oppenheimerand George Volkoff
+00:12:40.860 found that neutron starsalso have a maximum mass.
+00:12:44.940 Shortly after Oppenheimerand Hartland Snyder
+00:12:47.640 showed that for the heaviest stars,
+00:12:49.530 there is nothing left to savethem when their fuel runs out,
+00:12:53.370 they wrote, "This contractionwill continue indefinitely,"
+00:12:58.320 but Einstein still couldn't believe it.
+00:13:00.510 Oppenheimer was saying thatstars can collapse indefinitely,
+00:13:03.600 but when Einstein looked at the math,
+00:13:05.310 he found that time freezes on the horizon.
+00:13:08.220 So it seemed likenothing could ever enter,
+00:13:11.250 which suggested that either
+00:13:12.780 there's something we don't understand
+00:13:14.690 or that black holes can't exist,
+00:13:17.232 (star explodes)
+00:13:21.030 but Oppenheimer offered asolution to the problem.
+00:13:23.850 He said to an outside observer,
+00:13:26.040 you could never see anything go in,
+00:13:27.780 but if you were travelingacross the event horizon,
+00:13:31.110 you wouldn't notice anything unusual
+00:13:33.420 and you'd go right past itwithout even knowing it.
+00:13:37.230 So how is this possible?
+00:13:39.810 We need a spacetimediagram of a black hole.
+00:13:43.170 On the left is thesingularity at r equals zero.
+00:13:46.290 The dotted line at r equals2M is the event horizon.
+00:13:49.920 Since the black hole doesn't move,
+00:13:51.960 these lines go straight up in time.
+00:13:55.170 Now let's see how ingoingand outgoing light ray travel
+00:13:58.500 in this curved geometry.
+00:14:01.020 When you're really far away,
+00:14:02.190 the future light cones areat the usual 45 degrees,
+00:14:06.030 but as you get closer to the horizon,
+00:14:07.950 the light cones get narrower and narrower,
+00:14:11.070 until right at the event horizon,
+00:14:13.440 they're so narrow thatthey point straight up
+00:14:16.770 and inside the horizon, thelight cones tip to the left,
+00:14:22.050 but something strange happenswith ingoing light rays.
+00:14:26.220 They fall in, but theydon't get to r equals 2M,
+00:14:29.040 they actually asymptote to that value
+00:14:32.130 as time goes to infinity,
+00:14:34.350 but they don't end at infinity, right?
+00:14:36.960 Mathematically they areconnected and come back in
+00:14:41.400 and they're traveling in this direction
+00:14:44.940 and this bothered a lot of people,
+00:14:46.680 this bothered people like Einstein,
+00:14:48.030 because he looked atthese equations and went,
+00:14:50.497 "well, if nothing can crossthis sort of boundary,
+00:14:55.860 then how could there be black holes?
+00:14:57.570 How could black holes even form?"
+00:15:00.060 So what is going on here?
+00:15:02.580 Well, what's important to recognize
+00:15:04.710 is that this diagram is a projection.
+00:15:06.990 It's basically a 2D map
+00:15:08.820 of four dimensional curved spacetime.
+00:15:12.120 It's just like projectingthe 3D Earth onto a 2D map.
+00:15:15.630 When you do that, youalways get distortions.
+00:15:18.120 There is no perfectly accurate way
+00:15:20.430 to map the earth onto a 2D surface,
+00:15:22.920 but different maps can beuseful for different purposes.
+00:15:25.920 For example, if you wanna keepangles and shapes the same,
+00:15:28.590 like if you're sailing across the ocean
+00:15:30.180 and you need to find your bearings,
+00:15:31.590 you can use the Mercator projection,
+00:15:33.690 that's the one Google Maps uses.
+00:15:35.820 A downside is that it misrepresent sizes.
+00:15:39.000 Africa and Greenlandlook about the same size,
+00:15:42.210 but Africa is actuallyaround 14 times larger.
+00:15:46.320 The Gall-Peters projectionkeeps relative sizes accurate,
+00:15:49.440 but as a result, anglesand shapes are distorted.
+00:15:53.460 In a similar way, we canmake different projections
+00:15:56.190 of 4D spacetime to studydifferent properties of it.
+00:16:00.150 Physical reality doesn't change,
+00:16:01.830 but the way the map describes it does.
+00:16:05.190 He had chosen to put aparticular coordinate system
+00:16:07.980 of a space and have a timecoordinate, and off you go.
+00:16:11.730 It's the most sensible thing to do, right?
+00:16:14.070 [Derek] People realizethat if you choose
+00:16:15.690 a different coordinate system
+00:16:17.280 by doing a coordinatesubstitution, then the singularity
+00:16:20.280 at the event horizon disappears.
+00:16:23.340 It goes away.
+00:16:24.330 That problem goes away andthings can actually cross
+00:16:27.570 into the black hole.
+00:16:30.780 What this tells us is that there is
+00:16:32.910 no real physical singularityat the event horizon.
+00:16:36.300 It just resulted from a poorchoice of coordinate system.
+00:16:41.820 Another way to visualize what's going on
+00:16:44.070 is by describing space as flowingin towards the black hole,
+00:16:48.210 like a waterfall.
+00:16:49.920 As you get closer, space starts flowing in
+00:16:52.380 faster and faster.
+00:16:54.330 Photons emitted by thespaceship have to swim
+00:16:56.940 against this flow, and thisbecomes harder and harder
+00:17:00.420 the closer you get.
+00:17:02.490 Photons emitted just outside the horizon
+00:17:04.800 can barely make it out, butit takes longer and longer.
+00:17:09.329 At the horizon, space falls in
+00:17:11.369 as fast as the photons are swimming.
+00:17:13.470 So if the horizon had a finite width,
+00:17:16.380 then photons would get stuck here,
+00:17:18.300 photons from everything that ever fell in,
+00:17:21.300 but the horizon is infinitely thin.
+00:17:23.940 So in reality, photons eithereventually escape or fall in.
+00:17:29.550 Inside the horizon, space falls faster
+00:17:31.980 than the speed of light,
+00:17:33.120 and so everything fallsinto the singularity.
+00:17:36.930 So Oppenheimer was right.
+00:17:38.760 Someone outside a black holecan never see anything enter
+00:17:42.270 because the last photons they can see
+00:17:44.610 will always be from justoutside the horizon,
+00:17:48.150 but if you yourself go,
+00:17:50.070 you will fall rightacross the event horizon
+00:17:52.470 and into the singularity.
+00:17:55.350 Now you can extend the waterfall model
+00:17:57.210 to cover all three spatial dimensions,
+00:17:59.520 and that gives you this, a real simulation
+00:18:02.850 of space flowing into a static black hole
+00:18:05.550 made by my friendAlessandro from ScienceClic.
+00:18:08.370 Later we'll use this modelto see what it's like
+00:18:10.950 falling into a rotating black hole.
+00:18:16.230 Now, I've never beensucked into a black hole,
+00:18:18.360 but sometimes it feels likeit when I'm stuck on the phone
+00:18:20.940 with a spam collar.
+00:18:22.470 Fortunately, today'ssponsor Incogni can help.
+00:18:25.890 You know, I used to getseveral spam calls a day,
+00:18:28.290 and they frustrated me somuch that I wrote a letter
+00:18:31.050 to the Do Not Call registryto get my number removed,
+00:18:33.960 but that didn't work
+00:18:35.580 and so I wanted to go on the offensive.
+00:18:37.740 I even contemplated making a video
+00:18:40.410 where I just mess with spamcallers to get some revenge
+00:18:43.080 for all the frustration and lost time,
+00:18:45.330 but I no longer have todo that thanks to Incogni.
+00:18:48.780 There are a lot of data brokers out there
+00:18:50.790 that suck up information aboutyou, a bit like a black hole.
+00:18:54.210 They collect things likeyour name, phone number,
+00:18:56.850 email address, and evenyour social security number
+00:18:59.790 and then they sell thisinformation on the open market,
+00:19:03.120 which is why we oftenget calls from people
+00:19:05.940 that we've never even given our number to.
+00:19:08.416 Incogni battles these data brokers,
+00:19:11.100 you simply give thempermission and they figure out
+00:19:13.560 who out there has yourdata, which laws apply,
+00:19:16.230 and then they send them the right letter,
+00:19:18.180 with the correct legalterms to each data broker
+00:19:21.060 with the request toremove your information.
+00:19:23.310 Now, you could do this yourself,
+00:19:25.440 but it's a super tediousprocess that would take days,
+00:19:27.810 weeks, even months,
+00:19:29.580 and then you'd have tokeep doing it forever.
+00:19:32.400 So that's something Idefinitely don't have the time
+00:19:35.130 and energy for, but Incognimakes this really easy.
+00:19:39.120 Just sign up and they'llgive you a list of companies
+00:19:41.880 that have your data, theseverity of each claim,
+00:19:44.370 and the status of each request.
+00:19:46.260 So far, they have filed126 requests for me,
+00:19:49.770 83 of which have beencompleted saving me over
+00:19:52.350 62 hours of work, but the bestpart is since I signed up,
+00:19:56.310 I've hardly gotten any more spam calls.
+00:19:58.890 So to try Incogni and fightagainst the data brokers,
+00:20:01.380 visit incog.com/veritasium.
+00:20:04.230 You can click that linkdown in the description
+00:20:06.210 or scan the QR code right here
+00:20:08.310 and make sure to use the codeveritasium to get 60% off.
+00:20:12.690 So head over toincog.com/veritasium to get started.
+00:20:16.410 I wanna thank Incogni forsponsoring this part of the video
+00:20:19.200 and now back to spacetime maps.
+00:20:22.590 If you take this map and transform it
+00:20:25.020 so that incoming and outgoing light ray
+00:20:27.150 all travel at 45 degreeslike we're used to,
+00:20:30.510 then something fascinating happens.
+00:20:33.330 The black hole singularity on the left
+00:20:35.880 transforms into a curved line at the top
+00:20:40.020 and since the future alwayspoints up in this map,
+00:20:44.130 it tells us that thesingularity is not actually
+00:20:47.460 a place in space, instead,it's a moment in time,
+00:20:52.530 the very last moment in time for anything
+00:20:55.710 that enters a black hole.
+00:20:58.290 The map we've just createdis a Kruskal-Szekers diagram,
+00:21:02.100 but this only representsa portion of the universe,
+00:21:04.950 the part inside theblack holes event horizon
+00:21:07.500 and the part of theuniverse closest to it,
+00:21:10.440 but what we can do iscontract the whole universe,
+00:21:13.800 the infinite past, infinitedistance, and infinite future,
+00:21:17.310 and morph it into a single map.
+00:21:20.070 It's like using theuniverse's best fish eye lens.
+00:21:24.570 That gives us this penrose diagram.
+00:21:28.290 Again, light rays stillalways go at 45 degrees.
+00:21:31.530 So the future always points up.
+00:21:33.930 The infinite past is inthe bottom of the diagram.
+00:21:36.840 The infinite future at the top
+00:21:39.030 and the sides on the rightare infinitely far away.
+00:21:42.180 The black hole singularityis now a straight line
+00:21:44.460 at the top, a final moment in time.
+00:21:49.200 These lines are all at the same distance
+00:21:51.450 from the black hole.
+00:21:52.530 So the singularity is at r equals zero,
+00:21:55.110 the horizon is at r equals 2M,
+00:21:57.660 this line is at r equals 4M,
+00:21:59.910 and this is infinitely far away.
+00:22:02.880 All of these lines are at the same time.
+00:22:05.970 What's great about this mapis that it's very easy to see
+00:22:09.120 where you can still go andwhat could have affected you.
+00:22:12.660 For example, when you're here,you've got a lot of freedom.
+00:22:15.480 You can enter the blackhole or fly off to infinity,
+00:22:19.050 and you can see and receiveinformation from this area,
+00:22:23.640 but if you go beyond the horizon,
+00:22:25.950 your only possible futureis to meet the singularity.
+00:22:29.820 You can still, however,see and receive information
+00:22:32.370 from the universe.
+00:22:33.510 You just can't send any back out.
+00:22:36.720 Now think about being atthis point in the map.
+00:22:39.840 This is at the event horizon,
+00:22:41.820 and now your entire futureis within the black hole,
+00:22:45.540 but what is the past of this moment?
+00:22:48.690 Well, you can draw the past light cone
+00:22:51.330 and it reveals this new region.
+00:22:54.330 If you're inside this region,
+00:22:56.160 you can send signals to the universe,
+00:22:58.080 but no matter where youare in the universe,
+00:23:00.390 nothing can ever enter this region
+00:23:02.880 because it will never beinside your light comb.
+00:23:06.210 So things can come out, but never go in.
+00:23:09.870 This is the opposite of ablack hole, a white hole.
+00:23:15.660 What color is a white hole?
+00:23:18.602 (Geraint exhales)
+00:23:19.726 (Derek laughs)
+00:23:20.559 I mean, it's gonna be the,
+00:23:22.380 it's not gonna have a color, right?
+00:23:24.049 It's gonna be whatever'sbeing spat out of it.
+00:23:27.300 It depends what's inthere and gets thrown out,
+00:23:31.560 that's what you are going to see.
+00:23:33.180 So if it's got light inthere, it's got mass in there,
+00:23:35.400 it's all gonna be ejected.
+00:23:36.660 So the white hole kind of picture
+00:23:39.330 is the time reversepicture of a black hole,
+00:23:42.450 instead of things falling in,things get expelled outwards
+00:23:46.920 and so whilst a black hole has a membrane,
+00:23:51.120 the Schwarzschild horizon,which once you cross,
+00:23:53.490 you can't get back out, thewhite hole has the opposite.
+00:23:56.190 If you're inside the eventhorizon, you have to be ejected,
+00:23:59.610 so it kicks you out kind of thing, right?
+00:24:01.680 Relativity doesn't tellyou which way time flows.
+00:24:04.710 There's nothing in there thatsays that, that is the future
+00:24:08.670 and that is the past.
+00:24:10.860 When you are doing your mathematics
+00:24:12.390 and you're working outthe behavior of objects,
+00:24:15.360 you make a choice about whichdirection is the future,
+00:24:19.350 but mathematically, you could have chosen
+00:24:21.450 the other way, right?
+00:24:22.740 You could have had time pointin the opposite direction.
+00:24:25.770 Any solution that you find in relativity,
+00:24:28.890 mathematically, you can just flip it
+00:24:30.990 and get a time reverse solution
+00:24:32.520 and that's also asolution to the equations.
+00:24:36.270 [Derek] Now, we've been showing things
+00:24:37.890 being ejected to the right,but they could just as well
+00:24:40.980 be ejected to the left.
+00:24:42.690 So what's over there?
+00:24:44.670 This line is not at infinity,
+00:24:46.590 so there should be something beyond it.
+00:24:49.020 If we eject things in this direction,
+00:24:51.270 you find that they entera whole new universe,
+00:24:55.620 one parallel to our own.
+00:25:01.560 [Geraint] We can fallinto this black hole,
+00:25:03.960 and somebody in this universe here
+00:25:05.370 could fall into this blackhole in their universe,
+00:25:08.250 and we would find ourselvesin the same black hole.
+00:25:11.013 (Derek chuckles)
+00:25:12.450 The only downside is that
+00:25:14.580 we'd both soon end up in the singularity.
+00:25:18.600 I guess I'm just trying to understand
+00:25:20.190 where that universe appears
+00:25:22.380 in the mathematical part of the solution.
+00:25:24.900 Like, can you point to the partof the equation and be like,
+00:25:27.480 so that's our universe,and then these terms here,
+00:25:30.780 that's the other universe,or do you know what I mean?
+00:25:32.970 Like-- Yeah,
+00:25:33.803 well, it's coordinates, right?
+00:25:35.370 Imagine somebody, right, cameup with a coordinate system
+00:25:40.800 for the earth, but onlythe northern hemisphere
+00:25:43.680 and you looked at thatcoordinate system, right?
+00:25:45.657 And you looked at it and you said,
+00:25:47.467 "Ah, I can see the coordinatesystem, it looks fine,
+00:25:50.610 but mathematically latitudescan be negative, right?
+00:25:55.740 You've only got positivelatitudes in your solution.
+00:25:58.650 What about the negative ones?"
+00:25:59.940 And they said to you,(scoffs) "Negative ones?
+00:26:02.730 No southern hemisphere, right?"
+00:26:05.310 And you've gotta go, "Well,the mathematics says that
+00:26:08.490 you can have negative latitudes.
+00:26:09.930 Maybe we should go andlook over the equator
+00:26:12.000 to see if there is something down there"
+00:26:13.830 and I know that's akind of extreme example,
+00:26:16.230 because we know we live on a globe,
+00:26:17.790 but we don't know the full geometry
+00:26:20.070 of what's going on here in the sense that
+00:26:22.920 Schwarzschild laid down coordinates
+00:26:24.810 over part of the solution.
+00:26:26.730 It was like him onlylaying down coordinates
+00:26:28.740 on the northern hemisphere
+00:26:30.480 and other people have come along and said,
+00:26:32.197 "Hey, there's a southern hemisphere"
+00:26:34.230 and more than that, there's two earths.
+00:26:36.180 That's why it's called maximal extension.
+00:26:39.270 It's like, if I have thismathematical structure,
+00:26:43.530 then what is the extent of the coordinates
+00:26:47.730 that I can consider?
+00:26:49.710 And with the Schwarzschild black hole,
+00:26:51.480 you get a second universe
+00:26:52.680 that has its own independentset of coordinates
+00:26:56.430 from our universe.
+00:26:57.690 I want to emphasize right,this is the simplest solution
+00:27:00.750 to the Einstein field equations,
+00:27:02.160 and it already contains a black hole,
+00:27:03.660 white hole and two universes.
+00:27:05.970 [Derek] That's what you get
+00:27:07.140 when you push this map to its limits
+00:27:09.600 so that every edge ends ata singularity or infinity.
+00:27:13.830 And in fact, there's anotherlittle feature in here,
+00:27:16.230 which is that, that littlepoint there where they cross,
+00:27:19.470 that is an Einstein Rosen Bridge.
+00:27:24.120 To see it, we needto change coordinates.
+00:27:27.090 Now this line is at constant crustal time
+00:27:30.180 and it connects thespace of both universes.
+00:27:33.720 You can see what the spacetime is like
+00:27:35.640 by following this line from right to left.
+00:27:38.220 Far away from the event horizon,
+00:27:39.600 spacetime is basically flat,
+00:27:41.430 but as you get closerto the event horizon,
+00:27:43.500 spacetime starts to curve more and more.
+00:27:46.230 At this cross, you areat the event horizon,
+00:27:49.380 and if you go beyond it, youend up in the parallel universe
+00:27:53.460 that gives you a wormholethat looks like this.
+00:27:59.730 So that is hypotheticallyhow we could use a black hole
+00:28:04.170 to travel from one universe to another.
+00:28:06.840 Hypothetically, because these wormholes
+00:28:08.970 aren't actually stable in time.
+00:28:11.760 It's a bit like a bridge,but it's a bridge that is long
+00:28:14.340 and then becomes shorterand then becomes long again
+00:28:17.130 and if you try to traverse this bridge,
+00:28:19.470 at some point, the bridgeis only very short, right?
+00:28:21.747 And you say, "Oh, well, letme just cross this bridge."
+00:28:23.790 But as you start crossingthe bridge and start running,
+00:28:25.851 your speed is finite, right?
+00:28:27.450 The speed of light roughlyand then the bridge starts,
+00:28:30.690 becoming stretching and younever come out the other side.
+00:28:35.160 [Derek] This pinchingoff always happens too fast
+00:28:38.040 for anything to travel through.
+00:28:40.350 You can also see this if youlook at the Penrose diagram,
+00:28:43.440 because when you're inside one universe,
+00:28:45.360 there isn't a light cone that can take you
+00:28:47.610 to the other universe.
+00:28:49.320 The only way to do that
+00:28:50.430 would be to travel faster than light,
+00:28:54.600 but there might be another way.
+00:28:57.270 Schwarzschild solutiondescribes a black hole
+00:28:59.340 that doesn't rotate.
+00:29:00.720 Yet, every star does rotate
+00:29:02.370 and since angular momentummust be conserved,
+00:29:04.710 every black hole must also be rotating.
+00:29:08.130 While Schwarzschild foundhis solution within weeks
+00:29:10.380 after Einstein published his equations,
+00:29:12.300 solving them for a spinning mass
+00:29:14.040 turned out to be much harder.
+00:29:15.960 Physicists tried, but 10 yearsafter Schwarzschild solution,
+00:29:19.260 they still hadn't solved it.
+00:29:21.060 10 years turned into20, which turned into 40
+00:29:24.300 and then in 1963, RoyKerr found the solution
+00:29:28.290 to Einstein's equationsfor a spinning black hole,
+00:29:32.040 which is far more complicatedthan Schwarzschild solution
+00:29:35.940 and this comes with afew dramatic changes.
+00:29:40.170 The first is that the structureis completely different.
+00:29:43.830 The black hole nowconsists of several layers.
+00:29:47.340 It's also not sphericallysymmetric anymore.
+00:29:50.460 This happens because the rotation
+00:29:52.170 causes it to bulge around the equator.
+00:29:54.690 So it's only symmetricabout its axis of spin.
+00:29:59.910 Alessandro from scienceclick simulated what happens
+00:30:02.880 around this spinning black hole.
+00:30:07.470 Space gets dragged aroundwith the black hole
+00:30:10.320 taking you and theparticles along with it.
+00:30:13.110 When you get closer,space gets dragged around
+00:30:15.630 faster and faster untilit goes around faster
+00:30:19.020 than the speed of light,
+00:30:20.760 you've now entered intothe first new region,
+00:30:24.330 the ergosphere.
+00:30:26.460 No matter how hard youfire your rockets here,
+00:30:29.250 it's impossible to stay stillrelative to distance stars,
+00:30:33.570 but because space doesn'tflow directly inward,
+00:30:36.300 you can still escape the black hole.
+00:30:39.360 When you travel in further,you go through the next layer,
+00:30:42.900 the outer horizon, the point of no return.
+00:30:46.650 Here you can only go inwards,
+00:30:49.620 but as you get draggedin deeper and deeper,
+00:30:52.710 something crazy happens,you enter another region,
+00:30:57.030 one where you can movearound freely again,
+00:31:00.660 so you're not doomed to the singularity.
+00:31:03.840 You're now inside the inner event horizon.
+00:31:07.500 Here you can actually see the singularity
+00:31:12.028 In a normal black hole, it's a point,
+00:31:13.350 but it in a rotating black hole,
+00:31:14.640 it actually expands out to be a ring
+00:31:17.910 and there are weird things happened
+00:31:19.560 with spacetime inside thecenter of a black hole,
+00:31:22.650 a rotating black hole,
+00:31:23.910 but it's thought that you can actually
+00:31:24.990 fly through the singularity.
+00:31:29.850 [Derek] We need a Penrose diagram
+00:31:31.290 of a spinning black hole,where before the singularity
+00:31:35.010 was a horizontal line at the top
+00:31:37.170 here, the singularity liftsup and moves to the sides,
+00:31:40.500 revealing this new regioninside the inner horizon.
+00:31:45.240 Here we can move around freelyand avoid the singularity,
+00:31:49.740 but these edges aren't atinfinity or a singularity,
+00:31:53.190 so there must be something beyond them.
+00:31:55.920 Well, when you venture further,
+00:31:57.720 you could find yourself in a white hole,
+00:32:00.720 which would push you outinto a whole nother universe.
+00:32:05.640 You can have these pictures whereby
+00:32:08.520 you're in one universe, youfall into a rotating black hole,
+00:32:12.690 you fly through the singularity,
+00:32:14.940 and you pop out into a newuniverse from a white hole,
+00:32:18.960 and then you can justcontinue playing this game.
+00:32:21.870 Extending this diagram infinitely far.
+00:32:25.860 but there is still onething we haven't done,
+00:32:27.750 brave the singularity.
+00:32:30.240 So you aim straight towardsthe center of the ring
+00:32:33.390 and head off towards it,but rather than time ending,
+00:32:37.140 you now find yourself inuniverse, a strange universe,
+00:32:40.566 one where gravity pushes instead of pulls.
+00:32:44.850 This is known as an anti-verse.
+00:32:48.330 If that's too weird,you can always jump back
+00:32:50.580 across the singularityand return to a universe
+00:32:53.160 with normal gravity.
+00:32:55.470 And I know this is basicallyscience fiction, right?
+00:32:57.720 But if you take thesolutions of relativity at,
+00:33:02.640 you know, essentially at facevalue and add on a little bit,
+00:33:05.520 which is what Penrosedoes here, he says this,
+00:33:07.867 "oh look, these shapes are very similar,
+00:33:10.560 I can just stick these together."
+00:33:12.150 Then this is the conclusion that you get.
+00:33:14.490 Now we have effectively an infinite number
+00:33:17.040 of universes all connectedwith black hole, white holes
+00:33:20.370 all the way through andyou, of you go to explore,
+00:33:25.380 but it'll be a very braveperson who's the first one
+00:33:28.410 who's gonna leap intoa rotating black hole
+00:33:30.330 to find out if this is correct?
+00:33:31.691 (Derek chuckles)
+00:33:33.090 Yeah, I would not sign up for that.
+00:33:35.820 So could these maximallyextended Schwarzschild
+00:33:38.550 and Kerr solutionsactually exist in nature?
+00:33:41.670 Well, there are some issues.
+00:33:43.770 Both the extended Schwarzschildand Kerr solutions
+00:33:46.590 are solutions of eternal blackholes in an empty universe.
+00:33:50.850 As you say, it's an eternal solution.
+00:33:52.890 So it stretches infinitelyfar into the past
+00:33:55.590 and infinitely far into the future
+00:33:57.900 and so there's no formationmechanism in there,
+00:33:59.940 it's just a static solution
+00:34:02.640 and I think that is part of the,
+00:34:07.380 part of the reason why black holes
+00:34:10.860 are realized in our universeand white holes aren't-
+00:34:15.150 Or might not be.
+00:34:16.080 Or might not be,
+00:34:16.913 or I'm reasonably I,
+00:34:18.989 personally, I'm reasonably confident
+00:34:20.580 that they don't exist, right?
+00:34:22.500 [Derek] For the maximallyextended Kerr solution,
+00:34:24.600 there's also another problem.
+00:34:26.460 If you're an immortalastronaut inside the universe,
+00:34:28.980 you can send light into the black hole,
+00:34:31.320 but because there'sinfinite time compressed
+00:34:34.020 in this top corner, you canpile up light along this edge,
+00:34:37.889 which creates an infinite flux of energy
+00:34:40.469 along the inner horizon.
+00:34:42.420 This concentration of energy
+00:34:43.860 then creates its own singularity,
+00:34:46.650 sealing off the ringsingularity and beyond.
+00:34:50.040 My suspicion and the suspicion
+00:34:51.750 of some other people in the field is that
+00:34:55.199 this inner horizon will become singular
+00:34:56.880 and you will not be able to gothrough these second copies.
+00:34:59.760 So all the white holes,wormholes, other universes
+00:35:03.000 and anti universes disappear.
+00:35:06.360 Does that mean that realwormholes are impossible?
+00:35:10.050 In 1987, Michael Morris andKip Thorne looked at wormholes
+00:35:13.170 that an advanced civilization could use
+00:35:15.120 for interstellar travel,ones that have no horizons,
+00:35:18.090 so you can travel back andforth, are stable in time,
+00:35:20.820 and have some other properties like
+00:35:22.740 being able to construct them.
+00:35:24.150 They found severalgeometries that are allowed
+00:35:26.520 by Einstein's general relativity.
+00:35:28.950 In theory, these couldconnect different parts
+00:35:31.110 of the universe, making asort of interstellar highway.
+00:35:34.200 They might even be able toconnect to different universes.
+00:35:39.690 The only problem is thatall these geometries
+00:35:42.540 require an exotic kind of matter
+00:35:44.340 with a negative energy density
+00:35:45.750 to prevent the wormhole from collapsing.
+00:35:48.810 This exotic kind of matter,
+00:35:50.550 is really against theloss of physics, so it's,
+00:35:54.215 I have the prejudicethat it will not exist.
+00:35:56.670 I'm bothered by the fact that we say that
+00:35:58.620 the science fiction wormholesare mathematically possible.
+00:36:01.980 It's true, it's mathematically possible
+00:36:03.570 in the sense that there'ssome geometry that can exist,
+00:36:05.850 but Einstein's theoryis not just geometries,
+00:36:09.600 it's geometries plus field equations.
+00:36:12.210 If you use the kindsof properties of matter
+00:36:14.490 that matter actually has,then they're not possible.
+00:36:17.670 So I feel that the reasonthey're not possible
+00:36:20.990 is very strong.
+00:36:22.950 So according to ourcurrent best understanding,
+00:36:25.500 it seems likely that whiteholes, traversable wormholes,
+00:36:28.680 and these parallel universes don't exist,
+00:36:32.190 but we also used to thinkthat black holes didn't exist.
+00:36:35.490 So maybe we'll be surprised again.
+00:36:38.610 I mean, we have one universe, right?
+00:36:41.460 Good, why can't we have two.
+00:36:46.040 (whimsical music)

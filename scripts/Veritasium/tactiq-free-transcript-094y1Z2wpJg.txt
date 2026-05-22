@@ -1,0 +1,496 @@
+# tactiq.io free youtube transcript
+# The Simplest Math Problem No One Can Solve - Collatz Conjecture
+# https://www.youtube.com/watch/094y1Z2wpJg
+
+00:00:00.060 This is the most dangerousproblem in mathematics,
+00:00:03.630 one that young mathematicians are warned
+00:00:06.060 not to waste their time on.
+00:00:08.050 It's a simple conjecture
+00:00:09.520 that not even the world'sbest mathematicians
+00:00:11.700 have been able to solve.
+00:00:13.330 Paul Erdos, a famous mathematician, said,
+00:00:16.167 "Mathematics is not yet ripeenough for such questions."
+00:00:21.160 Here's how it works.
+00:00:22.950 Pick a number, any number.
+00:00:25.290 Seven?
+00:00:26.230 Good choice.
+00:00:27.390 Okay, we're gonna apply two rules.
+00:00:29.640 If the number is odd, wemultiply by three and add one.
+00:00:33.210 So three times sevenis 21, plus one is 22.
+00:00:37.310 If the number is even, we divide by two.
+00:00:40.390 So 22 divided by two is 11.
+00:00:43.510 Now, we keep applying these two rules.
+00:00:46.220 11 is odd, so we multiplyby 3, 33, and add 1, 34.
+00:00:50.750 Even, divide by two, 17, odd.
+00:00:54.350 Multiply by 3, 51, add 1, 52, even.
+00:00:58.000 Divide by two, 26, still even.
+00:01:00.860 Divide by two, 13, odd.
+00:01:03.760 So we multiply by 3, 39,add one, and that's 40,
+00:01:06.970 which is even, so we divide by two, 20,
+00:01:09.700 divide by two, 10,divide by two, five, odd.
+00:01:13.870 Multiply by three, 15, add one, 16,
+00:01:17.100 divide by two that's eight,and then four, two, and one.
+00:01:22.300 Now, one is odd, so wemultiply by three and add one,
+00:01:25.220 which equals four.
+00:01:26.510 But four goes to two, goes to one,
+00:01:29.290 so we're in a loop, andthe lowest number is one.
+00:01:33.190 Now, the conjecture is this:
+00:01:35.280 every positive integer,if you apply these rules,
+00:01:38.350 will eventually end up inthe four, two, one loop.
+00:01:42.770 This is commonly calledthe Collatz conjecture
+00:01:45.290 after German mathematician,Luther Collatz,
+00:01:47.470 who may have come up with it in the 1930s.
+00:01:49.930 But the problem has manyorigin stories and many names.
+00:01:53.310 It's also known as the Ulam conjecture,
+00:01:55.470 Kakutani's problem, Thwaites conjecture,
+00:01:57.790 Hasse's algorithm, the Syracuse problem,
+00:02:00.270 and simply 3N+1.
+00:02:02.620 Why is 3x+1 so famous?
+00:02:05.550 Among professional mathematicians,
+00:02:07.010 maybe it's not famous but infamous,
+00:02:09.430 in the sense that if someoneactually admits in public
+00:02:13.130 that they're working on it,
+00:02:14.150 then there's something wrong with them.
+00:02:15.564 (laughs)
+00:02:17.330 [Narrator] The numbersyou get by applying 3x+1
+00:02:20.010 are called hailstone numbers,
+00:02:22.250 because they go up and down
+00:02:23.985 like hailstones in a thundercloud,
+00:02:26.600 but eventually, they all fall down to one,
+00:02:30.060 or at least we think they do.
+00:02:32.730 You can think of the numbers
+00:02:33.900 as representing the heightabove the ground in meters.
+00:02:36.880 So a number like 26 would start26 meters above the ground.
+00:02:40.850 And if you apply 3x+1,
+00:02:42.620 it rises up as high as 40 meters.
+00:02:45.030 And, in total, it takes10 steps to get to one.
+00:02:48.310 So 10 is called its total stopping time.
+00:02:51.670 But take the very next number, 27,
+00:02:54.330 and it bounces around all over the place.
+00:02:57.610 In fact, it climbs allthe way up to 9,232.
+00:03:03.370 As an altitude, that ishigher than Mount Everest,
+00:03:07.430 before it too falls back to the ground.
+00:03:11.420 In total, it takes 111 stepsfor 27 to get down to one
+00:03:16.480 and end up in the four, two, one loop.
+00:03:19.660 The paths that differentnumbers take vary so widely,
+00:03:22.830 even numbers right next to each other.
+00:03:25.120 So how do you even start tomake progress on this problem?
+00:03:29.140 Well, honestly, mathematicians struggled.
+00:03:31.450 People just decided
+00:03:32.550 that this was somethinginvented by the Soviets
+00:03:34.330 to slow down U.S. science,
+00:03:37.600 and it was doing a good job at it
+00:03:39.230 'cause everybody's sittingthere twiddling their thumbs
+00:03:41.220 and making no progresson this trivial thing
+00:03:44.170 that you can tell a school of children.
+00:03:46.080 [Narrator] Jeffrey Lagarias
+00:03:47.210 is the world authority on 3x+1.
+00:03:49.810 The first time I met himI was a senior in college,
+00:03:53.440 and he pulled me aside andhe said, "Don't do this.
+00:03:57.690 Don't work on this problem.
+00:03:58.780 If you want to have a career,
+00:04:00.940 do not start spendingtime writing about this
+00:04:04.980 or publishing any papers about this.
+00:04:07.230 Do real math for a whileto establish yourself."
+00:04:10.370 [Narrator] AlexKontorovich didn't listen.
+00:04:12.650 He and Yakov Sinai
+00:04:14.340 looked at the paths ofthe hailstone numbers.
+00:04:16.890 Were there any patterns?
+00:04:18.339 But obviously all of them ended up at one.
+00:04:20.420 But what about the pathsthey take to get there?
+00:04:23.740 The pattern is randomness.
+00:04:26.610 Here is the sequence of alarge number chosen at random.
+00:04:30.010 The graph peaks and then drop so low
+00:04:32.050 that you can't really seewhat's happening at this scale.
+00:04:34.720 But if you take the logarithm,
+00:04:36.320 you find this wiggly graphwith a downward trend.
+00:04:40.020 It looks like the stockmarket on a bad day.
+00:04:42.950 And this is no coincidence.
+00:04:45.010 Both are examples ofgeometric Brownian motion.
+00:04:48.560 That means if you take the logand remove the linear trend,
+00:04:51.870 the fluctuations are random.
+00:04:53.910 It's like flipping a coin each step.
+00:04:55.710 If the coin is heads, the line goes up,
+00:04:58.030 tails, it goes down.
+00:05:00.070 3x+1 is just like the randomwiggles of the stock market.
+00:05:03.910 Over long-enough periods,
+00:05:05.060 the stock market tends to trend upwards,
+00:05:07.320 while 3x+1 trends down.
+00:05:10.740 Another way to analyze 3x+1
+00:05:12.470 is by looking at theleading digit of each number
+00:05:15.090 in a sequence.
+00:05:16.370 Here are the hailstonenumbers starting with three
+00:05:19.020 as the seed.
+00:05:20.410 And we can count up how manynumbers start with a one,
+00:05:22.720 how many start with a two,
+00:05:24.270 how many start with a three,and so on to make a histogram.
+00:05:28.060 We can do the same thing for the sequence
+00:05:29.890 that starts with four,and that's a short one,
+00:05:32.990 and for the sequences thatstart with five, six, and seven.
+00:05:38.190 Again, for each sequence,
+00:05:39.970 we're just counting up how many numbers
+00:05:41.620 start with each digit, one through nine,
+00:05:43.860 and adding that to our histogram.
+00:05:46.780 If you keep doing thisfor more and more numbers,
+00:05:49.640 eventually the histogramsettles into a stable pattern.
+00:05:53.690 For the first billion sequences,
+00:05:56.070 you'll find one is by far themost common leading digit.
+00:06:00.700 30% of all numbers start with one,
+00:06:04.200 around 17.5% start withtwo, 12% start with three,
+00:06:09.030 and the frequency decreasesfor higher digits.
+00:06:11.710 Fewer than 5% of all thenumbers start with nine.
+00:06:15.670 Now, this pattern is not unique to 3x+1.
+00:06:19.250 It actually comes up everywhere,
+00:06:21.670 from the populations of countries,
+00:06:23.630 to the value of companies,
+00:06:25.330 all the physical constantsand the Fibonacci numbers,
+00:06:28.300 just to name a few.
+00:06:30.070 The distribution isknown as Benford's law,
+00:06:34.200 and it is even used to detect fraud.
+00:06:36.980 If all the numbers onyour income tax forms
+00:06:38.750 obey Benford's law,
+00:06:39.770 then, well, you're probably being honest.
+00:06:42.030 If not, you may be hiding something.
+00:06:44.720 In elections, Benford's law can be used
+00:06:46.400 to spot irregularities,
+00:06:48.070 though you have to apply it correctly.
+00:06:50.420 Benford's law works bestwhen the numbers involved
+00:06:53.030 span several orders of magnitude
+00:06:55.200 as they do for 3x+1.
+00:06:57.820 But Benford's law can't tell us
+00:06:59.990 whether all numbers will end up
+00:07:01.710 in the four, two, one loop or not.
+00:07:04.800 For that, we need adifferent sort of analysis.
+00:07:07.970 Now, at first glance,
+00:07:08.820 it seems strange that when you apply 3x+1,
+00:07:11.660 all numbers should end up at one.
+00:07:13.930 I mean, consider thatthere are the same number
+00:07:16.570 of odd and even numbers,
+00:07:18.810 but odd numbers are more than tripled,
+00:07:21.330 while even numbers are only cut in half.
+00:07:24.400 Therefore, it seems likeevery sequence on average
+00:07:27.000 should grow, not shrink.
+00:07:29.400 But here's the catch.
+00:07:30.670 Every time you multiplyan odd number by three
+00:07:32.760 and then add one, it willalways become an even number,
+00:07:36.760 and that means the nextstep is to divide by two.
+00:07:40.000 So odd numbers are notactually tripled by 3x+1.
+00:07:43.550 They're increased by a factorof about three over two.
+00:07:46.690 I'm neglecting the plus one
+00:07:47.960 because it's insignificantfor large numbers.
+00:07:51.170 And 3/2 is actually the most
+00:07:53.820 an odd number can grow in one step.
+00:07:57.160 Think of the path from oneodd number in a sequence
+00:07:59.690 to the next odd number.
+00:08:01.430 After multiplying by three and adding one,
+00:08:03.420 you have an even number.
+00:08:05.290 And 50% of the time,
+00:08:06.760 dividing by two bringsyou back to an odd number.
+00:08:10.220 But a quarter of the time,you can divide by four
+00:08:12.890 before you get to the next odd number.
+00:08:14.640 So, for a quarter of numbers,
+00:08:16.540 the next one in the sequence
+00:08:18.000 will be 3/4 of its initial value.
+00:08:21.210 An 1/8 the time, you can divide by eight
+00:08:23.390 before getting to the next odd number,
+00:08:25.140 and 1/16 of the time, youcan divide by 16 and so on.
+00:08:29.270 If you take the geometric mean,
+00:08:31.420 you find, on average, toget from one odd number
+00:08:34.640 to the next one, youmultiply by three over four,
+00:08:38.100 which is less than one.
+00:08:39.919 So statistically speaking,
+00:08:41.610 3x+1 sequences are morelikely to shrink than grow.
+00:08:45.920 Take 341 for example,
+00:08:48.350 multiply by three andadd one, you get 1,024,
+00:08:52.250 which you can divide by two
+00:08:54.340 and then divide by two again, and again,
+00:08:56.900 and again, and again,
+00:08:58.420 10 times in total untilyou're down to one.
+00:09:02.620 One way to visualize thesepaths of numbers in 3x+1
+00:09:06.060 is simply to show how each number
+00:09:07.930 connects to the next one in its sequence.
+00:09:10.360 This is called a directed graph.
+00:09:13.150 It looks like a tree or aseries of little streams
+00:09:16.430 that flow into each other.
+00:09:18.170 If the conjecture is true,
+00:09:19.740 it means that every single number
+00:09:22.240 is connected to this graph.
+00:09:24.150 Every tiny stream allthe way out to infinity
+00:09:27.540 eventually flows into themassive river of four, two, one.
+00:09:34.000 Some mathematicians havemodified this visualization
+00:09:36.900 by rotating the graph at each number;
+00:09:39.560 anticlockwise if it's an odd number,
+00:09:41.400 and clockwise if it's even.
+00:09:43.810 And then you end up with a structure
+00:09:46.110 that looks like a coral or seaweed.
+00:09:49.860 And by adjusting the degree of rotation
+00:09:51.930 for odd and even numbers,
+00:09:53.460 you can create these beautiful,organic-looking shapes.
+00:09:58.900 Now, there are two ways theconjecture could be false.
+00:10:01.890 There could be a numbersomewhere, some seed,
+00:10:04.320 that starts a sequence of numbers
+00:10:06.260 that grows to infinity.
+00:10:08.850 For whatever reason,
+00:10:10.260 it doesn't obey the same numerical gravity
+00:10:12.960 as all of the other numbers.
+00:10:14.710 Another possibility is thereexists a sequence of numbers
+00:10:18.050 that forms a closed loop.
+00:10:20.530 All the numbers in this loop
+00:10:22.000 would be unconnected to the main graph.
+00:10:25.230 But thus far, no loop
+00:10:26.910 or sequence that shoots offto infinity has been found.
+00:10:30.530 And not for lack of trying,
+00:10:31.950 mathematicians have tested by brute force
+00:10:34.570 every single number up to two to the 68.
+00:10:37.160 That's 295,147,905,179,352,825,856numbers.
+00:10:49.060 We know, for certain, that everysingle one of those numbers
+00:10:52.650 eventually comes back down to one.
+00:10:55.310 We have tested nearly300 quintillion numbers,
+00:10:58.640 and none of them disproves the conjecture.
+00:11:01.560 In fact, given this information,
+00:11:03.460 mathematicians calculate that any loop
+00:11:05.530 other than four, two, one
+00:11:06.940 must be at least 186 billion numbers long.
+00:11:11.530 So, it seems pretty likelythat the conjecture is true,
+00:11:14.810 but this doesn't prove it.
+00:11:16.950 One way mathematicianshave attempted to prove it
+00:11:19.480 is by making a scatterplot
+00:11:21.720 with all the seed numbers on the x-axis
+00:11:23.910 and a number from each seedssequence on the y-axis.
+00:11:27.100 Now, if you can show thatin every 3x+1 sequence
+00:11:30.890 there is a number that issmaller than the original seed,
+00:11:34.200 well then you have proventhe Collatz conjecture,
+00:11:36.950 because whatever number you pick,
+00:11:38.710 you know it will atsome point get smaller,
+00:11:41.290 and that smaller number asa seed also gets smaller,
+00:11:44.600 and so on down to one,
+00:11:46.830 meaning the only way any sequence can end
+00:11:49.700 is in the four, two, one loop.
+00:11:53.040 This has not yet been shown.
+00:11:56.120 But, in 1976, Riho Terras was able to show
+00:12:00.200 that almost all Collatz sequences
+00:12:02.920 reach a point below their initial value.
+00:12:05.540 In 1979, this limit was reduced
+00:12:07.890 with almost all numbers
+00:12:09.150 going to less than Xto the power of 0.869.
+00:12:12.370 And then in 1994,
+00:12:14.080 it was further lowered
+00:12:15.260 to less than X to the power of 0.7925.
+00:12:19.420 In this case, the term almost all numbers
+00:12:21.950 has a technical mathematical definition.
+00:12:24.720 It means that as thenumbers you're looking at
+00:12:26.970 go to infinity,
+00:12:28.770 the fraction that end upunder the curve goes to one.
+00:12:33.760 Then in 2019,
+00:12:35.180 one of the world's greatestliving mathematicians,
+00:12:37.260 Terry Tao, was able to show 3x+1 obeys
+00:12:40.810 even stricter criteria.
+00:12:43.300 He showed almost allnumbers will end up smaller
+00:12:46.900 than any arbitrary function f of x
+00:12:49.810 so long as that function goes to infinity
+00:12:52.130 as x goes to infinity.
+00:12:54.220 But the function can riseas slowly as you like.
+00:12:57.500 So, log x is an example, orlog, log, log x works too,
+00:13:02.530 or log, log, log, log x.
+00:13:04.960 What this means is,for almost all numbers,
+00:13:07.540 you can guarantee that thereis an arbitrarily small number
+00:13:11.660 somewhere in its sequence.
+00:13:13.990 In a public talk he gavein 2020, Terry Tao said,
+00:13:16.867 "This is about as close as one can get
+00:13:18.810 to the Collatz conjecturewithout actually solving it."
+00:13:22.690 This is an impressive result,but it's still not a proof.
+00:13:27.320 So why can't we prove the conjecture true?
+00:13:30.440 Could it be because it's not true?
+00:13:33.010 I mean, everyone istrying to prove it true,
+00:13:34.900 which means almost no one islooking for counterexamples.
+00:13:38.540 It had happened tome just two years ago,
+00:13:40.970 where there was somethingI was trying to prove,
+00:13:42.700 that I was trying forthree years to prove,
+00:13:46.520 and I couldn't get it to work.
+00:13:48.940 And then I found a counterexample,
+00:13:50.370 and then I realized whatthe correct statement
+00:13:52.070 should have been.
+00:13:52.903 And then a month later, Iproved the correct statement.
+00:13:55.280 Maybe we should be spending more energy
+00:13:57.130 looking for counterexamplesthan we're currently spending.
+00:13:59.900 [Narrator] I mean,remember how the number 27
+00:14:01.590 grows all the way to 9,232?
+00:14:05.410 Here is a plot of seednumbers up to 10,000,
+00:14:09.030 with the largest numberreached for each seed
+00:14:11.730 plotted on the y-axis.
+00:14:13.770 The y-axis stops at a 100,000,
+00:14:16.060 but not all numbers canbe shown at this scale.
+00:14:19.210 The seed 9,663, for example,climbs as high as 27 million.
+00:14:26.090 And as yet, no one has proven
+00:14:27.710 why a number couldn't justshoot off to infinity.
+00:14:31.320 And it would take only oneto disprove the conjecture,
+00:14:35.460 or some set of numberscould be part of a loop
+00:14:38.260 not connected to the main graph.
+00:14:39.980 As far as we know, there isonly one loop: four, two, one.
+00:14:44.290 But something strange happens
+00:14:45.960 if you include negative numbers.
+00:14:48.410 Applying the same 3x+1 rules as before,
+00:14:51.950 there is not one loop, not two loops,
+00:14:54.800 but three independent loops of numbers.
+00:14:58.150 And they start at lowvalues like -17 and -5.
+00:15:03.290 Why should there be disconnected loops
+00:15:05.630 on the negative side of the number line,
+00:15:07.430 but not on the positive side?
+00:15:10.050 Now, one of the mostconvincing pieces of evidence
+00:15:12.110 supporting the conjectureis Terry Tao's proof
+00:15:14.360 that almost all numbers havea number in their sequence
+00:15:16.910 that is arbitrarily small.
+00:15:19.150 But proving that almost allnumbers obey this criteria
+00:15:22.870 isn't the same thing asproving that all numbers do.
+00:15:27.520 How many numbers between oneand 100 are perfect squares?
+00:15:31.940 The answer is 10.
+00:15:33.870 So, 10% of numbers up to100 are perfect squares.
+00:15:37.940 How many numbers between oneand 1,000 are perfect squares?
+00:15:41.840 The answer is 31.
+00:15:43.930 So only 3.1% of the numbers upto 1,000 are perfect squares.
+00:15:48.530 And the higher you go, thesmaller this percentage becomes,
+00:15:52.690 such that in the limit, you could say
+00:15:54.800 almost all numbers arenot perfect squares.
+00:15:58.120 The fraction of numbers
+00:15:59.380 that are not perfect squares goes to one
+00:16:01.540 as X goes to infinity.
+00:16:04.080 And yet we know
+00:16:05.290 there are an infinitenumber of perfect squares
+00:16:07.580 and we know exactly where they are.
+00:16:09.940 Now, we've tested by brute force
+00:16:11.700 all numbers up to two to the 68,
+00:16:13.350 and they all obey the Collatz conjecture.
+00:16:15.540 And you might be thinking that,well, we should have found
+00:16:17.670 a counterexample by this point.
+00:16:19.870 But on the scale of all numbers,two to the 68 is nothing.
+00:16:23.830 I mean, the Polyaconjecture proposed in 1919
+00:16:26.270 by George Polya
+00:16:27.530 asserted that the majorityof natural numbers
+00:16:30.100 up to any given number have anodd number of prime factors.
+00:16:34.360 The conjecture was eventually proven false
+00:16:36.490 by C. Brian Haselgrove in 1958
+00:16:39.130 when he identified a counterexample.
+00:16:41.610 What's remarkable is thevalue of this counterexample
+00:16:44.270 was 1.845 times 10 to the 361.
+00:16:48.010 That's some 10 to 340 times bigger
+00:16:50.950 than all the numbers checked for 3x+1.
+00:16:54.300 One way to think about 3x+1
+00:16:55.900 is as though it's a simpleprogram run on a turing machine.
+00:16:59.730 The seed number is theinput to the machine.
+00:17:03.220 So in this picture, two to the 68
+00:17:05.050 is simply an input tape 68 squares long.
+00:17:08.680 You can think of them asa string of ones and zeros
+00:17:11.630 or black and white squares.
+00:17:13.950 Saying the machine hastransformed every input
+00:17:16.490 up to this 68 square taped down to one
+00:17:19.540 should not give you a lot of confidence
+00:17:21.390 that it will do so for all inputs.
+00:17:24.339 In fact, it's fairly simple
+00:17:25.910 to calculate a number that shows
+00:17:27.490 any arbitrary behavior youlike, so long as it is finite.
+00:17:30.880 But if you want a number thatincreases by three over two
+00:17:33.330 five consecutive times, youcan calculate that number.
+00:17:36.370 If you want a number thatclimbs by three over two
+00:17:38.270 10 times in a row, or100 times or 1,000 times,
+00:17:41.980 you can easily calculate those numbers.
+00:17:44.530 But after the finite section you specify,
+00:17:46.810 you have no more control.
+00:17:48.460 And every that has ever beentested, always falls to one.
+00:17:52.690 If there is a counterexample,
+00:17:54.300 it's virtually impossiblethat someone's gonna guess it.
+00:17:57.650 And the space of all possibilities
+00:17:59.470 is too big to searchexhaustively by brute force.
+00:18:02.520 Two to the 1,000 isnot a searchable space.
+00:18:05.180 So, if we're gonna find it,
+00:18:06.320 we have to find it bysome intelligent process
+00:18:09.150 and not by guess and check.
+00:18:11.530 I had been on team 3x+1 for 20 years.
+00:18:15.350 And then this point of view,
+00:18:18.680 I realized that, what do we really know?
+00:18:23.400 It's very hard to provea theorem that's false.
+00:18:27.470 And so, could it be thateveryone is struggling
+00:18:29.510 to prove this thing becauseit's not actually true?
+00:18:32.700 And two to the 60 isnot a lot of evidence.
+00:18:35.920 And even the statisticalversion is maybe true
+00:18:39.450 and not evidence for the non-existence
+00:18:42.760 of a divergent trajectorysomewhere in the 3x+1 sequence.
+00:18:48.060 Of course there is another option,
+00:18:50.410 and that is that we'll never know,
+00:18:52.620 that the problem is undecidable.
+00:18:55.130 In 1987, John Conway createda generalization of 3x+1.
+00:19:00.150 It was a mathematical machinethat he called FRACTRAN.
+00:19:03.470 And he was able to show thismachine is turing-complete,
+00:19:07.480 which means it can do anythinga modern computer can do,
+00:19:11.260 but it also means that it'ssubject to the halting problem,
+00:19:14.440 a chance that the machinenever stops running
+00:19:16.810 and so doesn't give you an output.
+00:19:19.630 And this does not prove
+00:19:21.070 that 3x+1 is also subjectto the halting problem,
+00:19:24.270 but it is possible thatgiven what we know,
+00:19:26.670 we may never prove the Collatzconjecture true or false.
+00:19:31.010 You're gonna be taught in school
+00:19:32.360 that we know a bunch ofstuff, and it's a lie.
+00:19:35.500 They're all lies.
+00:19:36.480 Here's this stupid little problem.
+00:19:38.680 Come on, really we can't solve this?
+00:19:41.870 Really?
+00:19:43.140 You know, it just shows that math is hard.
+00:19:46.870 If anything, it showsthat all of the things
+00:19:48.840 that we can solve are miracles.
+00:19:51.010 We have no right to have solutions
+00:19:52.980 to all of these other problems.
+00:19:54.740 For my whole life,
+00:19:56.190 I've thought of numbers asthese incredibly regular things
+00:19:59.650 full of patterns,symmetry, and repetition.
+00:20:02.780 But what I'm realizing only now
+00:20:04.450 is just how peculiar numbers really are.
+00:20:07.330 You can see this most clearlyin the coral representation.
+00:20:10.440 From a simple mathematical operation
+00:20:12.740 comes something intricate,organic-looking,
+00:20:15.760 and, thus far, intractable to us.
+00:20:19.030 Do all numbers connect to the structure,
+00:20:21.520 or is there some unique filament,a spindly little thread,
+00:20:25.260 that doesn't connect to any of this,
+00:20:27.040 that runs off to infinity?
+00:20:29.050 And why is it so hard to tell?
+00:20:31.760 I think that's why Paul Erdos said,
+00:20:33.727 "Mathematics is not yet ripeenough for such questions."
+00:20:37.992 (gentle music)
+00:20:42.650 What I love about 3x+1
+00:20:44.590 is it's a problem almostanyone can understand
+00:20:47.300 and play around with.
+00:20:48.690 And actually trying to figurethings out for yourself
+00:20:50.920 is the best way to learn,
+00:20:52.820 which is why I subscribed to Brilliant,
+00:20:54.690 the sponsor of this video.
+00:20:56.570 Now, recently, Brilliant haveupped their interactivity.
+00:20:59.780 For example, here is a great lesson
+00:21:01.670 on the Pythagorean theorem.
+00:21:03.550 So, you don't just remember the formula,
+00:21:05.840 but you really understand what it means.
+00:21:08.430 Now, Brilliant is a website and an app
+00:21:10.660 designed to get you thinking deeply
+00:21:12.240 by engaging you in problem-solving.
+00:21:14.910 It's one thing to read through a textbook
+00:21:17.000 and think that you get it,
+00:21:18.340 but it's quite anotherto play with interactives
+00:21:20.480 and actually test yourself as you go,
+00:21:22.610 and Brilliant curates the experiences
+00:21:24.930 so they get more and morechallenging over time.
+00:21:27.890 There's always a helpfultip or explanation
+00:21:30.700 that takes your understandingto the next level.
+00:21:32.960 I'd highly recommend their course
+00:21:34.340 on mathematical fundamentals,
+00:21:36.220 which now has even more interactivity
+00:21:38.900 and it has topics that arerelevant to all areas of STEM
+00:21:42.340 and algorithm fundamentals foranyone interested in coding.
+00:21:46.340 It's great to have a resource like this
+00:21:48.510 to inspire you to learnsomething new every single day.
+00:21:51.860 I try to start off my day
+00:21:52.990 by challenging myself with Brilliant.
+00:21:55.180 And so if you'd like to join me
+00:21:56.630 and a community of 8million other learners,
+00:21:59.000 go to brilliant.org/veritasium.
+00:22:01.910 I will put that linkdown in the description.
+00:22:04.110 So I wanna thank Brilliantfor sponsoring this video,
+00:22:06.490 and I wanna thank you for watching.

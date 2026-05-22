@@ -1,0 +1,570 @@
+# tactiq.io free youtube transcript
+# The Most Misunderstood Concept in Physics
+# https://www.youtube.com/watch/DxL2HoqLbyA
+
+00:00:00.060 This is a video aboutone of the most important,
+00:00:02.850 yet least understoodconcepts in all of physics.
+00:00:07.110 It governs everythingfrom molecular collisions
+00:00:09.990 to humongous storms.
+00:00:12.330 From the beginning of the universe
+00:00:14.850 through its entire evolution,to its inevitable end.
+00:00:19.650 It may, in fact, determinethe direction of time
+00:00:22.290 and even be the reason that life exists.
+00:00:25.440 To see the confusion around this topic,
+00:00:27.960 you need to ask only one simple question.
+00:00:31.800 What does the Earth get from the sun?
+00:00:35.400 What does the earth get from sun?
+00:00:39.390 Well, it's light rays?
+00:00:41.040 What do we get from the sun?- Heat.
+00:00:43.059 Warmth.
+00:00:43.892 Warmth, light.
+00:00:45.900 Vitamin D, we get vitamin D from-
+00:00:47.400 We do get vitamin Dfrom the ultraviolet rays.
+00:00:49.350 Well, a lot of energy.
+00:00:51.450 What does the earthget from this, energy?
+00:00:53.230 Yeah, energy.
+00:00:54.720 Energy.
+00:00:56.340 Nailed it.
+00:00:57.450 Every day, the earth getsa certain amount of energy
+00:00:59.490 from the sun.
+00:01:00.780 And then how much energydoes the earth radiate back
+00:01:04.830 into space relative to that amount
+00:01:06.630 that it gets from the sun?
+00:01:07.830 Probably not as much, I, you know,
+00:01:09.630 I don't believe it's justradiating right back.
+00:01:12.570 I'd say less.
+00:01:14.037 Less.
+00:01:14.870 Less.- I say less.
+00:01:16.066 I guess about 70%?
+00:01:17.260 It is a fraction.
+00:01:18.510 I'd say 20%.
+00:01:19.543 Because...- Because we use some of it.
+00:01:22.080 We use some of the energy.- Mm-hmm.
+00:01:23.250 We consume a lot, right?
+00:01:24.870 But the thing about energyis it never really goes away.
+00:01:28.050 You can't really use it up.
+00:01:30.420 It would have tobreak even, wouldn't it?
+00:01:32.580 Same amount, yeah.
+00:01:33.630 You know, cause and effect.
+00:01:35.310 It'd be equal in some ways, right?
+00:01:37.530 For most of the earth's history,
+00:01:39.180 it should be exactly thesame amount of energy
+00:01:41.550 in from the sun as earthradiates into space.
+00:01:45.270 Wow.
+00:01:46.103 Because if we didn't do that,
+00:01:48.030 then the earth would get a lothotter, that'd be a problem.
+00:01:50.190 That'd be a big problem.
+00:01:51.240 So, if that is the case...
+00:01:53.280 Yeah.
+00:01:54.113 Then what are we reallygetting from the sun?
+00:01:57.900 That's a good question.
+00:01:58.733 Hmm.
+00:01:59.910 It gives us a nice tan.
+00:02:01.650 It gives us a nice tan, I love it.
+00:02:03.420 We're getting somethingspecial from the sun.
+00:02:05.280 I don't know, what dowe get without the energy?
+00:02:07.770 But nobody talks about it.
+00:02:09.600 To answer that, we haveto go back to a discovery
+00:02:12.330 made two centuries ago.
+00:02:15.720 In the winter of 1813,France was being invaded
+00:02:18.630 by the armies of Austria,Prussia, and Russia.
+00:02:22.110 The son of one of Napoleon's generals
+00:02:24.060 was Sadi Carnot, a 17-year-old student.
+00:02:27.450 On December 29th, hewrites a letter to Napoleon
+00:02:30.180 to request to join in the fight.
+00:02:32.610 Napoleon preoccupied inbattle, never replies.
+00:02:36.870 but Carnot gets hiswish a few months later
+00:02:39.150 when Paris is attacked.
+00:02:41.070 The students defend a chateaujust east of the city,
+00:02:44.520 but there're no matchfor the advancing armies,
+00:02:47.340 and Paris falls afteronly a day of fighting.
+00:02:50.730 Forced to retreat, Carnot is devastated.
+00:02:56.280 Seven years later, hegoes to visit his father
+00:02:59.040 who's fled to Prussiaafter Napoleon's downfall.
+00:03:02.400 His father was not only ageneral, but also a physicist.
+00:03:06.120 He wrote an essay on how energy
+00:03:07.800 is most efficiently transferredin mechanical systems.
+00:03:11.640 When his son comes tovisit, they talk at length
+00:03:14.310 about the big breakthroughof the time, steam engines.
+00:03:18.390 Steam engines were alreadybeing used to power ships,
+00:03:21.330 mine ore, and excavate ports.
+00:03:24.330 And it was clear thatthe future industrial
+00:03:26.610 and military might of nations
+00:03:28.740 depended on having the best steam engines.
+00:03:33.150 But French designs were falling behind
+00:03:35.220 those of other countries like Britain.
+00:03:37.590 So, Sadi Carnot took it uponhimself to figure out why.
+00:03:45.480 At the time, even the best steam engines
+00:03:47.400 only converted around 3% of thermal energy
+00:03:50.100 into useful mechanical work.
+00:03:52.590 If he could improve onthat, he could give France
+00:03:55.380 a huge advantage and restoreits place in the world.
+00:03:59.700 So he spends the next threeyears studying heat engines,
+00:04:03.630 and one of his key insights
+00:04:05.610 involves how an idealheat engine would work,
+00:04:08.850 one with no friction and nolosses to the environment.
+00:04:12.690 It looks something like this.
+00:04:16.410 Take two really big metalbars, one hot and one cold.
+00:04:20.790 The engine consists of achamber filled with air,
+00:04:24.270 where heat can only flow inor out through the bottom.
+00:04:28.080 Inside the chamber is a piston,
+00:04:30.060 which is connected to a flywheel.
+00:04:32.460 The air starts at atemperature just below that
+00:04:35.220 of the hot bar.
+00:04:36.570 So first, the hot baris brought into contact
+00:04:38.820 with the chamber.
+00:04:39.660 The air inside expandswith heat flowing into it
+00:04:42.960 to maintain its temperature.
+00:04:44.610 This pushes the pistonup, turning the flywheel.
+00:04:48.360 Next, the hot bar is removed,
+00:04:50.250 but the air in the chambercontinues to expand,
+00:04:53.550 except now without heat entering,the temperature decreases.
+00:04:57.870 In the ideal case,
+00:04:58.890 until it is the temperatureof the cold bar.
+00:05:01.830 The cold bar is brought intocontact with the chamber
+00:05:04.080 and the flywheel pushes the piston down.
+00:05:06.690 And as the air is compressed,
+00:05:08.160 heat is transferred into the cold bar.
+00:05:11.370 The cold bar is removed.
+00:05:12.930 The flywheel compresses the gas further
+00:05:15.240 increasing its temperatureuntil it is just below that
+00:05:17.750 of the hot bar.
+00:05:19.230 Then the hot bar is connectedagain and the cycle repeats.
+00:05:23.190 Through this process, heatfrom the hot bar is converted
+00:05:26.940 into the energy of the flywheel.
+00:05:30.060 And what's interesting to noteabout Carnot's ideal engine
+00:05:33.150 is that it is completely reversible.
+00:05:35.940 If you ran the engine in reverse,
+00:05:38.400 first the air expandslowering the temperature,
+00:05:41.850 then the chamber is broughtinto contact with the cold bar,
+00:05:44.850 the air expands more, drawingin heat from the cold bar.
+00:05:48.870 Next, the air is compressed,increasing its temperature.
+00:05:52.680 The chamber is placedon top of the hot bar
+00:05:54.720 and the energy of the flywheelis used to return the heat
+00:05:58.140 back into the hot bar.
+00:06:00.660 However many cycles were runin the forward direction,
+00:06:03.810 you could run the same numberin reverse, and at the end,
+00:06:07.470 everything would returnto its original state
+00:06:10.140 with no additional inputof energy required.
+00:06:14.010 So by running an ideal engine,nothing really changes.
+00:06:17.820 You can always undo what you did.
+00:06:22.080 So what is the efficiency of this engine?
+00:06:25.140 Since it's fully reversible,
+00:06:26.970 you might expect theefficiency to be 100%,
+00:06:30.240 but that is not the case.
+00:06:32.520 Each cycle, the energyof the flywheel increases
+00:06:35.190 by the amount of heat flowing
+00:06:36.450 into the chamber from the hot bar,
+00:06:38.640 minus the heat flowing out ofthe chamber at the cold bar.
+00:06:42.780 So to calculate the efficiency,we divide this energy
+00:06:46.170 by the heat input from the hot bar.
+00:06:50.010 Now the heat in on the hotside is equal to the work done
+00:06:53.310 by the gas on the piston,
+00:06:55.470 and this will always begreater than the work done
+00:06:58.200 by the piston on the gas on the cold side,
+00:07:01.140 which equals the heat out.
+00:07:03.390 And this is because on the hot side,
+00:07:05.220 the hot gas exerts a greater pressure
+00:07:07.680 on the piston than thatsame gas when cold.
+00:07:11.610 To increase the efficiency of the engine,
+00:07:13.650 you could increase thetemperature of the hot side,
+00:07:16.350 or decrease the temperatureof the cold side, or both.
+00:07:21.870 Lord Kelvin learns ofCarnot's ideal heat engine
+00:07:24.780 and realizes it could form the basis
+00:07:27.540 for an absolute temperature scale.
+00:07:30.150 Imagine that the gas is allowedto expand an extreme amount,
+00:07:34.200 so much that it cools to the point
+00:07:36.090 where all the gas particleseffectively stop moving.
+00:07:39.630 Then they would exert nopressure on the piston,
+00:07:42.690 and it would take no work to compress it
+00:07:44.940 on the cold side, sono heat would be lost.
+00:07:48.810 This is the idea of absolute zero,
+00:07:52.230 and it would make for a100% efficient engine.
+00:07:56.220 Using this absolute temperaturescale, the Kelvin scale,
+00:08:00.060 we can replace theamount of heat in and out
+00:08:02.880 with the temperature of thehot and cold side respectively,
+00:08:06.510 because they are directly proportional.
+00:08:09.180 So we can express efficiency like this,
+00:08:11.640 which we can rewrite like this.
+00:08:15.420 What we have learnedis that the efficiency
+00:08:17.160 of an ideal heat enginedoesn't depend on the materials
+00:08:20.100 or the design of the engine,
+00:08:21.930 but fundamentally on the temperatures
+00:08:23.850 of the hot and cold sides.
+00:08:26.280 To reach 100% efficiency,you'd need infinite temperature
+00:08:29.250 on the hot side or absolutezero on the cold side,
+00:08:32.400 both of which are impossible in practice.
+00:08:35.190 So even with no friction orlosses to the environment,
+00:08:37.799 it's impossible to make aheat engine 100% efficient.
+00:08:41.520 And that's because to return the piston
+00:08:43.350 to its original position,
+00:08:44.700 you need to dump heat into the cold bar.
+00:08:47.280 So not all the energystays in the flywheel.
+00:08:51.660 Now, in Carnot's time,high pressure steam engines
+00:08:54.300 could only reach temperaturesup to 160 degrees Celsius.
+00:08:57.810 So their theoreticalmaximum efficiency was 32%,
+00:09:02.010 but their real efficiencywas more like 3%.
+00:09:05.430 That's because real enginesexperience friction,
+00:09:08.340 dissipate heat to the environment,
+00:09:10.080 and they don't transfer heatat constant temperatures.
+00:09:13.380 So for just as much heat going in,
+00:09:15.750 less energy ends up in the flywheel.
+00:09:18.540 The rest is spread out overthe walls of the cylinder,
+00:09:21.540 the axle of the flywheel,
+00:09:23.280 and is radiated out into the environment.
+00:09:26.790 When energy spreads out like this,
+00:09:29.010 it is impossible to get it back.
+00:09:31.380 So this process is irreversible.
+00:09:34.380 The total amount of energy didn't change,
+00:09:37.020 but it became less usable.
+00:09:39.600 Energy is most usablewhen it is concentrated
+00:09:43.260 and less usable when it's spread out.
+00:09:48.540 Decades later, Germanphysicist, Rudolf Clausius,
+00:09:51.540 studies Carnot's engine,and he comes up with a way
+00:09:54.510 to measure how spread out the energy is.
+00:09:58.170 He calls this quantity, entropy.
+00:10:02.160 When all the energy isconcentrated in the hot bar,
+00:10:05.160 that is low entropy,
+00:10:07.590 but as the energy spreadsto the surroundings,
+00:10:10.380 the walls of the chamber and the axle
+00:10:12.690 will entropy increases.
+00:10:15.030 This means the same amountof energy is present,
+00:10:17.910 but in this more dispersed form,
+00:10:19.770 it is less available to do work.
+00:10:23.430 In 1865, Clausius summarizesthe first two laws
+00:10:27.120 of thermodynamics like this.
+00:10:29.520 First, the energy of theuniverse is constant.
+00:10:33.210 And second, the entropy of theuniverse tends to a maximum.
+00:10:38.970 In other words, energyspreads out over time.
+00:10:44.910 The second law is core to somany phenomena in the world.
+00:10:48.300 It's why hot things cooldown and cool things heat up,
+00:10:51.810 why gas expands to fill a container,
+00:10:54.180 why you can't have aperpetual motion machine,
+00:10:57.090 because the amount of usableenergy in a closed system
+00:11:00.270 is always decreasing.
+00:11:04.050 The most common way to describeentropy is as disorder,
+00:11:08.100 which makes sense becauseit is associated with things
+00:11:10.860 becoming more mixed,random, and less ordered.
+00:11:14.160 But I think the best wayto think about entropy
+00:11:16.080 is as the tendency ofenergy to spread out.
+00:11:19.560 So why does energy spread out over time?
+00:11:22.590 I mean, most of the laws of physics
+00:11:24.000 work exactly the same wayforwards or backwards in time.
+00:11:28.050 So how does this cleartime dependence arise?
+00:11:34.530 Well, let's consider two small metal bars,
+00:11:36.930 one hot and one cold.
+00:11:38.910 For this simple model,
+00:11:40.170 we'll consider only eight atoms per bar.
+00:11:43.380 Each atom vibrates according to the number
+00:11:45.180 of energy packets it has.
+00:11:46.860 The more packets, the more it vibrates.
+00:11:49.230 So let's start withseven packets of energy
+00:11:51.300 in the left bar and three in the right.
+00:11:54.120 The number of energy packets in each bar
+00:11:55.920 is what we'll call a state.
+00:11:58.890 First, let's consider just the left bar.
+00:12:01.320 It has seven energy packets,
+00:12:02.940 which are free to move around the lattice.
+00:12:05.220 This happens nonstop.
+00:12:06.750 The energy packets hoprandomly from atom to atom
+00:12:09.630 giving different configurations of energy,
+00:12:12.240 but the total energy staysthe same the whole time.
+00:12:16.230 Now, let's bring the cold bar back in
+00:12:18.180 with only three packetsand touch them together.
+00:12:21.270 The energy packets can now hop around
+00:12:22.980 between both bars creatingdifferent configurations.
+00:12:26.520 Each unique configurationis equally likely.
+00:12:30.030 So what happens if we take asnapshot at one instant in time
+00:12:33.570 and see where all the energy packets are?
+00:12:36.030 So stop, look at this.
+00:12:39.690 Now there are nine energypackets in the left bar,
+00:12:43.020 and only one in the right bar.
+00:12:45.420 So heat has flowed from cold to hot.
+00:12:49.050 Shouldn't that be impossiblebecause it decreases entropy?
+00:12:53.730 Well, this is where Ludwig Boltzmann
+00:12:55.830 made an important insight.
+00:12:57.630 Heat flowing from coldto hot is not impossible,
+00:13:01.860 it's just improbable.
+00:13:04.290 There are 91,520 configurations
+00:13:07.650 with nine energy packets in the left bar,
+00:13:10.410 but 627,264 with fiveenergy packets in each bar.
+00:13:16.800 That is the energy is more than six times
+00:13:19.380 as likely to be evenlyspread between the bars.
+00:13:22.560 But if you add up all the possibilities,
+00:13:24.810 you find there's still a10.5% chance that the left bar
+00:13:28.770 ends up with more energypackets than it started.
+00:13:32.580 So, why don't we observethis happening around us?
+00:13:36.270 Well, watch what happens as weincrease the number of atoms
+00:13:38.940 to 80 per bar and theenergy packets to 100,
+00:13:42.180 with 70 in the left barand 30 in the right.
+00:13:45.810 There is now only a 0.05%chance that the left solid
+00:13:49.860 ends up hotter than it started.
+00:13:52.290 And this trend continues aswe keep scaling up the system.
+00:13:55.950 In everyday solids, thereare around 100 trillion,
+00:13:59.190 trillion atoms and evenmore energy packets.
+00:14:02.700 So heat flowing from coldto hot is just so unlikely
+00:14:06.930 that it never happens.
+00:14:10.290 Think of it like this Rubik's cube.
+00:14:12.390 Right now, it is completely solved,
+00:14:14.670 but I'm gonna close my eyesand make some turns at random.
+00:14:18.840 If I keep doing this, itwill get further and further
+00:14:21.570 from being solved.
+00:14:22.980 But how can I be confidentthat I'm really messing
+00:14:26.070 this cube up?
+00:14:27.390 Well, because there's onlyone way for it to be solved,
+00:14:30.000 a few ways for it to be almost solved,
+00:14:32.280 and quintillions of ways
+00:14:34.350 for it to be almost entirely random.
+00:14:36.930 Without thought and effort,
+00:14:38.610 every turn moves the Rubik's cube
+00:14:40.590 from a highly unlikely statethat of it being solved
+00:14:43.890 to a more likely state, a total mess.
+00:14:50.220 So if the natural tendencyof energy is to spread out
+00:14:53.010 and for things to get messier,
+00:14:55.110 then how is it possible to have something
+00:14:57.210 like air conditioning wherethe cold interior of a house
+00:15:01.410 gets cooler and the hotexterior gets hotter?
+00:15:06.060 Energy is going from cold to hot,
+00:15:08.850 decreasing the entropy of the house.
+00:15:12.090 Well, this decrease inentropy is only possible
+00:15:16.140 by increasing the entropy agreater amount somewhere else.
+00:15:20.310 In this case, at a power plant,
+00:15:21.930 the concentrated chemical energyand coal is being released,
+00:15:26.130 heating up the powerplant in its environment,
+00:15:28.770 spreading to the turbinethe electric generators,
+00:15:31.770 heating the wires allthe way to the house,
+00:15:33.900 and producing waste heatin the fans and compressor.
+00:15:37.470 Whatever decrease in entropyis achieved at the house
+00:15:40.950 is more than paid for by anincrease in entropy required
+00:15:44.880 to make that happen.
+00:15:47.670 But if total entropy isconstantly increasing
+00:15:50.700 and anything we do onlyaccelerates that increase,
+00:15:54.330 then how is there anystructure left on earth?
+00:15:58.140 How are there hot partsseparate from cold parts?
+00:16:01.680 How does life exist?
+00:16:05.010 Well, if the earth were a closed system,
+00:16:07.110 the energy would spread out completely,
+00:16:09.720 meaning, all life would cease,
+00:16:12.120 everything would decay and mix,
+00:16:14.520 and eventually, reachthe same temperature.
+00:16:17.760 But luckily, earth is not a closed system,
+00:16:21.540 because we have the sun.
+00:16:28.350 What the sun really givesus is a steady stream
+00:16:31.170 of low entropy that isconcentrated bundled up energy.
+00:16:35.970 The energy that we getfrom the sun is more useful
+00:16:39.660 than the energy we give back.
+00:16:41.100 It's more compact, it'smore clumped together.
+00:16:44.220 Plants capture thisenergy and use it to grow
+00:16:46.980 and create sugars.
+00:16:48.720 Then animals eat plantsand use that energy
+00:16:51.420 to maintain their bodies and move around.
+00:16:54.240 Bigger animals get their energy
+00:16:55.800 by eating smaller animals and so on.
+00:16:58.830 And each step of the way,
+00:17:00.690 the energy becomes more spread out.
+00:17:03.240 Okay, interesting.
+00:17:04.230 Yeah.
+00:17:05.063 Oh wow, I did not know that.
+00:17:06.960 There you go.
+00:17:08.069 Ultimately, all the energythat reaches earth from the sun
+00:17:11.430 is converted into thermal energy,
+00:17:13.950 and then it's radiated back into space.
+00:17:17.280 But in fact, it's the same amount.
+00:17:19.680 I know this is a-- You do know this is...
+00:17:21.780 I'm a PhD physicist.
+00:17:23.114 Oh, okay, but anyway, so...- I trust you.
+00:17:27.660 The increase in entropy can be seen
+00:17:29.820 in the relative numberof photons arriving at
+00:17:32.460 and leaving the earth.
+00:17:34.770 For each photon received from the sun,
+00:17:38.070 20 photons are emitted,
+00:17:40.650 and everything that happens on earth,
+00:17:42.960 plants growing, treesfalling, herds stampeding,
+00:17:46.980 hurricanes and tornadoes, people eating,
+00:17:49.830 sleeping, and breathing.
+00:17:51.330 All of it happens in theprocess of converting fewer,
+00:17:55.440 higher energy photons
+00:17:57.000 into 20 times as manylower energy photons.
+00:18:01.050 Without a source of concentrated energy
+00:18:03.420 and a way to discardthe spread out energy,
+00:18:06.870 life on earth would not be possible.
+00:18:10.320 It has even beensuggested that life itself
+00:18:12.660 may be a consequence of thesecond law of thermodynamics.
+00:18:16.200 If the universe tendstoward maximum entropy,
+00:18:19.020 then life offers a way toaccelerate that natural tendency,
+00:18:23.520 because life is spectacularly good
+00:18:26.280 at converting low entropyinto high entropy.
+00:18:29.970 For example, the surfacelayer of seawater produces
+00:18:32.850 between 30 to 680% moreentropy when cyanobacteria
+00:18:38.970 and other organic matter ispresent than when it's not.
+00:18:42.780 Jeremy England takesthis one step further.
+00:18:45.360 He's proposed that ifthere is a constant stream
+00:18:48.030 of clumped up energy, thiscould favor structures
+00:18:51.210 that dissipate that energy.
+00:18:53.460 And over time, this results
+00:18:55.170 in better and better energy dissipators,
+00:18:57.540 eventually resulting in life.
+00:19:00.120 Or in his own words,
+00:19:01.327 "You start with a random clump of atoms,
+00:19:03.990 and if you shine lighton it for long enough,
+00:19:06.420 it should not be so surprisingthat you get a plant."
+00:19:11.190 So life on earth survives onthe low entropy from the sun,
+00:19:15.420 but then where did thesun get its low entropy?
+00:19:19.410 The answer is the universe.
+00:19:22.590 If we know that the totalentropy of the universe
+00:19:25.020 is increasing with time, thenit was lower entropy yesterday
+00:19:29.550 and even lower entropythe day before that,
+00:19:31.920 and so on, all the wayback to the Big Bang.
+00:19:37.110 So right after the Big Bang,
+00:19:38.970 that is when the entropy was lowest.
+00:19:41.730 This is known as the past hypothesis.
+00:19:44.700 It doesn't explain whythe entropy was low,
+00:19:47.250 just that it must have beenthat way for the universe
+00:19:49.290 to unfold as it has.
+00:19:51.840 But the early universe was hot, dense,
+00:19:54.720 and almost completely uniform.
+00:19:56.910 I mean, everything wasmixed and the temperature
+00:19:59.220 was basically the same everywhere,
+00:20:01.500 varying by at most 0.001%.
+00:20:05.880 So how is this low entropy?
+00:20:09.000 Well, the thing we've left out is gravity.
+00:20:11.850 Gravity tends to clump matter together.
+00:20:15.000 So taking gravity into account,
+00:20:16.830 having matter all spread out like this,
+00:20:19.230 would be an extremely unlikely state,
+00:20:21.960 and that is why it's low entropy.
+00:20:26.520 Over time, as the universeexpanded and cooled,
+00:20:29.610 matter started to clumptogether in more dense regions.
+00:20:33.150 And in doing so, enormousamounts of potential energy
+00:20:36.540 were turned into kinetic energy.
+00:20:38.220 And this energy could also be used
+00:20:41.610 like how water flowingdownhill can power a turbine.
+00:20:45.480 But as bits of matterstarted hitting each other,
+00:20:48.510 some of their kinetic energywas converted into heat.
+00:20:51.540 So the amount of useful energy decreased.
+00:20:55.170 Thereby, increasing entropy.
+00:20:58.050 Over time, the useful energy was used.
+00:21:01.620 In doing so, stars, planets,galaxies, and life were formed,
+00:21:06.300 increasing entropy all along.
+00:21:09.180 The universe started with around 10
+00:21:11.340 to the 88 Boltzmannconstants worth of entropy.
+00:21:15.090 Nowadays, all the starsin the observable universe
+00:21:17.700 have about 9.5 times 10 to the 80.
+00:21:20.790 The interstellar andintergalactic medium combined
+00:21:23.550 have almost 10 times more,
+00:21:25.740 but still only a fractionof the early universe.
+00:21:29.640 A lot more is contained in neutrinos
+00:21:31.650 and in photons of thecosmic microwave background.
+00:21:36.870 In 1972, Jacob Bekenstein proposed
+00:21:39.750 another source of entropy, black holes.
+00:21:46.260 He suggested that theentropy of a black hole
+00:21:48.510 should be proportionalto its surface area.
+00:21:51.090 So as a black hole grows,its entropy increases.
+00:21:55.350 Famous physicists thoughtthe idea was nonsense
+00:21:58.410 and for good reason.
+00:21:59.820 According to classical thermodynamics,
+00:22:01.920 if black holes have entropy,
+00:22:03.600 then they should also have a temperature.
+00:22:05.970 But if they have temperatures,they should emit radiation
+00:22:09.090 and not be black after all.
+00:22:12.750 The person who set outto prove Bekenstein wrong
+00:22:15.660 was Stephen Hawking.
+00:22:17.490 But to his surprise, hisresults showed that black holes
+00:22:20.940 do emit radiation, nowknown as Hawking radiation,
+00:22:24.870 and they do have a temperature.
+00:22:27.360 The black hole at thecenter of the Milky Way
+00:22:29.340 has a temperature of about ahundred trillionth of a Kelvin,
+00:22:33.240 emitting radiation thatis far too weak to detect.
+00:22:36.270 So still pretty black.
+00:22:38.010 But Hawking confirmed thatblack holes have entropy
+00:22:40.980 and Bekenstein was right.
+00:22:43.110 Hawking was able to refineBekenstein's proposal
+00:22:46.140 and determine just howmuch entropy they have.
+00:22:49.230 The super massive black holeat the center of the Milky Way
+00:22:51.960 has about 10 to the 91Boltzmann constants of entropy.
+00:22:56.190 That is 1,000 times as much
+00:22:58.260 as the early observable universe,
+00:23:00.330 and 10 times more than allthe other particles combined.
+00:23:04.380 And that is just one black hole.
+00:23:06.630 All black holes togetheraccount for 3 times 10
+00:23:09.870 to the 104 Boltzmannconstants worth of entropy.
+00:23:14.100 So almost all the entropy of the universe
+00:23:17.550 is tied up in black holes.
+00:23:19.650 That means, the early universe
+00:23:21.270 only had about 0.000000000000003%of the entropy it has now.
+00:23:31.590 So the entropy was low,and everything that happens
+00:23:35.250 in the universe likeplanetary systems forming,
+00:23:37.770 galaxies merging, asteroids crashing,
+00:23:40.500 stars dying, to life itself flourishing,
+00:23:44.130 all of that can happen because the entropy
+00:23:46.320 of the universe was lowand it has been increasing,
+00:23:50.130 and it all happens only in one direction.
+00:23:52.740 We never see an asteroid uncrash
+00:23:55.380 or a planetary system unmix
+00:23:57.450 into the cloud of dustand gas that made it up.
+00:24:00.390 There is a clear differencebetween going to the past
+00:24:03.270 and the future, and thatdifference comes from entropy.
+00:24:07.500 The fact that we are going from unlikely
+00:24:09.810 to more likely states is whythere is an arrow of time.
+00:24:16.830 This is expected tocontinue until eventually,
+00:24:20.220 the energy gets spread out so completely
+00:24:22.800 that nothing interestingwill ever happen again.
+00:24:26.430 This is the heat death of the universe.
+00:24:29.940 In the distant future,
+00:24:31.140 more than 10 to the 100 years from now,
+00:24:33.780 after the last black hole has evaporated,
+00:24:36.270 the universe will be inits most probable state.
+00:24:40.260 Now, even on large scales,you would not be able to tell
+00:24:43.260 the difference between timemoving forwards or backwards,
+00:24:46.830 and the arrow of timeitself would disappear.
+00:24:52.980 So it sounds like entropyis this awful thing
+00:24:55.830 that leads us inevitably
+00:24:57.240 towards the dullest outcome imaginable.
+00:25:00.150 But just because maximumentropy has low complexity
+00:25:03.420 does not mean that low entropyhas maximum complexity.
+00:25:07.020 It's actually more like this tea and milk.
+00:25:09.840 I mean, holding it like thisis not very interesting.
+00:25:12.870 But as I pour the milkin, the two start to mix
+00:25:17.220 and these beautiful patterns emerge.
+00:25:20.220 They arise in an instantand before you know it,
+00:25:23.550 they're gone back to being featureless.
+00:25:26.490 Both low and high entropyare low in complexity.
+00:25:30.480 It's in the middlewhere complex structures
+00:25:33.330 appear and thrive.
+00:25:35.250 And since that's where we find ourselves,
+00:25:37.590 let's make use of the lowentropy we've got while we can.
+00:25:47.610 With the right tools, we canunderstand just about anything,
+00:25:50.550 from a cup of tea cooling down
+00:25:52.380 to the evolution of the entire universe.
+00:25:54.720 And if you're lookingfor a free and easy way
+00:25:56.820 to add powerful tools to your arsenal,
+00:25:59.250 then you should check out
+00:26:00.090 this video sponsor, brilliant.org.
+00:26:02.730 With Brilliant, you can masterkey concepts in everything
+00:26:05.430 from math and data scienceto programming and physics.
+00:26:08.550 All you need to do is set your goal,
+00:26:10.470 and Brilliant will design theperfect learning path for you,
+00:26:13.560 equipping you with all thetools you need to reach it.
+00:26:16.260 Want to learn how tothink like a programmer?
+00:26:18.180 Then Brilliant's latestcourse, "Thinking in Code"
+00:26:20.640 is a fast and easy way to get there.
+00:26:22.950 Using an intuitive drag and drop editor,
+00:26:25.110 it teaches you what youreally need to know,
+00:26:27.480 including essential conceptslike nesting and conditionals.
+00:26:31.020 You can start by jumpingright in to program a robot
+00:26:33.750 and then learn how to apply your new tools
+00:26:36.030 to your everyday life,
+00:26:37.080 like automating reminders on your phone
+00:26:39.210 or building a bot that filtersyour matches on a dating app.
+00:26:42.630 What I love about Brilliantis that they connect
+00:26:45.150 what you learn to real world examples.
+00:26:47.280 And because each lesson is hands-on,
+00:26:49.290 you'll build real intuition,
+00:26:51.270 so you can put what you'velearned to good use.
+00:26:53.970 To try everythingBrilliant has to offer free
+00:26:56.340 for a full 30 days, visitbrilliant.org/veritasium.
+00:27:00.360 I will put that linkdown in the description.
+00:27:02.820 And through that link, thefirst 200 of you to sign up
+00:27:05.850 will get 20% off Brilliant'sannual premium subscription.
+00:27:09.540 So I wanna thank Brilliantfor sponsoring this video,
+00:27:12.180 and I wanna thank you for watching.

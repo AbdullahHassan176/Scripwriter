@@ -1,0 +1,228 @@
+# tactiq.io free youtube transcript
+# How The Dutch Economy Shows We Can't Reduce Wealth Inequality With Taxes | Economics Explained
+# https://www.youtube.com/watch/Ot4qdCs54ZE
+
+00:00:00.120 This is the Netherlands, a picturesque nationfilled with windmills, tulip fields and uhh
+00:00:05.410 coffee shops.
+00:00:06.500 The nation is looked to by many as an extremelyforward-thinking place that practices some
+00:00:10.530 pretty progressive policies. The nation hasan incredibly strong social security system,
+00:00:15.089 with universal healthcare, robust retirementpensions, as well as allowances for maternity
+00:00:19.160 leave.
+00:00:20.190 And These kinds of policies are mirrored inother areas as well, the nation is home to
+00:00:23.990 relatively high tax rates, and the protectionsfor employees are very strong almost to the
+00:00:28.840 point that people joke it is impossible tobe fired in the Netherlands.
+00:00:33.079 So this kind of looks like a liberal paradiseright? Well, it would if it were not hiding
+00:00:39.510 a dirty little secret.
+00:00:41.570 This postcard-perfect little nation is accordingto the world bank the most unequal place on
+00:00:47.500 earth, and the extent of the inequality issimply staggering.
+00:00:51.980 We have explored south Africa on the channelbefore, which normally gets this less than
+00:00:56.210 desirable title. And if you were to pose thisquestion to google, it’s what you would
+00:01:00.510 walk away thinking. But this isn’t the wholestory.
+00:01:04.500 In terms of wealth inequality in recent years,South Africa has been pretty tame. The Netherlands
+00:01:10.460 by contrast is the only country on earth thatis more unequal than the world itself.
+00:01:17.230 So what is going on here?
+00:01:20.050 Similar policies to the ones that have beencommonplace in the Netherlands for decades
+00:01:23.220 are being proposed by politicians in placeslike the United states as a way to curb the
+00:01:27.460 issue of wealth inequality. But if we lookat the results it doesn’t look like they
+00:01:31.470 will do that at all.
+00:01:32.670 So to really understand this we are goingto as always look at a few key issues.
+00:01:37.840 How did the Netherlands of all places becomethe land of inequality?
+00:01:42.380 What does this teach us about the nature ofwealth in the modern world?
+00:01:45.530 And how can this help us create more robusteconomic policies that work to benifit everyone?
+00:01:50.610 And of course, while we are here we will callthis a country video and put the Netherlands
+00:01:55.160 on the economics explained leaderboard.
+00:02:16.820 Now inequality is a strange thing, there aremany different ways to quantify it and metrics
+00:02:21.939 that we use to make sense of it but outsideof the figures, there is no getting around
+00:02:26.010 the fact that it is a controversial issue.
+00:02:29.040 The last time we explored inequality on thischannel we attempted to objectively explore
+00:02:33.110 if it was something that had negative impactson long term growth in the economy, our conclusion
+00:02:38.099 was yes maybe depending on a set list of factorsand conditions.
+00:02:42.359 So basically the most fence sitty answer wecould possibly give based on existing research
+00:02:47.430 and it is still the most disliked video onthe channel by a fair margin. So to say people
+00:02:52.209 take this topic seriously is a bit of an understatement.
+00:02:55.180 But fair enough, it is a real issue that deservesproper attention by government all around
+00:02:59.780 the world. But the key to getting that attentionis to understand what these decisions makers
+00:03:04.279 will be looking at.
+00:03:05.849 The equality of countries is measured withsomething called a gini-co efficient now people
+00:03:10.090 might have heard this term before or seengraphs like these ones, but still do not truely
+00:03:13.969 understand what it actually shows.
+00:03:16.580 So to keep it simple lets imagine an economywith 3 people and 3 dollars to be gained in
+00:03:21.409 income each year.
+00:03:23.069 A perfectly even system would have each ofthose participants earn 1 dollar each. If
+00:03:27.410 we then looked at the cumulative total foreach person it would form a perfect y=x line.
+00:03:32.469 The income of 1 person is 1 dollar the secondperson plus the first person is 2 dollars
+00:03:37.829 and the income of the 3 people plus the secondperson plus the first person is 3 dollars.
+00:03:43.180 Mind-blowing stuff I know.
+00:03:45.440 This perfect world of equality would havea gini co-efficient of 0 meaning that everybody
+00:03:50.749 earns exactly the same amount. Cool but nowlets look at the opposite where all of the
+00:03:56.319 3 dollars goes to just one of the three people,well this hypothetical economy would have
+00:04:00.480 a gini coefficient of 1 meaning the systemcould not get more unequal because one person
+00:04:06.370 controls all the wealth.
+00:04:09.040 Now in reality, real economies have more peopleand more dollars to go around so the actual
+00:04:14.639 figure normally has a lot more decimal placesbut will always be somewhere within this range
+00:04:19.899 of 0 to 1.
+00:04:21.620 Cool so thats the gini co-efficient for mostpeople watching I am sure there were no major
+00:04:26.169 surprises there, but this figure can be usedto measure 2 things, income inequality and
+00:04:31.550 wealth inequality.
+00:04:33.130 Naturally income inequality tends to get alotof the attention, people riling over how a
+00:04:37.340 CEO earned 300 times more than the averageworker or whatever. but if anything income
+00:04:42.670 inequality is just the driver of wealth inequality.
+00:04:46.520 People who earn more can naturally save moreand their savings compound over time if well-invested,
+00:04:52.639 but if incomes were more even than this shouldstop the process at the beginning? It should
+00:04:58.520 cut off the flow of money building this wealthdivide, right?
+00:05:01.900 Well maybe, but that there may need to holdup to the
+00:05:04.870 Lessons of the Dutch
+00:05:06.830 The netherlands is very similar to nationslike sweden, denmark, finland and yes of course
+00:05:11.259 Norway in the sense that national social policiesare quiet strong and are funded by taxes that
+00:05:16.210 are quiet hight, that is why if we look atthe world banks records on income inequality
+00:05:21.699 all of these nations rank quiet low.
+00:05:24.690 Yet despite the obvious connection betweenincome and wealth, all of these nations have
+00:05:28.870 very high wealth inequality, of course nonequite to the extend of Netherlands but even
+00:05:35.090 a nation like Sweden, the poster child ofdemocratic socialism has a higher level of
+00:05:40.120 wealth inequality than the united states,brazil or india.
+00:05:44.430 So how is this possible? How are rich peoplehoarding such a huge share of the nation’s
+00:05:49.830 wealth despite sharing in a comparativelymodest portion of the nation’s total income?
+00:05:55.040 Well to answer that question we actually haveto look to the side that normally gets the
+00:05:58.599 least attention, the poorest households.
+00:06:02.090 Unlike income where the least you can earnafter taxes in a given year is zero dollars
+00:06:06.620 your net worth can be negative. For examplesomeone with huge student loans debts, that
+00:06:12.410 doesn’t own a house or a car and has minimalsavings might have a negative net worth.
+00:06:17.880 Now in the netherlands this isn’t so muchof an issue, schooling is heavily subsidized
+00:06:22.080 but that doesnt mean that people don’t takeon other types of debt. Infact they seek out
+00:06:27.409 debt on an even larger scale, through a homeloan.
+00:06:31.180 Now to viewers in most countries getting ahome loan requires saving up a deposit so
+00:06:35.700 that you own a portion of the property, mostbanks around the world would like you to put
+00:06:39.490 in at least 20% and at a bare minimum 5% sothat you have skin in the game and will be
+00:06:44.780 more likely to pay back your mortgage.
+00:06:47.310 This means that if you own a home, even ifyou have a big mortgage on it, you still probably
+00:06:51.280 have a positive net worth because your houseas an asset its worth more than the liability
+00:06:56.650 of the home loan so as long as you don’thave other debts or the value of the property
+00:07:00.910 has depreciated, you should be in the green.
+00:07:03.849 This is not the case in the Netherlands, whereborrows can, and are in fact encouraged to
+00:07:09.719 borrow up to and over 100% of the value oftheir home as a mortgage.
+00:07:14.789 The national mortgage guarantee is a governmentprogram that ensures bank loans on homes so
+00:07:19.449 if the borrower doesnt repay the bank, andthe bank can’t make all of the money it
+00:07:22.919 needs back from repossessing the home, ohwell it can just get a check from the government
+00:07:27.169 for the difference essentially making homeloans risk free.
+00:07:31.630 This is actually accelerated by the fact thatmortgage repayments in the netherlands are
+00:07:35.520 tax deductible. What that means is that ifyou earn 100,000 euro’s in a year but you
+00:07:41.460 are paying 40,000 euro’s in interest tothe bank on your homeloan you would only pay
+00:07:44.970 tax as if you are earning $60,000 euro’s.
+00:07:48.410 This does two things to our wealth inequalitymetric, for starters, it skews the influence
+00:07:53.159 of those high taxes. If people can claim significantdeductions on high incomes by having large
+00:07:58.460 mortgages then it doesn’t really matterwhat the tax rate is, because it can just
+00:08:01.930 be redirected into building a real estateportfolio.
+00:08:04.550 The other thing it does is encourage peopleto take on debt, up until recently people
+00:08:09.719 were able to borrow up to as much as 110%of the value of their house as a mortgage.
+00:08:14.610 That means if a young couple was just startingout with a brand new $300,000 euro family
+00:08:18.460 home they could borrow an extra $30,000 ontop of it and suddenly find themselves with
+00:08:23.180 a net worth of negative $30,000 dollars.
+00:08:26.680 This means that a good chunk of the populationis underwater on their homes and that’s
+00:08:31.150 perfectly fine.
+00:08:32.370 This is one of the failings of the gini co-efficientas a simple metric. Dutch people, even the
+00:08:37.380 dutch people who might have negative net worthsall live very comfortable lives and yet the
+00:08:43.299 figures by themselves would suggest that thisis some kind of tyrannical dystopia with a
+00:08:47.410 population of peasants struggling to get bywith a class of billionaire overlord watching
+00:08:51.779 over them.
+00:08:52.779 But of course this simply isn’t the case.
+00:08:55.670 Credit and acces to it for responsible purposescan be one of the greatest determinants of
+00:09:00.260 social mobility in an economy, but it canat the same time be something that accelerates
+00:09:04.810 wealth inequality beyond the control of regulargovernment intervention.
+00:09:10.560 For an extreme example, donald trump oncejoked that a homeless man on the street was
+00:09:14.149 900 million dollars richer than he was becauseat that time he was in crippling debt. Despite
+00:09:19.471 this his lifestyle was obviously far morecomfortable than the homeless mans and no
+00:09:23.540 rational economist would call him the porestman in america, although I am sure the comments
+00:09:27.990 section will and I already regret using thisexample.
+00:09:31.519 Anyway, the takeaway here is that negativenet worth does not necessarily mean “poor”
+00:09:36.610 but it does make figures look that way. Coolso does that solve the riddle of dutch inequality?
+00:09:42.880 Well no, it is certainly a contributing factor,but it’s not the whole story.
+00:09:48.649 In fact this extreme wealth inequality mightactually be the outcome of
+00:09:53.470 Matured capitalism
+00:09:55.440 The netherlands was the first nation in historythat economists could really point to and
+00:09:58.810 say this is capitalism as we know it in themodern day. And yes there were systems of
+00:10:03.760 trade that stretch back thousands of yearsthroughout human history but most of those
+00:10:08.139 societies still had productive potential decidedon by rulers rather than consumers.
+00:10:13.330 In our video on the dutch east india company,we found that the Netherlands pioneered incredibly
+00:10:18.389 modern idea’s like stock markets, limitedliability companies, and speculative assets
+00:10:23.040 as far back as the 1600’s.
+00:10:25.709 Beyond this the Netherlands has not reallyexperienced much in the way of shakeup of
+00:10:29.100 this system in the past 400 years. That’snot to say that there hasn’t been wars and
+00:10:33.670 coups and all that good stuff, this is modernhistory in Europe we are talking about...
+00:10:38.110 common.
+00:10:39.110 But it’s more so that if you were wealthyin the nation you could continue to pass this
+00:10:42.829 money down and down generations without thesame fear of it been guillotined somewhere
+00:10:47.140 in the family tree.
+00:10:48.399 That’s why the money in the Netherlandsis ooooollllddd money. The people that are
+00:10:52.911 rich are to be honest not that rich, not comparedto American, Chinese or Russian billionaires
+00:10:58.430 anyway. But if we were to look at the nation’swealthiest person, Charlene de Carvalho-Heineken,
+00:11:03.639 we can learn a lot about the nature of wealthin the country.
+00:11:06.920 This lady is 66 years old and is surprisesurprise in the beer business. Although she
+00:11:12.630 didn’t found the company, neither did herfather, or his father, and infact even her
+00:11:17.399 great grandfather didn’t actually foundthe heineken brand we know and love today,
+00:11:22.430 he simply convinced his wealthy parents tobuy a brewery with the family fortune that
+00:11:26.899 he just slapped his name on.
+00:11:29.050 That family fortune dated back to the dutcheast india company.
+00:11:33.329 What this means is income taxes will do absolutelynothing to control this wealth… Income?
+00:11:39.410 Hah, this family hasn’t earnt an incomesince napoleon was in diapers.
+00:11:45.340 Wealth begets wealth and the most powerfulvariable in compounding money is time. Normally
+00:11:50.590 this is controlled by having to split wealthbetween multiple heirs who will inevitably
+00:11:54.360 squander the family fortune but European elitestend to do things a little bit differently.
+00:11:59.750 This is a massive generalization of course,but a majority of the family fortune will
+00:12:04.589 be left to a selected child, who will be trainedin keeping the families assets as protected
+00:12:09.329 and low key as possible. The other childrenwill all still live a very comfortable lifestyle
+00:12:14.190 but the fortune does not get split up equalitylike it did with the Waltons lets say.
+00:12:19.570 This combined with a massive time frame cangenerate some pretty funky results.
+00:12:25.310 Consider this, would you rather get 100% returnson your portfolio (that is doubling it every
+00:12:31.029 year) for ten straight years. Or just 10%returns (which is closer to the market rate
+00:12:36.190 of return over the last century) for 100 years.Let’s assume these are all compounded annually
+00:12:41.620 and both examples are starting with $10,000for simplicity’s sake.
+00:12:46.630 Well our investor with a 10-year outlook turnedthat $10,000 into $10,240,000, those are some
+00:12:54.500 serious tendies, but our more conservativeinvestor with a 100 year outlook would be
+00:13:00.300 walking away with $137,806,123.40, which evenaccounting for inflation is significantly
+00:13:10.339 better than the first portfolio who had unrealisticreturn expectations anyway.
+00:13:15.720 Time in the market beats timing the market,and when people have had 400 years in the
+00:13:20.910 market well that is going to create some seriouswealth concentration.
+00:13:25.230 So does this mean that capitalism is inevitablygoing to grow more and more unequal as time
+00:13:30.060 passes? Well yeah probably, this effect willbe less severe in countries that don’t quiet
+00:13:35.990 have this dynastic inheritance scheme andthing like the giving pledge amongst big ticket
+00:13:40.220 billionaires will certainly make a difference.
+00:13:42.160 But as we have seen with the Netherlands it’snot the top ten on the Forbes list that is
+00:13:45.790 going to change these figures, it’s thehundreds of other families that intentionally
+00:13:49.720 slip below the radar.
+00:13:52.300 Now is this a problem?
+00:13:55.470 Well maybe not, I would much rather be inthe bottom 10% of the Netherlands than the
+00:13:59.980 bottom 10% of ethiopia, which is comparativelya far more equal country by gini co-efficient
+00:14:05.370 metrics, infact I would rather be in the bottom10% of the netherlands than the top 10% of
+00:14:11.260 ethiopia.
+00:14:12.260 But that goes to show that inequality doesn’talways cause issues so long as there are equitable
+00:14:15.819 systems in place to make sure that everyonegenuinely has the ability to rise up, and
+00:14:20.470 that the comfort, safety and wellbeing ofaverage people is not sacrificed in the name
+00:14:25.209 of profits for a few.
+00:14:26.660 I think I somehow managed to make everybodyon both the left and the right angry with
+00:14:30.550 that sentence. Please like the video, I feellike I am going to need it to balance out
+00:14:34.370 the dislikes….
+00:14:35.440 Ranking
+00:14:36.440 Ok the fun stuff, time to put the Netherlandson our economics explained national leaderboard,
+00:14:40.320 but before that, I am going to take Californiaoff here because American states are getting
+00:14:44.540 their own list. Also our video on texas wasone of the worst-performing videos we have
+00:14:48.740 released this year so don’t go recommendingyour home state for a video until that one
+00:14:52.750 reaches at least 200,000 views, I gotta followmarket demand here.
+00:14:56.319 Ok self pity aside,
+00:14:58.000 The Netherlands has a large advanced economywith a GDP of $914 billion usd it gets a 7/10
+00:15:05.029 falling just short of the trillion dollarclub.
+00:15:07.560 GDP per capita is very impressive at justunder $60,000 per person as of 2019. Whats
+00:15:14.529 more is that income is actually spread veryevenly, it’s within the top 15 countries
+00:15:20.620 in the world for income equally which makesthe wealth inequality all the more interesting.
+00:15:26.240 It gets an 8/10.
+00:15:28.019 In the weekend category
+00:15:29.470 Stability and confidence, well that’s ano-brainer, 10/10. Any economy that has harbored
+00:15:34.570 wealth for over 400 years is obviously doingsomething right.
+00:15:38.639 Growth is a bit meh, like most european nations,it has not really made much progress since
+00:15:44.800 2008 and the ensuing eurozone crisis, I can’timagine the fallout of the coronavirus doing
+00:15:49.560 them any favours so it gets a 2/10 becauseat least it hasn’t gone backward.
+00:15:55.459 Finally industry, well the nation is quiteimpressive here, it has always been on the
+00:15:59.590 cutting edge of capitalism and even todayit is a centre of advanced financial services
+00:16:03.970 that are used all over the world, it getsa 9/10.
+00:16:07.810 All together it gets an average score of 7.2out of 10, only really been brought down by
+00:16:12.579 it’s growth score, none less very impressiveand it claims a solid spot on the economics
+00:16:17.509 explained leaderboard.

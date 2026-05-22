@@ -1,0 +1,141 @@
+# tactiq.io free youtube transcript
+# How An Infinite Hotel Ran Out Of Room
+# https://www.youtube.com/watch/OxGsU8oIWjY
+
+00:00:01.590 Imagine there's a hotelwith infinite rooms.
+00:00:06.270 They're numbered one, two,three, four, and so on forever.
+00:00:12.040 This is the Hilbert Hoteland you are the manager.
+00:00:16.110 Now it might seem
+00:00:17.050 like you could accommodateanyone who ever shows up,
+00:00:19.700 but there is a limit, a way to exceed
+00:00:23.140 even the infinity of roomsat the Hilbert Hotel.
+00:00:26.960 To start let's say only oneperson is allowed in each room
+00:00:30.520 and all the rooms are full.
+00:00:32.820 There are an infinite number of people,
+00:00:35.060 in an infinite number of rooms.
+00:00:37.660 Then someone new showsup and they want a room,
+00:00:40.900 but all the rooms are occupied.
+00:00:42.160 So what should you do?
+00:00:44.240 Well, a lesser managermight turn them away,
+00:00:46.750 but you know about infinity.
+00:00:48.690 So you get on the PA
+00:00:50.110 and you tell all theguests to move down a room.
+00:00:52.790 So the person in roomone moves to room two.
+00:00:54.810 The one in room two moves to room three,
+00:00:56.470 and so on down the line.
+00:00:58.350 And now you can put thenew guest in room one.
+00:01:01.560 If a bus shows up with a hundred people,
+00:01:03.670 you know exactly what to do
+00:01:04.830 just move everyone down a hundred rooms
+00:01:06.580 and put the new guestsin their vacated rooms.
+00:01:09.980 But now let's say a bus showsup that is infinitely long,
+00:01:13.210 and it's carrying infinitely many people.
+00:01:16.160 You knew what to do witha finite number of people
+00:01:18.220 but what do you do with infinite people?
+00:01:21.440 You think about it for a minute
+00:01:22.760 and then come up with a plan.
+00:01:25.220 You tell each of your existing guests
+00:01:27.090 to move to the room withdouble their room number.
+00:01:30.230 So the person in roomone moves to room two,
+00:01:32.620 room two moves to room four,
+00:01:34.730 room three to room six and so on.
+00:01:37.600 And now all of the oddnumbered rooms are available.
+00:01:41.520 And you know, there are aninfinite number of odd numbers.
+00:01:44.630 So you can give eachperson on the infinite bus,
+00:01:47.310 a unique, odd numbered room.
+00:01:50.640 This hotel is really starting to feel
+00:01:52.530 like it can fit everybody.
+00:01:54.120 And that's the beauty of infinity,
+00:01:55.610 it goes on forever.
+00:01:57.940 And then all of a suddenmore infinite buses show up,
+00:02:00.630 not just one or two,
+00:02:02.100 but an infinite number of infinite buses.
+00:02:06.340 So, what can you do?
+00:02:08.720 Well, you pull out an infinitespreadsheet of course.
+00:02:11.440 You make a row for each bus,
+00:02:13.310 bus 1 bus 2 bus 3 and so on.
+00:02:15.520 And a row at the top
+00:02:16.700 for all the people whoare already in the hotel.
+00:02:19.780 The columns are for theposition each person occupies.
+00:02:22.910 So you've got hotel roomone, hotel room two,
+00:02:25.670 hotel room three, et cetera.
+00:02:27.700 And then bus one seatone, bus one seat two,
+00:02:30.530 bus one seat three and so on.
+00:02:32.990 So each person gets a unique identifier
+00:02:35.310 which is a combination of their vehicle
+00:02:37.280 and their position in it.
+00:02:39.600 So how do you assign the rooms?
+00:02:41.790 Well start in the top left corner
+00:02:43.500 and draw a line thatzigzags back and forth
+00:02:46.500 across the spreadsheet,
+00:02:48.040 going over each unique ID exactly once.
+00:02:51.850 Then imagine you pull on theopposite ends of this line,
+00:02:55.870 straightening it out.
+00:02:57.690 So we've gone from aninfinite by infinite grid,
+00:03:00.400 to a single infinite line.
+00:03:03.460 It's then pretty simple
+00:03:04.780 just to line up each person on that line
+00:03:07.030 with a unique room in the hotel.
+00:03:09.370 So everyone fits, no problem.
+00:03:12.750 But now a big bus pulls up.
+00:03:15.400 An infinite party bus with no seats.
+00:03:18.210 Instead, everyone on board is identified
+00:03:20.360 by their unique name,which is kind of strange.
+00:03:23.980 So their names all consistof only two letters, A and B
+00:03:28.090 But each name is infinitely long.
+00:03:31.090 So someone is named A, B, B,A, A, A, A, A, A, A, A, A,
+00:03:35.110 and so on forever.
+00:03:36.570 Someone else is named AB,AB, AB, AB, AB, et cetera.
+00:03:40.880 On this bus, there's a person with
+00:03:42.510 every possible infinitesequence of these two letters.
+00:03:46.000 Now, ABB, A, A, A, A, I'llcall him Abba for short.
+00:03:50.210 He comes into the hotelto arrange the rooms,
+00:03:53.100 but you tell him,
+00:03:54.417 "Sorry, there's no way we canfit all of you in the hotel."
+00:03:59.620 And he's like, "What do you mean?
+00:04:01.197 "There's an infinite number of us
+00:04:02.767 "and you have an infinite number of rooms.
+00:04:04.917 "Why won't this work?"
+00:04:06.820 So you show him.
+00:04:08.110 you pull out your infinitespreadsheet again and
+00:04:10.220 start assigning roomsto people on the bus.
+00:04:12.410 So you have room one, assign it to ABBA,
+00:04:14.860 and then room two toAB AB AB AB repeating.
+00:04:18.779 And you keep going,putting a different string
+00:04:20.839 of As and Bs beside each room number.
+00:04:23.737 "Now here's the problem," you tell ABBA,
+00:04:25.827 "let's say we have acomplete infinite list.
+00:04:29.017 "I can still write downthe name of a person,
+00:04:31.537 "who doesn't yet have a room."
+00:04:33.960 The way you do it is youtake the first letter
+00:04:36.030 of the first name andflip it from an A to a B.
+00:04:39.410 Then take the secondletter of the second name
+00:04:41.390 and flip it from a B to an A.
+00:04:43.450 And you keep doing thisall the way down the list.
+00:04:46.340 And the name you write downis guaranteed to appear
+00:04:50.030 nowhere on that list.
+00:04:52.570 Because it won't match thefirst letter of the first name,
+00:04:55.080 or the second letter of the second name,
+00:04:56.710 or the third letter of the third name.
+00:04:58.210 It will be different fromevery name on the list,
+00:05:00.840 by at least one character.
+00:05:03.010 The letter on the diagonal.
+00:05:06.400 The number of rooms in theHilbert Hotel is infinite, sure,
+00:05:10.112 but it is countably infinite.
+00:05:12.280 Meaning there are as many rooms
+00:05:13.760 as there are positiveintegers one to infinity.
+00:05:16.930 By contrast, the numberof people on the bus is
+00:05:20.130 uncountably infinite.
+00:05:22.000 If you try to match upeach one with an integer,
+00:05:24.530 you will still have people leftover.
+00:05:27.790 Some infinities are bigger than others.
+00:05:32.210 So there's a limit to thepeople that you can fit,
+00:05:35.080 in the Hilbert Hotel.
+00:05:37.370 This is mind blowing enough,
+00:05:39.760 but what's even crazier is that
+00:05:41.890 the discovery of differentsized infinities,
+00:05:44.320 sparked a line of inquirythat led directly,
+00:05:46.620 to the invention of the device
+00:05:48.210 you're watching this on right now.
+00:05:51.100 But that's a story for another time.
+00:05:53.660 (upbeat music)

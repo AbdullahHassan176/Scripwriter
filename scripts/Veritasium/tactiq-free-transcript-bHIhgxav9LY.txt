@@ -1,0 +1,378 @@
+# tactiq.io free youtube transcript
+# The Big Misconception About Electricity
+# https://www.youtube.com/watch/bHIhgxav9LY
+
+00:00:00.180 This video was sponsoredby Caséta by Lutron.
+00:00:03.857 Imagine you have a giant circuit
+00:00:06.240 consisting of a battery,a switch, a light bulb,
+00:00:09.250 and two wires which are each300,000 kilometers long.
+00:00:13.960 That is the distance lighttravels in one second.
+00:00:16.950 So, they would reachout half way to the moon
+00:00:19.610 and then come back to beconnected to the light bulb,
+00:00:22.110 which is one meter away.
+00:00:24.270 Now, the question is,
+00:00:25.315 after I close this switch,
+00:00:27.300 how long would it takefor the bulb to light up.
+00:00:30.270 Is it half a second,
+00:00:31.840 one second,
+00:00:32.808 two seconds,
+00:00:34.280 1/c seconds,
+00:00:35.780 or none of the above.
+00:00:37.530 You have to make somesimplifying assumptions
+00:00:39.260 about this circuit,
+00:00:40.722 like the wires have to have no resistance,
+00:00:42.630 otherwise this wouldn't work
+00:00:43.890 and the light bulb hasto turn on immediately
+00:00:46.290 when current passes through it.
+00:00:48.370 But I want you to commit to an answer
+00:00:50.820 and put it down in the comments
+00:00:52.840 so you can't say,
+00:00:53.723 oh yeah I knew that was the answer,
+00:00:55.710 when I tell you the answer later on.
+00:00:59.340 This question actually relatesto how electrical energy
+00:01:02.660 get from a power plant to your home.
+00:01:05.131 Unlike a battery,
+00:01:07.280 the electricity in the grid
+00:01:08.700 comes in the form ofalternating current, or AC,
+00:01:11.880 which means electrons in the power lines
+00:01:13.820 are just wiggling back and forth.
+00:01:15.552 They never actually go anywhere.
+00:01:18.270 So, if the charges don'tcome from the power plant
+00:01:21.340 to your home,
+00:01:22.600 how does the electricalenergy actually reach you?
+00:01:27.450 When I used to teach this subject,
+00:01:29.430 I would say that power lines
+00:01:30.810 are like this flexible plastic tubing
+00:01:33.410 and the electrons insideare like this chain.
+00:01:36.740 So, what a power station does,
+00:01:38.560 is it pushes and pulls theelectrons back and forth
+00:01:42.330 60 times a second.
+00:01:44.458 Now, at your house,
+00:01:45.840 you can plug in a device, like a toaster,
+00:01:48.230 which essentially means
+00:01:49.680 allowing the electrons to run through it.
+00:01:52.180 So when the power stationpushes and pulls the electrons,
+00:01:55.530 well, they encounter resistancein the toaster element,
+00:01:59.770 and they dissipate their energy as heat,
+00:02:03.130 and so you can toast your bread.
+00:02:05.220 Now, this is a great story,
+00:02:06.610 I think it's easy to visualize,
+00:02:07.940 and I think my students understood it.
+00:02:09.979 The only problem is, it's wrong.
+00:02:13.520 For one thing,
+00:02:14.530 there is no continuous conducting wire
+00:02:16.890 that runs all the way from apower station to your house.
+00:02:20.099 No, there are physical gaps,
+00:02:22.370 there are breaks in the line,
+00:02:24.450 like in transformers
+00:02:25.610 where one coil of wireis wrapped on one side,
+00:02:28.000 a different coil of wire iswrapped on the other side.
+00:02:30.100 So, electrons cannot possibly flow
+00:02:32.720 from one the other.
+00:02:34.620 Plus, if it's the electrons
+00:02:36.920 that are carrying the energy
+00:02:38.460 from the power station to your device,
+00:02:41.120 then when those same electrons
+00:02:42.630 flow back to the power station,
+00:02:44.440 why are they not also carrying energy
+00:02:47.140 back from your house to the power station?
+00:02:50.511 If the flow of current is two ways,
+00:02:53.680 then why does energy onlyflow in one direction?
+00:02:58.240 These are the lies you weretaught about electricity,
+00:03:01.780 that electrons themselveshave potential energy,
+00:03:05.320 that they are pushed or pulled
+00:03:06.560 through a continuous conducting loop
+00:03:08.970 and that they dissipatetheir energy in the device.
+00:03:13.080 My claim in this video
+00:03:14.420 is that all of that is false.
+00:03:17.279 So, how does it actually work?
+00:03:22.600 In the 1860's and 70's,
+00:03:24.330 there was a huge breakthrough
+00:03:26.160 in our understanding of the universe
+00:03:27.950 when Scottish physicist,James Clerk Maxwell,
+00:03:30.730 realized that light is made up
+00:03:33.400 of oscillating electricand magnetic fields.
+00:03:36.720 The fields are oscillatingperpendicular to each other
+00:03:39.820 and they are in phase,
+00:03:41.230 meaning when one is at its maximum,
+00:03:43.180 so is the other wave.
+00:03:45.750 Now, he works out the equations
+00:03:47.670 that govern the behavior ofelectric and magnetic fields
+00:03:50.570 and hence, these waves,
+00:03:52.370 those are now called Maxwell's equations.
+00:03:55.380 But in 1883,
+00:03:57.270 one of Maxwell's formerstudents, John Henry Poynting,
+00:04:00.310 is thinking about conversation of energy.
+00:04:02.915 If energy is conserved locallyin every tiny bit of space,
+00:04:07.400 well, then you should beable to trace the path
+00:04:10.170 that energy flows fromone place to another.
+00:04:13.090 So, think about the energythat comes to us from the sun,
+00:04:16.627 during those eight minuteswhen the light is traveling,
+00:04:19.769 the energy is stored and being transmitted
+00:04:22.925 in the electric and magneticfields of the light.
+00:04:26.854 Now, Poynting works out an equation
+00:04:29.660 to describe energy flux,
+00:04:32.090 that is, how much electromagnetic energy
+00:04:34.620 is passing through an area per second.
+00:04:37.680 This is known as the Poynting vector
+00:04:39.650 and it's given the symbol S.
+00:04:41.750 And the formula is really pretty simple,
+00:04:43.680 it's just a constant one over mu naught,
+00:04:46.100 which is the permeability of free space
+00:04:48.230 times E X B.
+00:04:50.350 Now, E X B,
+00:04:51.183 is the cross product
+00:04:52.260 of the electric and magnetic fields.
+00:04:54.810 Now, the cross productis just a particular way
+00:04:57.200 of multiplying two vectors together,
+00:04:59.270 where you multiply theirperpendicular magnitudes
+00:05:01.800 and to find the direction,
+00:05:04.120 you put your fingers in thedirection of the first vector,
+00:05:06.560 which in this case is the electric field,
+00:05:08.430 and curl them in the directionof the second vector,
+00:05:11.080 the magnetic fields,
+00:05:11.933 then your thumb points
+00:05:13.760 in the direction of the resulting vector,
+00:05:15.600 the energy flux.
+00:05:17.420 So, what this shows us about light
+00:05:19.550 is that the energy isflowing perpendicular
+00:05:22.680 to both the electronican the magnetic fields.
+00:05:25.660 And it's in the same directionas the light is traveling,
+00:05:29.160 so this makes a lot of sense.
+00:05:30.768 Light carries energy from its source
+00:05:33.610 out to its destination.
+00:05:37.460 But the kicker is this,
+00:05:39.870 Poynting's equation doesn'tjust work for light,
+00:05:43.460 it works anytime there are electric
+00:05:46.750 and magnetic fields coinciding.
+00:05:49.240 Anytime you have electricand magnetic fields together,
+00:05:52.080 there is a flow of energy
+00:05:53.610 and you can calculateusing Poynting's vector.
+00:05:58.940 To illustrate this,
+00:06:00.260 let's consider a simple circuit
+00:06:01.910 with a battery and a light bulb.
+00:06:04.100 The battery by itselfhas an electric field
+00:06:07.260 but since no charges are moving,
+00:06:09.300 there is no magnetic field
+00:06:11.050 so the battery doesn't lose energy.
+00:06:13.930 When the battery isconnected into the circuit,
+00:06:16.130 its electric field extendsthrough the circuit
+00:06:19.140 at the speed of light.
+00:06:20.840 This electric fieldpushes electrons around
+00:06:23.690 so they accumulate on some ofthe surfaces of the conductors
+00:06:27.320 making them negatively charged,
+00:06:29.060 and are depleted elsewhere
+00:06:30.970 leaving their surfaces positively charged.
+00:06:34.900 These surface charges
+00:06:36.150 create a small electricfield inside the wires,
+00:06:39.550 causing electrons to drift
+00:06:41.440 preferentially in one direction.
+00:06:43.840 Note that this driftvelocity is extremely slow
+00:06:47.050 around a tenth of a millimeter per second.
+00:06:49.830 But this is current,
+00:06:51.730 well, conventional current
+00:06:52.850 is defined to flow oppositethe motion of electrons,
+00:06:55.220 but this is what's making it happen.
+00:06:58.730 The charge on thesurfaces of the conductors
+00:07:01.650 also creates an eclecticfield outside the wires
+00:07:05.030 and the current inside the wires
+00:07:07.280 creates a magneticfield outside the wires.
+00:07:10.510 So, now there is a combination
+00:07:12.810 of electric and magnetic fields
+00:07:14.980 in this space around the circuit.
+00:07:17.220 So, according to Poynting's theory,
+00:07:19.410 energy should be flowing
+00:07:21.580 and we can work out thedirection of this energy flow
+00:07:24.120 using the right hand rule.
+00:07:26.060 Around the battery for example,
+00:07:27.790 the electric field is down
+00:07:29.730 and the magnetic field is into the screen.
+00:07:32.530 So, you find the energyflux is to the right
+00:07:35.540 away from the battery.
+00:07:37.744 In fact, all around the battery,
+00:07:39.810 you'll find the energyis radially outwards.
+00:07:43.560 Energy is going out throughthe sides of the battery
+00:07:47.230 into the fields.
+00:07:49.243 Along the wires, again,
+00:07:50.980 you can use the right hand rule
+00:07:52.250 to find the energy isflowing to the right.
+00:07:55.340 This is true for thefields along the top wire
+00:07:58.170 and the bottom wire.
+00:08:00.050 But at the filament,
+00:08:00.940 the Poynting vector is directedin toward the light bulb.
+00:08:04.820 So, the light bulb is gettingenergy from the field.
+00:08:08.200 If you do the cross product,
+00:08:09.330 you find the energy is comingin from all around the bulb.
+00:08:13.870 It takes many paths fromthe battery to the bulb,
+00:08:16.440 but in all cases,
+00:08:17.730 the energy is transmitted
+00:08:19.370 by the electric and magnetic fields.
+00:08:21.870 People seem to think thatyou're pumping electrons
+00:08:24.177 and that you're buyingelectrons or something,
+00:08:26.180 which is just so wrong. (laughs)
+00:08:29.250 For most people,
+00:08:30.083 and I think to this day,it's quite counterintuitive
+00:08:32.390 to think that the energy isflowing through the space
+00:08:35.280 around the conductor,
+00:08:36.840 but the energy is,
+00:08:38.270 which is traveling through the field,
+00:08:39.490 yeah, is going quite fast.
+00:08:42.216 So, there are a fewthings to notice here.
+00:08:45.110 Even though the electrons go two ways
+00:08:47.210 away from the battery and towards it,
+00:08:49.400 by using the Poynting vector,
+00:08:51.140 you find that the energyflux only goes one way
+00:08:54.450 from the battery to the bulb.
+00:08:56.720 This also shows it's the fields
+00:08:58.700 and not the electronsthat carry the energy.
+00:09:01.128 How far do the electrons go
+00:09:03.740 in this little thing you're talking about,
+00:09:05.130 they barely move,
+00:09:06.549 they probably don't move at all.
+00:09:08.330 Now, what happens ifin place of a battery,
+00:09:10.780 we use an alternating current source?
+00:09:13.580 Well then, the direction of current
+00:09:15.180 reverses every half cycle.
+00:09:17.490 But this means that both theelectric and magnetic fields
+00:09:20.520 flip at the same time,
+00:09:22.840 so at any instant,
+00:09:24.280 the Poynting vector stillpoints in the same direction,
+00:09:27.610 from the source to the bulb.
+00:09:29.570 So the exact same analysis we used for DC
+00:09:32.550 still works for AC.
+00:09:35.000 And this explains howenergy is able to flow
+00:09:37.490 from power plants to home in power lines.
+00:09:40.700 Inside the wires,
+00:09:41.770 electrons just oscillate back and forth.
+00:09:44.320 Their motion is greatly exaggerated here.
+00:09:47.090 But they do not carry the energy.
+00:09:49.730 Outside the wires,
+00:09:50.900 oscillating eclectic and magnetic fields
+00:09:53.150 travel from the powerstation to your home.
+00:09:56.130 You can use the Poynting vector to check
+00:09:58.040 that the energy flux isgoing in one direction.
+00:10:02.269 You might think this isjust an academic discussion
+00:10:05.540 that you could see theenergy as transmitted
+00:10:07.890 either by fields or bythe current in the wire.
+00:10:11.400 But that is not the case,
+00:10:13.580 and people learned this the hard way
+00:10:15.260 when they started layingundersea telegraph cables.
+00:10:18.610 The first Trans Atlanticcable was laid in 1858.
+00:10:22.710 It only worked for about a month,
+00:10:24.250 it never worked properly.
+00:10:25.760 There are all kinds of distortions
+00:10:27.420 when they try to send signals.
+00:10:28.330 Enormous amounts of distortion.
+00:10:30.490 They could work it ata few words per minute.
+00:10:32.659 What they found was sending signals
+00:10:34.840 over such a long distance under the sea,
+00:10:37.220 the pulses becamedistorted and lengthened.
+00:10:40.480 It was hard to differentiatedots from dashes.
+00:10:43.579 To account for the failure,
+00:10:45.510 there was a debate among scientists.
+00:10:47.920 William Thomson, the future Lord Kelvin,
+00:10:50.610 thought electrical signalsmoved through submarine cables
+00:10:53.390 like water flowing through a rubber tube.
+00:10:56.120 But others like Heaviside and Fitzgerald,
+00:10:58.660 argued it was the fields around the wires
+00:11:01.240 that carried the energy and information.
+00:11:03.720 And ultimately,
+00:11:05.010 this view proved correct.
+00:11:07.440 To insulate and protectthe submarine cable,
+00:11:10.340 the central copper conductor
+00:11:12.150 had been coated in an insulator
+00:11:13.950 and then encased in an iron sheath.
+00:11:16.670 The iron was only meantto strengthen the cable,
+00:11:19.400 but as a good conductor,
+00:11:20.840 it interfered with a propagationof electromagnetic fields
+00:11:23.900 because it increased thecapacitance of the line.
+00:11:27.380 This is why today, most powerlines are suspended high up.
+00:11:31.090 Even the damp earth acts as a conductor,
+00:11:33.880 so you want a large insulating gap of air
+00:11:36.760 to separate the wires from the ground.
+00:11:40.770 So, what is the answer
+00:11:42.420 to our giant circuit light bulb question?
+00:11:45.950 Well, after I close the switch,
+00:11:47.680 the light bulb will turnon almost instantaneously,
+00:11:51.800 in roughly 1/C seconds.
+00:11:54.090 So, the correct answer is D.
+00:11:57.050 I think a lot of people imagine
+00:11:58.580 that the electric field needs to travel
+00:12:00.760 from the battery,
+00:12:01.840 all the way down the wire
+00:12:03.160 which is a light second long,
+00:12:04.980 so it should take a secondfor the bulb to light up.
+00:12:07.880 But what we've learned in this video
+00:12:09.740 is it's not really what'shappening in the wires
+00:12:12.600 that matters,
+00:12:13.550 it's what happens around the wires.
+00:12:16.060 And the electric and magnetic fields
+00:12:17.470 can propagate out through space
+00:12:19.680 to this light bulb,
+00:12:20.670 which is only one meteraway in a few nanoseconds.
+00:12:24.870 And so, that is the limiting factor
+00:12:27.660 for the light bulb turning on.
+00:12:29.110 Now, the bulb won't receive
+00:12:30.554 the entire voltage ofthe battery immediately,
+00:12:33.460 it'll be some fraction,
+00:12:34.770 which depends on theimpedance of these lines
+00:12:37.860 and the impedance of the bulb.
+00:12:39.910 Now, I asked severalexperts about this question,
+00:12:42.240 and got kind of different answers,
+00:12:44.100 but we all agreed on these main points.
+00:12:46.780 So, I'm gonna put theiranalysis in the description
+00:12:48.764 in case you want to learn moreabout this particular setup.
+00:12:52.690 If I get called out on it
+00:12:53.790 and people don't think it's real,
+00:12:55.455 we can definitely invest the resources
+00:12:58.312 and string up some lines,
+00:12:59.900 and make our own powerlines in the desert.
+00:13:01.183 I think you're gonnaget called out on it.
+00:13:03.360 I agree, I think you'regonna get called out.
+00:13:06.280 (laughing)
+00:13:09.090 I think that's right.
+00:13:10.972 I think it's just kinda wild
+00:13:12.595 that this is one of those things
+00:13:14.530 that we use everyday,
+00:13:16.070 that almost nobody thinks about
+00:13:18.440 or knows the right answer to.
+00:13:20.650 These traveling electromagneticwaves around power lines
+00:13:23.420 are really what's delivering your power.
+00:13:30.750 Hey, now that you understand
+00:13:31.930 how electrical energy actually flows,
+00:13:34.120 you can think about that
+00:13:34.980 every time you flick on a light switch.
+00:13:37.000 And if you want to take yourswitches to the next level,
+00:13:39.430 the sponsor of thisvideo, Caseta by Lutron,
+00:13:41.840 provides premium smart lighting control,
+00:13:43.990 including switches, remotes,and plug-in smart dimmers.
+00:13:47.400 And since one switch cancontrol many regular bulbs,
+00:13:50.410 you can effectively makeall those bulbs smart
+00:13:52.910 just by replacing the switch.
+00:13:54.630 Then, you can turn your lights on and off
+00:13:56.720 using your phone,
+00:13:58.230 or you can use another device
+00:14:00.030 like Alexa or Google Assistant.
+00:14:02.230 Caseta works with moreleading smart home brands
+00:14:04.630 than any other smartlighting control system.
+00:14:07.150 One of the things Ilike is setting timers.
+00:14:09.450 The lights in my office for example,
+00:14:10.940 turn on by themselves every evening.
+00:14:12.870 And this feature gives you peace of mind
+00:14:14.750 that everyone in your household
+00:14:15.940 will always come home to a well-lit house.
+00:14:18.610 And once you're already in bed,
+00:14:20.040 you can check which lightsyou forgot to turn off
+00:14:22.050 and do that from your phone.
+00:14:23.710 Installation is easy.
+00:14:25.530 Make sure you turn offpower to the switch first
+00:14:27.860 and then disconnect the existing wires
+00:14:30.010 and connect Caseda's smart switch.
+00:14:32.290 If you need any help,
+00:14:33.140 they're just a click or a call away.
+00:14:35.390 Learn more about Casedaat Lutron's website,
+00:14:37.640 lutron.com/veritasium.
+00:14:39.580 I will put that linkdown in the description.
+00:14:41.900 So, I want to thank Lutron Electronics
+00:14:44.110 for sponsoring this video,
+00:14:45.300 and I want to thank you for watching.

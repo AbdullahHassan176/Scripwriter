@@ -1,0 +1,272 @@
+# tactiq.io free youtube transcript
+# Something Terrible Is Happening in Italy
+# https://www.youtube.com/watch/mcsAO9AYc0c
+
+00:00:00.000 Italy is one of the most fascinating economies in the world because it is facing most if not
+00:00:04.800 all the major economic challenges that other countries around the world are experiencing,
+00:00:08.800 but it is somehow dealing with them all at the same time.
+00:00:12.240 Italy has some of the highest levels of national debt in the world,
+00:00:15.200 it has an aging population, an exodus of what few young skilled workers it still has,
+00:00:19.200 it's also dealing with regional inequality, sluggish growth, unreliable tax revenues
+00:00:23.280 and it's once world-leading industries have been out-competed across the globe.
+00:00:27.200 Italy also serves as an amazing case study as a country that has dealt with problems like
+00:00:31.280 globalisation, French shoring and restricted trade which is causing a lot of concern between
+00:00:35.440 countries such as the USA, Russia, China, the Gulf states and of course Europe itself.
+00:00:39.920 A lot of these unknowns are something that Italy has been dealing with for at least the
+00:00:43.200 past two decades and that's part of the reason why the country has been an economy in decline
+00:00:47.360 for 15 years now. Which sounds bad, but it's strangely something that on one hand the economy
+00:00:52.800 is taking in its stride and on the other hand has made it home to some of the highest rates
+00:00:56.960 of poverty in the European Union, a collection of countries that people normally associate with
+00:01:01.280 relative wealth at least compared to most of the world. Even if the similarities are not perfect,
+00:01:06.400 there is still a lot that economists can learn from these challenges.
+00:01:09.680 Beyond just being a great insight into what the future of our own economies may look like,
+00:01:13.040 Italy just has some truly fascinating economic features that are worth exploring individually
+00:01:17.520 even if for no other reason than they're just really interesting.
+00:01:20.400 Italy together with Germany and France makes up over half of the total economic output of
+00:01:24.240 the European Union, a union which collectively forms the second-largest operating economy in
+00:01:28.640 the world. Despite this already quite impressive scale, Italy's economy might really be much bigger
+00:01:34.000 than its government would like to admit. In recent years the black market has been responsible for as
+00:01:38.720 much as a quarter of Italy's total economic output, and while the logical assumption here
+00:01:42.880 would be to think about the godfather, the reality is even stranger and more interesting.
+00:01:47.920 So to understand all that Italy's economy can teach us, we must as always answer a few simple
+00:01:53.040 questions. How did one of the fastest-growing advanced economies in the world just stop
+00:01:57.440 growing almost instantly? Not once, not twice, but three times? What has the country done right
+00:02:03.200 and wrong when dealing with its long list of challenges? Who was really to blame for
+00:02:06.800 the country's economic stagnation? How has Italy been impacted by a unique form of destructive
+00:02:11.760 inequality? And finally, is the country's economic model just incompatible with the
+00:02:16.160 new global environment it finds itself in? Italy has had its fair share of economic
+00:02:21.280 scandals in the last few years, but you might not know what's actually going on if you only
+00:02:25.120 read a few news sources or rely on social media algorithms to tell you what's going on.
+00:02:29.280 That's why I always use our sponsor, Grand News, because it gives me an easy,
+00:02:32.720 data-driven, objective way to read the news. On Grand News, every story comes with a quick
+00:02:37.120 visual breakdown of political bias, factuality, and the ownership of sources reporting,
+00:02:41.200 all backed by ratings from three independent news monitoring organizations.
+00:02:44.800 For example, this recent story on Italy's plan to seize $835 million from Airbnb was covered by
+00:02:50.000 over 50 news outlets. 30% of these outlets lean left, while 25% lean right. And I've been using
+00:02:55.760 their new comparison feature to see specific differences in left and right reporting.
+00:02:59.840 For this story, left-leaning outlets highlighted the broader inquiry into multinational corporations,
+00:03:03.920 while right-leaning outlets focused on Airbnb's claim of full law compliance.
+00:03:07.840 If one side of the political spectrum is ignoring a story, the blind spot feed will
+00:03:11.360 let you know so you can make up your own mind about how reliable the reporting is.
+00:03:15.120 Right now, Grand News is having their biggest sale of the year.
+00:03:18.000 You can use my link, ground.news.explained, to get 40% off their Vantage subscription,
+00:03:22.800 which gives you unlimited access for just $5 a month. So sign up today and support an
+00:03:27.120 independent news platform working to make the media landscape more transparent.
+00:03:31.680 Italy as an economy peaked in 2008. Since then, it's been mostly stagnant,
+00:03:36.000 with an overall slow decline losing about 20% of its nominal economic output over the past decade.
+00:03:41.120 Looking further back in history reveals, however, that this is not really anything new for Italy,
+00:03:46.000 and its economy today is the continuation of a trend that has been repeating itself
+00:03:49.360 in the country since the end of the second world war.
+00:03:52.080 The country has had decades of rapid growth, broken up by decades of almost complete stagnation,
+00:03:56.320 and in many cases negative growth, before it gets right back to growing again.
+00:04:00.000 Economic output is just one measurement of the health of an economy,
+00:04:03.280 but even a chart as basic as this tells us a really interesting story about how
+00:04:07.520 Italy got into the situation it finds itself in today.
+00:04:10.480 Italy was historically the most powerful industrial economy in all of Europe before
+00:04:14.880 it was overtaken by the Netherlands and England as they became global colonial powers.
+00:04:19.440 Even after that, and despite industrializing slower than other major European powers like
+00:04:23.360 France and Germany, Italy in its various forms has remained within the top 5 European economies
+00:04:28.000 for effectively thousands of years. Its strong geography, protected by mountains in the north,
+00:04:32.640 but with easy access to the Mediterranean for fishing and trade in every other direction,
+00:04:36.400 has meant it naturally became a great place for civilizations to flourish.
+00:04:40.080 And that's as true for its economy today as it was in 500 BC.
+00:04:43.920 The economy of Italy as it exists today really got started during the aftermath of the second
+00:04:47.600 world war. The country was rebuilt, in many cases from the literal rubble, as wartime
+00:04:51.920 industries were converted back into domestic industries with assistance from and under the
+00:04:55.840 watchful eye of the USA. The USA through the Marshall plan was investing billions of dollars
+00:05:00.640 into the reconstruction of western Europe, and this was back in the 1950s when billions of dollars
+00:05:04.800 actually mattered to government budgets. The motivation for this spending was partially
+00:05:08.640 to build out a new customer base that could buy all of the goods that the US industrial sector
+00:05:12.320 could produce, but it was mostly to redevelop strong dependent allies to stop the spread of
+00:05:16.800 communism from the Soviet Union. The USA also carried out similar rebuilding efforts in Korea
+00:05:21.760 and Japan to stop the spread of communist influence coming from the People's Republic of China.
+00:05:25.920 It wasn't starting from a great position, but these rebuilding efforts did lead to a long,
+00:05:29.680 sustained period of growth. However, under the surface there were still political tensions
+00:05:34.000 causing a range of very serious domestic issues like the 1980 bombing of the Bologna railway
+00:05:38.720 station, which still to this day remains one of the deadliest attacks ever carried out in Europe.
+00:05:43.520 These political tensions were in many ways the cause of, and were simultaneously accelerated
+00:05:47.760 by, other economic problems in the country. Just by economic output figures, it looked like Italy
+00:05:52.640 was doing very well, but it's relatively easy to grow an economy by just taking on a lot of
+00:05:57.280 debt to fund major development projects, especially when the major power in the world was more than
+00:06:01.680 willing to loan money to stop the spread of communism. The challenge is taking that development
+00:06:06.000 and using it to sustainably produce value for the domestic economy and export markets,
+00:06:10.000 which Italy was struggling to do. Once construction and rebuilding efforts had
+00:06:13.840 slowed down, or couldn't get any further funding, Italy's economy fell into its first
+00:06:17.440 modern decade of stagnation, although this first one really only lasted about 6 years.
+00:06:22.240 During this time, the Italian government simultaneously had to deal with mass unemployment,
+00:06:26.080 a large debt burden, high inflation, and external challenges like rising energy
+00:06:29.920 costs for the fossil fuels its young industries had become heavily dependent on.
+00:06:33.840 Now, despite not being good things to live through, economic slowdowns do serve as a
+00:06:37.600 good opportunity for a country to change policies and cut down on industries that
+00:06:40.880 caused the problems in the first place. During this first stagnation, that's exactly what happened.
+00:06:45.840 The country restructured away from just building infrastructure, and turned its attention more
+00:06:49.600 towards using that infrastructure to create things that it could sell all around the world.
+00:06:53.760 It also enacted reforms like giving independence to its central bank,
+00:06:56.800 which was then allowed to raise interest rates to fight off inflation.
+00:07:00.000 At the same time, the laws around index wages were relaxed.
+00:07:03.120 Wage indexation is not very common today, mainly because of the market problems it causes,
+00:07:07.520 but it's a rule that means that wages keep up with inflation no matter what,
+00:07:10.800 even if it's not what was agreed to in an employment contract.
+00:07:13.680 On the surface, this sounds fair. If inflation is high, it's perhaps not right that workers
+00:07:17.920 effectively get paid less because they agreed to a salary, when that same amount of money
+00:07:21.600 could buy a lot more. The problem, though, is that automatic wage indexation accelerates
+00:07:26.160 one of the most dangerous processes in economics, a wage price spiral.
+00:07:30.320 If inflation is high, workers will demand higher wages to keep up with the rising cost of goods
+00:07:34.560 and services that they need to buy. If businesses agree to pay these higher wages, they will have to
+00:07:39.520 increase their prices to maintain profitability, and higher prices cause more inflation all over
+00:07:44.400 again. The one thing that saves a lot of economies from this is the lag between inflation happening
+00:07:49.200 and people demanding higher wages. If inflation is low, there are a lot of people that won't
+00:07:53.920 even know that their wages aren't keeping up, which is terrible for them, but does act as a
+00:07:58.080 moderating force in the economy. If wages are automatically kept up with inflation,
+00:08:02.080 like they were in Italy at this time, then it just makes this process known as the wage price
+00:08:05.680 spiral much faster and much harder to correct. The stagnation was undoubtedly painful for Italy,
+00:08:11.360 but by forcing some necessary changes it came back as one of the fastest-growing economies
+00:08:15.600 not only in the world, but in history. In just 7 years between 1985 and 1992,
+00:08:21.760 Italy tripled its economic output in an export-led industrial boom.
+00:08:25.680 The country has a major advantage in this regard that's hard to tell from looking
+00:08:29.040 at economic figures alone. International customers pay a premium for Italian-made goods
+00:08:33.760 because the country had and still has a strong reputation for high-quality craftsmanship
+00:08:38.000 and skill in producing everything from fast cars to luxury handbags and even things like olive oil.
+00:08:43.200 If an exported good has a made in Italy logo on it, the price of that good can be higher than
+00:08:47.280 a competitor good from most other countries in the world and a lot of consumers would still be
+00:08:50.960 willing to pay a premium for it. Some countries have to go to extreme measures to undercut a long
+00:08:56.240 list of international rivals at every possible opportunity to supply the cheapest, and therefore
+00:09:00.560 most competitive goods to the global market. The fact that Italy can add as much value,
+00:09:04.800 if not more, by simply producing stuff within its borders is a huge advantage that is only
+00:09:09.360 really enjoyed by a handful of other countries around the world.
+00:09:12.400 These good times, unfortunately, didn't last forever because the rapid period of growth
+00:09:16.240 yet again led to underlying problems in the Italian economy. Debt started to creep back
+00:09:20.160 up again as both the government and its people began to borrow irresponsibly to bet on even more
+00:09:24.560 future growth. The country also had problems with tax avoidance. The small industries that
+00:09:29.200 formed the backbone of the Italian export miracle were notoriously hard to tax, and taking advantage
+00:09:33.920 of weak government controls and poorly planned loopholes in order to pay little to no tax
+00:09:37.920 almost became a national pastime. Now overall, whether willingly or not, reducing taxation and
+00:09:43.120 government restrictions while increasing spending through debt is a classic expansionary economic
+00:09:47.360 policy. Even if the government doesn't necessarily mean to do it, this is probably what the country
+00:09:51.840 needed to get out of the rut it found itself in in the 1980s. But in order to get into the
+00:09:56.560 eurozone and be allowed to use the European Union's new currency, Italy was forced to clean
+00:10:01.040 up its act. It had to reduce its debt load and do a better job of getting its people to pay their
+00:10:05.600 taxes. Increasing regulation, reducing debt, and raising taxes all works to take money out of the
+00:10:10.800 economy which, even if it was the right thing to do, still put the brakes on economic growth.
+00:10:15.680 For the rest of the 1990s, the economy of Italy once again entered an almost decade-long period
+00:10:20.080 of stagnation. Fortunately for the country, the adoption of the euro in 1999 created something of
+00:10:25.360 a golden opportunity for Italy to start growing again. After a brief lull, the country in what
+00:10:29.920 was becoming a recurring theme more than doubled its economic output in less than a decade,
+00:10:34.000 once again becoming one of the fastest-growing advanced economies in the world.
+00:10:37.760 Entering the eurozone made it easier to attract foreign investment, foreign workers,
+00:10:41.120 and foreign buyers of its goods. Its trading partners also didn't have to worry about
+00:10:44.960 foreign exchange risk of the notoriously unstable era. The advantages of the eurozone
+00:10:49.520 also coincided with the further general development of Italian manufacturing
+00:10:52.960 and the rise of industries like tourism.
+00:10:55.120 Then of course the country was hit by the GFC and the eurozone crisis, and ever since it's fallen
+00:10:59.600 into yet another period of stagnation, only this time, instead of lasting less than a decade,
+00:11:05.040 it's gone on for almost 15 years now.
+00:11:07.920 The reason that we have spent so long exploring the details of Italy's unique economic histories
+00:11:12.320 of booms and plateaus is because it raises an obvious question for the nation, can it do it
+00:11:17.360 again? Obviously no one can predict the future, least of all economists, but if history repeats
+00:11:22.560 itself it looks like Italy is overdue to take another step up in this weird staircase of
+00:11:26.480 economic output. Unfortunately of course, it's not that simple, and there are a range of new
+00:11:31.280 challenges that are combining with some of the old historic challenges that are making a trademark
+00:11:35.120 Italian turnaround unlikely.
+00:11:37.520 The first is simply an aging population. Italy has one of the oldest populations in the world,
+00:11:42.240 and a lot of its workforce is getting close to retirement. This wouldn't be a problem by itself,
+00:11:46.800 except for the fact that it has a low birth rate, so young people are not joining the workforce to
+00:11:50.720 make up for the people leaving the workforce, who will ultimately, and unfortunately there's
+00:11:54.400 no nice way to put this, become a drain on resources. This problem has also been accelerated
+00:11:59.040 by the fact that Italy has one of the highest rates of young graduates moving to other countries
+00:12:02.880 where they can earn more money for their skills. Earlier this year we were lucky enough to talk
+00:12:06.960 to Professor Billeri from the University of Bocconi in Italy. As both a very well-respected
+00:12:11.040 economist and someone who has first-hand experience training some of Italy's brightest
+00:12:14.400 students, he gave us a fantastic insight into this problem.
+00:12:18.160 Actually, Italy is a net sender of graduates rather than a net receiver, and that's
+00:12:23.200 one of the parts that the country is complaining about. So we'd love to attract more people with
+00:12:29.440 a degree rather than letting them leave to other countries. So I think from the country perspective
+00:12:37.120 it is a problem, especially if you are one of the sending countries. However, let me say
+00:12:44.560 two things on this. One is that from the individual level perspective,
+00:12:50.160 having more freedom of movement is certainly giving the right incentive to individuals.
+00:12:56.080 You want to build a good life, you have good ideas, it's fantastic for the world to let
+00:13:02.720 these people move. The second point of view is that we have to understand from the competition
+00:13:10.080 for talent perspective that countries that are losing these individuals, maybe because they
+00:13:15.680 tend to be overeducated for the level of the economy in that country, should think seriously
+00:13:21.440 about the opportunities that in a specific country or region are given to these individuals.
+00:13:27.760 Membership in the EU has only heightened this problem because Italian students who want to go
+00:13:31.440 to work in places like Germany, France, the Netherlands or even Luxembourg don't even need
+00:13:35.440 to apply for a visa thanks to the EU's policy of allowing workers to work anywhere within the
+00:13:39.520 member states. Raising wages could help to stem this exodus of skilled young Italians,
+00:13:44.320 but the country's industries can't afford to compete anymore with their largest European rivals
+00:13:48.480 because they are simply not as productive. The average size of an Italian business is
+00:13:52.800 significantly smaller than the average size of a business in other advanced European economies.
+00:13:56.800 Italy on average has 3.6 workers per company, where the average for Western Europe is 15,
+00:14:02.240 so effectively 4 times as many workers per organisation.
+00:14:05.920 In industrialised economies size does matter and larger companies are able to produce more
+00:14:10.080 specialised and more value-added items. In most highly advanced industries the
+00:14:14.160 marginal advantage of adding an additional worker is positive because it lets workers
+00:14:17.920 in the business focus on one aspect of production and do it really well.
+00:14:21.520 Given that automobiles are one of Italy's biggest industries and also probably the
+00:14:24.800 first thing that people think of when they think of Italian manufacturing,
+00:14:27.440 it makes for a great example. 10 companies that each have one
+00:14:30.720 employee that makes cars from scratch will produce fewer cars in a year than one company
+00:14:34.560 that has 10 employees that each focus on one part of putting a car together.
+00:14:38.640 If one employee just builds the engine they can get really good at doing just that.
+00:14:42.960 A company with 10 employees can also spend 10 times as much on tools for those workers,
+00:14:47.200 which even though it still works out to be exactly the same amount of costs for each
+00:14:50.400 individual employee means that the tools can be more specialised.
+00:14:53.760 The worker who just makes engines can be given tools that are just made for working on engines,
+00:14:57.600 whereas a worker that has to make the entire car will need to spread out their budget for
+00:15:01.040 tools over everything that is needed to make the car making them less specialised
+00:15:04.800 and ultimately less efficient. Now tools to build cars are one thing,
+00:15:08.720 but something that Italian firms have really failed to invest in is technology.
+00:15:13.120 Computers and related technologies have massively increased how much economic
+00:15:16.560 value one worker can produce in a given day. The classic example of this is that
+00:15:20.640 one accountant with something basic like excel can produce the same amount
+00:15:23.920 of financial reports as 10 accountants using abacuses.
+00:15:27.040 Italy's small firms have lagged behind the rest of Europe in the adoption of technology,
+00:15:30.800 and Western Europe itself has lagged behind the USA and a lot of economies in Asia.
+00:15:35.040 Besides making investments into industries more efficient,
+00:15:37.520 technology has become a massive industry in its own right,
+00:15:40.560 with the majority of the largest companies in the world being tech companies.
+00:15:44.240 Italy of course in some ways benefits from these cottage industries,
+00:15:47.440 because it helps them to maintain their reputation as a place where businesses focus
+00:15:50.880 on quality over quantity when producing luxurious goods.
+00:15:54.240 But countries like the UK, France and Germany achieve the same thing without
+00:15:58.240 actually making the trade-off for size.
+00:16:00.560 Mercedes from Germany employs a similar amount of workers to Fiat in Italy,
+00:16:04.080 but Mercedes is far more premium and generates far higher export markups than economy cars.
+00:16:09.040 A large amount of small companies is also harder to tax than a small number of large companies,
+00:16:13.840 which also highlights another problem that the Italian economy has.
+00:16:17.040 The black market in Italy is exceptionally large for an advanced economy,
+00:16:20.720 and despite the reputation, most of that isn't thanks to the mob,
+00:16:24.160 it's just unofficial businesses operating in grey markets to skirt around regulations and avoid tax.
+00:16:29.440 In the past, as much as 25% of the nation's economy was made up of black market industries.
+00:16:34.400 That figure is more like 12% today, which is an improvement, but it's still pretty bad,
+00:16:39.440 and it's not only costing the nation potential tax revenues,
+00:16:42.240 it's also contributing to social problems.
+00:16:44.720 Part of the reason the informal economy remains so large is that people don't have many other
+00:16:48.800 options. Italy is an advanced economy, but it has some of the highest poverty rates in all of Europe,
+00:16:54.080 and that is particularly severe in the south of the country,
+00:16:56.720 which is significantly poorer than the north,
+00:16:58.960 which as we have already explored is still struggling itself.
+00:17:02.160 Unfortunately today, Italy finds itself in a position with high unemployment,
+00:17:05.599 stagnant economic output, an aging population, uncompetitive industries,
+00:17:09.280 low tax revenues, high debt and increasing interest payments on that debt,
+00:17:12.400 all while having less control than it did in the past with its own currency.
+00:17:15.920 If it raises taxes and lowers spending to try and reduce its debt burden,
+00:17:19.119 it will crush its local industries that are already struggling.
+00:17:22.000 If it borrows more, it risks bankrupting itself,
+00:17:24.480 and if it does nothing the situation is probably only going to get worse.
+00:17:28.400 There is the assumption in economics, in most sciences for that matter,
+00:17:31.440 that we are moving towards an idealised version of the future,
+00:17:34.400 because for the last two centuries that's exactly what's been happening.
+00:17:37.760 The world today is thousands of times wealthier than it was at the beginning
+00:17:40.800 of the industrial revolution, but that's been the exception rather than the norm.
+00:17:45.040 Italy is just another in a long list of advanced economies that are finding
+00:17:48.400 it increasingly hard to compete in an increasingly competitive global economy,
+00:17:52.160 and just because we have enjoyed growth for all of living memory,
+00:17:54.640 doesn't guarantee it into the future.
+00:17:56.880 Now one thing we did address in this video briefly is infrastructure and
+00:18:00.080 the role that it plays in economic development,
+00:18:02.080 but Italy has in many ways over-invested into infrastructure,
+00:18:04.800 which is a mistake that we have already made an entire video about,
+00:18:07.600 but as always we didn't want to repeat too much here,
+00:18:09.680 so we will leave a link to that which you should be able to click to on your screen now.
+00:18:13.280 Thanks for watching mate, bye.

@@ -1,0 +1,1274 @@
+# tactiq.io free youtube transcript
+# Why It Was Almost Impossible To Make Transistors Less Than 10 nm
+# https://www.youtube.com/watch/MiUHjLxm3V0
+
+00:00:00.000 - This is a microchip.
+00:00:01.520 When you zoom in, you finda nanoscopic computing city
+00:00:05.040 skyscrapers, hundreds oflayers tall with hundreds
+00:00:08.080 of kilometers of wiresconnecting everything.
+00:00:10.880 And at the very bottom, is this
+00:00:13.920 transistors, billions of them.
+00:00:17.440 They are the ones andzeros of our computer.
+00:00:20.400 The chip works by whizzingelectrons from transistor
+00:00:22.720 to transistor, and thesmaller you can make those
+00:00:25.200 transistors, the less thesignals have to travel,
+00:00:27.440 so the faster they can compute.
+00:00:29.360 Plus you can fit moretransistors into the same area,
+00:00:32.560 resulting in a much more powerful chip.
+00:00:35.440 So for over 50 years, transistorsgot smaller and smaller,
+00:00:38.960 and the number you couldfit on a chip doubled
+00:00:41.200 every two years.
+00:00:42.720 This became known as Moore's Law named
+00:00:44.880 for Intel's co-founder Gordon Moore,
+00:00:46.880 after he noticed the pattern back in 1965,
+00:00:49.440 and it's been one of the maindrivers of the tech industry.
+00:00:52.640 But around 2015, progresscame to a screeching halt,
+00:00:56.400 and we might have nevergotten past it if it wasn't
+00:00:58.960 for a single company that makesthese machines, the machines
+00:01:03.200 that saved Moore's Law.
+00:01:04.959 - Holy. This is a videoabout the most complicated
+00:01:08.560 commercial product humanity's ever built.
+00:01:11.440 That's insane.
+00:01:12.640 It costs a whopping $400 million,
+00:01:15.120 and it is so bizarre that Iwant to introduce it to you
+00:01:18.080 with a thought experiment.
+00:01:20.240 Imagine you are shrunkdown to the size of an ant,
+00:01:25.120 and you are given a laserthat's strong enough to melt
+00:01:27.920 through metal like butter.
+00:01:29.760 Next, a tiny droplet ofmolten tin, roughly the size
+00:01:32.720 of a white blood cell, isshot out in front of you
+00:01:35.360 around 250 kilometers per hour.
+00:01:38.000 And your task is to hitthis not once, not twice,
+00:01:41.280 but three times in arow in 20 microseconds
+00:01:44.000 with your little laser.
+00:01:45.840 Well, that is exactlywhat this machine does.
+00:01:48.400 It hits one tiny tin dropletthree times in a row,
+00:01:51.680 heating each one up to over 220,000 Kelvin.
+00:01:55.280 That's roughly 40 times hotterthan the surface of the sun.
+00:01:58.960 And it doesn't just hit one droplet,
+00:02:01.280 it hits 50,000 dropletsevery single second.
+00:02:05.280 How often do you miss a laser shot?
+00:02:06.920 - We don't miss them.
+00:02:08.479 - What you do 150,000laser shots a second,
+00:02:12.880 and you don't miss one exactly.
+00:02:15.680 The same machine also contains mirrors
+00:02:17.680 that might just be the smoothestobjects in the universe.
+00:02:21.280 If you scale one up tothe size of the earth,
+00:02:23.520 then the largest bump would be no thicker
+00:02:25.680 than a playing card's.
+00:02:27.040 On top of that, it isable to overlay one layer
+00:02:29.440 of a chip perfectly on top of another
+00:02:31.360 and never be off by more than five atoms.
+00:02:34.400 And this is all happeningwhile parts of the machine whip
+00:02:37.200 around at accelerations ofover 20 g's.
+00:02:40.800 For 30 years, almost everyone thought
+00:02:42.880 that actually building thismachine was impossible,
+00:02:46.160 and yet it exists.
+00:02:48.160 There is only one company inthe world that can make it.
+00:02:51.680 So what is this company
+00:02:53.040 and what is this impossiblemachine they've built?
+00:02:56.080 This video is sponsored by Brilliant.
+00:02:58.000 More about them at the end of the show.
+00:03:00.320 Now, just as a quick aside, the makers
+00:03:02.400 of this machine didn'tactually sponsor this video.
+00:03:05.200 We just thought that the science
+00:03:06.640 and engineering herewere so cool that we had
+00:03:09.120 to make a video about it.
+00:03:10.560 So let's jump straight in.
+00:03:12.400 - To make a microchip, you start
+00:03:14.400 by taking silicondioxide, usually from sand,
+00:03:16.800 and purifying it into ultrapure,
+00:03:19.200 nearly a hundred percent silicon chunks,
+00:03:22.480 which is then melted downin a special furnace.
+00:03:25.600 Next, you lower a smallsea crystal into the vat.
+00:03:28.720 Silicon atoms attach to thecrystal extending its structure.
+00:03:32.560 Then you slowly raise the seedcrystal while rotating it.
+00:03:35.760 And this results in a largesingle crystal silicon ingot.
+00:03:39.160 - This is where the seatcrystal would be. Yeah.
+00:03:41.360 And then you pull it out. Can I touch it?
+00:03:42.920 - Yeah, you can. It seemslike you would not be able
+00:03:46.000 to ho hold this from here.
+00:03:47.840 - Yes.- It even feels fragile
+00:03:50.240 Like if you kinda.- Don't snap it.
+00:03:52.160 Yeah, I-I'm scared to break it.
+00:03:54.080 - Yes.- He's using more force.
+00:03:56.200 - The ingot is then cut into wafers
+00:03:58.480 with diamond wire sawsup to 5,000 of them,
+00:04:02.000 after which each waferis carefully polished.
+00:04:05.040 Next, it's coated with alight sensitive material
+00:04:07.280 called photoresist.
+00:04:08.720 There are different kinds,
+00:04:09.760 but in a positivephotoresist, the areas exposed
+00:04:12.640 to light become weaker and more soluble.
+00:04:15.120 So if you shine lightthrough a patterned mask,
+00:04:17.440 you can selectively weakenparts of that coating.
+00:04:20.160 Then you rinse the waferwith a basic solution
+00:04:22.400 to wash away the exposed photoresist,
+00:04:24.880 leaving the design imprinted.
+00:04:27.760 So now you can actuallyturn this pattern into
+00:04:30.160 physical structures.
+00:04:31.280 This is often done by etchinginto the uncovered silicon
+00:04:34.240 by using either chemicals or plasma.
+00:04:36.800 And then you deposit a metal like copper
+00:04:39.040 to fill in those etched lines.
+00:04:41.440 As a last step, you wash awaythe remaining photoresist,
+00:04:44.880 and now you've made asingle layer of the chip.
+00:04:48.320 We've simplified this cycledown to the main steps.
+00:04:50.720 Coat, expose, etch, and deposit.
+00:04:53.120 It repeats for every single chip layer,
+00:04:55.360 and depending on the chip,there could be anywhere from ten
+00:04:57.920 to a hundred layers.
+00:04:59.440 The bottom layer is the transistors.
+00:05:01.600 This is the most complicatedlayer requiring hundreds
+00:05:04.080 of steps that all need to be perfect.
+00:05:06.720 The higher layers are a little easier.
+00:05:09.200 These are the metal wiresthat carry signals and power.
+00:05:12.400 By the end, the completed wafercan have hundreds of chips,
+00:05:15.360 which are then cut intoseparate pieces, packaged
+00:05:17.760 and put into products.
+00:05:20.080 But by far the hardest
+00:05:21.280 and most crucial step in the process is
+00:05:23.600 where you shine light throughthe mask and onto the wafer.
+00:05:26.640 This is photolithography, and that's
+00:05:28.720 because this step determines
+00:05:30.560 how small you can make the features.
+00:05:32.880 - At first, it seems simple light passes
+00:05:36.000 through the openings and itgets blocked by all the rest.
+00:05:39.600 But as you try to print smaller
+00:05:41.440 and smaller features, thegaps in the mask start
+00:05:44.080 to approach the wavelength of the light,
+00:05:46.240 and that causes problems.
+00:05:48.080 - And we can actually show it
+00:05:49.520 because I happen to have a,
+00:05:51.280 this is a mask. This is a reticle.
+00:05:52.840 - A reticle or a mask carriesthe design of one chip layer.
+00:05:56.800 This redle is filledwith microscopic lines
+00:05:59.040 and gaps around 670 nanometers across.
+00:06:01.720 - And if I take like a laser pointer,
+00:06:03.760 so this is a red laser.
+00:06:05.040 - Yep. - If I shine it throughit, then you see this here,
+00:06:09.000 - The laser has a wavelengthof around 650 nanometers.
+00:06:13.600 When light hits the reticle,it's wavefronts bend
+00:06:16.400 as they pass through each gap.
+00:06:18.160 So each gap sends out wavesthat spread out and overlap.
+00:06:21.840 Now let's just look at thelight from these two gaps.
+00:06:24.880 When the peaks of one waveline up with the troughs
+00:06:27.680 of the other, we say thatthe two waves are out of phase
+00:06:30.720 and they cancel each other out.
+00:06:32.320 So you get dark spots,
+00:06:33.840 and when the peaks line up with the peaks,
+00:06:35.680 the two waves are in phase, they add up
+00:06:38.160 and you get bright spots.
+00:06:39.760 You get interference.
+00:06:41.190 - Yeah. - Right. And you geta diffraction pattern.
+00:06:43.000 - Now, diffraction is inevitable.
+00:06:45.920 So instead of fighting it,designers actually use it
+00:06:48.640 to get the patterns they want.
+00:06:50.640 They kind of work backwardsfrom the eventual pattern they
+00:06:53.360 want on the wafer,
+00:06:54.480 and they design the slits so
+00:06:56.320 that diffraction will occur in such a way
+00:06:58.320 that it creates thepattern that they want.
+00:07:00.640 - You see three dots, the middle
+00:07:02.960 dot, that's the original one.
+00:07:04.560 That's the zero order.
+00:07:05.840 And then on the left
+00:07:06.880 and the right, you can seethe first and the minus first.
+00:07:10.160 Now, in order for us
+00:07:11.840 to have this image resolvedon the wafer, you need
+00:07:15.680 to capture the zero and thefirst and the minus first order.
+00:07:19.280 - The smaller you make the features,
+00:07:20.960 the larger this anglealpha between the zero
+00:07:23.280 and first orders becomes.
+00:07:25.120 So the larger your lens needsto be to capture the light.
+00:07:28.880 The size of the lens is describedby the numerical aperture
+00:07:32.480 or na for short, which isjust the sine of this angle.
+00:07:36.400 So the larger that is,
+00:07:37.760 the smaller the features you can print.
+00:07:40.240 But there is a hard limit to
+00:07:41.840 how large your lens systemcan be, when this angle is 90
+00:07:44.920 degrees and your numerical aperture is one
+00:07:47.280 well your lens would have to be infinite.
+00:07:49.600 Fortunately, there is oneother thing we can change.
+00:07:52.960 - This is a red laser. Yeah.
+00:07:55.520 And a red laser has a wavelength
+00:07:57.200 of 650 nanometers, I would say.
+00:08:00.631 - Yeah.- And if I take a green laser
+00:08:03.440 and this one has a wavelengthof 532, then you can see
+00:08:07.840 that the green dots are closerspaced than the red dots.
+00:08:12.960 - That's because the lightfrom the two different gaps
+00:08:15.840 doesn't have to travel as farto match up in phase again.
+00:08:19.200 So the orders end up closer together.
+00:08:21.520 So with a smaller wavelength,
+00:08:22.800 you can print smallerpatterns using the same lens.
+00:08:26.320 All of this is capturedby the Rayleigh equation,
+00:08:28.800 which determines thesmallest feature, size
+00:08:30.800 or critical dimension.
+00:08:32.640 - But since there's a limit to
+00:08:35.039 how much you can increasethe numerical aperture, I mean to one.
+00:08:38.480 Over time, the onlyway to keep making smaller
+00:08:40.799 and smaller features is
+00:08:42.480 by using shorter and shorter wavelengths.
+00:08:44.720 So this is exactly what happened up
+00:08:46.640 until the late 1990s whenthe industry settled on 193
+00:08:50.640 nanometer deep UV light, thiswas the light that was used
+00:08:54.400 to make all of the mostadvanced chips right until
+00:08:57.120 around 2015.
+00:08:58.800 But by that point, scientistshad reached a limit to
+00:09:01.680 how small they could make the features.
+00:09:03.360 And Moore's law was aboutto run into a brick wall.
+00:09:06.800 So a radical change was needed, a change
+00:09:09.680 that had been brewing for around 30 years.
+00:09:14.240 All the way back in the 1980s.
+00:09:16.080 Japanese scientist, Hiroo Kinoshita,came up with a crazy idea.
+00:09:20.720 Why not use much shorterwavelengths like x-rays of
+00:09:23.680 around 10 nanometers?
+00:09:25.120 In theory, that should allow you
+00:09:26.480 to print much smaller features,
+00:09:28.640 but you quickly run into a problem.
+00:09:30.720 X-rays at these wavelengthshave enough energy
+00:09:32.960 to eject electrons from their atoms,
+00:09:35.200 so most materials absorb them.
+00:09:37.840 But unlike medical X-rayswhich have wavelengths shorter
+00:09:41.040 than one nanometer, theseare still long enough
+00:09:43.440 to interact with air
+00:09:44.880 So air absorbs them too.
+00:09:46.960 That meant that Kinoshita'ssetup had to be in a vacuum,
+00:09:50.480 but even worse, he couldn'tuse lenses to focus the light
+00:09:53.680 because the lenses would absorb it too.
+00:09:57.200 So it seemed like this idea would never work.
+00:10:01.200 But around 1983, Kinoshitastumbled on a paper
+00:10:04.080 by Jim Underwood and Troy Barbee.
+00:10:06.160 Their work focused on special mirrors
+00:10:08.080 that could reflectx-rays with a wavelength
+00:10:10.080 of 4.48 nanometers.
+00:10:12.400 So Kinoshita was intrigued.
+00:10:14.560 Curved mirrors can focuslight just like lenses do.
+00:10:17.280 If he could figure out howto make these special mirrors
+00:10:19.280 for the wavelength he was using,
+00:10:20.960 then this could be anotherway to do photolithography.
+00:10:24.000 The mirrors work something like this.
+00:10:27.680 When light crosses from onemedium to another, say from air
+00:10:30.800 to glass, it bends or refracts.
+00:10:33.200 Some of it goes throughand part reflects back.
+00:10:36.000 How much gets reflected dependson things like the angle,
+00:10:38.720 the light's polarization.
+00:10:40.320 And most importantlyfor us, the difference
+00:10:42.720 between the refractiveindices of the two media.
+00:10:45.280 The larger that difference,the more light is reflected.
+00:10:48.480 And Underwood and Barbeeused that principle.
+00:10:51.280 They made a super thin layer of tungsten,
+00:10:53.520 less than one nanometer,thick, thin enough
+00:10:55.920 that x-rays could pass
+00:10:57.200 through withoutimmediately being absorbed.
+00:10:59.440 When x-rays hit the layerat a specific angle,
+00:11:02.160 the tungsten reflected less than 1%.
+00:11:04.960 Then they carefully tunedthe layer thickness.
+00:11:07.360 So the path length of thetransmitted x-rays was only one
+00:11:10.640 quarter of its wavelength.
+00:11:12.560 Then they added another layer.
+00:11:14.240 This time out of carbon,
+00:11:15.760 it has a higher refractiveindex than tungsten
+00:11:17.920 for wavelengths of 4.48 nanometers.
+00:11:20.560 The x-rays hit the boundaryand a little bit more reflects,
+00:11:24.480 but this time the phase is inverted
+00:11:26.480 or it's changed by half a wavelength.
+00:11:28.960 This happens when any lightmoves from a lower refractive
+00:11:31.760 index to a higher one.
+00:11:33.760 Now, by the time this newreflected wave reaches the
+00:11:36.240 tungsten boundary, it hastraveled another quarter
+00:11:38.560 of its wavelength for ahalf wavelength in total.
+00:11:41.600 So the two phases line up
+00:11:43.200 and the waves interfere constructively.
+00:11:45.440 Underwood and Barbee keptdoing this trick for a total
+00:11:47.920 of 76 alternating layers, so
+00:11:50.240 that in total they could reflect back much
+00:11:52.560 more of the x-rays.
+00:11:55.440 Now, they only managed toreflect around 6% of the light,
+00:11:58.480 but it was a proof of principle
+00:12:00.080 that you could reflect x-rays.
+00:12:02.240 - So Kinoshita saw the possibilities.
+00:12:05.680 He got to work, and
+00:12:06.960 after around two years, his team designed
+00:12:08.880 and built three tungsten carboncurved multi-layer mirrors
+00:12:12.480 to reflect 11 nanometer light.
+00:12:14.960 And with it, he managed toprint lines four microns
+00:12:17.840 or 4,000 nanometers thick,proving that at least in theory,
+00:12:22.240 x-ray lithography was possible.
+00:12:25.280 A year later in 1986, hewent to present his findings
+00:12:28.640 to the Japanese Society
+00:12:30.000 of Applied Physics.
+00:12:31.360 Proud and excited, he explained his setupand showed his image.
+00:12:34.880 But to his horror, theaudience refused to believe it.
+00:12:38.320 Unfortunately, the audience
+00:12:41.120 was highly skeptical of my talk.
+00:12:44.720 Kinoshita was devastated.
+00:12:46.640 He later said, peopleseemed unwilling to believe
+00:12:49.520 that we had actually madean image by bending x-rays,
+00:12:52.720 and they tended to regard the whole thing
+00:12:54.560 as a big fish story.
+00:12:56.400 - Nobody believed that thiswas a viable way forward,
+00:13:00.480 and unfortunately,
+00:13:01.760 the reaction was atleast somewhat justified.
+00:13:05.120 First, this light isn't naturally produced
+00:13:07.200 by anything on earth.
+00:13:08.640 The closest natural source is the sun.
+00:13:12.400 We had to basically build anartificial sun here on Earth.
+00:13:17.440 Most scientists, including Kinoshita,
+00:13:19.360 produced x-ray light using a particle
+00:13:21.200 accelerator or a synchrotron.
+00:13:22.640 - It gives an enormous amount of power.
+00:13:25.200 It's as big as a soccer field.You can fuel the whole fab.
+00:13:28.480 The problem is if the light goes out, the
+00:13:30.160 whole fab goes out.
+00:13:31.280 - So each machine neededits own power source.
+00:13:35.200 But even if you couldproduce the light, you'd need
+00:13:37.440 to make incredibly smoothmirrors to actually focus
+00:13:40.800 and print those tiny features.
+00:13:42.720 You would need the smoothestobjects in the universe.
+00:13:46.120 - Okay, so I got a footballand I've got a bouncy ball
+00:13:49.280 and a cobblestone street.
+00:13:50.720 Now what do you think isgonna happen when I drop them?
+00:13:54.480 The football basicallybounces straight up,
+00:13:56.480 but for the bouncy ball, itjust shoots off to the side.
+00:13:59.680 And it's because thesurface is relatively flat
+00:14:02.160 for the football, which is much larger,
+00:14:03.920 but it's super rough for the bouncy ball.
+00:14:06.560 And a similar thing happens with mirrors.
+00:14:08.800 If the surface is superrough compared to the size
+00:14:11.360 of the wavelength, then thelight scatters randomly.
+00:14:14.640 Now it might look smooth,
+00:14:15.920 but if you zoom into amirror, you find something
+00:14:18.000 that looks like this, youfind all these crazy bumps.
+00:14:22.160 And now to measure the roughness,
+00:14:23.520 what you do is you takethe average of these bumps
+00:14:26.320 and that will give you your mean line.
+00:14:28.240 Now, for a normal household mirror,
+00:14:30.240 the average height isabout 4,000 silicon atoms.
+00:14:34.240 But for Kinoshita'smirrors, which not only needed
+00:14:37.040 to reflect x-ray light,
+00:14:38.160 which has a hundredtimes shorter wavelength,
+00:14:40.320 but also needed to minimizescattering, you know, so
+00:14:42.720 that all the photons makeit onto the wafer, it needed
+00:14:45.440 to be way more smooth.
+00:14:47.120 It needed to be atomically smooth.
+00:14:49.200 In fact, the average bump could only about
+00:14:51.520 2.3 silicon atoms thick.
+00:14:53.960 - If one mirror wouldbe the size of Germany,
+00:14:56.720 the biggest bump would beabout a millimeter high.
+00:14:58.960 - But Kinoshita refused to give up.
+00:15:01.360 - However, my belief did not change.
+00:15:03.680 - And soon help would comefrom an unlikely place.
+00:15:07.520 - Across the Pacificaround 70 kilometers east
+00:15:10.480 of San Francisco is LawrenceLivermore National Lab, a lab
+00:15:13.840 that was born outta theCold War, heavily funded
+00:15:16.400 by the US government, and built
+00:15:17.920 for one purpose and one purpose only.
+00:15:20.400 Nuclear weapons.
+00:15:22.080 The lab was founded by theinventor of the cyclotron,
+00:15:24.880 Ernest Lawrence, and the father
+00:15:26.480 of the hydrogen bomb Edward Teller.
+00:15:28.720 And over its lifetime,
+00:15:29.840 they designed over 10 fusiontype nuclear warheads.
+00:15:33.280 So part of their researchfocused on what happens
+00:15:35.680 inside nuclear fusion reactions.
+00:15:38.480 Fusion reactions releaseda lot of x-ray light, light
+00:15:41.440 that they had never beenable to capture and analyze.
+00:15:44.640 But now, using thosespecial multilayer mirrors,
+00:15:47.680 there was a chance
+00:15:48.800 - One of the scientists tasked
+00:15:50.880 with making this work was Andrew Hawryluk.
+00:15:53.360 And within a few years, he
+00:15:54.960 and his team used multilayer mirrors
+00:15:56.800 to reflect some X-ray light.
+00:15:59.280 But then in 1987,
+00:16:00.960 Andy got a visit from aprofessor from Cornell.
+00:16:03.760 - He was very impressed with the
+00:16:05.360 technologies that we developed.
+00:16:06.560 And he looked at me at the end of the day
+00:16:08.080 and said, this is all very interesting
+00:16:09.840 and very neat and stuff.
+00:16:11.040 But his words,
+00:16:12.880 that I'll remember itto the day I die, was,
+00:16:14.800 can you do anythinguseful with this stuff?
+00:16:17.160 And this was the day beforea Christmas shutdown in 1987.
+00:16:22.240 And I was so inflamed by that,that comment that I went home
+00:16:26.960 and for the next 10 days,
+00:16:28.160 I wrote up a multi-page white paper.
+00:16:30.560 - He applied these mirrors to lithography,
+00:16:33.040 to print chips using x-raysaround five months later.
+00:16:36.640 And he presented hisfindings at a conference.
+00:16:39.600 But like Kinoshita, it was notthe response he was hoping for.
+00:16:43.440 - It was extremely negative.
+00:16:47.040 That was the low point in my career.
+00:16:49.840 I was literally laughed off the stage.
+00:16:52.240 And I kid you not everyperson who I looked up
+00:16:56.080 to in the field, theywere listening to my talk
+00:16:58.560 and they came up to the microphone
+00:17:00.640 and told me basicallywhy it wouldn't work,
+00:17:04.240 how stupid an idea it was.
+00:17:06.880 Later that week, I flew back
+00:17:08.240 and the following Monday, myboss asked me, how did it go?
+00:17:12.640 And I looked at him
+00:17:13.599 and I said, I willnever speak of it again.
+00:17:18.560 - But then three days later,
+00:17:20.400 he gets a phone call fromsomeone named Bill Brinkman
+00:17:23.680 from Bell Labs.
+00:17:24.954 - And so I walked over to my boss
+00:17:26.079 and I said, just got this phone call
+00:17:28.160 from a guy named Bill Brinkman,
+00:17:29.360 do you know who he is?And my boss's eyes popped open
+00:17:32.240 and said, of, yeah, andhe's the executive vice
+00:17:34.400 president of AT&amp;T.
+00:17:35.840 And I said, well, he just called me
+00:17:37.520 and asked me to fly out toNew Jersey and give a talk.
+00:17:41.120 The response from my boss said it all.
+00:17:44.960 He basically said,well, you, you gotta go.
+00:17:47.680 - At Bell Labs found fellow believers
+00:17:50.720 and it couldn't havecome at a better time.
+00:17:53.120 Over the past 30 years,
+00:17:54.400 the US government had invested billions
+00:17:56.480 of dollars into national labs
+00:17:58.080 to maintain the country'stechnological edge
+00:18:00.400 during the Cold War.
+00:18:02.320 But by the late 1980s, theCold War was slowing down
+00:18:05.920 and all these labs weresitting on research
+00:18:08.000 that had commercial potential.
+00:18:09.920 So the government encouragedthe labs to partner
+00:18:12.320 with US companies to turnthat research into products
+00:18:15.760 and to stimulate the economy.
+00:18:17.600 And the government wouldthen supply seed money.
+00:18:20.240 And so Bell Labs partneredwith Andy's labs
+00:18:22.720 and two others to keepdeveloping x-ray lithography.
+00:18:27.120 And by 1993, the firstinternational conference
+00:18:30.080 for x-ray lithography washeld in Japan near Mount Fuji.
+00:18:34.720 In the opening address,Kinoshita said that as long
+00:18:38.000 as we do not lose the desirethat has sprung from within us,
+00:18:41.120 technology will steadily advance from the
+00:18:43.360 micro to the nano to the pico.
+00:18:46.480 They even gave the technology a new name,
+00:18:48.800 extreme ultraviolet lithography or just
+00:18:51.840 - EUV.
+00:18:53.840 But then in 1996,
+00:18:55.360 the US government cutfunding for the project.
+00:18:58.400 This spelled disaster for thebig chip companies like Intel,
+00:19:02.080 the industry estimated
+00:19:03.200 that the 193 nanometerlithography tools would fall
+00:19:06.240 behind Moore's Law by 2005,
+00:19:09.360 but there were no other alternatives.
+00:19:13.440 So Intel, Motorola, AMD andother companies got together
+00:19:16.800 and invested $250million to keep it going,
+00:19:20.000 making it the largest investment ever
+00:19:21.920 by private industry in a Department
+00:19:23.840 of Energy research project.
+00:19:26.000 By the year 2000, thelabs had produced this,
+00:19:28.560 the engineering test stand.
+00:19:30.400 It was the first fullyfunctioning EUV prototype.
+00:19:33.680 It produced 9.8 watts of13.4 nanometer EUV light,
+00:19:38.080 which was then reflected byeight mirrors from the source
+00:19:40.800 to the mask to the wafer.
+00:19:42.480 It could print 70 nanometer features
+00:19:44.640 and it proved that EUV could work.
+00:19:47.360 - It was a milestone to get the
+00:19:49.200 engineering test stand to work.
+00:19:50.640 It demonstrated to peoplelike Intel that, you know,
+00:19:54.240 good engineering will get us there.
+00:19:55.760 - And then it seems likeyou've got the prototype
+00:19:58.960 shouldn't be too hard tothen commercialize it.
+00:20:02.320 - That's what they thought.- But the prototype had
+00:20:06.480 a major flaw.
+00:20:07.600 It could only print about10 wafers per hour.
+00:20:10.240 And to make EUV economicallyviable, it would have
+00:20:12.960 to print hundreds of wafers per hour
+00:20:15.200 24/7, 365 days a year.
+00:20:18.560 The main reason output was so slow was
+00:20:20.880 because the light reflectedoff of eight mirrors
+00:20:23.120 and the reticle, whichis also a mirror just
+00:20:25.600 with the design imprinted.Traditional masks that allow light
+00:20:29.200 to pass through don't work
+00:20:30.480 because well, they absorb all the light.
+00:20:33.440 Each mirror had a reflectivityof around 70%, which is close
+00:20:36.880 to the max, but
+00:20:38.160 after nine bounces, you areonly left with 4% of the light,
+00:20:42.400 which means that out of every 100 photons,
+00:20:45.200 only four make it to the wafer.
+00:20:48.160 So you might think justuse way fewer mirrors,
+00:20:51.520 but that only works up to a point.
+00:20:53.600 When you focus lightwith any optical system,
+00:20:56.080 you always get some distortion.
+00:20:58.160 For example, ray's that pass
+00:20:59.520 through the outer edges of most lenses.
+00:21:01.280 Focus light slightly differentfrom those near the center.
+00:21:04.080 This is called spherical aberration.
+00:21:06.080 And normal cameras correct for this
+00:21:07.840 and other aberrations byusing multiple lenses.
+00:21:10.720 And a mirror system is no different.
+00:21:12.720 - You need to have acertain amount of mirrors
+00:21:16.080 before you can say, I havemy aberrations under control.
+00:21:20.480 In reality, the systems of today have,
+00:21:22.840 have, have six mirrors
+00:21:24.120 - That helps a little.
+00:21:25.760 But after reflecting off six mirrors
+00:21:28.160 and the reticle, youare still only left with
+00:21:30.320 around 8% of your light.
+00:21:32.160 So they needed to drasticallyincrease the source power
+00:21:34.800 to at least a hundred watts.
+00:21:36.800 Now to most companies,
+00:21:38.400 that tenfold increase seemed impossible.
+00:21:41.040 Even people who worked onthe engineering test noted
+00:21:43.680 that while EUV technologyitself is a done deal,
+00:21:47.280 there were six zillionengineering challenges
+00:21:50.160 to make it a fab line reality.
+00:21:52.720 And so one by one Americancompanies walked away from
+00:21:56.320 developing a full UV lithography machine
+00:21:59.120 that left just onecompany, ASML.
+00:22:03.120 ASML, which used to stand for advancedsemiconductor materials lithography,
+00:22:07.120 is located in a small nondescript townin the Netherlands.
+00:22:10.320 It spun off from Philipsback in the eighties
+00:22:12.480 with little more than a shed
+00:22:13.760 and a barely workingwafer stepper to its name.
+00:22:16.720 But Phillips also gave thempeople, Jos Benschop,
+00:22:19.680 ASML's first researcher
+00:22:21.200 and Martin van den Brink, who wouldeventually become ASML's CTO,
+00:22:25.120 and EUV's greatest champion.
+00:22:27.160 - And he is really like theSteve Jobs of lithography.
+00:22:30.160 And he saw EUV coming
+00:22:31.916 - A ML had joined the USEUV consortium earlier
+00:22:35.040 and now it became their task to find a way
+00:22:37.920 to commercialize EUV.
+00:22:39.440 They would work together withtheir German partner Zeiss,
+00:22:42.080 where Zeiss would takecare of the mirrors,
+00:22:43.760 and ASML would focus on the light source.
+00:22:47.200 One of the first decisionswhen making any lithography
+00:22:49.920 system is decidingwhich wavelength to use.
+00:22:52.560 - In the early days, anything between five
+00:22:54.720 and 14 nanometers was, was explored.
+00:22:58.080 The thing isyou need to find a source
+00:23:00.560 and you need to findoptics that reflect the wavelengths.
+00:23:03.000 - Right. - So you have to look for the combination.
+00:23:05.120 - Underwood and Barbeehad already made mirrors
+00:23:07.360 that could reflect lightof around four nanometers.
+00:23:10.000 And since that wavelength is so small,
+00:23:11.920 it seems like the obvious choice,
+00:23:14.240 but the maximum reflectivity
+00:23:15.760 for those mirrors was only around 20%.
+00:23:18.240 So after hitting six mirrors
+00:23:20.320 and the reticle, you are just left
+00:23:22.080 with 0.00128% of the light,
+00:23:26.720 which is way too low.
+00:23:28.800 Fortunately, further researchersalso looked at two other
+00:23:31.760 pairs, silicon
+00:23:33.120 and molybdenum, which had atheoretical maximum reflectivity
+00:23:36.480 of 70% for wavelengths around13 nanometers and molybdenum
+00:23:41.440 and beryllium with a theoreticalmaximum reflectivity of 80%
+00:23:46.000 for wavelengths around 11 nanometers.
+00:23:48.320 So the choice seemed obvious, right?
+00:23:50.560 I mean, pick the shorter wavelength
+00:23:52.160 and the higher reflectivity,
+00:23:53.840 but it turns out thatberyllium is extremely toxic
+00:23:57.280 and it's also difficult to handle.
+00:23:59.440 So scientists focused on silicon
+00:24:01.680 and molybdenum instead
+00:24:03.680 To make the mirrors,Zeiss used a process called sputtering.
+00:24:07.120 A target of coating materialis bombarded with either plasma
+00:24:10.640 or ions causing atomsto be ejected, fly off
+00:24:14.160 and stick to the mirror.
+00:24:16.000 This is a messy process,
+00:24:17.520 so the layers end uphaving bumps and gaps.
+00:24:20.160 - There was a nice trick
+00:24:21.680 that actually the team inthe Netherlands perfected
+00:24:25.280 with ion beam.
+00:24:26.560 You just shake it a little bit
+00:24:28.240 until the atoms falls in thehole where it needs to be
+00:24:30.560 and then it's all flat
+00:24:31.960 - With the mirror design lockedin ASML needed a source for
+00:24:36.000 that specific wavelength.
+00:24:37.120 - So it was 13 point x. Yeah. Okay.
+00:24:40.000 Now the next goodquestion is what's the X?
+00:24:42.560 Now you look for the, nowyou look for the source.
+00:24:45.440 So there are basicallythree ways to generate EUV
+00:24:48.640 to build a sun on Earth.
+00:24:51.600 The first method,
+00:24:52.480 which early researchersused was the synchrotron,
+00:24:55.120 but it was quickly rolled out
+00:24:56.640 because each machineneeded its own source.
+00:24:59.680 The other two methods arebased on the same principle.
+00:25:02.320 When an electron recombineswith an ion, the ion drops
+00:25:05.760 to a lower energy level
+00:25:07.200 and it releases thatexcess energy as a photon.
+00:25:10.160 And if you choose the ion just right, then
+00:25:12.880 that photon will have exactlythe wavelength you need.
+00:25:16.320 Now, there are two waysyou can create those ions.
+00:25:19.120 The first is you take a metal, heat it up
+00:25:21.120 until you get a metal vapor,
+00:25:22.400 and then you apply a strongelectric field across it.
+00:25:25.920 This causes free electronsto knock into nearby atoms
+00:25:28.800 and ionize them.
+00:25:30.880 If you then turn off the electric field,
+00:25:32.880 the electrons recombine withthe ions and produce light.
+00:25:36.640 This is discharge produced plasma.
+00:25:38.800 - That's the concept we use first.
+00:25:41.280 Because of itsrelative simplicity.
+00:25:43.600 And we quickly got into a few watts.
+00:25:46.160 We wanted to get a hundredwatts and we struggled forever.
+00:25:49.560 - So you couldn't scale it.- We could not scale it.
+00:25:52.240 They needed a drastic change.
+00:25:54.400 So they switched to the second method.
+00:25:56.560 This method uses a high powered laser
+00:25:58.480 to hit a target material creating a plasma
+00:26:01.120 that's more than 220,000degrees Celsius hot.
+00:26:04.880 The electrons have so much energy
+00:26:06.640 that the nucleus can'thold onto them anymore,
+00:26:09.200 and up to 14 electrons escape their orbits
+00:26:12.640 after the laser shuts off the electrons
+00:26:14.640 and ions recombine to produce light.
+00:26:17.680 This is laser produced plasma
+00:26:19.440 and it was the only methodthat seemed scalable.
+00:26:23.680 In fact, this was the same method
+00:26:25.200 that the engineering test stand used.A 1700 watt laser fired into
+00:26:29.360 a stream of seen on gas toproduce 13.4 nanometer lights.
+00:26:34.320 But Xenon had a big problem.
+00:26:36.560 The conversion efficiency thatis the ratio of usable lights
+00:26:40.000 to the amount of poweryou put in was terrible.
+00:26:42.640 It was only around 0.5%.
+00:26:45.040 That's because Xenondoes emit light in the 13
+00:26:47.840 to 14 nanometer range.
+00:26:49.600 There's much more lightreleased around 11 nanometers.
+00:26:52.720 So most of the energywent into making light
+00:26:54.880 that the mirrors couldn't reflect.
+00:26:57.040 Plus the laser didn'tionize all the atoms.
+00:26:59.600 So leftover neutral, Xenon atomswould strongly reabsorb some
+00:27:03.440 of that 13.4 nanometer light.
+00:27:06.560 So ASML started lookingat another material, tin.
+00:27:10.480 Now tin has a much higher emission peak
+00:27:12.640 around 13.5 nanometers,which results in a five
+00:27:15.920 to 10 times higher conversionefficiency than Xenon.
+00:27:19.120 But just like Xenon neutral tinatoms also absorb EUV light.
+00:27:22.960 So they came up with a crazy idea
+00:27:25.440 to shoot one tiny tin droplet at a time.
+00:27:29.040 But to get the requiredpower, you would have to make
+00:27:31.200 and hit thousands ofdroplets every second, all
+00:27:34.720 of which have to be theexact same shape and size.
+00:27:39.040 But it turns out that youcan't instantly make thousands
+00:27:41.840 of tin droplets that are the exact same.
+00:27:44.480 So they found a workaround.
+00:27:46.720 To make the droplets, extremely pure
+00:27:48.960 tin is melted and pushedthrough a microscopic nole
+00:27:51.920 by high pressure nitrogen.
+00:27:53.520 This nozzle vibrates at a high frequency,
+00:27:55.840 breaking the stream into tiny droplets.
+00:27:58.320 These droplets are irregularin size, shape, velocity,
+00:28:01.600 and distance, and thewhole process is chaotic.
+00:28:04.240 - That's like our magic sauce is
+00:28:07.440 how do you modulate that tin jet?
+00:28:10.000 So that forms the droplets wewant and that they're stable.
+00:28:12.040 - I think we found some paperthat describe this process
+00:28:16.560 and it was sort of eyeopening to me
+00:28:19.040 that it seems like all thedroplets actually come out
+00:28:21.920 irregular out of the nozzle, but then
+00:28:24.320 before they reach the sidewhere they get hit by the laser,
+00:28:27.440 like the little irregulardroplets come together
+00:28:29.920 to form these perfectly spaced,perfectly regular droplets
+00:28:33.600 that are about the same size and shape
+00:28:36.160 and all traveling at the same velocity.
+00:28:38.720 That feels like magic to me, Jason.
+00:28:40.400 - Yeah, it's, it's exactly that.
+00:28:42.240 It's how do you take a longstream of a tin jet that wants
+00:28:46.720 to break up into allthese irregular droplets
+00:28:49.200 and like force onto it
+00:28:51.600 that is gonna collapseinto a single droplet
+00:28:53.760 and then happen again and again and again.
+00:28:55.840 - You also don't have thatmany variables to play with.
+00:28:58.640 You've got the pressure withwhich you push out the tin
+00:29:01.280 and at the frequency of the nozzle.
+00:29:03.440 Yeah, it seems like ahard problem to solve.
+00:29:05.440 - There's not a whole lotof variables to play with.
+00:29:07.920 And so mastering thatmodulation of the jet is,
+00:29:12.400 is how we make the droplets.
+00:29:14.160 - But these droplets notonly have to be identical,
+00:29:17.920 they have to be moving incredibly fast.
+00:29:20.800 - What will happen is if the next droplet
+00:29:24.000 that's coming down the line is too close,
+00:29:26.320 then it'll actually get like disturbed
+00:29:28.800 and mess up the next plasma event.
+00:29:31.680 So we have a requirement which is both
+00:29:34.160 that we make 50,000 droplets per second,
+00:29:36.160 but also that they'retraveling extremely fast.
+00:29:39.240 - By 2011,
+00:29:40.880 their laser produced plasmasource reached 11 watts,
+00:29:44.320 which was more thandouble what they managed
+00:29:46.240 with their previous source.
+00:29:47.920 But they were still limitedto just five wafers per hour.
+00:29:51.120 So they needed to increasethe power and fast
+00:29:54.160 because they promised they'dhit 60 wafers per hour
+00:29:56.800 by the end of 2011.
+00:29:59.280 Unfortunately, this new method had a major flaw.
+00:30:02.720 Now the problem with the tinissue, you hit the droplet,
+00:30:05.120 you generate EUV,
+00:30:06.480 with a very decent conversion efficiency.
+00:30:08.880 Where does the tin go?
+00:30:10.160 Because like, you know,30 centimeters away.
+00:30:13.040 You have this atomicallyflat, very beautiful,
+00:30:16.800 very expensive, mirror from our friends at ZEISS
+00:30:20.000 And in the earlydays we would coat the thing
+00:30:22.720 within like this.
+00:30:24.280 - These machines need to run for a year.
+00:30:26.720 You're putting liters of tinthrough this plasma event
+00:30:31.760 and a single nanometer of tin.
+00:30:33.600 If it was to land on thatcollector mirror, you'd have
+00:30:36.000 to take a collector outta commission.
+00:30:37.680 We need to keep it almostperfectly clean for, for a year.
+00:30:41.680 - Yeah. How do you even approach that?
+00:30:43.440 - So our, our, our main tool here is the
+00:30:45.680 hydrogen gas actually.
+00:30:46.960 - They fill the chamberwith low pressure hydrogen.
+00:30:50.320 This slows and coolsthe tin particles down.
+00:30:53.120 And even if some tinmakes it to the collector,
+00:30:55.360 the hydrogen pulls it offto form a gas called stannane.
+00:30:59.040 This way the machine cleansthe collectors while it's running.
+00:31:02.560 But that hydrogen gas also gets hot from all
+00:31:04.960 those tin explosions.
+00:31:06.400 So they need to keep flushingnew, cooler hydrogen into the
+00:31:09.680 system while flushing outthe stannane and hotter gas.
+00:31:13.360 But they have to get the pressure
+00:31:14.560 and the flow rate just right.
+00:31:16.320 I mean too little hydrogen
+00:31:17.920 and the mirrors would get too dirty,
+00:31:19.760 but too much hydrogen wouldnot only absorb too much EUV
+00:31:22.800 light, but it would alsocause the system to overheat.
+00:31:25.600 - But the question ishow much heat is there?
+00:31:28.640 How much energy is beingdeposited into the gas?
+00:31:31.600 And we were stumped for quite some time.
+00:31:33.600 If you look at a EUV lightsource, what you'll see is
+00:31:36.240 that it's, it's kinda like a globe
+00:31:39.040 of like purple-ish red light
+00:31:41.360 and you kinda ask yourselflike, why is that happening?
+00:31:43.920 So we bought an ultra fast camera.
+00:31:46.560 What we realized is thatafter every plasma event,
+00:31:49.200 there's a shockwave
+00:31:51.360 that goes propagatingout into the hydrogen gas
+00:31:54.560 and it's extremely repeatable.
+00:31:57.200 And you think to yourself, there must be
+00:31:58.640 like an explanation for this.
+00:32:00.480 And there's this formula,the Taylor–von Neumann–Sedov formula
+00:32:04.880 that explains point sourceexplosions in an environment
+00:32:07.840 and like say a nuclearblast out to like supernova.
+00:32:11.440 So I took this formula, it likeexactly describes the data.
+00:32:14.960 It's just fantastic that
+00:32:16.960 we're seeing these likelittle tiny little supernovas
+00:32:19.680 happening in our vessel50,000 times a second.
+00:32:22.040 - And is that a fairway to think about this,
+00:32:24.400 like creating mini supernova?
+00:32:26.480 - Yeah, it's actually pretty similar.
+00:32:28.640 It's almost like very similar to a,
+00:32:30.240 like a type one A supernova.
+00:32:31.600 It turns out where youkind of have an object
+00:32:33.440 that just fully evaporatesand explodes apart.
+00:32:36.160 And when all that energygoes into the hydrogen gas,
+00:32:39.360 it produces a a shock wave, a blast wave
+00:32:41.520 that comes flying out, whichis basically the same thing.
+00:32:44.240 If you look up in the night sky,
+00:32:45.520 there are these like remnants supernovas
+00:32:47.280 that you can see coming from space.
+00:32:48.920 - Using those energy calculations,
+00:32:51.040 they discovered they needed
+00:32:52.160 to flush the hydrogen atincredibly high speeds
+00:32:54.880 around 360 kilometers per hour.
+00:32:57.520 That's more than acategory five hurricane,
+00:32:59.600 even if you know thosespeeds are at low density.
+00:33:02.720 But 2012 came and went
+00:33:04.480 and they still didn't have enough power.
+00:33:06.880 In fact, by 2013, ASMLjust reached 50 watts
+00:33:10.320 by shooting 50,000 tin droplets per second.
+00:33:13.280 But this increased power came at a price
+00:33:15.600 because more power means more heat.
+00:33:18.320 Heat that ends up slightlyshifting the mirrors resulting in
+00:33:21.920 misaligned light andmisaligned chip layers.
+00:33:25.120 So ZEISS built a nervous systemdirectly into the optics
+00:33:29.120 robot guided sensors
+00:33:30.400 that constantly measure the exact position
+00:33:32.640 and angle of each mirror down
+00:33:34.640 to the nanometer at the pico radian,
+00:33:37.120 which is absolutely insane.
+00:33:39.000 - So how accurate do weneed to control this mirror?
+00:33:42.640 Now one of the things youcan do a thought experiment.
+00:33:45.760 And I can place alittle laser on the side
+00:33:50.160 of this mirror, then wego all the way to the moon
+00:33:53.680 and we put a dime here.
+00:33:56.400 So then this lighttravels all the way here
+00:33:59.440 and then with the accuracy,I can control this mirror.
+00:34:02.600 - Yes - I can decidewhether I point to this side
+00:34:06.720 of the dime or whether I pointto this side of the dime.
+00:34:10.158 - What? That's crazy.
+00:34:12.400 - So you can see thatthe pointing accuracy is
+00:34:16.400 that's also in in pico radians.
+00:34:19.199 That is something very extreme.
+00:34:21.360 - This allowed them to controlthe light even when the
+00:34:24.480 power increased.
+00:34:26.000 While Zeiss was doing astellar job with the optics,
+00:34:28.480 ASML was still strugglingwith the power source.
+00:34:31.679 The problem was that thetin droplets were too dense,
+00:34:34.800 meaning that most of the emittedEUV light was still getting
+00:34:38.239 reabsorbed by the neutral atoms
+00:34:40.159 before it could ever reachthe collector mirror.
+00:34:42.280 - The way we blasted the droplet was
+00:34:44.800 so not enough light, too much debris.
+00:34:47.280 - To make matters worse.
+00:34:48.880 They could see thatabout 10 years from now,
+00:34:51.199 they would need a newgeneration of machine, a high
+00:34:54.239 NA EUV machine, essentially one
+00:34:56.400 with a larger optic system
+00:34:58.080 that could print smaller features.
+00:35:00.000 So what did they do?
+00:35:02.080 They decided to double down
+00:35:03.920 and invest in the next generation
+00:35:06.320 before they even gotthe current one to work.
+00:35:08.640 - The most doubtful periodwas in the beginning.
+00:35:11.200 So I started to work on this in 2012.
+00:35:14.080 By that time EUV was not working
+00:35:16.560 and there was this crazyidiot working on the next
+00:35:20.320 generation where we couldnot even make the EUV
+00:35:24.320 light in the first place.
+00:35:25.240 - Not only are you all in onEUV, you're doubling down even
+00:35:28.720 before you know if EUV is gonna work.
+00:35:30.480 - Yes. - But to keep funding thedevelopment, they needed money
+00:35:34.320 and lots of it.
+00:35:35.680 So they turned to the very,who needed this technology
+00:35:38.800 - ASML reached out to its main customers.
+00:35:42.080 Okay, you want this technology
+00:35:44.560 for the next generation of chips?
+00:35:46.480 Well, you need to makeus able to invest more
+00:35:50.240 by investing in us.
+00:35:51.800 - Intel invested around$4.1 billion and Samsung
+00:35:56.080 and TSMC in invested another1.3 billion combined.
+00:36:00.080 So they can keep the research going,
+00:36:02.000 but with no product
+00:36:03.360 to show customers wererunning out of patience.
+00:36:05.920 - We were crucified at every conference
+00:36:09.440 that the promises wemade last year we we were
+00:36:12.320 unable to live up to.
+00:36:13.760 Yeah. And they said, this iswhat you showed two years ago.
+00:36:16.000 This is what you showed last year
+00:36:17.120 and this is what you'retelling me this year.
+00:36:18.640 So why would I believe you?
+00:36:19.920 - They were getting desperate.
+00:36:21.640 - But this was, I think about 2012 or
+00:36:25.760 or 13, we were strugglingto get the EUV power up
+00:36:29.520 and Kenoshita visited us.
+00:36:31.200 I took him to dinnerin a small town nearby
+00:36:33.680 and across from therestaurant was a Maria Chapel.
+00:36:37.440 And now you know, science, we have come
+00:36:39.840 to the limits of science.
+00:36:41.440 Hey, let's go for divine intervention.
+00:36:43.360 So we went to the chapel so Kenoshita just
+00:36:46.400 to be safe lit three candlesfor the three suppliers
+00:36:50.400 that were pursuing EUVtechnology at the time.
+00:36:53.040 And lo and behold,
+00:36:54.720 and I have the data to prove it,
+00:36:56.480 there is a very strong correlation
+00:36:58.400 between us lighting the candle.
+00:37:00.560 - Okay. - And power going up.
+00:37:03.840 It's not causal effect, butthere is a strong correlation.
+00:37:07.000 - The big idea was insteadof hitting the droplet once,
+00:37:10.240 hit it twice,
+00:37:11.160 - One shot to hit the droplet
+00:37:14.000 and it expands in like a pancake shape.
+00:37:16.560 - Yep.- And then only then have the second shot,
+00:37:19.840 the more powerful main pulsewhere you evaporate the pancake
+00:37:23.760 and turn it into a plasma.
+00:37:25.360 This was a major breakthrough
+00:37:27.120 - By changing the targetfrom a droplet to a pancake.
+00:37:30.480 You got a larger surface areafor the laser to vaporize,
+00:37:33.680 but without the cost of addingmore debris or neutral atoms,
+00:37:37.200 because now the tin isvaporized all at once.
+00:37:40.640 By 2014, they finally managed to hit
+00:37:43.440 that coveted 100 watts mark.
+00:37:45.680 But improvements in multi patterning
+00:37:47.520 with 193 nanometers now meant
+00:37:49.840 that EUV would only be usefulif the source reached at least
+00:37:53.360 200 watts and made 125 wafers per hour.
+00:37:56.520 - The source went from a hundred to 200,
+00:37:58.640 but as the industry movedon, nobody waits for you.
+00:38:01.200 You know, they find othersolutions. We had to catch up.
+00:38:04.880 So it was a moving goalpost.
+00:38:06.400 - One of the problems washow do you perfectly time the
+00:38:09.360 laser so you hit each of these droplets.
+00:38:11.680 - So the, the analogy isa bit like a golf ball
+00:38:14.800 that you need to land inthe hole 200 meters away,
+00:38:18.960 not like laying on the green, not bouncing
+00:38:20.640 and getting the hole, but likeland in the hole every time.
+00:38:23.600 That's the level of precisionthat we need to deliver the droplets.
+00:38:26.760 Those droplets are traveling through this like maelstrom of hydrogen flow.
+00:38:30.720 The speeds are tremendouslyhigh, like shoot golf balls
+00:38:33.520 through a tornado and thenright when it lands at the hole,
+00:38:36.800 that's when it needs toget hit by the laser.
+00:38:38.480 So in order to basicallytrack the droplets for that,
+00:38:41.600 we use laser curtains
+00:38:43.120 and we can sort of lookat when does the droplet
+00:38:45.440 pass through a laser curtain.
+00:38:46.640 Those scattered photonstell us basically when
+00:38:49.280 and where is the droplet.
+00:38:50.800 And then importantly tellsus when to fire the laser.
+00:38:53.120 So we actually have to take into account
+00:38:54.800 how long will it take for thelight pulse to hit the droplet
+00:38:57.520 after we send the pulse.
+00:38:59.520 - Now by 2015, they were getting closer
+00:39:02.400 and closer to that coveted200 watt mark when all
+00:39:05.920 of a sudden the ASML boardmembers got summoned.
+00:39:09.240 - This was one of these decisive moments
+00:39:11.920 where our customers were reallythin on patience and Martin
+00:39:15.760 and all the board memberswere summoned to Korea
+00:39:18.400 to show 200 watt and theywere really fed up with it.
+00:39:22.400 You know, you either showit now or you you go away.
+00:39:26.480 And when they entered the plane,
+00:39:27.920 the experiment was still running.
+00:39:30.000 - Okay? - When they exited the plane,
+00:39:32.640 they had the first resultdemonstrating to all about,
+00:39:35.360 this is how close we came
+00:39:36.560 - With the source power up,
+00:39:38.240 there was one final problemthat had to be solved
+00:39:41.360 before they could beginmanufacturing their machine.
+00:39:44.240 See, while the hydrogen gas didprotect the collector mirror
+00:39:47.120 from debris, it wasn't perfect.
+00:39:49.680 All the intense high energy photons
+00:39:51.840 and hydrogen ions zipping around,
+00:39:54.000 deteriorated a very specialtop coating on the collector.
+00:39:57.920 So they still had to cleanthe mirrors every 10 hours,
+00:40:01.360 which you know isterrible for productivity.
+00:40:04.000 Martin van den Brink asked
+00:40:05.120 for updates every day on their progress.
+00:40:07.440 But then one of the engineers noticed
+00:40:09.280 that every time theyopened up the machine,
+00:40:11.680 the mirrors suddenly seemed cleaner
+00:40:13.920 - Then he kind of chimed inand said, oh wait a second.
+00:40:18.080 Whenever we opened up themachine, oxygen comes in
+00:40:21.280 and our problem is solved.
+00:40:22.880 Couldn't we think of a wayto add just a little oxygen
+00:40:26.320 to our system and make sure
+00:40:28.240 that the collector stays clean longer?
+00:40:31.360 And so they started experimentingwith the amount of oxygen
+00:40:35.600 that was needed in the vacuum
+00:40:37.680 and then finally got tothis point, okay, if we add
+00:40:40.080 so much oxygen, we'll keep thecollector clean for longer.
+00:40:42.960 - With this fix ASML'smachine could run continuously
+00:40:46.320 for much longer and it finallybecame commercially viable.
+00:40:50.640 By 2016, orders started pouring in
+00:40:53.120 and now all of the most advancedchips need ASML's machine
+00:40:56.960 making them perhapsthe most important tech
+00:40:59.440 company in the world.
+00:41:01.040 ASML's first commercial machineshad a numerical aperture
+00:41:04.000 of 0.33 and could print13 nanometer lines.
+00:41:08.000 These are called the low NA machines
+00:41:10.080 and a ML still makes them.
+00:41:11.840 But the machine that Jan'steam started working on back in
+00:41:14.800 2012 was the next generationwhich had a larger optic system
+00:41:18.880 so they could print even smaller features.
+00:41:21.200 This is the high NA machinewith a numerical aperture
+00:41:24.400 of 0.55, and we get to seetheir latest version up close.
+00:41:29.600 - How much is the machine?
+00:41:32.000 We always say north of 350 million euros.
+00:41:35.840 And you can actually buy it, right?
+00:41:37.280 You can if you want yeah.
+00:41:38.400 - If I had the money I could buy it.
+00:41:40.320 Yes you could. - How many people have seen this before?
+00:41:43.320 - We really limit the amount of people
+00:41:45.760 - That get to go inside the clean room.
+00:41:47.680 ASML's machines are built ina super strict clean room in
+00:41:51.120 any cubic meter, there canbe no more than 10 particles,
+00:41:53.840 only 0.1 microns large, andnothing bigger than that.
+00:41:57.360 A spec of pollen is around 20 microns
+00:41:59.520 and extremely fine sandis around 10 microns.
+00:42:02.640 To put all of this in perspective,hospital operating rooms,
+00:42:05.680 which have to be extremelyclean, only allow a maximum
+00:42:08.880 of 10,000 particles per cubic meter
+00:42:10.960 that are 0.1 microns wide.
+00:42:13.760 It's so unfair
+00:42:14.880 how much better Marc looksthough in his white suit.
+00:42:18.320 I feel like a little smurf.
+00:42:21.278 - Okay, so we're gonna gothrough the air showers,
+00:42:24.640 so you're gonna have to do as I do.
+00:42:26.800 - Okay, so this is washing down all the
+00:42:29.280 particles that are still on us.
+00:42:30.320 - Yes. So this is likesuper clean air blowing
+00:42:32.880 as clean. - This place is huge.
+00:42:36.260 - It's huge.- It's insane.
+00:42:38.080 I've been in a clean rooma couple times before,
+00:42:40.720 but it's nothing compared to this.
+00:42:42.480 Are there any secret areas here
+00:42:44.320 where almost no one has access to?
+00:42:46.440 - I can't tell you. - Great answer.
+00:42:50.000 - Okay. So this is the total system.
+00:42:52.080 - This is it. That's crazy. Look how big it is.
+00:42:57.840 This is the most advancedmachine humanity's ever built.
+00:43:01.280 It's taken many, many years,decades of development,
+00:43:04.960 many billions of dollars allto get this humongous beauty.
+00:43:10.080 So this is the first high NA machine. - Yes.
+00:43:12.440 So if you saw pictures onthe internet or whatever.
+00:43:16.240 - Yeah.- That's this machine.
+00:43:17.760 So the very first line's ever printed at
+00:43:19.760 eight nanometers and stuff.
+00:43:21.280 That was this machine. - The smoothest object on earth.
+00:43:24.640 - Yeah, it's all in here. - Yeah.
+00:43:26.120 - Wait, so let me see if Ican figure this out. - Yeah.
+00:43:29.280 - This is the light source.
+00:43:31.760 It's where they make theextreme ultraviolet. - Yes.
+00:43:35.440 And then the laser mustcome in from there.
+00:43:37.920 - Let's take a look at the laser.
+00:43:39.600 In fact, we got to see just
+00:43:40.880 how the laser and light source work.
+00:43:43.040 I think we're entering thelaser system here Mark's just
+00:43:45.920 making sure, I think thatwe can actually film here
+00:43:48.000 that we're not catching anything.
+00:43:49.440 We're not supposed to. Ohwow. This looks dangerous.
+00:43:53.520 Now the laser system is covered by all
+00:43:55.360 of these brown cabinets,but here is a model version.
+00:43:58.480 A carbon dioxide laser
+00:43:59.760 of just a few watts entersthis amplifier where it bounces
+00:44:03.280 around until it's roughlyfive times its original power.
+00:44:06.560 It then goes through a totalof four different amplifiers
+00:44:09.440 to bring the final laserup to 20,000 watts,
+00:44:12.720 which is four times stronger than
+00:44:14.320 lasers that cut through steel.
+00:44:15.920 - Over here we have the amplifiers. - Yeah.
+00:44:19.040 That generates this. Thispowerful laser beam. - Yeah.
+00:44:22.000 - And then it basically comes out
+00:44:23.760 and this is part of thebeam transport system.
+00:44:26.320 Where it's broughtto the machine.
+00:44:29.120 So this pipe here hasthe big laser beam.
+00:44:31.920 - And this has a mirror?
+00:44:33.680 - Yes. - Then the pulses travelto the light source module.
+00:44:36.960 It kind of looks like a transformer
+00:44:38.640 or like a, I don't know, like a spaceship.
+00:44:41.520 There's so many wires goingeverywhere. - Don't touch this.
+00:44:47.480 - Holy crap. - This is prettybig, huh? - This is insane.
+00:44:52.480 - And this is just a light source?
+00:44:53.840 - This is just a light source.
+00:44:54.960 Are you getting this comparison shot?
+00:44:56.480 And so you need all of this.
+00:44:58.120 - Just to make EUV light. Yeah.
+00:45:00.318 - Just to make the light.Yes. That's incredible.
+00:45:02.400 Can we do a little walk around?
+00:45:03.320 - We can do a little walk. - Let's go.
+00:45:07.600 - So basically this isthe heart of the source.
+00:45:10.640 - Can I stand on here? - Ifyou are below 137, you can.
+00:45:15.280 - I don't - I think I am.
+00:45:21.360 Woo. And so the tin dropletsare coming in from the left.
+00:45:24.480 - Yes.- Then we're shooting the laser from here.
+00:45:28.080 - Yeah.- Okay.
+00:45:29.360 It explodes and then the light,the light goes out there.
+00:45:34.640 One improvement fromASML's first EUV machine
+00:45:37.200 to their newest one is the number
+00:45:39.120 of pulses that hit the droplet.
+00:45:41.520 The first pre pulse stillflattens the droplet into a
+00:45:44.240 pancake, but now there'salso a second pre pulse
+00:45:47.440 that further reduces the density.
+00:45:49.040 It basically turns itinto a low density gas,
+00:45:51.920 it rarefies it.
+00:45:53.520 And then the final pulseessentially ionizes all of it.
+00:45:57.200 So for basically the same powercoming from the drive laser,
+00:46:00.560 they get even more EUV light.
+00:46:02.960 Now if they want even morelight, then the only way to do
+00:46:05.360 that is by hitting more droplets.
+00:46:07.280 And that's exactly what they did.
+00:46:09.040 - Our most recent EUV light sources
+00:46:11.680 that we're shipping right now, which are
+00:46:13.200 around the 500 watt level,we increased the rep rate up
+00:46:16.480 to 60,000 times per second.
+00:46:18.480 And then we have a roadmap that's gonna go
+00:46:20.480 to a hundred thousand droplets per second.
+00:46:22.880 We've actually now alreadydemonstrated this hundred
+00:46:25.271 thousand droplets per second in the lab.
+00:46:26.720 So it's not an if but a when.
+00:46:28.480 - Crazy. - The three pulsesthat we use to make the pancake
+00:46:32.560 to blow up the pancake a little bit
+00:46:34.000 and then to evaporate the pancake.
+00:46:36.040 - Yeah. - The first twopulses, they would be coming in
+00:46:39.920 through this pipe here
+00:46:41.840 and then the main pulsewith the big laser,
+00:46:45.040 the laser beam would bedelivered through this pipe here.
+00:46:47.600 - Both the high and low NAmachine shipping out right now
+00:46:50.800 use three pulses
+00:46:51.840 and eventually they will hitmore droplets per second.
+00:46:55.200 But the light source is just one small
+00:46:57.040 part of the full machine.
+00:46:58.400 After bouncing off the collector mirror,
+00:47:00.240 the EUV light moves to the illuminator.
+00:47:02.880 A set of mirrors shape and focus the light
+00:47:05.280 before it hits the reticle.
+00:47:06.800 The reticle is the top half
+00:47:08.160 and this module is builtin a separate facility
+00:47:10.320 and installed later.
+00:47:11.920 Next the light goes intothe projection optics box,
+00:47:14.720 which is a set of mirrors
+00:47:15.920 that shrink the light down.
+00:47:17.071 The high NA machine can shrink the patterneight times in the vertical
+00:47:20.640 direction and four times inthe horizontal direction.
+00:47:23.920 The mirrors are also much smoother still.
+00:47:26.400 If the low NA mirrorswere the size of Germany,
+00:47:28.880 the tallest bump wouldbe about a millimeter.
+00:47:31.040 But if the high NA mirrorswere the size of the world,
+00:47:33.600 the tallest bump would be about the
+00:47:35.200 thickness of a playing card.
+00:47:36.880 By the combination of bothof these improvements,
+00:47:39.120 ASML was able to increase thenumerical aperture from 0.33
+00:47:42.960 to zero point 55.
+00:47:45.120 And finally the light hitsthe wafer. In order to print
+00:47:48.480 around 185 wafers perhour, the reticle whips back
+00:47:52.240 and forth at accelerations of over 20 g's.
+00:47:55.280 That's over five times the acceleration
+00:47:57.120 of a Formula one car.
+00:47:58.880 And this is some actual footage of what
+00:48:01.120 that's like inside this machine.
+00:48:02.640 And notice that this is not sped up,
+00:48:06.240 but the crazy thing to meabout this machine isn't
+00:48:08.560 how fast the reticle moves oreven how small it can print,
+00:48:12.800 but it's just how insanelyaccurate it needs to be.
+00:48:15.920 The most any two layers can be off,
+00:48:18.080 which is called theoverlay is one nanometer.
+00:48:21.520 That's five freaking silicon atoms
+00:48:23.600 of precision. That's insane.
+00:48:25.520 - So typically what wedo as system engineers is
+00:48:29.040 that we make a budget.
+00:48:30.240 So we say, hey, youget, let's say a nanometer and
+00:48:34.960 and we divide then the nanometers to
+00:48:38.880 to smaller fractions.
+00:48:39.840 - The nanometers total.
+00:48:41.280 It's not like you, you group gets an er...
+00:48:43.120 - You get a nanometer, you get, no, no.
+00:48:44.800 You get a nanometer in total. Yes.
+00:48:48.240 So you have to, to fight for the,
+00:48:50.640 for your part of the nanometer.
+00:48:52.400 - It's kind of cool to realize
+00:48:53.920 that like every smartphonenowadays has has a chip
+00:48:57.200 that is made with the machine
+00:48:58.640 that was actually put together here.
+00:49:01.040 So that's a cool thought.
+00:49:02.920 - Take a look at this.- It's pretty massive, eh?
+00:49:07.678 - So big.- So do you cover it up? Yes.
+00:49:11.360 At a customer fab, it will belooking like a big white box.
+00:49:17.120 I like it better like this. Yeah, me too.
+00:49:19.880 - It's funny. You need such a big machine,
+00:49:23.760 so much infrastructure tomake the tiniest things
+00:49:27.920 we can make at scale.
+00:49:29.200 - It's inversely proportional.
+00:49:30.920 - Yeah. Smaller. You wantto go the larger everything
+00:49:33.760 around it becomes.
+00:49:35.724 After the machines are assembled, tested and approved, they are disassembled
+00:49:39.120 to ship all around the world.
+00:49:41.280 5,000 companies supply100,000 parts, 3000 cables,
+00:49:45.600 40,000 bolts and two kilometers of hosing.
+00:49:48.640 ASML ships their high NA
+00:49:49.840 machine in 250 containersspread out over 25 trucks
+00:49:53.680 and seven Boeing 747s.
+00:49:57.520 Despite all the doubt
+00:49:58.560 and setback, EUV finally made it
+00:50:00.640 to manufacturing level three decades
+00:50:02.880 after Kenoshita's first images.
+00:50:05.120 But even when almost theentire world didn't believe it
+00:50:08.000 would work, there were somepeople at ASML who knew
+00:50:11.280 that it was going to workall the way back in 2010,
+00:50:14.280 - Around 2001 we saidlet's, let's, let's do EUV.
+00:50:18.960 And then we run into many challenges.
+00:50:21.200 2010 we installed the firstsystem at a, at a customer.
+00:50:24.080 So it was installed in Korea.
+00:50:25.680 There it was this thing I hadbeen pursuing for, you know,
+00:50:29.520 13 years was now standing ata customer producing wafers.
+00:50:34.400 This for me was a moment I realized,
+00:50:37.120 yes, we made the right bet.
+00:50:38.880 - Years later, Jos ran into the man
+00:50:41.200 who helped install the first machine.
+00:50:43.200 - He's now a professorat a renowned institute.
+00:50:45.760 And I shared the story about my relief
+00:50:48.080 and how, how, how greatwe made the decision.
+00:50:50.240 Hanku said, yeah, yeah, yeah.
+00:50:51.760 He said, when you left and you flew out
+00:50:53.840 after Christmas, the thing broke down
+00:50:56.400 and it took two monthsto get back up again.
+00:50:58.800 And they almost fired me formaking the wrong decision
+00:51:01.840 that we had some upsand downs along the way.
+00:51:04.951 - Yeah.- But again,
+00:51:05.760 once I saw the systeminstalled at a customer
+00:51:08.400 in a customer fab, yeah.
+00:51:10.000 I knew we had done theright thing. This was 2010.
+00:51:12.720 The first phone that came out was 2019.
+00:51:14.880 So we still had some hurdles to resolve,
+00:51:16.800 - Right.
+00:51:17.320 - But we kept going.
+00:51:20.360 - Now I have spent severalmonths working on this video
+00:51:25.200 and thinking about it
+00:51:26.720 and it still feels absolutely impossible.
+00:51:30.240 And the more I think about it,
+00:51:32.240 the more I think you knowthose people 40 years ago
+00:51:35.120 that said it was impossible,they had a point.
+00:51:38.160 It's completely unreasonable to think
+00:51:40.640 that you could make thisartificial sun in a lab,
+00:51:42.960 that you could make thesemirrors that are this smooth
+00:51:45.280 and that you could get therequired overlay accuracy.
+00:51:49.520 The reasonable thing isto think that none of
+00:51:51.440 that is possible and
+00:51:52.480 to point out all theproblems with each of them.
+00:51:55.280 Which reminds me of this quote,
+00:51:57.520 the reasonable man adaptshimself to the world;
+00:52:00.400 the unreasonable one persists in trying
+00:52:02.960 to adapt the world to himself.
+00:52:05.440 Therefore, all progress dependson the unreasonable map.
+00:52:09.600 Imagine if Andy and Kinoshita
+00:52:11.760 and all the others had been reasonable,
+00:52:14.320 we would have none of this.
+00:52:16.400 In fact, imagine what the worldwould be like if everyone on
+00:52:19.680 it was reasonable.
+00:52:21.120 It would probably be extremely boring.
+00:52:23.200 Probably most of the technology, most
+00:52:24.960 of the things you enjoy on adaily basis wouldn't be here.
+00:52:28.560 In fact, you probably wouldn'tbe watching this video
+00:52:31.120 because just about all thetechnology we have nowadays would
+00:52:34.320 seem completely unreasonableeven just 200 years ago.
+00:52:39.040 And so I really thinkthat to a large extent,
+00:52:42.080 we owe our lives to thoseunreasonable people.
+00:52:45.120 And maybe at least to me,it's a reminder that it's good
+00:52:48.400 to be a little unreasonable,at least in some
+00:52:51.120 of the big parts of life.
+00:52:57.200 Changing the world is difficult.
+00:52:58.640 It took overcoming thousands of obstacles
+00:53:00.640 and over 30 years to get EUV to work.
+00:53:03.200 But big breakthroughs usuallystart in the same way.
+00:53:06.000 That is you learn, you exploresome related ideas, you try
+00:53:10.000 to apply them in some new ways,
+00:53:11.360 and then you buildskills to take on bigger
+00:53:13.600 and bigger challenges.
+00:53:15.120 Bit by bit you gain knowledge
+00:53:17.440 and that's where today's videosponsor Brilliant comes in.
+00:53:20.880 Brilliant helps youexcel in math, science,
+00:53:23.360 and computer science withvisual interactive learning
+00:53:26.480 that's personalized for you.
+00:53:28.560 It's an incredibly powerful wayto reach big learning goals,
+00:53:32.240 mastering math for class
+00:53:33.600 or contributing to thenext big technological
+00:53:36.320 breakthrough. On Brilliant,
+00:53:38.080 you learn by doing, a methodthat research has shown
+00:53:40.960 to be far more effectivethan just passive learning.
+00:53:43.360 It starts you at the rightlevel based on your background
+00:53:46.320 designs, practice sets andreviews customized for you.
+00:53:49.520 And then it helps youadvance at your ideal pace.
+00:53:52.560 There is always something newto discover on Brilliant.
+00:53:55.280 Want to better understand opticsafter watching this video?
+00:53:58.080 Well there Scientific Thinking Course is a
+00:54:00.720 great place to start.
+00:54:02.320 It helps you think like anengineer by showing you how
+00:54:05.200 to break down large concepts into smaller,
+00:54:08.000 more understandable pieces.
+00:54:10.000 Whether you are conqueringfundamental math, algebra,
+00:54:13.120 or calculus, diving deep intoalgorithms, exploring materials
+00:54:16.880 science or understanding thephysics that will take us
+00:54:20.080 beyond EUV, Brilliantwill help you get there.
+00:54:23.200 And if like me, you've resolved
+00:54:24.880 to learn more in the new year,then brilliant is a great way
+00:54:28.160 to actually make that resolution stick.
+00:54:30.400 So to learn for free, go tobrilliant.org/veritasium,
+00:54:34.560 scan the QR code on screen,
+00:54:36.320 or click the link in the description.
+00:54:38.480 Brilliants also given ourviewers 20% off an annual premium
+00:54:42.320 subscription, which givesyou unlimited daily access
+00:54:45.200 to everything on Brilliant.
+00:54:47.024 So I want to thank Brilliant for sponsoring this video
+00:54:49.840 and I want to thank you for watching.

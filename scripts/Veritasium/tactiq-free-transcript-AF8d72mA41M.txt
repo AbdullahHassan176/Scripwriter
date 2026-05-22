@@ -1,0 +1,763 @@
+# tactiq.io free youtube transcript
+# Why It Was Almost Impossible to Make the Blue LED
+# https://www.youtube.com/watch/AF8d72mA41M
+
+00:00:00.240 LEDs don't get their colorfrom their plastic covers.
+00:00:03.450 And you can see that becausehere is a transparent LED
+00:00:06.720 that also glows the same red color.
+00:00:09.270 The color of the light comes
+00:00:10.530 from the electronics themselves.
+00:00:12.540 The casing just helps ustell different LEDs apart.
+00:00:15.720 In 1962, general Electricengineer Nick Holonyak
+00:00:19.230 created the first visible LED.
+00:00:21.630 It glowed a faint red.
+00:00:23.940 A few years after that,engineers at Monsanto
+00:00:26.580 created a green LED.
+00:00:28.950 But for decades, all wehad were those two colors.
+00:00:32.970 So LEDs could only be usedin things like indicators,
+00:00:36.480 calculators, and watches.
+00:00:38.550 If only we could makeblue, then we could mix
+00:00:41.820 red, green, and blue to make white,
+00:00:43.890 and every other color,
+00:00:45.390 unlocking LEDs for every typeof lighting in the world,
+00:00:48.990 from light bulbs, to phones, to computers,
+00:00:51.570 to TVs to billboards.
+00:00:54.000 But blue was almost impossible to make.
+00:00:57.989 (dramatic music)
+00:01:00.060 Throughout the 1960s,
+00:01:01.830 every big electronicscompany in the world,
+00:01:04.110 from IBM to GE, to Bell Labs,
+00:01:07.320 raced to create the blue LED.
+00:01:10.080 They knew it would be worth billions.
+00:01:12.930 Despite the efforts ofthousands of researchers,
+00:01:15.660 nothing worked.
+00:01:18.000 10 years after Holonyak's original LED
+00:01:20.580 turned into 20, then 30,
+00:01:22.830 and the hope of ever usingLEDs for light, faded away.
+00:01:26.940 According to a director at Monsanto,
+00:01:29.190 these won't ever replacethe kitchen light.
+00:01:32.220 They'd only be used inappliances, car dashboards,
+00:01:34.980 and stereo sets to seeif the stereo was on.
+00:01:38.970 This might still be truetoday, if not for one engineer
+00:01:42.300 who defied the entire industry
+00:01:44.490 and made three radical breakthroughs
+00:01:46.650 to create the world's first blue LED.
+00:01:50.802 (dramatic music)
+00:01:52.600 Shūji Nakamura was a researcherat a small Japanese chemical
+00:01:55.663 company named Nichia.
+00:01:57.840 They had recently expandedinto the production
+00:01:59.790 of semiconductors to beused in the manufacture
+00:02:02.280 of red and green LEDs.
+00:02:04.380 But by the late 1980s,
+00:02:05.820 the semiconductor divisionwas on its last legs.
+00:02:08.460 They were competing againstfar more established
+00:02:10.770 companies in a crowdedmarket, and they were losing.
+00:02:14.700 Tensions started to run high.
+00:02:17.130 Younger employees beggedNakamura to create new products,
+00:02:20.880 while senior workers calledhis research a waste of money.
+00:02:25.730 And at Nichia, money was in short supply.
+00:02:29.100 Nakamura's lab mainlyconsisted of machinery
+00:02:31.590 he had scavenged andwelded together himself.
+00:02:34.590 Phosphorus leaks in his labcreated so many explosions,
+00:02:37.860 that his coworkers hadstopped checking in on him.
+00:02:40.860 By 1988, Nakamura's supervisorswere so disillusioned
+00:02:44.580 with his research thatthey told him to quit.
+00:02:47.640 So it was out of desperation
+00:02:49.500 that he brought a radicalproposal to the company's founder
+00:02:52.290 and president Nobuo Ogawa.
+00:02:55.640 (dramatic music)
+00:02:56.473 The elusive blue LED,
+00:02:58.783 that the likes of of Sony,Toshiba and Panasonic
+00:03:00.960 had all failed at.
+00:03:02.640 What if Nichia could bethe one to create it?
+00:03:06.240 After suffering loss afterloss on their semiconductors
+00:03:09.090 for more than a decade,
+00:03:10.500 Ogawa took a gamble.
+00:03:12.450 He devoted 500 million yen or $3 million,
+00:03:16.320 likely around 15% of thecompany's annual profit,
+00:03:19.769 to Nakamura's moonshot Project.
+00:03:24.330 Everyone knew that LEDs have the potential
+00:03:26.700 to replace light bulbs,
+00:03:28.470 because light bulbs, the universalsymbol for a bright idea,
+00:03:33.000 are actually terrible at making light.
+00:03:35.850 They work by running currentthrough a tungsten filament,
+00:03:38.520 which gets so hot, it glows.
+00:03:40.710 But most of the electromagnetic radiation
+00:03:43.080 comes out as infrared, heat.
+00:03:45.840 Only a negligiblefraction is visible light.
+00:03:49.140 In contrast, LED standsfor light emitting diode.
+00:03:53.160 It's right there in the name.
+00:03:55.140 LEDs primarily create light,so they're far more efficient,
+00:03:59.400 and a diode is just adevice with two electrodes,
+00:04:02.430 which only allows currentto flow in one direction.
+00:04:06.750 So here's how an LED works.
+00:04:09.480 When you have an isolated atom,
+00:04:11.490 each electron in that atomoccupies a discreet energy level.
+00:04:15.150 You can think of these energylevels like individual seats
+00:04:17.670 from a hockey stadium,
+00:04:19.200 and all atoms of the same element,
+00:04:21.120 when they are far apart from each other
+00:04:22.860 have identical available energy levels.
+00:04:25.890 But when you bring multipleatoms together to form a solid,
+00:04:28.920 something interesting happens.
+00:04:30.960 The outermost electrons now feel the pole,
+00:04:33.210 not only of their own nucleus,
+00:04:35.130 but of all the other nuclei as well.
+00:04:37.800 And as a result, theirenergy levels shift.
+00:04:40.950 So instead of being identical,
+00:04:42.960 they become a series of closely spaced,
+00:04:45.270 but separate energy levels.
+00:04:47.160 An energy band.
+00:04:48.952 The highest energy bandwith electrons in it,
+00:04:51.600 is known as the valence band,
+00:04:53.670 and the next higher energy band
+00:04:55.080 is called the conduction band.
+00:04:56.970 You can think of itlike the balcony level.
+00:05:00.120 In conductors, the valenceband is only partially filled.
+00:05:03.660 This means with a littlebit of thermal energy,
+00:05:05.820 electrons can jump intonearby unfilled seats,
+00:05:09.090 and if an electric field is applied,
+00:05:10.800 they can jump from oneunfilled seat to the next
+00:05:13.380 and conduct current through the material.
+00:05:16.500 In insulators, the valence band is full,
+00:05:19.530 and the difference inenergy between the valence
+00:05:21.480 and conduction bands,the band gap, is large.
+00:05:25.560 So when an electric field isapplied, no electrons can move.
+00:05:29.790 There are no available seats
+00:05:31.350 to move into in the valence band,
+00:05:33.330 and the band gap is toobig for any electrons
+00:05:35.640 to jump into the conduction band,
+00:05:38.070 which brings us to semiconductors.
+00:05:41.760 Semiconductors are similar to insulators,
+00:05:44.010 except the band gap is much smaller.
+00:05:46.620 This means at room temperature,
+00:05:48.210 a few electrons willhave sufficient energy
+00:05:50.850 to jump into the conduction band,
+00:05:53.040 and now they can easilyaccess nearby empty
+00:05:55.770 seats and conduct current.
+00:05:57.750 Not only that, the empty seats they left
+00:05:59.880 behind in the valence band can also move.
+00:06:02.550 Well, really, it's the nearby electrons
+00:06:04.410 jumping into those empty seats.
+00:06:06.150 But if you look from afar,
+00:06:07.710 it's as though the empty seat or hole
+00:06:10.740 is moving like a positivecharge in the opposite
+00:06:13.770 direction to the electronsin the conduction band.
+00:06:17.723 (soft music)
+00:06:18.556 By themselves, pure semiconductorsare not that useful.
+00:06:22.290 To make them way more functional,
+00:06:24.300 you have to add impurityatoms into the lattice.
+00:06:27.240 This is known as doping.
+00:06:29.160 For example, in silicon,
+00:06:30.510 you can add a small numberof phosphorus atoms.
+00:06:33.240 Phosphorus is similar to silicon,
+00:06:34.800 so it easily fits into the lattice,
+00:06:36.960 but it brings with it oneextra valence electron.
+00:06:40.170 This electron exists in a donor level
+00:06:42.090 just beneath the conduction band.
+00:06:44.310 So with a bit of thermal energy,
+00:06:46.080 all these electrons can jumpinto the conduction band
+00:06:48.720 and conduct current.
+00:06:50.610 Since most of the charges that can move
+00:06:53.299 in this type ofsemiconductor are electrons,
+00:06:54.510 which are negative,
+00:06:55.890 this sort of semiconductoris called n-type,
+00:06:58.620 n for negative,
+00:07:00.090 but I should point outthat the semiconductor
+00:07:01.860 itself is still neutral.
+00:07:03.690 It's just that most of the mobile charge
+00:07:05.550 carriers are negative.
+00:07:06.930 They're electrons.
+00:07:08.610 So there is also another typeof semiconductor where most
+00:07:10.980 of the mobile chargecarriers are positive,
+00:07:12.780 and it's called p-type.
+00:07:16.320 To make p-type silicon,
+00:07:17.580 you add a small numberof atoms of, say, boron.
+00:07:20.580 Boron fits into the lattice,
+00:07:21.840 but brings with it one fewervalence electron than silicon.
+00:07:25.020 So it creates an empty acceptor level
+00:07:27.360 just above the valence band.
+00:07:29.370 And with a bit of thermal energy,
+00:07:30.720 electrons can jump outta the valence band,
+00:07:32.940 leaving behind holes.
+00:07:34.950 It is these positive holeswhich are mostly responsible
+00:07:37.577 for carrying current inthe p-type semiconductor.
+00:07:41.040 Again, the material overall is uncharged,
+00:07:43.560 it's just that most ofthe mobile charge carriers
+00:07:46.080 are positive holes.
+00:07:48.150 Where things get interestingis when you put a piece
+00:07:50.430 of p-type and n-type together.
+00:07:52.740 Without even connecting this to a circuit,
+00:07:55.170 some electrons will diffuse from n to p
+00:07:58.140 and fall into the holes in the p-type.
+00:08:01.110 This makes the p-type alittle negatively charged,
+00:08:03.990 and the n-type a littlepositively charged.
+00:08:06.690 So there is now an electric field
+00:08:08.970 inside an inert piece of material.
+00:08:12.210 Electrons keep diffusing
+00:08:13.860 until the electric field becomes so large,
+00:08:16.200 it prevents them from crossing over.
+00:08:18.510 And now we have establishedthe depletion region,
+00:08:21.510 an area depleted ofmobile charge carriers.
+00:08:24.630 There are no electronsin the conduction band
+00:08:26.790 and no holes in the valence band.
+00:08:29.340 If you connect a batterythe wrong way to this diode,
+00:08:31.740 it simply expands the depletion region
+00:08:34.230 until its electric fieldperfectly opposes that
+00:08:36.960 of the battery and no current flows.
+00:08:41.490 But if you flip thepolarity of the battery,
+00:08:43.679 then the depletion region shrinks,
+00:08:45.690 the electric field decreases,
+00:08:47.430 and electrons can flow from n to p.
+00:08:50.820 When an electron falls fromthe conduction band into a hole
+00:08:54.030 in the valence band, thatband gap energy can be
+00:08:57.270 emitted as a photon.
+00:08:59.280 The energy change of theelectron is emitted as light,
+00:09:03.150 and this is how a lightemitting diode works.
+00:09:06.270 The size of the bandgap determines the color
+00:09:09.330 of the light emitted.
+00:09:10.830 In pure silicon, the band gapis only 1.1 electron volts.
+00:09:14.910 So the photon released isn'tvisible, it's infrared light.
+00:09:18.870 These LEDs are actuallyused in remote controls
+00:09:22.050 for your TV, and you cancapture them on camera.
+00:09:25.770 Moving up the spectrum, youcan see why the first visible
+00:09:28.500 light LEDs were red and then green,
+00:09:31.254 and why blue was so hard.
+00:09:33.840 A photon of blue lightrequires more energy,
+00:09:36.300 and therefore a larger band gap.
+00:09:39.720 By the 1980s,
+00:09:40.710 after hundreds of millions ofdollars had been spent hunting
+00:09:44.070 for the right material,every electronics company
+00:09:46.890 had come up empty handed.
+00:09:48.690 But researchers had at least figured out
+00:09:50.430 the first critical requirement,high quality crystal.
+00:09:54.600 No matter what materialyou used for the blue LED,
+00:09:57.510 it required a nearperfect crystal structure.
+00:10:00.450 Any defects in the crystal lattice,
+00:10:02.160 disrupt the flow of electrons.
+00:10:04.140 So instead of emitting theirenergy as visible light,
+00:10:06.600 it is instead dissipated as heat.
+00:10:09.600 So the first step inNakamura's proposal to Ogawa,
+00:10:12.720 was to disappear to Florida.
+00:10:15.150 He knew an old colleaguethere whose lab was beginning
+00:10:17.310 to use a new crystalmaking technology called
+00:10:19.740 Metal Organic Chemical Vapor Deposition,
+00:10:22.448 or MOCVD.
+00:10:25.770 An MOCVD reactor,essentially a giant oven,
+00:10:29.040 was and still is the best wayto mass produce clean crystal.
+00:10:33.660 It works by injecting vapor molecules
+00:10:36.000 of your crystal into a hotchamber where they react
+00:10:38.586 with a base material calleda substrate to form layers.
+00:10:42.390 It's important that thesubstrate lattice matches
+00:10:44.580 the crystal latticebeing built on top of it
+00:10:46.770 to create a stable, smooth crystal.
+00:10:49.950 This is a precise art.
+00:10:51.930 The crystal layersoften need to be as thin
+00:10:54.270 as just a couple of atoms.
+00:10:56.790 Nakamura joined the labfor a year to master MOCVD.
+00:11:01.410 But his time there was miserable.
+00:11:04.380 He wasn't allowed touse the working MOCVD,
+00:11:07.050 so he spent 10 of his 12months assembling a new system,
+00:11:10.470 almost from scratch.
+00:11:12.420 Even worse, his lab mates shunned him
+00:11:15.030 because Nakamura didn't have a doctorate,
+00:11:17.220 nor any academic papers to his name,
+00:11:19.350 as Nichia didn't allow publishing.
+00:11:21.840 His lab mates, all PhD researchers,
+00:11:24.300 dismissed him as a lowly technician.
+00:11:27.480 This experience fueled him.
+00:11:29.490 Nakamura wrote, "I feel resentful
+00:11:31.680 when people looked down on me.
+00:11:33.270 I developed more fighting spirit.
+00:11:35.280 I would not allow myself tobe beaten by such people."
+00:11:42.007 (inspirational music)
+00:11:43.308 He returned to Japan in 1989with two things in hand.
+00:11:46.440 One, an order for a brandnew MOCVD reactor for Nichia,
+00:11:50.760 and two, a fervent desire to get his PhD.
+00:11:54.450 At that time in Japan,you could earn a PhD
+00:11:56.850 without having to go to university,
+00:11:58.710 simply by publishing five papers.
+00:12:02.010 Nakamura had always known his chances
+00:12:04.170 of inventing the blue LED were low.
+00:12:06.540 But now he had a backup plan.
+00:12:09.030 Even if he didn't succeed, hecould at least get his PhD.
+00:12:13.440 But now the question waswith MOCVD under his belt,
+00:12:17.250 which material should he research?
+00:12:21.090 By this time, scientists hadnarrowed the options down
+00:12:23.430 to two main candidates, zincselenide, and gallium nitride.
+00:12:27.690 These were bothsemiconductors with band gaps,
+00:12:30.240 theoretically, in the blue light range.
+00:12:33.120 Zinc selenide was the farmore promising option.
+00:12:36.480 When grown in an MOCVD reactor,
+00:12:38.640 it had only a .3% lattice mismatch
+00:12:41.670 with its substrate, gallium arsenide.
+00:12:44.040 Therefore, zinc selenidecrystal had about a thousand
+00:12:46.770 defects per square centimeter,
+00:12:48.450 within the upper limitfor LED functioning.
+00:12:51.450 Its only issue was that while scientists
+00:12:53.550 had figured out multiple different
+00:12:54.690 ways to create n-type zinc selenide,
+00:12:57.060 no one knew how to create p-type.
+00:13:00.570 In contrast, galliumnitride had been abandoned
+00:13:03.330 by almost everybody for three reasons.
+00:13:06.270 First, it was much harder tomake a high quality crystal.
+00:13:10.050 The best substrate for growinggallium nitride was sapphire,
+00:13:13.620 but its lattice mismatch was 16%.
+00:13:16.800 This resulted in higher defects,
+00:13:19.050 over 10 billion per square centimeter.
+00:13:22.590 The second problem wasthat like zinc selenide,
+00:13:25.170 scientists had only ever created
+00:13:26.910 n-type gallium nitride using silicon.
+00:13:29.610 P-type was elusive.
+00:13:32.310 And third, to be commercially viable,
+00:13:34.620 a blue LED would have to havea total light output power
+00:13:37.770 of at least a thousand microwatts.
+00:13:40.290 That's two orders
+00:13:41.670 of magnitude more than anyprototype had ever achieved.
+00:13:45.630 So between the two candidates,
+00:13:47.400 almost all researchers werefocused on zinc selenide.
+00:13:51.900 Nakamura surveyed the crowded field
+00:13:53.910 and decided that if he were going
+00:13:55.380 to publish five papers by himself,
+00:13:57.690 he'd better focus on gallium nitride,
+00:13:59.880 where the competitionwas much less fierce.
+00:14:02.790 This material's main claim
+00:14:04.230 to fame was one development back in 1972,
+00:14:08.262 when RCA engineer HerbertMaruska made a tiny
+00:14:11.280 gallium nitride blue LED, butit was dim and inefficient.
+00:14:15.840 So RCA slashed the project'sbudget, calling it a dead end.
+00:14:20.430 20 years later, scientificopinion hadn't changed.
+00:14:23.520 When Nakamura attended thebiggest applied physics
+00:14:25.950 conference in Japan, thetalks on zinc selenide
+00:14:28.590 had over 500 attendees.
+00:14:30.780 The talks on gallium nitride had five.
+00:14:34.356 (dramatic music)
+00:14:36.197 Two of those five attendeeswere the world experts
+00:14:38.610 on gallium nitride, Dr. Isamu Akasaki
+00:14:41.730 and his former gradstudent, Dr. Hiroshi Amano.
+00:14:45.210 In contrast to Nakamura'sacademic background,
+00:14:47.820 they were researchersat Nagoya University,
+00:14:50.520 one of Japan's best.
+00:14:52.170 A few years earlier, theyhad made a breakthrough
+00:14:54.480 on the first problem ofhigh quality crystal.
+00:14:57.840 Instead of growing galliumnitride directly on sapphire,
+00:15:01.080 they first grew a bufferlayer of aluminum nitride.
+00:15:04.890 This has a lattice spacing in between that
+00:15:07.230 of the other twomaterials, making it easier
+00:15:09.420 to grow a clean galliumnitride crystal on top.
+00:15:12.870 The only issue was that thealuminum caused problems
+00:15:15.549 for the MOCVD reactor,
+00:15:17.640 making the process hard to scale.
+00:15:20.460 But Nakamura wasn't evenclose at this stage.
+00:15:24.600 Back at Nichia, he couldn't getgallium nitride to even grow
+00:15:27.720 normally in his new MOCVD reactor.
+00:15:31.440 After six months, desperate for results,
+00:15:33.870 he decided to take the machine apart
+00:15:35.790 and build a better version himself.
+00:15:39.360 His 10 months spent puttingtogether the reactor in Florida,
+00:15:42.390 were suddenly invaluable.
+00:15:44.520 He began following thesame routine each day,
+00:15:47.670 arrive at the lab at 7:00 AM.
+00:15:49.860 Spend the first half
+00:15:50.693 of the day welding, cutting,and rewiring the reactor.
+00:15:53.940 Spend the rest of the day experimenting
+00:15:55.770 with the modified reactorto see what it can do.
+00:15:58.920 At 7:00 PM go home, eatdinner, wash and sleep.
+00:16:04.053 Nakamura repeated thisroutine every single day,
+00:16:07.500 taking no weekends
+00:16:08.850 and no holidays except for New Year's Day,
+00:16:11.220 the most important holiday in Japan.
+00:16:14.511 (soft music)
+00:16:16.380 After a year and a halfof continuous work,
+00:16:19.470 he came into the lab on awinter day in late 1990.
+00:16:23.700 As usual, he tinkeredaround in the morning
+00:16:25.815 grew a gallium nitridesample in the afternoon,
+00:16:28.568 and tested it.
+00:16:32.010 But this time, the electronmobility was four times higher
+00:16:36.390 than any gallium nitride evergrown directly on sapphire.
+00:16:40.860 Nakamura called it the mostexciting day of his life.
+00:16:45.810 His trick was to add a second nozzle
+00:16:48.630 to the MOCVD reactor.
+00:16:50.850 The gallium nitride reactantgases had been rising
+00:16:53.640 in the hot chamber,
+00:16:54.810 mixing in the air to form a powdery waste.
+00:16:57.930 But the second nozzlereleased a downward stream
+00:17:00.450 of inert gas, pinning thefirst flow to the substrate
+00:17:03.600 to form a uniform crystal.
+00:17:06.030 For years, scientists hadavoided adding a second stream
+00:17:09.150 to MOCVD because theythought it would only
+00:17:11.250 introduce more turbulence.
+00:17:13.170 But Nakamura used a special nozzle
+00:17:15.450 so that even when the streams combined,
+00:17:17.670 they remained laminar.
+00:17:19.560 He called his inventionthe two-flow reactor.
+00:17:23.490 Now, he was ready to takeon Akazaki and Amano,
+00:17:26.760 but instead of copying theiraluminum nitride buffer layer,
+00:17:29.790 his two flow design allowedhim to make gallium nitride
+00:17:32.550 so smooth and stable,it itself could be used
+00:17:36.120 as a buffer layer onthe sapphire substrate.
+00:17:38.700 This in turn, yieldedan even cleaner crystal
+00:17:41.640 of gallium nitride on top,
+00:17:43.530 without the issues of aluminum.
+00:17:46.230 Nakamura now had the highest quality
+00:17:48.780 gallium nitride crystals ever made.
+00:17:51.540 But just as he was getting started,
+00:17:53.640 things took a wrong turn.
+00:17:55.778 (dramatic music)
+00:17:57.300 While he had been in Florida,
+00:17:58.890 Nobuo Ogawa had stepped backfrom Nichia to become chairman.
+00:18:02.820 In his day, Nobuo had beena risk taking scientist,
+00:18:05.940 designing the company's first products.
+00:18:08.010 It's why he supported Nakamura'slofty plans all this time.
+00:18:11.910 But in his place, hisson-in-law, Eji Ogawa,
+00:18:14.970 became CEO of the company,
+00:18:17.100 and the younger Ogawa hada much stricter outlook.
+00:18:20.190 One Nichia client said,
+00:18:21.727 "He has a mind of steel,
+00:18:23.760 and he remembers everything."
+00:18:27.030 In 1990, an executive at Matsushita,
+00:18:29.850 an LED manufacturer andNichia's biggest customer,
+00:18:33.540 visited the company togive a talk on blue LEDs.
+00:18:37.140 In it, he claimed zincselenide was the way forward,
+00:18:40.560 declaring "gallium nitride has no future."
+00:18:44.160 That very same day, Nakamurareceived a note from Eji,
+00:18:47.760 stop work on gallium nitride immediately.
+00:18:51.780 Eji had never supported the research
+00:18:53.760 and wanted to end what hesaw as a colossal waste.
+00:18:57.210 But Nakamura crumpled upthe note and threw it away,
+00:19:01.410 and he did so again, and again,
+00:19:04.470 when a succession of similar notes
+00:19:06.360 and phone calls camefrom company management.
+00:19:09.210 Out of spite, he published hiswork on the two-flow reactor
+00:19:12.360 without Nichia's knowledge.
+00:19:14.070 It was his first paper.
+00:19:16.311 One down, four to go.
+00:19:20.370 With crystal formation settled,
+00:19:21.990 he turned to the second obstacle,
+00:19:24.000 creating p-type gallium nitride.
+00:19:26.730 Here Akazaki and Amano hadagain beaten him to the punch.
+00:19:31.020 They had created a galliumnitride sample doped
+00:19:33.450 with magnesium, but at first,
+00:19:35.762 it didn't perform as ap-type as they expected.
+00:19:38.790 However, after exposingit to an electron beam,
+00:19:41.760 it did behave as a p-type,
+00:19:44.040 the world's first p-type gallium nitride,
+00:19:46.410 after 20 years of trying.
+00:19:49.050 The catch was that noone knew why it worked.
+00:19:52.860 And the process ofirradiating each crystal
+00:19:55.230 with electrons was too slowfor commercial production.
+00:20:00.120 At first, Nakamura copiedAkazaki and Amano's approach,
+00:20:03.780 but he suspected the beamof electrons was overkill.
+00:20:06.990 Maybe all the crystal needed was energy.
+00:20:09.720 So he tried heating magnesiumdoped gallium nitride
+00:20:12.570 to 400 degrees Celsius in aprocess known as annealing.
+00:20:16.980 The result, a completely p-type sample.
+00:20:20.490 This worked even better thanthe shallow electron beam,
+00:20:23.250 which only made the surfacesof the samples p-type,
+00:20:26.100 and simply heating things upwas a quick scalable process.
+00:20:30.150 His work also revealed why thep-type had been so difficult.
+00:20:33.990 To make gallium nitride
+00:20:35.130 with MOCVD, you supplythe nitrogen from ammonia,
+00:20:39.000 but ammonia also contains hydrogen.
+00:20:41.880 Where there should havebeen holes in the magnesium
+00:20:44.220 doped gallium nitride,
+00:20:45.660 these hydrogen atoms were sneaking in
+00:20:47.910 and bonding with the magnesium,plugging all the holes.
+00:20:51.780 Adding energy to the system,
+00:20:53.310 released the hydrogen from the material,
+00:20:55.530 freeing up the holes again.
+00:20:59.804 (dramatic music)
+00:21:00.637 By now, Nakamura had all the ingredients
+00:21:02.820 to make a prototype blue LED,
+00:21:05.040 and he presented it at aworkshop in St. Louis in 1992
+00:21:09.000 and received a standing ovation.
+00:21:11.820 He was beginning tomake a name for himself,
+00:21:14.940 but even though he had createdthe best prototype to date,
+00:21:18.150 it was more of a blue violet color
+00:21:20.340 and still extremely inefficient,
+00:21:22.650 with a light output power
+00:21:23.910 of just 42 microwatts,
+00:21:25.920 well below the 1000 microwattthreshold for practical use.
+00:21:30.660 At Nichia, the new CEO'spatience had run out.
+00:21:34.260 Eji sent written orders toNakamura to stop tinkering
+00:21:37.590 and turn whatever he had into a product.
+00:21:40.590 His job was on the line,
+00:21:42.720 but in Nakamura's own words,"I kept ignoring his order.
+00:21:46.530 I had been successfulbecause I didn't listen
+00:21:49.050 to company orders andtrusted my own judgment."
+00:21:52.440 At this point, he onlyhad the third hurdle left,
+00:21:55.350 getting his blue LEDto a light output power
+00:21:57.750 of a thousand microwatts.
+00:22:01.178 (soft music)
+00:22:02.280 A known trick to increasethe efficiency of LEDs
+00:22:04.920 was to create a well,
+00:22:06.870 a thin layer of materialat the p-n junction
+00:22:09.690 called an active layer
+00:22:11.430 that shrinks the band gap just a bit.
+00:22:14.460 This encourages more electrons
+00:22:16.200 to fall from the end typeconduction band into holes
+00:22:18.930 in the p-type valence band.
+00:22:21.060 The best active layer forgallium nitride was already known
+00:22:24.150 to be indium gallium nitride,
+00:22:26.520 which would not only makethe band gap easier to cross,
+00:22:29.490 but also narrow it just the right amount
+00:22:31.500 to bring its blue violetgap down to true blue.
+00:22:35.280 This time, Akasaki andAmano didn't scoop Nakamura.
+00:22:39.150 They were stuck trying to grow
+00:22:40.620 indium gallium nitride in the first place.
+00:22:43.290 Amano recalled, "It was generallysaid that gallium nitride
+00:22:46.680 and indium nitride would notmix, like water and oil."
+00:22:50.940 But Nakamura had an advantage,
+00:22:52.980 his ability to customizehis MOCVD reactor.
+00:22:56.190 This allowed him to use brute force,
+00:22:58.536 adjusting the reactorto pump as much indium
+00:23:01.380 as he could onto the gallium nitride,
+00:23:03.630 in the hopes that atleast some would stick.
+00:23:06.630 To his surprise, the technique worked,
+00:23:09.390 giving him a clean indiumgallium nitride crystal.
+00:23:12.960 He quickly incorporated thisactive layer into his LED,
+00:23:16.890 but the well worked a little too well
+00:23:19.380 and overflowed with electrons,
+00:23:21.570 leaking them back into thegallium nitride layers.
+00:23:24.600 Unfazed, within a few months,Nakamura had fixed this too
+00:23:28.080 by creating the oppositeof a well, a hill.
+00:23:31.830 He returned to his reactor one more time
+00:23:33.810 to make aluminum gallium nitride,
+00:23:36.090 a compound with a largerband gap that could block
+00:23:38.814 electrons from escapingthe well once inside.
+00:23:46.104 (dramatic music)
+00:23:48.930 The structure of the blue LEDhad become far more complex
+00:23:52.140 than anyone could haveimagined, but it was complete.
+00:23:56.850 By 1992, Shūji Nakamura had this.
+00:24:03.270 And I showed the chairman, I told him,
+00:24:05.287 "Please, hey chairman come to my office."
+00:24:07.380 I showed him the blue LED
+00:24:08.850 and he said, "ohh, this is great no?"
+00:24:11.344 I became so happy.
+00:24:12.860 I just became, out of my office, yeah.
+00:24:16.740 [Derek] After 30 years of searching
+00:24:18.420 by countless scientists,
+00:24:20.040 Nakamura had done it.
+00:24:21.720 He had created a glorious, bright blue LED
+00:24:24.720 that could even be seen in daylight.
+00:24:27.150 It had a light outputpower of 1,500 microwatts
+00:24:31.320 and emitted a perfect blueat exactly 450 nanometers.
+00:24:35.820 It was over 100 times brighter
+00:24:38.010 than the previous pseudo-blueLEDs on the market.
+00:24:41.190 Nakamura wrote, "I felt like I had reached
+00:24:44.040 the top of Mount Fuji."
+00:24:46.170 Nichia called a press conference in Tokyo
+00:24:48.240 to announce the world'sfirst true blue LED.
+00:24:51.990 The electronics industry was stunned.
+00:24:54.720 A researcher from Toshiba remarked,
+00:24:56.827 "Everyone was caughtwith their pants down."
+00:24:59.520 The effect on Nichia's fortuneswas immediate and explosive.
+00:25:03.810 Orders flooded in,
+00:25:05.190 and by the end of 1994,
+00:25:06.810 they were manufacturing 1million blue LEDs per month.
+00:25:11.790 Within three years,
+00:25:12.990 the company's revenue had nearly doubled.
+00:25:15.780 In 1996, they made thejump from blue to white,
+00:25:19.050 by placing a yellow phosphor over the LED.
+00:25:22.680 This chemical absorbs the blue photons
+00:25:25.020 and re-radiates them in a broad spectrum
+00:25:27.540 across the visible range.
+00:25:29.370 Soon enough, Nichiawas selling the world's
+00:25:31.560 first white LED.
+00:25:33.570 At last, unlocking the finalfrontiers so many had doubted,
+00:25:38.015 LED lighting.
+00:25:40.800 Over the next four years,their sales doubled again.
+00:25:44.400 By 2001, their revenue wasapproaching $700 million a year.
+00:25:49.260 Over 60% came from blue LED products.
+00:25:53.610 Today, Nichia is one of thelargest LED manufacturers
+00:25:56.850 in the world with an annualrevenue in the billions.
+00:26:01.320 As for Nakamura, to whom Nichia owed
+00:26:04.650 the quadrupling of its fortunes?
+00:26:08.719 (dramatic music)
+00:26:09.781 I increased my salary, $60,000.
+00:26:12.583 After doubling, yeah.
+00:26:14.760 I heard you only got $170 bonus
+00:26:17.190 Each patent.
+00:26:18.750 So you got $170 bonus for the patent.
+00:26:21.000 Yes, yes.
+00:26:22.260 [Derek] This was all while the blue LED
+00:26:24.360 was generating hundreds ofmillions of dollars in sales.
+00:26:28.320 Eji Ogawa had always seenNakamura's stubborn individuality
+00:26:32.010 as a liability, not a strength.
+00:26:34.320 The message was clear.
+00:26:36.300 In 2000, after morethan 20 years at Nichia,
+00:26:39.750 Nakamura left the company for the US,
+00:26:42.000 where job offers had been pouring in.
+00:26:44.790 But his troubles with Nichia weren't over.
+00:26:47.820 He began consulting forCree, another LED company.
+00:26:51.300 Nichia was furious and sued himfor leaking company secrets.
+00:26:55.620 Nakamura responded by counter-suing Nichia
+00:26:58.170 for never properly compensatinghim for his invention,
+00:27:01.200 seeking $20 million.
+00:27:05.121 In 2001, the Japanesecourts ruled with Nakamura
+00:27:08.910 and ordered Nichia to pay him10 times his initial request.
+00:27:12.930 But Nichia appealed
+00:27:14.400 and the case was eventually settled
+00:27:15.943 with a payout of $8 million.
+00:27:19.590 In the end, this was only enough
+00:27:21.300 to cover Nakamura's legal fees.
+00:27:24.664 (soft music)
+00:27:26.730 This is all he got for an invention
+00:27:29.430 that now comprises an$80 billion industry,
+00:27:33.270 from house lights to streetlights.
+00:27:36.840 While you watch this videoon a phone, computer or TV.
+00:27:40.200 If you're outside followingtraffic lights or displays,
+00:27:43.500 chances are you are relying on blue LEDs.
+00:27:50.580 We might even be getting too much of them.
+00:27:53.070 You may have heard warnings toavoid blue light from screens
+00:27:56.250 before bed because it candisrupt your circadian rhythm.
+00:27:59.640 That all comes from thegallium nitride blue LED.
+00:28:05.310 But as for lighting, thereare virtually no downsides
+00:28:08.460 to an LED bulb.
+00:28:10.020 Compared to an incandescentor fluorescent bulb,
+00:28:12.660 they are far more efficient.
+00:28:14.370 They last many timeslonger, are safer to handle,
+00:28:17.460 and are completely customizable.
+00:28:19.680 30 years after the first white LED,
+00:28:22.230 high-end bulbs today
+00:28:23.400 allow you to choose between 50,000
+00:28:26.130 different shades of white.
+00:28:28.470 Most importantly, their pricehas come down to only a couple
+00:28:31.680 of dollars more than other types of bulbs.
+00:28:34.440 And at their efficiency,with average daily use
+00:28:37.350 and electricity pricing,
+00:28:38.700 you can recoup thatcost in only two months
+00:28:41.550 and continue to save for years after that.
+00:28:44.220 The result is a lighting revolution.
+00:28:47.280 In 2010, just 1% ofresidential lighting sales
+00:28:50.595 in the world were LED.
+00:28:52.590 In 2022, it was over half.
+00:28:56.040 Experts estimate thatwithin the next 10 years,
+00:28:58.410 nearly all lighting sales will be LED.
+00:29:02.531 (soft music)
+00:29:03.364 The energy savings will be enormous.
+00:29:05.850 Lighting accounts for 5%of all carbon emissions.
+00:29:09.600 A full switch to LEDs couldsave an estimated 1.4 billion
+00:29:13.260 tons of CO2,
+00:29:14.820 equivalent to taking almost half the cars
+00:29:17.220 in the world off the road.
+00:29:21.300 Today, Nakamura's researchis on the next generation
+00:29:24.030 of LEDs, micro LEDs, and UV LEDs.
+00:29:28.950 [Derek] So what arethey making in there?
+00:29:31.565 LEDs, lasers, power devices.
+00:29:34.380 This is one the best facility in the US.
+00:29:37.310 And this is because of you?
+00:29:41.580 What's a standard LED size?
+00:29:43.530 [Shūji] 300 times 200 microns.
+00:29:46.177 [Derek] Okay.
+00:29:47.070 [Shūji] Smallest is five microns.
+00:29:49.410 [Derek] That is insanely tiny.
+00:29:51.683 So basically you can use that for like
+00:29:53.220 near-eye display such as AR and VR.
+00:29:55.770 You could have like a retina display
+00:29:57.120 that's like right up here?
+00:29:58.230 Yep.
+00:29:59.063 A human hair would be about that thick.
+00:30:00.180 [Shūji] Yep.
+00:30:01.170 And that's a really, really tiny LED.
+00:30:04.530 UV LEDs could be used tosterilize surfaces like
+00:30:07.080 in hospitals or kitchens.
+00:30:08.640 Just flick on the UV lights
+00:30:10.080 and pathogens would be dead in seconds.
+00:30:12.990 COVID-19, you know,
+00:30:14.480 UV LED companies' stock prices were going,
+00:30:17.130 skyrocketed becauseeveryone expected to be
+00:30:19.260 using these UV LEDS.
+00:30:21.781 We can sterilize all the COVID-19, no?
+00:30:24.638 For emitting diode, we useindium gallium nitride.
+00:30:27.895 For UV, we use aluminum gallium nitride.
+00:30:30.368 [Derek] Okay.
+00:30:31.201 [Shūji] 'Cause theband gap is much bigger.
+00:30:33.479 [Derek] Do you thinkthis is what's coming?
+00:30:35.259 [Shūji] It's okay, it work,but the problem is the cost.
+00:30:38.755 The efficiency is less than 10%.
+00:30:40.758 The cost is very high.
+00:30:42.731 But if the efficiencybecomes more than 50%,
+00:30:45.131 cost is almost comparableto the mercury lamp.
+00:30:47.400 [Derek] And you thinkit will happen, right?
+00:30:48.960 Like the efficiency will go up?
+00:30:50.580 [Shūji] Yeah, yeah, I think so.
+00:30:51.413 It's just a matter of time.
+00:30:52.500 Yeah, I think so.
+00:30:54.540 [Derek] And he's even tackling one
+00:30:55.920 of the biggest challenges of our time.
+00:30:58.260 [Shūji] I'm interested in physics.
+00:30:59.700 [Derek] Me too!
+00:31:00.630 I'm still interested in nuclear fusion.
+00:31:02.490 So recently I started thecompany of nuclear fusion.
+00:31:05.418 Really?
+00:31:06.251 Oh yeah, last year.
+00:31:07.827 No way.- No way, aha.
+00:31:11.014 (soft music)
+00:31:11.847 In 2014, Nakamura, Akasaki and Amano
+00:31:14.580 were awarded the Nobel Prize in physics
+00:31:17.581 for creating the blue LED.
+00:31:19.320 Shortly afterwards, Nakamurapublicly thanked Nichia
+00:31:22.350 for supporting his work,
+00:31:23.820 and he offered to visit and make amends,
+00:31:26.130 but they turned down his offer
+00:31:28.770 and today theirrelationship is still cold.
+00:31:31.950 But perhaps even moreimportant than the Nobel Prize,
+00:31:35.040 By the time Nakamura releasedhis blue LED in 1994,
+00:31:38.610 he had published over 15 papers,
+00:31:40.890 and he finally received hisdoctorate in engineering.
+00:31:44.700 Today he has published over 900 papers.
+00:31:48.780 Throughout his entire journey,
+00:31:51.210 one thing has never changed.
+00:31:53.340 What is your favorite color?
+00:31:55.530 Oh, blue.
+00:31:58.980 [Derek] Was it always blue?
+00:31:59.910 Or only after you made the LED?
+00:32:01.440 I was born in a fishing village.
+00:32:03.967 Fishing village.
+00:32:04.800 In front of the houseis awesome like, ocean.
+00:32:07.348 Blue always.
+00:32:12.990 While I was learningabout Nakamura's story,
+00:32:15.210 I realized that what sethim apart from the thousands
+00:32:17.382 of researchers tryingto unlock the blue LED,
+00:32:20.400 it wasn't necessarily his knowledge,
+00:32:22.290 but his determination, critical thinking,
+00:32:24.750 and problem solving skills.
+00:32:26.400 Where others saw dead ends,
+00:32:27.930 he saw potential solutions.
+00:32:29.970 So if you're looking for a free
+00:32:31.290 and easy way to startbuilding these skills
+00:32:33.180 for yourself right now,
+00:32:34.710 look no further thantoday's sponsor, Brilliant.
+00:32:37.470 Brilliant will make you a better thinker
+00:32:39.330 and problem solver whilehelping you build real skills
+00:32:41.880 and everything from math
+00:32:43.350 and data science, toprogramming technology,
+00:32:45.960 and you name it.
+00:32:47.190 On Brilliant, you'lllearn through discovery
+00:32:49.260 by trying things for yourself,
+00:32:50.910 and you'll not only gain knowledge
+00:32:52.440 of key concepts, but learn to apply them
+00:32:54.570 to real world situations, allwhile building your intuition,
+00:32:58.320 giving you the tools
+00:32:59.190 to solve whatever problems come your way.
+00:33:01.710 There is so much to learn on Brilliant.
+00:33:03.810 They have thousands
+00:33:04.950 of interactive lessons on just about
+00:33:06.420 anything that you're curious about.
+00:33:07.950 And because each lesson is bite-sized,
+00:33:10.050 you can do them in just minutes.
+00:33:11.730 So if you're like me and made a resolution
+00:33:13.500 to learn something newevery day this year,
+00:33:15.720 Brilliant will help you actually do it.
+00:33:18.150 The best part is youcan learn from anywhere,
+00:33:20.400 right on your phone.
+00:33:21.840 So whenever you have a few minutes,
+00:33:23.340 you can be building aquicker sharper mind.
+00:33:26.190 So to try everything Brillianthas to offer for free
+00:33:28.770 for 30 days, visitbrilliant.org/veritasium
+00:33:32.130 or click that link downin the description,
+00:33:34.170 and the first 200 of you will get 20% off
+00:33:36.060 Brilliant's annual premium subscription.
+00:33:38.880 So I wanna thank Brilliantfor sponsoring this video,
+00:33:41.040 and I want to thank you for watching.

@@ -19,3 +19,7 @@ venv/
 *.swp
 .DS_Store
 Thumbs.db
+
+
+#Ignore cursor AI rules
+.cursor\rules\codacy.mdc

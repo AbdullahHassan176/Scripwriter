@@ -1,0 +1,232 @@
+# tactiq.io free youtube transcript
+# Young Generations Are Now Poorer Than Their Parents And It's Changing Our Economies
+# https://www.youtube.com/watch/PkJlTKUaF3Q
+
+00:00:00.240 A society grows great when old men plant trees whose shade they know they shall never sit in.
+00:00:05.760 A Greek proverb from a time well before the problems of our modern economies,  
+00:00:09.200 or the study of economics itself, is as true today as it was thousands of years ago.
+00:00:14.480 But do we really live by this idea?
+00:00:16.800 For the first time since the industrial revolution successive  
+00:00:19.600 generations are not becoming wealthier than their parents.
+00:00:22.960 While there have certainly been setbacks and historical outliers from this trend  
+00:00:27.120 it has remained true in aggregate for the populations of most developed economies.
+00:00:32.080 For a long time it was simply the expectation that peoples children would have a better  
+00:00:36.560 lifestyle in their adulthood then they did, but today that really is no longer the expectation,  
+00:00:42.000 in fact most young professionals can only aspire to live the lifestyles that their parents did.
+00:00:47.040 Younger generations are finding it harder and harder to get reliable jobs,  
+00:00:50.880 afford comfortable homes, start a family and save for retirement.
+00:00:54.720 This is despite the fact that the world is a much much richer place today than it was at any point  
+00:00:59.120 in the 20th century, when the baby boomers were busy building their now unassailable fortunes.
+00:01:04.319 So what is going on here?
+00:01:06.640 How is it that a world that is richer overall,  
+00:01:08.720 producing generations that are poorer than the ones that preceded them?
+00:01:12.320 Is there some underlying cause to this?
+00:01:15.280 If there is, is there a way to reverse it?
+00:01:17.520 And if there isn’t does that mean that we can expect every generation  
+00:01:21.600 going forward to be poorer than the one that came before it from now on?
+00:01:25.440 Oh and I suppose it’s probably also worth worth asking
+00:01:28.320 Does this even matter,  
+00:01:29.600 since everybody is eventually going to die and pass down their wealth anyway?
+00:01:33.120 Intro Ad
+00:01:34.240 Heres a question for you all, is it better to be born into a large cohort with lots of  
+00:01:38.640 people the same age as you or a small cohort with not a lot of people the same age as you?
+00:01:43.680 Traditional economic theory would suggest that a small cohort is preferable,  
+00:01:47.280 it means less competition for jobs, housing, social programs, spots in good schools, and  
+00:01:52.000 on a macro level, less competition for things as basic as natural resources.
+00:01:56.640 But how then do you explain the baby boomers? Which despite being part  
+00:02:00.400 of the largest population explosion ever, are in aggregate, very wealthy.
+00:02:04.960 Well, Lord David Willets a British politician, demographer  
+00:02:08.560 and author suggests that the opposite may be true, and that in a democratic system  
+00:02:13.120 being part of a larger cohort is actually preferable because it gives that group  
+00:02:17.280 more voting power on generational issues, and more sway in marketplaces.
+00:02:22.240 When the boomers were young they voted for policies that benefited them. Low cost or  
+00:02:27.200 free higher education, family support systems, and strong social welfare.
+00:02:31.760 When they got to the peaks of their careers their voting patterns changed again,  
+00:02:35.120 and now this large block of voters was in favour of lower income taxes, less business regulation,  
+00:02:40.320 more domestic industry protections to avoid outsourcing and global competition  
+00:02:44.240 and on a smaller scale things like zoning laws which would protect the value of their homes.
+00:02:49.760 The push towards suburbs with mandated single family building requirements  
+00:02:53.360 meant that houses got bigger, and good locations got more desirable because  
+00:02:57.120 only so many family homes could be built there.
+00:02:59.600 In the 50’s houses were basically a commodity, the majority of the expense was in building the  
+00:03:04.880 structure itself and it wasn’t unreasonable for the family cars to cost more than the family home.
+00:03:10.160 Fast forward fifty years and houses are now investments as much as they are places to live.
+00:03:15.360 In old age the boomers have now started voting to support retirement benefits, pension schemes,  
+00:03:20.000 medical infrastructure and to remove wealth taxes  
+00:03:22.960 even if that comes at the expense of all of the schemes that served them well in their young age.
+00:03:28.000 Of course David Willets work focused specifically on the UK, and yes I know there  
+00:03:32.960 are certainly people that vote for the greater good rather than their narrow self interest, but  
+00:03:36.960 on average it is easy to see this trend throughout the past half century in most advanced economies.
+00:03:42.480 In my own home of Australia for example the 2019 federal election was more or less decided  
+00:03:48.560 by a policy decision that would reduce the tax effectiveness of Australian retirement accounts.  
+00:03:54.000 The party that advocated for keeping the favourable tax structure ended up winning,  
+00:03:57.920 primarily thanks to older Australian voters.
+00:04:00.880 We recently just had another election where that opposition party backed down  
+00:04:04.160 on their plan to change retirement account taxes and they won, very convincingly.
+00:04:08.720 A 2017 British election study found that over time votes for conservative parties have shifted  
+00:04:14.320 from being divided by rich and working class to being divided by young and old.
+00:04:19.440 A lot of what I have discussed so far came directly from Willets’ book the Pinch  
+00:04:23.120 and a lecture he ran at The Royal Institution,  
+00:04:25.760 it’s definitely worth a read if you are interested in these demographic processes.
+00:04:29.920 Now a lifetime of favourable government policy can be hugely beneficial to building wealth,  
+00:04:34.960 imagine how much better off the average millennial would be if  
+00:04:37.600 they got free college or secondary schooling.
+00:04:40.240 Even all other things being equal this would be the difference that a lot of young people  
+00:04:43.760 need to be able to put a deposit on a house, and that’s the next big issue to consider
+00:04:48.400 The housing divide
+00:04:50.240 David Willets small cohort theory probably omits or atleast doesn’t emphasise  
+00:04:54.560 one important detail that gave baby boomers another advantage over successive generations.
+00:04:59.840 And no it’s not simply that they were able to buy houses when they were cheap,  
+00:05:03.600 certainly that didn’t hurt but it’s more a symptom of a bigger issue.
+00:05:08.400 They were a big cohort, in a small world. They had all of the voting power,  
+00:05:14.480 and hardly any of the competition.
+00:05:16.560 In the 1950’s to the 1960’s the global population was roughly a third of what it is today,  
+00:05:22.320 and not to start a whole thing here, but if you were a white man in the  
+00:05:26.320 countries we are mostly focusing on, your competition was even less severe.
+00:05:30.480 So this added back all of the apparent trade offs that we thought of earlier,  
+00:05:34.880 there really was less competition for basically everything,  
+00:05:38.080 including jobs because employers had a smaller pool of labour to choose from.
+00:05:42.400 Labour force participation amongst women was very low which further reduced the supply and hence  
+00:05:47.200 the bargaining power of workers but it also meant that domestic duties were normally taken care of  
+00:05:52.080 which reduced household expenditures on things like childcare, food, and general maintenance.
+00:05:57.280 These higher relative incomes combined with lower outgoings  
+00:06:00.480 meant that houses could often be paid off with as little as one years income.
+00:06:04.800 Yes, they did have to endure higher interest rates especially in the 70’s and 80’s which were  
+00:06:09.840 their peek home buying decades but it didn’t really make the difference it would today.
+00:06:15.440 The median home in the USA in 1985 was $82,000. That’s median, so 50% of homes,  
+00:06:22.720 like the ones first home buyers would be looking at would be cheaper than this,  
+00:06:26.000 but let’s keep it simple and stick with $82,000.
+00:06:29.280 Adjusted for median household incomes that $82,000 becomes $103,000.
+00:06:35.120 The Average mortgage rate around this time was 15% or roughly $15,000 per year,  
+00:06:41.120 it did get higher in certain years but most borrowers were fixed in  
+00:06:44.400 at an absolute max of around 15% so this is a worst case scenario.
+00:06:49.440 The median home today costs $430,000 and the average interest rate is just over  
+00:06:55.120 5% or $21,500 per year just in interest payments.
+00:07:00.880 Again this is adjusted for median incomes at the time  
+00:07:03.360 so on the surface these seem pretty comparable,  
+00:07:07.200 maybe the younger generations shouldn’t be complaining about unaffordable housing after all?
+00:07:11.840 A lot of people brush away this comparison by saying that inflation at this time was  
+00:07:15.840 extremely high so these higher interest repayments didn’t mean anything but that’s actually not true.
+00:07:23.120 Inflation in 1985 was 3.5%, and while it was as high as 13.5% in 1980, this was consumer  
+00:07:31.280 price index inflation, not housing inflation, the prices of houses through these decades  
+00:07:36.880 actually grew at a relatively modest rate, it was everything else that was getting expensive.
+00:07:42.480 This is kind of the opposite of what we expect today where house price growth outpaces inflation  
+00:07:47.360 but that was not the case in the 70’s and 80’s.
+00:07:50.640 So yeah the inflation argument isn’t totally fair, so is it fair to complain about how easy  
+00:07:55.600 it was for baby boomers to buy a house? Well no, they still had it easy for two other big reasons.
+00:08:02.880 It’s not what you would expect but the high interest rates actually  
+00:08:06.160 kind of helped them. Saving money for a deposit in an account that pays 10%  
+00:08:10.720 interest per year really accelerates that savings goal.
+00:08:14.000 Higher interest rates also ensured that house prices never got too high,  
+00:08:18.160 because the repayments would just become unaffordable.
+00:08:20.960 In our example from before we were only looking at the interest paid on the loans from the two  
+00:08:25.280 time periods, but the thing with a mortgage is you gotta pay back the principle as well.
+00:08:31.040 Paying back the principle on the $430,000 mortgage over a standard thirty year loan term will cost  
+00:08:36.400 an additional $14,300 per year, bringing the total annual repayment to just under $36,000.
+00:08:43.840 The house from 1985 would have a principal repayment of about $3,000 a year,  
+00:08:48.400 bringing the total repayment to just over $18,000a year,  
+00:08:51.920 half of what the 2022 homebuyer would be paying despite interest rates being three times higher.
+00:08:57.360 Put another way if the repayments were kept equal,  
+00:09:00.800 the person buying the home in 1985 could have it paid off in 5 years rather than 30 years.
+00:09:07.680 So why am I focusing so much on housing? Well  
+00:09:10.960 despite being a very important part of life houses are also uniquely
+00:09:16.160 Unproductive
+00:09:17.920 Real estate is kind of unique as an asset because it doesn’t produce anything of  
+00:09:22.880 value. A house sitting on a block of land can appreciate in value and it can provide a home  
+00:09:27.600 to its owners or a rental income stream to an investor but it doesn’t make anything.
+00:09:32.800 Of course there are “investments” today like crypto currencies that also don’t produce anything  
+00:09:37.440 of value, but their market is miniscule next to the market for real estate around the world.
+00:09:42.960 Miniscule and also irrelevant. If the value of bitcoin goes to a million dollars,  
+00:09:48.880 well that’s great for the people that invest in it,  
+00:09:51.120 and it will have some minor knock on effects in other markets as people cash out to buy  
+00:09:55.920 whatever crypto millionaires buy, but it’s not going to put anybody on the street.
+00:10:00.800 Housing affordability can do that, and it can also slow the progress of entire economies.
+00:10:06.800 Every economy in the world is still for better or worse focused around  
+00:10:10.320 large centres of economic activity, what a regular person might call a city.
+00:10:15.200 If the real estate in these cities becomes too expensive then it becomes infeasible for workers  
+00:10:19.920 to hold down jobs there because more and more of their income will just go to paying rent.
+00:10:24.880 In the short term this can be offset by higher wages but then these centres are really just  
+00:10:29.120 operating for the benefit of the landlords that are lucky enough to own property there.
+00:10:33.280 The money that landlords make from their properties is unlikely to be reinvested into  
+00:10:37.520 company growth or spent on regular consumer consumption that keeps those businesses  
+00:10:41.760 in business, it is likely to be slpent on more property, further driving up market values and the  
+00:10:46.800 amount of money that gets sucked out of productive centres to be shoved into unproductive assets.
+00:10:51.840 Higher housing prices also reduce social and geographical mobility.
+00:10:56.080 A 2020 pew research study found that 52%  
+00:10:59.360 of young American adults between the ages of 18 and 28 still live at home with their parents.
+00:11:04.880 One could also reasonable assume that this number  
+00:11:07.120 is higher after two years of covid and record high house price growth.
+00:11:11.120 Those young adults are financially bound to where their parents live,  
+00:11:14.880 if they get offered a really good job in a different city they would have to decide if  
+00:11:18.800 it was worth the pay increase versus the increased costs of living on their own. If they decide it’s  
+00:11:23.920 not then they miss out on a good job and a business misses out on a productive worker.
+00:11:28.320 The concentration of wealth in a particular generation is something that can have very  
+00:11:32.400 real consequences for entire economies, and these effects are only going to get  
+00:11:36.960 more pronounced as populations continue to age, places like Japan are a clear example of this,  
+00:11:42.800 and they don’t have the same kind of housing problems that we do in the west.
+00:11:46.480 But long term,
+00:11:48.160 does this even matter?
+00:11:50.080 I don’t want to get too morbid here, but people eventually die  
+00:11:53.680 and their wealth will get transferred down to their children or some other beneficiary.
+00:11:57.760 So the concentration of wealth in a single generation is at worst a transient issue.
+00:12:02.720 I actually made an entire video last year about the great wealth transfer,  
+00:12:06.640 which is the process of the baby boomers dying and, leaving their wealth behind.
+00:12:11.360 The problem we discovered in that video was that a lot of the wealth  
+00:12:14.160 that is being passed down is coming in the form of private family businesses.
+00:12:18.880 In brief the problem with that is that often these small businesses  
+00:12:22.240 need the owner to continue operations and the people that stand to inherit these businesses  
+00:12:27.120 are either unwilling or unable to run them.
+00:12:30.320 Small businesses are a huge part of the economy and losing them will do a lot of harm.
+00:12:36.160 Now a glimmer of hope here is that these businesses can be sold by their inheritors to  
+00:12:40.400 people that do have the skills and desire needed to run them. Perhaps they will sell them to people  
+00:12:45.120 who have themselves got the money they need to buy the business from their own inheritances.
+00:12:49.520 The problem here is the type of people that will actually be receiving this money.
+00:12:54.080 Most people don’t receive money from their parents passing until they are pretty old themselves,  
+00:12:59.280 often approaching the end of their careers or starting retirement.
+00:13:02.640 If the money gets handed down to them they are likely just going to use it  
+00:13:05.360 to fund their own retirements and then just hand it down to their own elderly children.
+00:13:10.160 Money pooling in the hands of older people means that less opportunity will be afforded  
+00:13:14.000 to younger people to do all of the things that they do to build a functioning economy.  
+00:13:18.880 Buying a house, getting a good job and you know, starting a  
+00:13:21.760 family so that there is a continual supply of workers to run an economy.
+00:13:25.840 You can’t run an economy on people waiting to  
+00:13:27.920 get old enough to finally do something with their lives.
+00:13:31.040 Economists call this the intergenerational wealth problem,  
+00:13:34.240 I like to call it the Prince Charles Paradox, but it is something we are going to have to address.
+00:13:39.920 Things like wealth and estate taxes are commonly proposed solutions, but  
+00:13:44.000 even if they did work, they are going to be very unpopular amongst the huge  
+00:13:48.000 voting block that got us here in the first place.
+00:13:50.720 The final thing we gotta ask ourselves is if this is,
+00:13:53.360 Is this all the boomers' fault?
+00:13:55.920 I know a little bit of intergenerational bickering is all good fun but blaming  
+00:13:59.760 our current economic issues on a single generation is not going to be very productive.
+00:14:04.560 Voting in your own best interest and policies been enacted in the  
+00:14:07.520 best interests of the majority is the foundation of democracy  
+00:14:11.360 and I don’t think anybody is reasonably going to argue that this is a bad thing.
+00:14:15.840 I think it is also very important to look at examples of economies where this has not happened.
+00:14:20.640 The second largest economy in the world, China is a great counterexample.  
+00:14:25.280 Their generational blaby boomers are known locally as the lost generation  
+00:14:29.440 because they spent most of their working life in a dysfunctional economic system.
+00:14:34.000 They were also too old to truly benefit from the rapid economic expansion that  
+00:14:38.000 took place in the decades after the economy started opening up.
+00:14:41.360 This meant that despite still being a large portion of the population  
+00:14:44.880 they did not enjoy the same economic prosperity as their western peers.
+00:14:49.200 Economic prosperity was also something  
+00:14:51.360 that the boomers enjoyed that wasn’t necessarily within their control.
+00:14:55.360 The last half of the 20th century by historical standards was very peaceful,  
+00:14:59.840 the world also opened up to international trade and growth was put into overdrive by  
+00:15:04.320 an abundance of cheap energy in the form of fossil fuels.
+00:15:07.840 It was a great time to make a fortune, and people did.  
+00:15:11.520 Which is probably the final piece of this puzzle. Once people become extremely rich, and I am  
+00:15:16.480 talking about multi millionaires and billionaires here, they don’t normally become poor again.
+00:15:22.000 The clump of billionaires that came from this generation  
+00:15:24.720 will be skewing these figures to make them look worse than they really are.
+00:15:28.880 Remember in a group with one billionaire and 999 people who are completely broke,  
+00:15:34.560 the average member of the group is a millionaire.
+00:15:37.920 Most billionaires are pretty old and these people will be making  
+00:15:41.440 outsized impacts on their generational wealth statistics.
+00:15:44.960 again if we look at billionaires by age in China a country where voting  
+00:15:49.200 by the general population doesn’t really happen in the tradition sense  
+00:15:52.800 we can clearly see that wealth comes from periods of strong economic conditions,  
+00:15:57.760 not just having the ability to bend public policy to suit you and your peers.
+00:16:02.640 Although of course, I am sure it doesn’t hurt.

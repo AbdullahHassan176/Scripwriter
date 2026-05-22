@@ -1,0 +1,225 @@
+# tactiq.io free youtube transcript
+# MIT Has Predicted that Society Will Collapse in 2040 | Economics Explained
+# https://www.youtube.com/watch/kVOTPAxrrP4
+
+00:00:00.000 Limits to Growth Report
+00:00:00.240 In 1972 Researchers at MIT concluded that society was on track to collapse by the year 2040.  
+00:00:06.960 A Follow up study conducted by analysts at KPMG found that we are ahead of schedule. 
+00:00:12.400 Advanced human civilisations have existed for at most 10,000 years. 
+00:00:17.200 In that time many great empires rose from nothing and returned to nothing, leaving behind little  
+00:00:22.000 more than artifacts and crumbling architecture.While it’s hard for historians to definitively  
+00:00:26.880 say what caused any of these particular collapses, the determining factors  
+00:00:30.960 tend to fall into four broad categories.Political Issues, social and cultural issues,  
+00:00:36.800 environmental issues and of course the one that we are specifically interested in, economic issues. 
+00:00:42.400 Any civilisation that has been reduced to little more than an entry in a textbook fell  
+00:00:46.640 through some combination of these four factors.Some were almost instantaneous, the great city  
+00:00:52.800 of Pompeii succumbing to the eruption of mount vesuvius, some took a few weeks,  
+00:00:57.040 the Aztec empire collapsed after 93 days of resistance against the spanish, and some took  
+00:01:02.160 centuries. three hundred years separate the height of the Roman empire with its eventual collapse. 
+00:01:08.000 Our modern civilization is the greatest ever known, hundreds of thousands of times  
+00:01:12.720 wealthier and more advanced than even the most massive empires of history could have imagined. 
+00:01:17.120 If you are watching this video, you have access to the internet,  
+00:01:20.320 if you have access to the internet you have access to a source of knowledge that scholars and kings  
+00:01:24.480 could not have dreamt of just a hundred years ago.The same is true for other modern luxuries that  
+00:01:28.960 we take for granted. Climate control, worldwide travel, cheap and effective clothing, medicine,  
+00:01:34.000 instantaneous communication, plentiful and safe food, water on tap, and even little luxuries  
+00:01:39.280 like being able to listen to your favorite song pretty much whenever you feel like it. 
+00:01:43.280 A question I get asked alot is who was the richest person in history? The answer is Elon Musk,  
+00:01:49.120 or it was about a week ago, when he was worth more than 270 billion dollars, that might have changed  
+00:01:54.000 depending on when you actually watch this video.Oh but what about Rockefeller, the Rothschilds,  
+00:01:58.720 the Romanovs or even this Mansa Musa fella that people like to bring up? What about them? 
+00:02:04.000 Sure they were rich for their time, but their time was one of almost universal poverty.  
+00:02:09.280 Despite their relative wealth, they couldn’t dream of all of the amenities that you think nothing of. 
+00:02:14.320 Let me tell you if I had the choice between my moderns rented two bedroom apartment  
+00:02:18.320 and a sprawling 15th century french palace with no air conditioning, no plumbing and  
+00:02:23.200 no food that wouldn’t give me cholera, I would take the apartment ten out of ten times, and  
+00:02:28.080 you are a fool if you wouldn’t do the same.The best part is I haven’t even mentioned war  
+00:02:33.120 yet. Despite what most people might think based on their diet of cable news and the front page  
+00:02:37.440 of reddit, we are living through one of the most peaceful periods in human history, ever! 
+00:02:42.160 Overwhelmingly this has all been thanks to a combination of technology,  
+00:02:45.440 education, and global cooperation.Even nations that have resentful  
+00:02:49.760 hostilities bubbling away beneath the surface are more dependant on one another today,  
+00:02:54.160 than even the closest of allies were back in the time of napoleon. 
+00:02:57.840 Why get hostile when we can get rich. It sounds vapid,  
+00:03:01.680 but it is a good thing, albeit, a fickle one.Comparing our modern global economy to even  
+00:03:06.560 the greatest empires throughout history is like comparing a jet engine to a donkey, that’s not  
+00:03:11.440 hyperbole, that’s how far ahead we are today.But this is actually the problem. Sure,  
+00:03:16.480 a jet engine is faster and more powerful than a donkey, but it’s less resilient. One tiny flaw in  
+00:03:22.160 its incredibly complex network of interdependent components could render the whole thing useless.  
+00:03:26.960 What’s worse is that it moves so fast and flies so high that even  
+00:03:30.560 the slightest hiccup becomes catastrophic.Most of us alive today, and especially those  
+00:03:35.120 of us sitting at home watching internet videos on our smartphones would not know how to survive  
+00:03:39.360 very long if we didn’t have food within easy reach, sometimes literally delivered to our door. 
+00:03:44.480 But I am getting ahead of myself, and probably starting to sound like some kind of deranged  
+00:03:48.160 doomsday prepper screaming the end is nigh, so let’s break down exactly how this MIT  
+00:03:53.040 study predicted that society would collapse.What metrics was MIT looking at to determine  
+00:03:58.880 if the world was headed down a good or bad path?What did these metrics tell us about the way our  
+00:04:04.560 society would supposedly break down?And finally 
+00:04:07.840 Is the fact that this report is ahead of schedule actually something to be worried  
+00:04:11.520 about or is this all just a case of too much weight being given to statistical correlations? 
+00:04:22.800 INTRO ADOk so the MIT study specifically titled  
+00:05:03.760 The Limits to Growth, set out to primarily explore if our current usage of the world's resources was  
+00:05:08.880 sustainable. Spoiler alert, it wasn’t.The study was actually one of the first  
+00:05:13.280 economic studies ever to use computers sporting dynamic systematic models. 
+00:05:17.760 I’m not a computer scientist so there are plenty of people that could explain what  
+00:05:21.920 system dynamics are far better than me but in brief it is basically a piece of software  
+00:05:26.720 that attempts to replicate the workings of complex real life systems by replicating them in software. 
+00:05:32.800 It sounds very familiar to us today but remember this was taking place back in the 1960’s and  
+00:05:37.760 70’s where computers looked like this and had about as much processing power as your kettle. 
+00:05:42.640 Despite these limitations the MIT team eventually created World 3, which was a computer model for  
+00:05:49.200 the global economy. This piece of software modeled everything from variable population growth to  
+00:05:55.120 industrial capacity, it also crucially modelled how everything would interact with one another. 
+00:05:59.920 For example a large population is naturally going to require more resources,  
+00:06:04.640 more food, more water, more homes, more of everything, but a larger population  
+00:06:09.120 will also naturally lead to more innovation.We have a much better chance of finding a Tesla,  
+00:06:14.480 Davinci, Haber, Bosch or whittle with a population of 8 billion  
+00:06:17.840 than we do with a population of 2 billion, which is where the world was just a hundred years ago. 
+00:06:22.640 It’s a common joke amongst macro-economists that every change you make to the economy  
+00:06:26.640 changes at least 3 other things. Sometimes we pave over this issue by assuming ceteris paribus  
+00:06:32.640 or all other things being equal in our models.This economic assumption is great for looking at  
+00:06:37.360 cause effect in isolation, for example, a soda tax increases the price of and  
+00:06:42.480 therefore reduces the demand for sugary beverages all other things being equal. 
+00:06:47.280 But this is the real world, nothing ever remains the same just because it’s easier to model that  
+00:06:52.480 way. Predicting the future is extremely hard at the best of times and almost impossible  
+00:06:57.920 if you don’t account for almost every variable.And that’s what World3 attempted to do. 
+00:07:04.080 The World3 program had systems for modeling everything from birth rates to farming technology. 
+00:07:09.520 The idea was that all of these variables were very important to maintaining the modern lifestyle that  
+00:07:14.080 we enjoy today, but because they interact with one another they were prone to feedback loops. 
+00:07:20.000 The idea of a feedback loop actually comes from music performances. If you have ever held a  
+00:07:24.800 microphone up to a loudspeaker you will know the horrible high pitched sound that comes out of it. 
+00:07:29.680 That’s because the microphone is hearing a loud noise, and is then telling the speaker  
+00:07:33.760 to amplify and play that loud noise even louder, only for that loud noise to be  
+00:07:38.320 picked up by the microphone all over again.The same kind of effect can happen in economies. 
+00:07:43.600 For example declining birth rates can lead to an aging population, an aging population will put  
+00:07:48.640 more financial pressure on younger workers to care for the elderly either directly by  
+00:07:52.400 caring for them at home, or indirectly through taxes to fund pension schemes and aged care. 
+00:07:56.640 This financial pressure will mean younger workers have less time and less agreeable  
+00:08:00.320 conditions to make a family of their own and you are left with further declining birth rates. 
+00:08:04.720 This is actually a very important example as it pertains to the MIT study. 
+00:08:09.440 You see, while the study accounted for hundreds of variables in its computer generated model of  
+00:08:13.440 the global economy, it was only actually interested in tracking five of them. 
+00:08:18.160 These were, population, industrial output, food production, available resources, and pollution. 
+00:08:24.560 It’s worth remembering that this report was published in 1972,  
+00:08:28.320 before climate change was more than a blip on the scientific community's  
+00:08:31.520 radar and certainly far from being the widely recognised issue it is today. 
+00:08:35.760 Chances are if the paper was replicated today it would also include average  
+00:08:40.000 global temperatures, but it wasn’t so it didn’t.Now despite that you should be able to see that  
+00:08:46.560 all of these individual factors are very important to how we live and work around the world today,  
+00:08:51.200 but perhaps what is more important, is again how they end up interacting with one another. 
+00:08:56.160 Let’s go back to the economists safe space for a second and assume all other things are equal  
+00:09:00.960 outside of food and population. Now these variables are obviously dependent on one another,  
+00:09:06.560 if one moves the other will too, all other things being equal. But what  
+00:09:10.960 sounds like a more concerning order of events.A decline in population leading to a decline in  
+00:09:16.880 food production, or a decline in food production leading to a decline in population. Yeah obviously  
+00:09:24.080 two very different scenarios right there.Ok so now that we understand how to  
+00:09:28.960 interpret the data generated by this report, what did it actually say? 
+00:09:33.440 Well like good economists, the researchers kinda hedged their bets. Predicting the future exactly  
+00:09:39.280 is a fool's errand, they could have published their paper one day before a design for a  
+00:09:43.680 commercially viable fusion reactor developed, and the researchers realised this, so what they did  
+00:09:48.640 instead is they tweaked the initial conditions and ran the simulation over and over again. 
+00:09:55.040 In some simulations they would assume that innovation remains at a constant  
+00:09:58.400 pace and worker productivity continues to improve at the rate it currently has been. 
+00:10:02.560 In other simulations they would assume that technological innovation continues  
+00:10:05.840 to compound on itself, meaning things like harvesting resources from space,  
+00:10:09.520 or growing food in laboratories becomes possible.And then in other simulations they would assume  
+00:10:13.920 that technological progress would slowly plateau.A quick side note is that a technological plateau  
+00:10:19.680 might not sound very realistic to us today, but that’s only because most of us have grown  
+00:10:23.600 up in a time of constant innovation.Moore’s law is a great example of this,  
+00:10:28.080 for the past 5 decades computing power has roughly doubled every two years, but we are  
+00:10:33.200 starting to reach the physical limits of how many transistors we can pack onto a microchip. 
+00:10:37.840 Promising technologies like quantum computing may solve this issue, and let us continue to  
+00:10:42.080 gain access to ever more computing power, but then again it may not, and this is just one example. 
+00:10:48.240 A lot of technological innovation these days is just major companies finding  
+00:10:52.160 new and innovative ways for you to waste time while consuming advertiser content,  
+00:10:55.840 and yes I realise the irony that I am part of the problem here, but here you go have an ad. 
+00:11:00.640 What a good little consumer you are.Anyway, technological innovation was  
+00:11:04.800 just one variable that the researchers of this report tweaked. They also ran models  
+00:11:08.880 that assumed lower birth rates, higher birth rates, higher rates of recycling,  
+00:11:12.880 more resource discoveries, greater levels of global trade, reduced levels of global trade. 
+00:11:17.600 They basically tried to account for every outcome that would be possible with a realistic  
+00:11:22.560 combination of factors in this economic model.They then averaged out the trajectories of five  
+00:11:27.520 crucial factors to determine where humanity would end up. 
+00:11:31.120 As you would suspect from a range of models with variables changed up every time,  
+00:11:35.280 they got a range of different results, but they all sort of had one thing in common. They all  
+00:11:40.400 showed a significant decline around the year 2040.Of course it’s impossible to address all of  
+00:11:47.040 the thousands of potential outcomes that were modelled, but the researchers really focused on  
+00:11:51.680 a few that fit well within the standard deviation of these potential outcomes. 
+00:11:57.920 The first and potentially most optimistic outcome was called the comprehensive technology scenario,  
+00:12:03.200 this was a model where we continued to live like we currently do today, but technology progressed  
+00:12:07.840 fast enough to ensure our productive capacity was able to keep up with all of the new people  
+00:12:11.680 that needed to be fed and housed and clothed.The model still predicts a significant drop in  
+00:12:16.880 food production brought about primarily due to the pollution of waterways and the misuse of  
+00:12:20.720 arable land, but that is addressed through technological innovation. 
+00:12:24.320 The population does start to plateau around the year 2040, but that’s due to the natural  
+00:12:29.440 tendency of wealthier more urban populations to have less children, rather than people  
+00:12:34.480 starving to death due to lack of food.In this model industrial output does peak  
+00:12:39.040 and then decline, which would normally indicate lower living standards, but  
+00:12:43.120 this is almost entirely counteracted by the more efficient usage of the goods that we do have. 
+00:12:48.560 If tomorrow technology got to such a point where we had self driving cars then the need  
+00:12:52.960 for individual car ownership would be greatly reduced, this would likely lead to a fall in  
+00:12:57.760 industrial output, but it’s not that we would be poorer because of this, it’s just that suddenly  
+00:13:02.640 a car that used to service only one household can now be efficiently shared amongst dozens. 
+00:13:08.160 This is actually what the World Economic Forum was talking about when they famously said that  
+00:13:12.080 “you will own nothing and be happy about it”, they either just really don’t understand how  
+00:13:16.400 to communicate with the general public, or they secretly enjoy making people angry. 
+00:13:21.120 The more efficient use of resources would also reduce pollution and ensure that raw  
+00:13:25.040 materials are never reduced to nothing.This wouldn’t be a totally terrible outcome,  
+00:13:30.320 and yeah we might not continue to see the exponential growth in living standards that  
+00:13:34.160 we have seen over the past 100 years or so, but it also wouldn’t be a societal collapse either. 
+00:13:39.600 If you don’t feel comfortable relying on some new wave of technical innovation to save us  
+00:13:44.080 then the researchers who published this report have an alternative. 
+00:13:47.520 The so called stabilized world scenario is what would happen if the world just maintained its  
+00:13:52.160 current rate of innovation while also investing heavily into things like renewable energy sources,  
+00:13:57.040 and materials recycling processes.Again this model was made before climate change  
+00:14:01.920 was considered a factor, so when we are talking about recycling and renewables, we are looking at  
+00:14:06.000 it purely through the lens of resource depletion, and local pollution while totally disregarding  
+00:14:10.880 other externalities like carbon emissions.This stabilized world scenario looks very similar  
+00:14:15.760 in many ways to the comprehensive technology outcome that we explored earlier, the main  
+00:14:19.760 difference is an almost voluntary reduction in industrial output before it creates problems  
+00:14:24.720 like food shortages and excessive pollution.Of all the models based on all of the different  
+00:14:29.840 combinations of variables this was what the researchers identified as the most optimistic.  
+00:14:34.960 Again most optimistic barring some crazy unforeseen technological development that  
+00:14:39.680 radically reshapes how we run our economies. This could happen, and hopefully it will, but it’s hard  
+00:14:44.960 to make concrete plans for technologies that we can’t even conceive of yet, outside of maybe a  
+00:14:50.000 spiritual sacrifice to daddy Elon, can’t hurt.Anyway, the bad news is that while the original  
+00:14:56.240 study in 1972 thought this could be something we could realistically work towards, the timeline of  
+00:15:01.680 all of the captured variables in this outcome has the least closest fit to our current reality,  
+00:15:06.720 as explored by the 2021 follow up study.Gaya Herringtons study instead suggests that  
+00:15:12.160 the path that we are actually on best represents what the 1972 researches dubbed the Business As  
+00:15:17.760 Usual 2 scenario… and that’s not good…This is a model that highlights a  
+00:15:23.680 very clear collapse. Pollution continues to increase exponentially, and things  
+00:15:28.160 like recycling of common materials never become economically viable, or subsidised widely enough. 
+00:15:33.520 Industrial output does reach a higher level than in all of the other possible scenarios, but that  
+00:15:38.400 is about where the good news ends. A drop in food production causes massively declining birth rates  
+00:15:43.360 in rich countries and famines in poor countries.The lack of young workers reduces industrial  
+00:15:48.560 output which further hinders economic prosperity.Easily accessible resources also dwindle away  
+00:15:53.520 which again further reduces industrial output and economic prosperity. 
+00:15:57.360 By all accounts this is what you would consider a complete collapse of society. I said at the  
+00:16:02.640 beginning of this video that I would rather be a middle class worker in today's world  
+00:16:06.320 than a king from anywhere beyond a hundred and fifty years ago. 
+00:16:09.520 If the business as usual model was to play out, then I would rather be a middle class  
+00:16:13.840 worker today, then a king just 20 years in the future, and that is a genuinely scary thought. 
+00:16:19.040 So if you are feeling a bit anxious like I was when reading this study,  
+00:16:22.480 perhaps it’s important to addressthe criticisms 
+00:16:25.040 Of this model.A study that basically  
+00:16:27.200 amounts to someone screaming the world is going to end is naturally going to be met  
+00:16:31.120 with some cynics, and that was certainly the case for the Limits to Growth report. 
+00:16:35.360 It’s worth noting that a lot of these criticisms have been proven wrong simply by the fact that the  
+00:16:40.240 data is tracking the predictions in the business as usual model with pretty frightening accuracy. 
+00:16:45.040 Other critics point out that this study has a very pessimistic way of modeling human innovation. 
+00:16:50.080 These critics conceded that, yeah sure, right now our rate of innovation might not be sufficient  
+00:16:55.120 to avoid this kind of a collapse, but necessity is the mother of invention. 
+00:16:59.600 As soon as humanities back is against the proverbial wall, a lot more attention will  
+00:17:03.520 be placed on researching and investing into technologies that could push us from the doomsday  
+00:17:07.680 scenario of the business as usual model into the more palatable comprehensive technology scenario. 
+00:17:13.200 We can already start to see this taking place with a huge surge in renewables technologies  
+00:17:17.440 becoming available in the public market. Certainly there are still some areas where we are lacking,  
+00:17:22.240 waste management being a huge one, but we are much better than we were even a decade ago. 
+00:17:27.280 If you want me to tell you what I think will happen, then I am sorry but I would just encourage  
+00:17:31.120 you to read these two reports yourself.I generally want to be optimistic about  
+00:17:35.120 the future, but I also realise that my opinion does not carry nearly as much weight as research  
+00:17:39.680 published by a collection of 17 of the world's top economists and scientists, research that has been  
+00:17:44.640 vindicated by another very talented individual.Best case scenario this was all massively  
+00:17:49.520 overblown and we could use this as an excuse to learn about the limits of creating systematic  
+00:17:53.200 models to predict the future, worst case scenario, well I guess it’s time to start  
+00:17:57.520 learning how to forage for food in the wilderness, which you can start right now, with Skillshare.

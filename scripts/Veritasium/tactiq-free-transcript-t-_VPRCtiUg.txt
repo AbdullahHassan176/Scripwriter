@@ -1,0 +1,238 @@
+# tactiq.io free youtube transcript
+# The Surprising Secret of Synchronization
+# https://www.youtube.com/watch/t-_VPRCtiUg
+
+00:00:00.080 The second law of thermodynamics tells usthat everything in the universe tends towards
+00:00:04.480 disorder. And in complex systems, chaos isthe norm. So you'd naturally expect the universe
+00:00:11.520 to be messy. And yet, we can observe occasionsof spontaneous order, the synchronization
+00:00:18.240 of metronomes, the perfectly timed orbitsof moons, the simultaneous flashes of fireflies,
+00:00:24.640 and even the regular beating of your heart.What puts these things in order in spite of
+00:00:31.040 nature's tendency for disorder.
+00:00:34.720 This video was sponsored by Kiwico more aboutthem at the end of the video.
+00:00:40.320 On June 10 2000, the Millennium Bridge, anew footbridge Across the River Thames in
+00:00:45.680 London was opened to much excitement. Butas crowds filled the bridge, it began to wobble
+00:00:53.040 back and forth. Police started restrictingaccess to the bridge, but that only resulted
+00:00:58.480 in long lines to get on the wobble was unaffected.Two days later, the bridge which had cost
+00:01:05.280 18 million pounds, was fully closed, and itwouldn't reopen for another two years. So
+00:01:12.960 what went wrong?
+00:01:15.200 Well, it's long been known that armies shouldbreak step when crossing bridges. This dates
+00:01:20.160 back to an accident in 1831. When 74 men fromthe 60 of Rifle Corps were marching across
+00:01:26.320 the Broughton suspension bridge in northernEngland. It collapsed under their synchronized
+00:01:31.200 footsteps. 60 men fell into the river 20 ofwhom suffered injuries like broken bones or
+00:01:37.200 concussions. Luckily, no one was killed. Butafter this, the British Army ordered all troops
+00:01:44.000 to break step when crossing bridges.
+00:01:47.360 Now look at the people walking across theMillennium Bridge. Most of them are walking
+00:01:53.120 in step with each other. But they are notpart of an army. They're random members of
+00:01:59.520 the public so why are they walking together?And why couldn't a modern bridge designed
+00:02:05.440 for heavy pedestrian traffic handle this?Well, to understand it, we have to go back
+00:02:11.440 350 years.
+00:02:15.360 In 1656, famous Dutch physicist ChristianHuygens created the first working pendulum
+00:02:21.440 clock. The goal was to help sailors figureout where they were on the globe. Latitude
+00:02:27.520 can be judged by measuring the position ofthe sun or stars. But for longitude you also
+00:02:32.960 need to know the time at some fixed location,say your home port. But clocks at the time
+00:02:38.480 were routinely out by around 15 minutes aday. So they were effectively useless. wagons
+00:02:44.480 pendulum clocks by contrast, were accurateto around 10 to 15 seconds per day. Huygens plan
+00:02:51.360 was to attach his clocks to a heavy hangingmass on the ship, so they wouldn't get tossed
+00:02:56.240 around by the rolling seas. His plan calledfor two clocks in case one stopped or was
+00:03:02.240 damaged.
+00:03:04.000 But testing out this arrangement while athome sick in February 1665. He made a remarkable
+00:03:10.240 discovery. To have his clocks hung from awood beam across some chairs. Watching the
+00:03:16.640 pendulums sway back and forth for hours. Henoticed after half an hour or so they would
+00:03:22.640 spontaneously synchronize. As one clock swungone way, the second would swing the other
+00:03:28.240 way. As one would tick, the other would talk.
+00:03:32.880 So he tried disturbing the clocks. He setthem ticking out of sync but again, within
+00:03:38.080 30 minutes or so they were back to the samelockstep. Wiggins thought this strange sympathy
+00:03:44.000 of clocks must have been caused by air currentsbetween the pendulums, so he placed a large
+00:03:49.200 board in between them, but their clocks continuedto sync up. It wasn't the air currents.
+00:03:56.320 When he separated the clocks, the synchronywould disappear, their times drifting apart.
+00:04:01.360 But when he brought them back together, thesynchrony returned. Wiggins realized the two
+00:04:06.560 clocks were synchronizing because they werehung from the same wood beam. He transferred
+00:04:11.840 mechanical vibrations from one clock to theother, making the two oscillators coupled.
+00:04:18.000 wegens was the first to observe this kindof spontaneous synchronization in inanimate
+00:04:23.040 objects. And although he qualitatively describedwhat was happening, he was only a few decades
+00:04:28.320 ago that scientists started fleshing out arigorous theory of synchronization.
+00:04:36.720 You may have seen this demo where you putseveral metronomes on a light wobbly platform
+00:04:41.760 and start them out of sync.
+00:04:49.200 It's trickier than people make it look.
+00:04:53.040 When you do get it to work, though. It's kindof magical.
+00:05:12.400 These metronomes don't have exactly the samenatural frequency, and yet they still beat
+00:05:17.600 in time. To understand how this works, it'seasiest to first consider a couple metronomes
+00:05:23.280 oscillating in sync with each other. Whenthe large masses accelerate to the left, they
+00:05:28.240 push the platform to the right. And when theyaccelerate to the right, they push the platform
+00:05:32.480 to the left. So the center of mass of thesystem always stays roughly in the same spot.
+00:05:38.240 Now, if you start another metronome completelyout of sync with the first two, the motion
+00:05:42.800 of the platform gives it a kick every halfswing, speeding it up until it's in time with
+00:05:48.000 the first two.
+00:06:05.520 This works, regardless of the number of metronomes, 
+00:06:08.080 you have, the platform just goes whichever
+00:06:10.400 way the majority of metronomes are pushingit.
+00:06:14.880 We can represent the position of a metronomependulum or any other oscillator as a point
+00:06:19.600 on a circle. This shows its phase that iswhat part of the cycle it's in. So you could
+00:06:25.520 call the rightmost point of the pendulum zerodegrees. And then the leftmost point is 180
+00:06:30.800 degrees. And as the pendulum oscillates backand forth, the point goes around the circle,
+00:06:36.640 the higher the frequency of the oscillator,the faster that point goes around.
+00:06:42.560 So this represents two metronomes with differentfrequencies.
+00:06:47.520 And this represents two metronomes with thesame frequency, but completely out of phase.
+00:06:53.200 When the metronomes are synchronized in phase,their dots go around the circle together,
+00:06:58.880 we can use this depiction to illustrate amathematical model for the synchronizing behavior
+00:07:03.520 we've been looking at. It's called the Kuramotomodel. It says the rate each dot goes around
+00:07:09.760 the circle equals its natural frequency, plussome amount related to how far it is from
+00:07:16.560 all the other dots. And the size of this termis determined by the coupling strength. I
+00:07:21.840 like to think of it actually visually by thinkingabout people that are running around a track,
+00:07:26.720 like suppose you're running with your friend,and maybe your friend is faster than you,
+00:07:31.120 your friend says, you know, come on, moveit or hurry it up. Because you're dawdling,
+00:07:35.120 you're slow, you're falling behind. So ifyou have enough fortitude, and you know, you
+00:07:41.200 try hard enough, and if the friend is sympatheticenough to slow down, then the coupling between
+00:07:45.920 you is strong enough to overcome that inherentdifference in your natural running speeds.
+00:07:50.640 But if you're not very good friends, or, youknow, if you can't quite suck it up to move
+00:07:55.760 yourself faster, then the coupling will notbe strong enough to overcome that difference
+00:08:00.320 in one person will start lapping the other,the fireflies of Southeast Asia are apparently
+00:08:05.600 good enough friends, because they synchronizetheir flashes. Even though each one has its
+00:08:10.960 own particular frequency at which it likesto flash, they coupled to each other strongly
+00:08:15.680 enough so that hundreds, even 1000s can flashtogether in the same split second. There's
+00:08:21.920 a great simulation of this by Nicky Case,you start with individual fireflies just doing
+00:08:27.280 their thing. And then you can turn on theinteraction between them. Now in the Kuramoto
+00:08:32.080 model, this would mean every Firefly has aneffect on every other one. But in this simulation,
+00:08:37.440 a firefly is only affected by its neighbors.If it sees a flash close by it nudges its
+00:08:43.280 internal clock forward a little bit, so it'llflash sooner than it would have otherwise.
+00:08:48.320 Now, what's remarkable about this is eventhough the interactions are small and close
+00:08:53.120 range, over time, you can see waves travelingthrough all the fireflies, and eventually,
+00:09:00.000 they're all flashing at once.
+00:09:03.920 Like you might think if you increase the coupling,you just sort of gradually get a system more
+00:09:08.080 and more synchronized. That's not what happens.It's sort of like the way water doesn't gradually
+00:09:12.960 freeze as you lower the temperature, its water,water water as you're lowering the temperature.
+00:09:17.440 And then at a critical temperature, the moleculessuddenly start to change their state and become
+00:09:22.720 solid instead of liquid. And this is a sortof time rather than space version of the same
+00:09:28.320 thing. They sort of lock their phases in time,once you pass a critical level of coupling.
+00:09:34.960 And at that point, the sort of crystallization 
+00:09:37.600 in time is the phenomenon that we call synchronization.
+00:09:42.800 This is an audience in Budapest applaudingafter a performance. But what happens next
+00:09:47.840 is completely spontaneous. They're not beinginstructed by anyone to see if you can spot
+00:09:54.240 the phase transition.
+00:10:08.960 this phenomenon of synchronization that we'vebeen talking about one of the things that
+00:10:12.400 i find most appealing about it is how universalit is that it occurs at every scale of nature
+00:10:18.800 from subatomic to cosmic it uses every communication 
+00:10:23.440 channel that nature has ever devised from
+00:10:26.160 gravitational interactions electrical interactionschemical mechanical i mean you name it anyway
+00:10:32.480 the two things can influence each other natureuses that to get things in sync
+00:10:38.560 take our own moon for example we only eversee one side of it because it rotates on its
+00:10:43.760 axis exactly once for every time it goes aroundthe earth we say it is tidally locked to the
+00:10:50.320 earth and this is a common effect in our solarsystem there are 34 moons that are tidally
+00:10:56.240 locked to their planet the way this happensgoes something like this a moon starts out
+00:11:01.440 with its own rotational frequency but thegravitational attraction to the planet is
+00:11:06.320 stronger on the side closer to the planetand so it distorts the moon into an egg shape
+00:11:11.600 which is greatly exaggerated here as the mooncontinues to orbit and rotate on its axis
+00:11:17.680 those bulges swing out of alignment with theplanet and so the gravitational force on them
+00:11:22.480 is constantly pulling them back into alignmentand this slows the rotation of the moon until
+00:11:28.080 it is locked to the planet if the moon isinitially rotating too slowly this same mechanism
+00:11:34.080 can speed it up until it's locked there areall kinds of other beautiful synchronization
+00:11:39.760 phenomena in our solar system the three innermostmoons of jupiter io europa and ganymede are
+00:11:46.560 not only tidally locked to the planet they'realso in a one to four orbital resonance with
+00:11:51.760 each other for every time ganymede goes aroundjupiter europa goes around twice and io four
+00:11:57.920 times
+00:12:03.040 in the 1950s some russian chemists went lookingfor a chemical reaction that would oscillate
+00:12:08.880 like a chemical analog of a pendulum likecould you get something going back and forth
+00:12:13.360 say between blue and orange over and overagain and naively you might say that's impossible
+00:12:20.400 because there's principles of thermodynamicswhich say that closed systems just increase
+00:12:26.960 their entropy over time that they're justgoing to come to equilibrium but there's no
+00:12:30.880 principle in chemistry or thermodynamics thatsays you have to go monotonically to equilibrium
+00:12:36.720 you are allowed to oscillate and damp outto equilibrium in an facilitatory way this
+00:12:42.240 is exactly what Boris Belousov off and laterAnatol Zhabotinsky discovered so this reaction
+00:12:48.000 is known as the Belousov Zhabotinsky or BZreaction i've sped it up because it can continue
+00:12:54.640 for half an hour or more oscillating betweenthese colors now it spends more time on the
+00:13:00.080 burnt orange color so i sped up those sectionsmore it's very spectacular and it's kind of
+00:13:06.000 shocking to see a chemical reaction doingthese periodic changes in color like chemicals
+00:13:11.200 acting like a clock like a pendulum so thestirred reaction has the advantage that you
+00:13:16.880 you really get a sense of the collectivityof you know i don't know quadrillions of molecules
+00:13:22.160 avogadro's number of molecules all doing thesame thing at the same time on the other hand
+00:13:27.520 if you don't stir if you just put like a petridish of the bz reaction you can see something
+00:13:33.680 even more amazing i think which is that youcan see spiral waves of color or target patterns
+00:13:39.280 expanding circles of color moving throughthe liquid maybe i should emphasize the liquid
+00:13:45.680 itself is not moving it's not like we're seeingripples on a pond but what's not still is
+00:13:51.360 chemical concentrations you can see theseblue waves in the bz reaction that are chemical
+00:13:58.400 waves not not water waves and that will justpropagate and they move at a constant speed
+00:14:04.080 and or they can look like a spiral that justgrows and grows and spins around and what's
+00:14:08.880 really spooky and uncanny about this is thatthe same phenomenon is seen in the heart you
+00:14:14.160 can see spiral waves of electrical excitationin a heart that look exactly like the spiral
+00:14:19.680 waves in chemical oscillations and chemicalwaves in the bz reaction and this was the
+00:14:25.120 sort of thing that inspired my mentor a guynamed art winfrey who used chemical reaction
+00:14:31.760 waves to give himself insight into cardiacarrhythmias you know you may have heard the
+00:14:36.960 most deadly kind of a arrhythmia that thekind that will kill you it really in a matter
+00:14:40.400 of minutes ventricular arrhythmias ventricularfibrillation in particular winfrey's work
+00:14:46.480 seeing these rotating spirals on hearts aswell as in chemistry led him to a theory about
+00:14:53.680 what's really causing ventricular fibrillationand how could we design for example better
+00:14:58.800 defibrillators
+00:15:00.320 That are gentler, that could be a good outcome 
+00:15:02.880 of this theory. You know, the lack of synchronization
+00:15:05.280 in a fibrillation heart is what causes noblood to be pumped, and then sudden death
+00:15:09.200 ensues. So too little synchronization is obviouslya problem. But too much synchronization can
+00:15:16.320 also cause trouble. Remember, the wobbly Millennium 
+00:15:19.840 Bridge, it was all apparently down to something
+00:15:22.480 called crowd synchrony Was it the people walkingin step that caused it to oscillate? Actually,
+00:15:29.120 kind of the opposite. The Millennium Bridgewas designed to look like a ribbon of light.
+00:15:34.240 So its construction is unique. Unlike a typicalsuspension bridge, its supporting cables run
+00:15:39.920 alongside it stretched taut, like guitar strings.In the civil engineering literature, all designers
+00:15:47.360 know that you do not build a footbridge witha resonant frequency equal to the frequency
+00:15:52.240 of human walking. So we take about two stridesper second one with your left foot one with
+00:15:57.760 your right foot. So everybody who takes civilengineering knows if people are going to walk
+00:16:03.040 on the bridge, It better not have a resonantfrequency in the vertical direction of two
+00:16:06.800 hertz. Okay, everybody knows that, includingthe people who, who built the Millennium Bridge.
+00:16:12.480 But what they didn't know. And what was newthat day is that half the frequency is also
+00:16:17.200 important, a frequency of one cycle a second,which is the frequency with which you put
+00:16:23.360 down, say, your left foot, half the time you'redoing your left foot. So why does that matter?
+00:16:29.040 Because when you're walking across a bridge,and you put your left foot down, you put a
+00:16:32.240 tiny force sideways on the bridge. And normally,that wouldn't matter because people are all
+00:16:37.680 walking at their own pace, they're not synchronized, 
+00:16:40.560 so their sideways forces which are only about
+00:16:42.800 a 10th, as big as their downward forces that 
+00:16:44.880 they impart on the bridge, that would be negligible,
+00:16:47.440 and it wouldn't do anything to the bridge.But if the bridge happens to have a sideways
+00:16:52.080 frequency of one cycle a second, which theMillennium Bridge had happened did, then people
+00:16:58.240 can actually start to get the bridge movinga little bit. After the bridge was closed,
+00:17:03.440 engineers got their colleagues to walk acrossit in increasing numbers, while they measured
+00:17:07.680 its acceleration. With 50 people on the bridge,there was very little motion. At 100, the
+00:17:14.480 vibrations had barely increased at 156, therewas still no wobble, but with just 10 more
+00:17:22.640 people 166 the acceleration grew dramatically.The bridge swayed, just like it had on opening
+00:17:31.920 day, the system had undergone a phase transition.If people can get the bridge moving a little.
+00:17:38.560 It turns out, people don't like to walk ona platform that's moving a little bit sideways.
+00:17:43.120 If you've ever been in a train, that's kindof going faster, if you stand up in a rowboat,
+00:17:47.280 and it starts moving sideways, people spreadtheir legs apart, to try to stabilize themselves.
+00:17:52.480 And they will actually start to walk in step.With the sideways motion of the bridge, you
+00:17:57.840 can see footage from the BBC, of people doingthat. It's spectacular and crazy. So it wasn't
+00:18:05.040 people walking in sync that got the bridgeto wobble. It was the wobbling bridge that
+00:18:10.080 got people to walk in sync. And so as thepeople got in step with the motion of the
+00:18:14.960 bridge, by adopting this weird kind of penguingate, they ended up inadvertently pumping
+00:18:20.160 more energy into the bridge and making itsmotion worse. And so this was this positive
+00:18:25.280 feedback loop between the motion of the crowd,causing the bridge to move more, which causes
+00:18:29.520 more people to get in step with the bridge,which made more people you know, drive the
+00:18:33.440 bridge. Once the problem was identified, theycould solve it by decreasing the coupling
+00:18:39.040 strength. They installed energy dissipatingdampers all along the bridge. It was a tremendous
+00:18:45.360 embarrassment, and it cost several millionpounds to repair the bridge.
+00:18:50.720 In science, we do reductionism, all of ourscience courses tell us the way to solve a
+00:18:55.200 problem is to break it into smaller parts 
+00:18:57.040 and analyze the parts. And that has been phenomenally
+00:18:59.600 successful for every branch of science. Butthe great frontier in science today is what
+00:19:05.200 happens when you try to go back to put theparts together to understand the whole. That's
+00:19:10.160 the field of complex systems. That's why wedon't understand the immune system very well.
+00:19:15.680 We don't understand consciousness very wellor the economy. It seems like the whole is
+00:19:20.320 more than the sum of the parts. That's thecliche that has entranced me for my whole
+00:19:24.720 research career. I want to understand howcan you figure out the properties of the whole
+00:19:29.680 given the properties of the parts?
+00:19:36.480 Hey, this video is sponsored by Kiwico, whichmakes awesome hands on projects for kids.
+00:19:41.520 And I've actually been using their subscriptioncrates with my kids for over a year now. So
+00:19:45.760 I wanted to reflect on some of the thingsI really enjoy about them. First of all, my
+00:19:50.080 kids want to do these projects with me. Whena crate arrives, they're excited to crack
+00:19:54.720 it open and start making and you can do exactlythat because everything you need comes right
+00:19:59.280 in the box.
+00:20:00.160 now my kids are still pretty young but Kiwicohas eight different subscription lines targeted
+00:20:04.560 at different age groups all the way down tonewborns when i was filming for this sponsor
+00:20:09.280 segment my four year old completely unpromptedproposed doing an experiment “I wonder what
+00:20:15.360 we could do… We could do an experiment withthis. We could try pushing it and letting
+00:20:23.040 it go”
+00:20:23.920 that's a good idea let's try it
+00:20:28.640 i was so proud that he came up with that allby himself and i want him to keep thinking
+00:20:33.600 like this considering the what ifs and askingbigger questions a Kiwico crate is like a
+00:20:39.040 thought starter in a box plus it is time toconnect have fun and be entertained for hours
+00:20:44.560 so if you want to try it out go to Kiwicodot com slash veritasium 50 and you'll get
+00:20:48.240 50% off your first month of any crate i'llput that link down in the description so i
+00:20:53.200 want to thank Kiwico for sponsoring veritasiumand i want to thank you for watching

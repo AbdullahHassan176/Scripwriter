@@ -1,0 +1,332 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/phD8voYIR-k
+
+00:00:00.000 No text
+00:00:00.166 This is London.
+00:00:01.710 It has 215,700 millionaires,
+00:00:05.296 516 centi-millionaires and 45 billionaires.
+00:00:10.635 London is very, very rich.
+00:00:14.014 But the rest of the UK? Not so much.
+00:00:17.350 In fact, citizens of the once proud United Kingdom
+00:00:20.353 have less disposable income than the poorest five U.S.
+00:00:23.648 states and the average OECD country.
+00:00:27.068 And if you remove London and the southeast from the equation,
+00:00:30.196 the UK's GDP per capita drops 14%.
+00:00:34.868 Life expectancy in parts of Blackpool are lower than in Rwanda,
+00:00:38.997 and entire cities and towns that once thrived
+00:00:42.250 now rank among the poorest in Western Europe.
+00:00:45.879 The UK has gone from the greatest kingdom on earth to squalor.
+00:00:50.800 How did it get here?
+00:00:52.927 This is the UK: The Divided Kingdom.
+00:00:59.000 No text
+00:00:59.476 Our story starts in 1979.
+00:01:02.062 Margaret Thatcher is elected Prime Minister with the goal
+00:01:04.980 of controlling inflation in the lead up to her election.
+00:01:08.443 Inflation had spiraled out of control.
+00:01:11.362 £100 in 1970
+00:01:13.656 was worth over £300 by 1979.
+00:01:17.535 But what caused this?
+00:01:19.287 First, the 1970s were rocked by two massive oil
+00:01:22.499 shocks when OPEC doubled and then tripled oil prices.
+00:01:26.461 Everything from gas to groceries got more expensive overnight.
+00:01:30.131 At the same time, wages kept rising as powerful trade unions demanded more pay
+00:01:34.636 to keep up with the rising prices, creating a vicious cycle of rising prices,
+00:01:39.474 leading to rising wages, leading to rising prices, and so on.
+00:01:43.895 Add to this loose monetary and fiscal policies leading to tons of money
+00:01:48.399 floating in the economy, and you have a recipe for disaster.
+00:01:52.695 Guided by Chancellor Geoffrey Howe and hardline monetarists like Keith
+00:01:56.199 Joseph and Alan Walters, Thatcher had made inflation enemy number one. To fight it,
+00:02:01.996 her strategy was simple.
+00:02:03.581 First, reduce the money supply.
+00:02:05.917 The Thatcher government set out to strangle money supply, cutting
+00:02:09.378 sterling M3 growth from 12% a year to just 6% by 1984.
+00:02:14.592 Second, interest rates.
+00:02:16.594 In June 1979, she increased rates from 12 to 14%.
+00:02:20.849 Then again to 17% in November, the highest in the history of Britain.
+00:02:26.396 The idea was simple enough.
+00:02:28.064 Make borrowing expensive, slow down credit and choke off inflation.
+00:02:32.485 Although this helped stamp down inflation, a stronger pound made
+00:02:35.572 British exports uncompetitive abroad,
+00:02:37.782 while sky high borrowing costs crippled businesses at home.
+00:02:41.494 Manufacturers couldn't invest, couldn't expand
+00:02:44.581 and in many cases couldn't even keep the lights on.
+00:02:48.334 And the third thing was government spending.
+00:02:51.129 The Thatcher government aimed to cut public sector borrowing requirement
+00:02:54.340 from 4.7% of GDP in 1979
+00:02:57.844 to just 1.5% by 1983.
+00:03:01.181 Concurrently, while in the middle of a recession, they did the unthinkable.
+00:03:05.727 They raised taxes, but Britain was already in trouble.
+00:03:10.148 More than 2 million people were out of work, and every month
+00:03:13.151 another 100,000 were joining the unemployment lines.
+00:03:17.113 It was so shocking that 364 economists signed a letter to The Times, saying
+00:03:22.785 the policy had no basis in economic theory.
+00:03:26.915 So the question was, did it work?
+00:03:30.126 Well, yeah.
+00:03:31.169 Although extreme, inflation decreased from 13% in 1979
+00:03:35.048 to 5% by 1983.
+00:03:38.468 But at what cost?
+00:03:40.094 High interest rates, a strong pound and spending cuts
+00:03:42.931 crushed manufacturing towns across the United Kingdom.
+00:03:46.100 Britain's industrial base was gutted and regional inequality began to take shape.
+00:03:50.396 Meanwhile, London was living a very different story,
+00:03:53.983 predominantly a service based economy.
+00:03:56.402 London, unlike much of the UK, was able to hold on. By the mid 1980s,
+00:04:01.783 joblessness in northern England, Scotland and Wales all pushed past 15%.
+00:04:06.621 While the Southeast and London stayed under 10%.
+00:04:10.541 But why was this the case?
+00:04:12.543 Enter the Big Bang Deregulation package. Thatcher
+00:04:16.422 had a vision of transforming London into a financial superpower.
+00:04:19.716 Through deregulation, fixed commissions and exchange controls were scrapped,
+00:04:24.305 the single capacity rule ended,
+00:04:26.307 foreign ownership welcomed and electronic trading unleashed. The result?
+00:04:30.853 International banks poured in £450 million into the city.
+00:04:35.441 1500 new millionaires were minted
+00:04:37.902 and London cemented itself as the world's dominant financial center.
+00:04:41.781 On paper, the UK looked like it had gone through a renaissance
+00:04:46.119 at the end of Thatcher's first year in office.
+00:04:48.329 GDP was around 1 trillion Great Britain Pounds.
+00:04:51.582 But when she left in 1990, it was 1.4 trillion GBP.
+00:04:57.338 GDP per capita also rose from £15,500
+00:05:00.383 thousand to £19,900 thousand by 1990.
+00:05:04.595 Britain was richer.
+00:05:06.764 But this data doesn't show the whole picture.
+00:05:09.475 During the same period of time, the Gini coefficient,
+00:05:12.687 a measure for inequality, increased from 25 to 35,
+00:05:17.567 meaning while GDP per capita rose
+00:05:20.194 by 30%, inequality rose by 40%.
+00:05:24.073 So although Britain was richer,
+00:05:26.409 it was becoming more unequal.
+00:05:29.329 This was partly due to the extreme cost of Thatcher's
+00:05:31.622 policies on Britain's industrial base.
+00:05:33.791 For example, in 1979, manufacturing
+00:05:36.711 accounted for nearly 30% of the UK's GDP.
+00:05:39.756 And by 1990 it fell to 16%.
+00:05:43.134 Concurrently, manufacturing employment fell by nearly
+00:05:46.095 40% from 1979 to 1993.
+00:05:49.807 So yes, GDP rose.
+00:05:51.934 GDP per capita increased.
+00:05:53.853 But if you didn't live in London, it wasn't so obvious.
+00:05:57.315 The services industry grew, but other industries declined as the UK
+00:06:00.818 wanted to rejig its economy.
+00:06:02.862 Another way to examine the impact of shifting industries
+00:06:05.948 is the relationship between direct and indirect jobs created.
+00:06:09.744 Basically, if you open a factory selling widgets,
+00:06:12.330 you might hire 100 people directly.
+00:06:14.832 But to make your widgets, you need steel or electricity and distributors and more.
+00:06:18.920 Your factory, therefore, might support an additional 300 indirect jobs,
+00:06:23.049 giving a ratio of one direct job to every three indirect jobs.
+00:06:27.345 If we look at banking, the total is around
+00:06:30.014 200 indirect jobs per 100 direct jobs.
+00:06:33.309 A ratio of 1 to 2.
+00:06:35.686 But if we look at iron manufacturing,
+00:06:38.064 the total is over 900 indirect jobs per 100 direct jobs.
+00:06:42.610 A ratio of 1 to 9.
+00:06:45.154 In fact, if we look at the financial services industry broadly,
+00:06:48.908 the ratio is around 1 to 3.6, which sounds great,
+00:06:53.204 but when you compare it to other industries like utilities,
+00:06:56.082 durable manufacturing  and non-durable manufacturing, it isn't.
+00:07:00.711 And this is one of the reasons that service based industries
+00:07:03.089 lead to higher GDP.
+00:07:04.507 But increase inequality as earnings become more concentrated
+00:07:08.136 among a smaller group of individuals.
+00:07:10.596 But this isn't simply about job creation.
+00:07:12.890 It's also about wages and benefits.
+00:07:15.184 Manufacturing jobs
+00:07:16.436 tended to be characterized
+00:07:17.562 by formal employment agreements with strong benefits, retirement
+00:07:20.690 plans, paid holidays, insurance, and sick leave. Alternatives for the majority low
+00:07:25.862 skilled manufacturing workforce did not have these characteristics.
+00:07:29.907 As such, studies show that the shift away from manufacturing led
+00:07:33.286 to an increase in inequality. And as a reminder,
+00:07:36.372 the UK's industrial base is deeply regionalized.
+00:07:39.208 So although there might be jobs and wage growth in the South, pockets
+00:07:42.628 that historically relied on out-of-favor industries became hollowed out.
+00:07:46.507 And today not a single region in the UK north of London
+00:07:50.136 has a GDP per capita higher than the UK average.
+00:07:53.890 Let that sink in.
+00:07:55.183 That means that every region in the UK, excluding London
+00:07:58.436 and the southeast, is poorer than the average of the UK.
+00:08:02.648 Real quick. Over 96% of you aren't subscribed,
+00:08:05.568 so if you've been watching for a while, join the 4%.
+00:08:08.196 It's free and helps the channel. Now back to the video.
+00:08:12.000 No text
+00:08:13.075 As cities become
+00:08:13.868 poorer, people begin to move to wealthier ones in search of greener pastures.
+00:08:17.705 It's only natural.
+00:08:19.207 In fact, this phenomenon is studied
+00:08:20.833 the world over.
+00:08:22.335 As such, as London began to grow.
+00:08:24.253 Many economists believe that there would be a significant migration
+00:08:27.298 to the big city from other parts of the United Kingdom.
+00:08:30.468 But they were wrong.
+00:08:31.844 Even though people in the UK moved between regions at a higher rate
+00:08:35.389 than other G7 countries.
+00:08:37.015 London is the exception.
+00:08:39.018 In fact, Britons move away from London more than they move to London.
+00:08:44.273 London is one of the only cities in the UK with a negative internal mobility rate.
+00:08:49.153 But how does that make any sense?
+00:08:50.947 Especially when you take into account that median household incomes
+00:08:53.908 in London are 14% higher than the UK.
+00:08:57.161 Isn't it obvious to move?
+00:08:59.288 Well, not if you take into account living costs. When you factor in housing,
+00:09:03.793 household incomes are only 1% higher in London.
+00:09:07.338 So unless you are in the top quartile of earners,
+00:09:09.882 it absolutely makes no sense to move.
+00:09:12.969 Housing in London is nearly two times greater than the UK average.
+00:09:16.806 And when you take into consideration what you get for your dollar,
+00:09:19.517 it's even more expensive.
+00:09:21.310 It's no surprise, then, that London has a major homelessness problem,
+00:09:25.147 but it's not like anything seen in the Western world.
+00:09:28.693 Homelessness advocates counted over 13,000 rough sleepers
+00:09:31.904 in London in 2024, for a 10% increase from the year prior.
+00:09:35.741 And a 63% increase from a decade ago.
+00:09:39.579 Overall, 2% of Londoners are considered homeless.
+00:09:42.748 Compare that to New York at 0.8% percent, Toronto at 0.5%,
+00:09:46.836 Paris at 0.3%, Berlin at 0.3%, and Amsterdam at 0.2%.
+00:09:51.465 London is in a league of its own.
+00:09:54.343 One of the reasons for housing
+00:09:55.553 struggles is the Right to Buy scheme that Margaret Thatcher introduced in 1980.
+00:09:59.682 The idea was to privatize social housing by allowing tenants
+00:10:02.685 who lived in these homes to purchase them at a discount from the government.
+00:10:06.397 And these discounts were steep.
+00:10:08.858 Initially, 33% for houses and 50% for flats,
+00:10:13.237 which was later raised to 70%.
+00:10:16.574 Now, many conservative minded folks might say this sounds like a good idea,
+00:10:20.411 but I assure you it is absolutely not.
+00:10:23.414 The government was basically allowing people
+00:10:25.249 to buy properties at steep discounts to market value,
+00:10:28.252 without any promise of ensuring that housing stock would remain affordable.
+00:10:32.590 This policy would economically benefit the current generation
+00:10:36.218 at the expense of future generations.
+00:10:38.888 And not only that, local authorities had to offer mortgages with no deposit.
+00:10:44.518 So do the math.
+00:10:45.936 If you bought a property for 0% down
+00:10:48.564 at a 70% discount, then sold it for market value
+00:10:52.360 a few years later, untaxed, might I add, you would be laughing to the bank.
+00:10:57.698 The problem was particularly acute in London.
+00:11:00.826 In 1980, London had around 715,000 of these homes,
+00:11:05.164 representing nearly 30% of the entire housing stock in the city.
+00:11:09.335 But today, only 390,000 of these homes remain.
+00:11:13.047 And social housing now comprises around 10% of housing stock,
+00:11:16.926 a decrease of 61%.
+00:11:19.720 Furthermore, across the UK, it is estimated that at least 40% of Right
+00:11:24.058 to Buy homes are now rented at market rates.
+00:11:27.311 But there are more reasons than just this for London's skyrocketing housing prices.
+00:11:32.108 For one, there are no legal restrictions for foreign nationals to purchase property
+00:11:36.028 in London.
+00:11:36.821 Meaning millionaires
+00:11:37.863 and billionaires from abroad have no barrier to buying in London.
+00:11:41.450 And they take advantage of this.
+00:11:43.244 Roughly 27% of total residential property sales in London in Q1 of 2024
+00:11:48.374 were to foreign buyers.
+00:11:50.334 Now you might be asking, what is it look like in other major cities
+00:11:53.504 like New York?
+00:11:54.880 While London is at 27%, New York is at 0.3%.
+00:12:00.469 That's a 90 times difference.
+00:12:03.013 And it gets worse. Over 20% of new rental properties in London
+00:12:06.726 have at least one foreign shareholder, doubling from 2016.
+00:12:12.231 One of the reasons for this is the UK's non-dom tax status,
+00:12:15.526 which has basically been abolished.
+00:12:17.528 This enabled UK residents who claim their permanent home was abroad,
+00:12:21.073 to avoid paying UK tax on foreign income and capital gains.
+00:12:24.618 Now, some might think this is a smart policy,
+00:12:26.954 but it is deeply shortsighted.
+00:12:29.331 Yes, these people bring money from abroad and spend it locally, but they also
+00:12:32.793 compete with the local population on scarce resources like housing.
+00:12:36.672 Now, if you have a handful of these people, it's really not an issue.
+00:12:40.050 But if you have 83,000 of them, you have a major problem.
+00:12:45.389 Countries around the world love the idea of rich people
+00:12:48.017 spending their money in their country, but it always leads to housing dislocations.
+00:12:53.147 Sydney. Melbourne.
+00:12:54.565 Vancouver and others all fell trap to this.
+00:12:57.735 Moreover, these rich individuals don't contribute in the same way to the economy.
+00:13:02.072 They aren't going to take care of the sick and old.
+00:13:04.200 They aren't opening new businesses locally and employing people locally.
+00:13:07.787 They aren't working at all.
+00:13:09.121 They simply by luxury homes and cars, eat out and sleep.
+00:13:12.333 Yes, they contribute a little to the economy,
+00:13:14.585 but they are nothing more than a way to pad stats.
+00:13:17.338 All of this at the expense of local people.
+00:13:22.000 No text
+00:13:22.092 But housing is only one piece of the puzzle.
+00:13:24.345 The deeper issue is where Britain
+00:13:25.846 puts its money, and for decades the answer was simple.
+00:13:28.808 London, when most people visit London, they complain about the tube
+00:13:32.228 and the poor infrastructure.
+00:13:34.021 Clearly these people haven't been to other parts of the country.
+00:13:37.483 If you look at transport investment in the UK, London takes the cake.
+00:13:42.196 The city gets nearly £1,200 per person.
+00:13:44.990 Compare that to the northeast
+00:13:46.242 at just £430, and the East Midlands at £350.
+00:13:50.746 Even the southeast, the closest region, barely gets
+00:13:53.666 half of what London gets.
+00:13:55.251 To put it in perspective.
+00:13:56.752 If the North had been funded at the same per person rate as London,
+00:14:00.089 it would have seen an extra £140 billion of investment.
+00:14:03.509 That's the equivalent of building seven Elizabeth lines.
+00:14:06.804 To make matters worse, Britain underspends on transport compared to its peers.
+00:14:11.433 OECD data shows that the UK put just 0.3%
+00:14:14.770 of GDP a year into roads between 1995 and 2020.
+00:14:18.816 Compare this to Italy at 0.4%, Germany
+00:14:21.944 and the US at 0.5%,  in France at over 0.6%.
+00:14:26.198 The tragedy is that this underinvestment makes Britain's cities less productive.
+00:14:30.619 With weak road and rail links, cities outside London have far less
+00:14:33.956 effective size, fewer people can commute, and fewer jobs are connected,
+00:14:37.877 less growth is possible.
+00:14:39.712 A unique data point that encapsulates the problem is
+00:14:42.715 that UK is pretty much the only place in Western Europe
+00:14:45.968 where city size does not correlate strongly to economic productivity.
+00:14:50.723 The poor infrastructure is a critical driver of this.
+00:14:53.976 And it's not just transport.
+00:14:55.603 The same neglect shows up in R&D.
+00:14:58.272 R&D expenditure is heavily concentrated in higher productivity,
+00:15:01.901 higher income locations.
+00:15:03.736 Ergo, London.
+00:15:05.279 In 2016, the government spent just £21 per person
+00:15:09.450 on R&D in the North of England and £14 in the Midlands.
+00:15:13.704 In London it was £60.
+00:15:17.082 This creates a reinforcing loop.
+00:15:19.293 More R&D means London firms grow faster, which attracts
+00:15:22.504 more private capital, which funds even more R&D.
+00:15:26.008 Moreover, Britain is the outlier.
+00:15:28.552 Germany's poorer regions,
+00:15:29.929 the smaller bubbles on this graph receive more public R&D support.
+00:15:34.183 In the UK, it's the opposite.
+00:15:36.435 The outcome is obvious.
+00:15:37.978 The places that need support the most are left with scraps,
+00:15:41.148 and Britain's R&D policy ends up deepening inequality instead of fixing it.
+00:15:45.277 Now there is merit to prioritizing government
+00:15:48.155 R&D investment into areas where there is business R&D investment.
+00:15:51.909 But that isn't even what the UK is doing.
+00:15:54.078 In fact, areas like London receive more government R&D support
+00:15:57.581 relative to the amount of business R&D in the region,
+00:16:00.459 whilst the rest of the UK receives less.
+00:16:03.712 Put simply, businesses outside of London are being deprioritized
+00:16:07.091 in favor of those in London.
+00:16:09.218 Just another reason
+00:16:10.511 the UK revolves around London and the quality of life is deteriorating.
+00:16:15.000 No text
+00:16:16.600 The United
+00:16:17.142 Kingdom is a shell of its former self. What once was
+00:16:20.437 a prosperous country
+00:16:21.605 has become a mostly vestigial nation with a single thriving city.
+00:16:26.026 Tony Blair once promised that the kaleidoscope has been shaken.
+00:16:29.571 The pieces are in flux.
+00:16:31.323 Soon they will settle again.
+00:16:33.283 Before they do, let us reorder this world around us.
+00:16:37.830 But two decades later, the only thing reordered
+00:16:40.666 has been the United Kingdom around London.
+00:16:44.545 The tragedy is that Britain still has the ingredients for prosperity.
+00:16:48.841 But until they can spread
+00:16:50.050 opportunity beyond London, that promise will remain broken.
+00:16:54.054 So, yes, Britain still has money,
+00:16:56.682 they still have power and they still have prestige.
+00:17:00.269 But it is concentrated in a few square miles along the Thames. For everyone else,
+00:17:05.648 the empire is gone.
+00:17:07.233 The factories are gone and the future is shrinking.
+00:17:11.070 London sits and eats Michelin star food,
+00:17:14.324 while the rest of the UK eats scraps in the alleyways like stray cats.
+00:17:19.663 Thank you for watching.
+00:17:20.830 Subscribe to 2 and 20,
+00:17:22.458 for more on economics and politics.

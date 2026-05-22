@@ -1,0 +1,367 @@
+# tactiq.io free youtube transcript
+# This Unstoppable Robot Could Save Your Life
+# https://www.youtube.com/watch/qevIIQHrJZg
+
+00:00:00.200 This is a robot that can grow
+00:00:01.992 to hundreds of times its size,
+00:00:04.930 and it can't be stoppedby adhesives or spikes.
+00:00:09.050 Although it looks kindof simple and cheap,
+00:00:11.460 it has dozens of potential applications,
+00:00:13.850 including, one day maybe saving your life.
+00:00:18.920 This video is sponsored by Morning Brew,
+00:00:21.090 the free daily newsletter.
+00:00:24.130 Now I made a video beforeabout a soft truss robot.
+00:00:27.340 And this is also a soft robot,
+00:00:29.840 but very different in howit works and what it can do.
+00:00:33.700 These robots can be madeout of almost any material,
+00:00:36.500 but they all follow thesame basic principle.
+00:00:39.200 Powered by compressed air,they grow from the tip.
+00:00:42.618 (air hissing)(object rustling)
+00:00:43.710 That's good.
+00:00:46.380 And this allows the robotto pass through tight spaces,
+00:00:50.170 and also over sticky surfaces.
+00:00:53.350 Something like a carwill get stuck to it.
+00:00:56.215 (car winding)
+00:00:59.568 It gets stuck in the wheels.
+00:01:00.730 Now, if I do the samething with the vine robot,
+00:01:02.407 see the robot is able to extend...
+00:01:04.550 It can navigate thiscurvy and twisted passageway
+00:01:07.700 effortlessly,
+00:01:08.810 which suggests some of the applications
+00:01:10.610 it's well-suited for.
+00:01:12.330 Now you might think spikeswould be the downfall
+00:01:15.160 of an inflatable robot,
+00:01:16.930 but even if it's punctured,
+00:01:19.030 as long as you havesufficient air pressure,
+00:01:21.380 the robot keeps going.
+00:01:23.410 And you might be able to hear it.
+00:01:24.752 (air hissing)It's actually leaking now,
+00:01:26.170 so I'll have to turn up the pressure.
+00:01:28.194 (object rustling)(air hissing)
+00:01:31.090 This by itself is not yet a robot,
+00:01:32.800 but once we add steering,a camera, some sensors,
+00:01:35.750 and maybe some intelligence asto where we're directing it,
+00:01:38.940 then we could say it's a robot.
+00:01:40.090 So this is sort of thebackbone of our robot.
+00:01:42.300 This is what allows us tobuild our type of robots.
+00:01:45.740 So where did the ideafor this device come from?
+00:01:48.570 I had a vine in myoffice that was on a shelf,
+00:01:52.830 and it was kind of out of the sunlight.
+00:01:54.960 And over the course of like a year or so,
+00:01:56.680 it slowly grew out this tender roll
+00:01:58.430 out and around the edge of the shelf
+00:02:00.830 and towards the sunlight.
+00:02:02.360 I said, "That's a pretty coolthing it just did," right?
+00:02:05.490 So I started thinking,
+00:02:06.707 "Well is there a way youcan do that robotically?"
+00:02:09.120 The solution is reallyelegant in its simplicity.
+00:02:12.520 Just take some airtight tubingand fold it in on itself.
+00:02:16.430 It's kind of like a water wiggle,
+00:02:18.360 those toys that are really hard to hold.
+00:02:21.662 (air hissing)When you inflate it
+00:02:22.610 with compressed air, it startsgrowing out from the tip.
+00:02:26.160 And if you want the tube toalways bend at a certain spot,
+00:02:29.150 you could just tape thetubing on the outside
+00:02:31.460 to shorten one of the sides.
+00:02:33.770 For example, you could tapeit into a helical shape
+00:02:36.310 to create a deployable antenna.
+00:02:39.600 What about getting them to retract?
+00:02:41.540 Yeah, that's a challenging problem.
+00:02:43.670 When you're in a constrained environment,
+00:02:44.990 all you really have to do
+00:02:46.660 is pull on, we call it the tail,
+00:02:49.930 so the material that is passing
+00:02:51.690 through the core of the body,
+00:02:53.120 you pull on it and it basically ungrows,
+00:02:54.810 it just goes back inside itself.
+00:02:56.450 Now, if you're in a bigopen area like this,
+00:02:58.730 and you try pulling on that,
+00:03:00.400 instead of inverting, so retracting,
+00:03:03.360 it tends to kind of coilup and make a ugly shape.
+00:03:07.000 And the engineers have come up with ways
+00:03:08.410 to retract the tube toprevent it from buckling
+00:03:11.560 using internal rollers.
+00:03:14.150 But the two doesn't haveto be the same diameter
+00:03:16.550 the whole way along,
+00:03:17.660 here there's actuallya much wider section,
+00:03:19.860 think of it like a pillow
+00:03:21.690 that's packed into the end of the robot.
+00:03:23.880 Yeah, if you couldsit cross-legged on it.
+00:03:25.507 Cross-legged on the table.
+00:03:28.030 This sounds (groans) super sketchy.
+00:03:30.600 So it grows underneaththe table just as usual,
+00:03:33.970 and then as the pillowpart starts inflating,
+00:03:36.515 (object clattering)(man mumbles)
+00:03:38.523 Is this not good, or is this okay?
+00:03:40.800 It can actually lift me up.
+00:03:45.060 So my balance is not great as we can see.
+00:03:48.305 You're standing on it.
+00:03:50.109 Stand on it?- Yeah.
+00:03:51.520 What's amazing is that thisdoesn't require much pressure
+00:03:54.290 above atmospheric,
+00:03:55.840 just a 10th of an atmosphere
+00:03:57.510 applied over a largearea like a square meter
+00:04:00.710 can lift something asheavy as 1000 kilograms,
+00:04:04.430 all the while remaining soft.
+00:04:06.350 (object rustling)Oh.
+00:04:08.549 Whoa, (sighs) that was great.
+00:04:10.320 That's the paradoxicalthing about pressure.
+00:04:12.750 You can get a large overallforce with low pressure
+00:04:15.910 as long as the area is large enough.
+00:04:18.230 What sort of area isthat, that pillow there?
+00:04:21.350 It's 600 square inches.
+00:04:22.470 All right, so with onePSI it's 600 pounds.
+00:04:25.900 Yeah.- Yeah. (laughs)
+00:04:27.170 Two PSI is 1200 pounds.- That's just crazy.
+00:04:28.947 And the whole time it feels really soft.
+00:04:30.690 Yeah, 'cause there'sa couple PSI, right?
+00:04:32.440 It's important thatthe device is still soft
+00:04:34.780 so it doesn't hurt anyone.
+00:04:36.350 So you can design these things
+00:04:37.860 to have cross-section thatchanges along its length.
+00:04:41.530 So it can be a very small body
+00:04:43.970 that could grow into, forexample, a collapsed building
+00:04:46.840 and potentially lift a large object
+00:04:49.790 off someone who's trapped,
+00:04:51.090 or maybe in a car crashor something like that.
+00:04:53.460 It can apply huge forces
+00:04:55.640 with very soft(air whooshing)
+00:04:56.710 and lightweight cheap material.
+00:04:58.800 These robots can also be deployed
+00:05:00.380 in search and rescue operations
+00:05:02.180 by attaching sensors likea camera onto the front.
+00:05:05.760 These robots are actuallyreally hard to stop.
+00:05:07.690 So you can take them,grow them into a clutter,
+00:05:10.930 potentially a class buildingor something like that,
+00:05:12.940 and they will continue to go somewhere.
+00:05:16.010 And alternative is they're so cheap,
+00:05:17.730 I mean, they're basically free.
+00:05:18.960 You could grow a hundredof them, let's say,
+00:05:20.610 into a collapsed buildingwith some sensing on them,
+00:05:23.350 and maybe only one of them finds somebody.
+00:05:26.490 I mean, that's a huge success if it does.
+00:05:29.250 But how do you keep a camera connected
+00:05:30.940 to the front of the robot whenit grows out from the tip?
+00:05:34.340 Well, one way is to use an end cap
+00:05:36.550 which allows that camerajust to stay on the front,
+00:05:39.250 pushed from behind by the robot,
+00:05:41.150 but there are othermechanisms of attachment.
+00:05:43.580 The tiny wireless camera ismounted on an external frame,
+00:05:47.680 but this frame interlockswith an internal frame
+00:05:50.600 which is actually insidethe pressurized part
+00:05:53.140 of the robot body.
+00:05:54.390 It's similar to how aroller coaster's wheels
+00:05:56.810 go around the track.
+00:05:58.910 So this prevents thecamera from falling off
+00:06:01.150 as the robot grows.
+00:06:02.850 What's really interesting
+00:06:04.000 is how the vine robotcan be actively steered.
+00:06:07.950 They attach artificialmuscles to the robot.
+00:06:11.316 (air hissing)
+00:06:13.720 So the way this muscle works
+00:06:15.440 is that if you inflateit, it expands sideways,
+00:06:18.970 which leads to it contracting in length.
+00:06:21.890 We don't actually use these much anymore
+00:06:23.520 because although it's soft,it's still somewhat stiff.
+00:06:26.540 So what we use instead
+00:06:28.290 are simply tubes of thisripstop nylon fabric
+00:06:31.000 with the braid oriented at 45 degrees.
+00:06:33.360 So in this sense
+00:06:34.193 we just have one singlelayer of airtight fabric.
+00:06:36.752 (air hissing)
+00:06:38.960 This is the main robot body here,
+00:06:40.890 then we have three pneumaticmuscles connected to it.
+00:06:43.720 Now, these three muscles
+00:06:44.990 are each connected to their own air supply
+00:06:46.570 connected to regulators over here.
+00:06:48.670 As the robot extends from the tip,
+00:06:50.380 we can steer it by shorteningand lengthening the sides.
+00:06:52.840 So, you know, just the way your hand works
+00:06:54.520 is if I shorten this tendon in my arm
+00:06:56.740 my hand will move this way,
+00:06:58.260 or if I shorten the one on this side
+00:06:59.660 it'll move the other way.
+00:07:00.700 So our vine robot, we havethese muscles along its side,
+00:07:03.440 so as they inflatethey'll turn it one way,
+00:07:05.950 then if I deflate theone on the other side,
+00:07:07.820 it'll turn the other way.
+00:07:09.010 So the vine robot canfit through tight spaces.
+00:07:11.810 It doesn't typically get stuck on anything
+00:07:13.710 and isn't bothered by sharp objects.
+00:07:16.050 And once you attach thatcamera on the front,
+00:07:18.240 it's ideal for things like archeology.
+00:07:21.057 (group chattering)(objects clanking)
+00:07:23.830 The robot was actually taken to Peru
+00:07:26.070 to investigate some very narrow shafts.
+00:07:29.430 So we were looking atthis archeological site
+00:07:32.330 that was built somewherebetween 1500 and 500 BC
+00:07:36.570 in the Andes mountains of Peru,
+00:07:38.670 and it was an ancient temple
+00:07:40.260 that had all these underground spaces.
+00:07:42.580 And part of what thearcheologists were doing
+00:07:45.590 was trying to understandwhat the spaces were for
+00:07:48.470 and what the people who built them
+00:07:50.100 were trying to do with them.
+00:07:51.720 So part of that was unknown,
+00:07:53.100 but there were these giant roomsthat they called galleries,
+00:07:56.600 and then there were thesesmall ducts or tunnels
+00:07:59.430 that were offshoots of these rooms,
+00:08:02.400 and they wanted to knowwhere these ducts led
+00:08:05.470 but they were too smallfor a person to go in.
+00:08:07.840 So we were able tosuccessfully use the vine robot
+00:08:10.430 to explore three of the tunnels
+00:08:12.300 that couldn't have beenseen through other means,
+00:08:14.620 which was super exciting.
+00:08:15.720 And we got video inside the entire tunnels
+00:08:18.873 and gave it to the archeology team.
+00:08:22.130 There's an application
+00:08:22.963 where I feel like thissolution is just so obvious
+00:08:26.120 I wonder why it didn't exist before.
+00:08:28.580 Intubation is literallythe process of putting a tube
+00:08:33.010 into a patient.
+00:08:34.030 The purpose is to breathe for the patient
+00:08:37.110 when the patient isn't breathing.
+00:08:38.260 And so traditionally a highlytrained medical professional
+00:08:41.600 would take their laryngoscope,
+00:08:43.010 come above the patient,
+00:08:44.550 and once they see the trachea,
+00:08:47.660 you start to pass your tube down inside.
+00:08:51.920 I'm almost there, I can see the light.
+00:08:54.970 So if you can see right now
+00:08:56.240 I just got it in to the trachea.
+00:08:59.890 Oh yeah.- Right there.
+00:09:02.097 And it took me a couple of minutes
+00:09:04.850 and I was really kind ofwrenching on this patient here
+00:09:08.470 as if there's somebodywho's not breathing.
+00:09:11.050 Every second counts.
+00:09:12.450 But by using a miniatureversion of this vine robot,
+00:09:15.660 researchers are hoping to makeintubation faster and safer.
+00:09:19.090 You know, somebodylike me with no training
+00:09:21.400 could pretty simply insert this device
+00:09:25.330 aimed towards the nose and...
+00:09:28.410 (object squealing)
+00:09:30.930 just like that.
+00:09:31.763 If you can see, we've already intubated,
+00:09:35.470 and all it took was a littlebit of pressurization.
+00:09:38.833 (man laughs)
+00:09:39.700 Just like that.
+00:09:40.533 It almost looks likesort of a party favor.
+00:09:42.740 Yeah, right.
+00:09:44.540 This reminds me a lot of those inflatable
+00:09:47.300 kind of like play-dohstructures you see at car lots.
+00:09:50.970 How does it know togo down the right tube?
+00:09:53.440 Yeah, so that's one ofthe kind of cool things
+00:09:55.630 about soft robotics,
+00:09:56.620 is the robot is quite compliant.
+00:09:58.710 And we see that in a lot of these demos,
+00:10:00.620 you know, they can squish, they can bend.
+00:10:02.930 And so how we've designed it
+00:10:04.120 is that the main robot growsdown into the esophagus,
+00:10:07.510 and then we have this side branch
+00:10:08.770 that heads towards the trachea,
+00:10:10.820 and it's quite flexible
+00:10:12.320 and so it basically finds the opening.
+00:10:14.320 So it's a really neat example
+00:10:16.060 of kind of a passive intelligence,
+00:10:18.370 mechanical intelligencesome people call it,
+00:10:20.240 where it can find its path
+00:10:22.030 even if we don't knowexactly the shape beforehand.
+00:10:25.560 Have you tried thison a real person yet?
+00:10:27.810 Not on a real person,
+00:10:29.070 but we've actually triedthis in a cadaver lab.
+00:10:31.890 And we've shown that we can move
+00:10:34.350 from this nice idealized version
+00:10:36.830 to an actual in-vivo situation
+00:10:39.960 and successfully intubate a patient.
+00:10:42.530 There's another application
+00:10:43.890 which is burrowing into sand or soil.
+00:10:48.150 When you blow compressed airinto something like sand,
+00:10:51.220 it fluidizes, it becomes like a liquid,
+00:10:54.660 and that can allow the vine robot
+00:10:56.460 to grow into granular materials like sand.
+00:11:00.710 If you've ever been to the beach
+00:11:01.930 and you try to stick like youumbrella pole into the ground,
+00:11:05.540 it's fairly difficult.
+00:11:06.750 And I'm trying to push thatprobe down into the sand,
+00:11:08.820 no fluid decision.
+00:11:10.950 Yeah, it feels like itsort of gets wedged in there.
+00:11:14.740 Let's now turn on the air.
+00:11:16.526 (air hissing)
+00:11:17.359 Oh yeah.
+00:11:18.630 You can feel it immediately.
+00:11:21.660 Oh, wow.
+00:11:23.750 Yeah, that's a lot.
+00:11:25.220 So what we've done here is essentially,
+00:11:27.460 we just blow a jet of airout the front of the robot
+00:11:30.640 and that loosens up the sand enough
+00:11:32.310 to reduce the force of the sand
+00:11:34.130 so that the robot just by tip extension
+00:11:36.270 can make its way through.
+00:11:37.585 (air hissing)
+00:11:49.350 This makes vine robots anattractive option for NASA
+00:11:52.360 when they look for waysto study the surfaces
+00:11:55.110 of other planets.
+00:11:56.297 (machine roaring)
+00:12:01.800 Recently on Mars
+00:12:02.700 they tried to have a burrowingrobot but it got stuck.
+00:12:06.010 Could you do it betterbasically with this?
+00:12:07.820 Yeah, that's a good question.
+00:12:08.653 So the Mars InSight mission,they have this heat probe,
+00:12:12.320 the idea there was to be ableto sort of hammer its way
+00:12:14.760 down into the core,and then place a sensor
+00:12:17.010 that could detect the temperature of Mars.
+00:12:19.780 However, the problem they ran into there
+00:12:21.540 is that it turned out thematerial that they put it in
+00:12:24.450 was more cohesive than they expected.
+00:12:26.370 Inside the robot
+00:12:27.203 something would wind upand then pound it down,
+00:12:29.300 wind up and pound it down.
+00:12:30.740 But it turned out therewasn't enough friction
+00:12:33.050 between the probe and the sand.
+00:12:34.463 So what was really happening
+00:12:35.810 was it would wind up pounddown, wind up pound down,
+00:12:39.090 wind up pound down.
+00:12:40.050 So it never actually got anywhere.
+00:12:41.370 The advantage of somethinglike this, like tip extension,
+00:12:43.230 is you'd have your base,you start at the surface
+00:12:45.640 and you just keep extending your way down.
+00:12:47.940 You're not necessarilyrelying on the interaction
+00:12:50.910 with what is surroundingit to make it work.
+00:12:54.260 What amazes me about vine robots
+00:12:56.510 is how a plant inspiredthis simple, elegant design.
+00:13:01.470 It's so easy in fact thatyou could build one yourself
+00:13:03.920 in as little as a minute.
+00:13:05.440 There are instructionsonline that I'll link to.
+00:13:08.060 But from that basic design
+00:13:09.440 have come a huge variety of robots
+00:13:12.600 with different applications,
+00:13:14.010 from archeology to search and rescue,
+00:13:17.200 or intubation to space exploration.
+00:13:20.670 And what else can youthink of to do with it?
+00:13:24.369 (electronic buzzing)
+00:13:29.120 Hey, this video issponsored by Morning Brew,
+00:13:31.860 the free daily newsletterthat gets you up to speed
+00:13:34.300 on business, finance andtech, in just five minutes.
+00:13:37.630 For some years now, my mainmethod of procrastinating
+00:13:39.870 has been scrolling through news websites.
+00:13:42.330 And to prevent that,
+00:13:43.260 I've tried cutting newsout of my life altogether,
+00:13:45.960 but I still wanna stay informed.
+00:13:47.750 So Morning Brew offersthe perfect middle ground.
+00:13:50.180 It's delivered to my inbox everymorning, seven days a week,
+00:13:52.940 and it's witty and informativeunlike traditional news.
+00:13:56.400 Plus it gives meeverything I need to know,
+00:13:58.130 so I don't have to check newssites multiple times a day
+00:14:00.910 to make sure that I'm not missingsomething, like inflation,
+00:14:04.290 which is currently runningat its highest rate
+00:14:06.560 in nearly nine years.
+00:14:07.940 Or the impending Boba shortage
+00:14:09.520 due to supply chaindisruptions caused by COVID.
+00:14:12.320 Boba is a big deal in this household.
+00:14:14.630 So if you're interested inbusiness, finance and tech,
+00:14:16.960 then why not try out Morning Brew.
+00:14:19.110 You can sign up forfree in under 15 seconds
+00:14:21.370 at morningbrew.com/veritasium.
+00:14:23.270 I will put that link in the description.
+00:14:25.250 So I wanna thank Morning Brewfor sponsoring this video,
+00:14:27.570 and I wanna thank you for watching.

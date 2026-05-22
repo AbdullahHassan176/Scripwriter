@@ -1,0 +1,241 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/oT896h76s-Y
+
+00:00:00.000 No text
+00:00:00.083 September 2025, Nvidia announces that it will invest up
+00:00:03.753 to $100 billion in OpenAI to help the AI startup fund a data center
+00:00:07.674 build-out of at least ten gigawatts, enough energy to power New York City.
+00:00:12.762 Only a few weeks later, OpenAI and AMD announced a strange computing deal.
+00:00:17.225 AMD is going to provide OpenAI
+00:00:19.144 with warrants to purchase up to 160 million AMD shares.
+00:00:22.981 That's nearly 10% of the company at a $0.01 per share.
+00:00:26.776 In exchange, OpenAI is committed to purchase six gigawatts of AMD GPUs,
+00:00:31.698 which represents about $90 billion in spend.
+00:00:34.451 But here's the thing: $160 million of AMD shares;
+00:00:37.996 and you can look this up; are worth nearly $40 billion
+00:00:41.416 at $90 billion of revenue and 20% of margins, AMD
+00:00:45.045 is getting $18 billion of EBITDA back,
+00:00:48.006 but at a cost of $40 billion in stock.
+00:00:50.717 Less than one week later, they announced another deal,
+00:00:53.970 but this time it was with Broadcom.
+00:00:56.056 OpenAI and Broadcom are going to work together to develop
+00:00:58.933 and deploy ten gigawatts of custom AI chips over the next four years.
+00:01:03.104 And you know what?
+00:01:03.646 The estimated deal value is $350 billion.
+00:01:07.776 But here's the thing.
+00:01:08.860 There are more deals than just this.
+00:01:11.446 A deal with Oracle: $300 billion.
+00:01:13.698 Microsoft: $250 billion.
+00:01:15.992 Amazon: $38 billion.
+00:01:17.744 Coreweave: $22.4 billion.
+00:01:20.288 All in all, OpenAI has committed to $1.15 trillion of infrastructure
+00:01:25.126 over the next five years, prompting this viral clip:
+00:01:28.963 How can a company with $13 billion in revenues
+00:01:32.175 make $1.4 trillion of spending commitments?
+00:01:36.096 First of all, we're doing well more revenue than that.
+00:01:38.264 Second of all, Brad, if you want to sell your shares, I'll find you a buyer.
+00:01:42.477 But this is just the tip of the iceberg.
+00:01:45.313 What if we were to include venture investments
+00:01:48.024 like those with Ambience, Harvey and Innosphere?
+00:01:51.277 But these venture investments were made so that these companies
+00:01:54.197 could actually use the money to spend more with OpenAI.
+00:01:57.367 Here's how it works.
+00:01:58.660 OpenAI invests in startups.
+00:02:00.411 The startups use that money to spend with OpenAI.
+00:02:03.039 Based on all of this, you'd think that OpenAI is a trillion company, right?
+00:02:07.001 Well, obviously no.
+00:02:08.711 According to Sam Altman, OpenAI will have an annualized run
+00:02:11.589 rate revenue of $20 billion by December 2025.
+00:02:14.717 Okay. I want you to do the math here.
+00:02:16.553 $20 billion in revenue, yet they have $1.1 trillion in spend commitments.
+00:02:21.766 Yeah, that makes sense.
+00:02:23.476 So how will OpenAI pay for all of this?
+00:02:26.521 More importantly, Is OpenAI too big to fail?
+00:02:33.000 No text
+00:02:33.820 Okay, so to get a better
+00:02:35.488 sense of $1.1 trillion, we need better perspective.
+00:02:39.284 Annually, US companies spend around $1.2 trillion on CapEx per year.
+00:02:44.205 That is every single US company combined.
+00:02:47.625 This means that OpenAI is committing to spend nearly
+00:02:50.545 100% of US CapEx over the next five years.
+00:02:54.340 But this CapEx number includes nearly every US company across industries.
+00:02:59.053 What if we were to look at just the companies that OpenAI's dealing with?
+00:03:03.850 If we look at the last 12 months of financials,
+00:03:06.519 Amazon, Broadcom, AMD and Nvidia, Oracle, Microsoft and Coreweave,
+00:03:10.732 have only combined to spend $225 billion in CapEx.
+00:03:15.278 Those are giant companies.
+00:03:17.322 And the OpenAI deal comprises of nearly 100% of that spend.
+00:03:21.576 And if you're an OpenAI fanboy, which I suspect some of you are,
+00:03:25.121 then you'll probably just say they'll grow into that CapEx.
+00:03:28.374 To which I say, let's do the math.
+00:03:31.002 Take a look at this chart.
+00:03:32.337 This shows how much OpenAI is expected to spend per year for the next five years.
+00:03:37.717 The number grows from $6 billion in 2025 to $295 billion in 2030.
+00:03:43.264 If we take OpenAI's gross margin projections at face value,
+00:03:47.185 that means they will need to grow actual revenue, wait for it
+00:03:50.605 from $12 billion in 2025 to $983 billion in 2030.
+00:03:56.903 Let me illustrate how crazy this sounds.
+00:03:59.155 OpenAI essentially needs to grow revenue by 85X
+00:04:02.867 in five years to have even the remotest chance of making the bills.
+00:04:08.122 But how many
+00:04:08.831 companies even have $983 billion?
+00:04:11.876 Well, the answer is zero. Yep.
+00:04:14.754 OpenAI just needs to become the most profitable
+00:04:16.964 and the biggest company on earth to meet its obligations.
+00:04:20.551 But this doesn't convey the extent of the problem.
+00:04:23.554 As many of you know, gross profit and profit are not the same thing.
+00:04:27.350 These numbers don't assume any operating costs.
+00:04:30.853 Any first year accounting student can tell you they don't contemplate
+00:04:34.190 energy costs, maintenance costs, leases, debt servicing costs, and more.
+00:04:38.945 And although this is not impossible, the set up is insane.
+00:04:42.782 And a crazy clip came out with the OpenAI CFO,
+00:04:45.785 where he essentially said that they might ask for a government backstop.
+00:04:49.747 And so this is where we're looking for an ecosystem of banks, private equity,
+00:04:55.211 maybe even, governmental, like the ways governments can come to bear.
+00:05:01.843 Yeah, you heard that right.
+00:05:03.136 A federal backstop.
+00:05:04.887 That way,
+00:05:05.430 if OpenAI can't meet those obligations, the taxpayers will be on the hook.
+00:05:10.226 But this is bigger than OpenAI.
+00:05:12.312 There are hundreds of AI companies.
+00:05:14.480 AI for dating, AI for voice, AI for video.
+00:05:17.233 AI for AI for example.
+00:05:19.360 Anthropic has raised $27 billion USD and it's currently valued at $183 billion.
+00:05:25.241 They've also committed to purchase $30 billion of Azure compute capacity
+00:05:29.662 from Microsoft, and possibly $14 billion with Amazon.
+00:05:33.583 What about Meta?
+00:05:34.792 Firstly, Meta bought Scale AI for 14.9 billion, which was a joke.
+00:05:39.797 Let's list off everything that they're planning to do.
+00:05:42.133 They're projected to spend $70 billion on data centers.
+00:05:45.011 They went on a hiring spree and are spending
+00:05:46.846 $1 billion in wages for the top AI talent.
+00:05:49.057 And there's already reports that people either turned down
+00:05:52.393 those pay packages or are leaving to go back
+00:05:54.604 to their previous jobs or starting their own companies.
+00:05:57.231 We could go on forever, but the point is, the spending is just insane.
+00:06:01.903 To make all of this math work.
+00:06:03.821 Bain estimates that  $2 trillion of new revenue is needed.
+00:06:07.658 That is 7% of US GDP.
+00:06:10.411 But the sheer numbers aren't the whole picture.
+00:06:13.122 This is just the nature of these deals.
+00:06:15.708 Real quick.
+00:06:16.667 Over 96% of you aren't subscribed to the channel, and
+00:06:19.754 I know that it takes a lot to hit that subscribe button, but please do.
+00:06:23.299 It helps the channel a lot and we'd really appreciate it.
+00:06:26.052 Now back to the video.
+00:06:28.000 No text
+00:06:30.598 And although Sam
+00:06:31.391 Altman and Jensen Huang aren't finance nerds by background,
+00:06:34.685 you'd be surprised to learn
+00:06:36.104 that their recent deals would even make the shadiest of financers proud.
+00:06:40.775 So what do I mean by this?
+00:06:42.610 Well, the spending commitments being made by OpenAI
+00:06:45.488 and others are all interconnected and super complicated.
+00:06:49.158 Let's give an example with pretty graphics to explain.
+00:06:52.537 Microsoft has invested over $13 billion into OpenAI's
+00:06:55.832 for-profit arm for equity and a revenue share, but much of this
+00:06:59.669 $13 billion is not cash, but instead it is Azure Cloud Computing credits, meaning
+00:07:04.507 Microsoft is investing in OpenAI so that OpenAI can buy Microsoft products.
+00:07:09.762 But it gets better because this deal means OpenAI is using a ton of Azure capacity.
+00:07:15.143 Microsoft needs to expand and improve its Azure data centers.
+00:07:18.938 So Microsoft takes this book revenue from OpenAI and places
+00:07:23.025 massive orders with Nvidia for millions of GPUs
+00:07:25.987 so that it can handle the commitments to OpenAI.
+00:07:28.364 So essentially, Microsoft is investing in OpenAI.
+00:07:31.659 So OpenAI can buy from Microsoft.
+00:07:33.870 So Microsoft can buy from Nvidia.
+00:07:36.038 And now that Nvidia has a bunch of money coming in,
+00:07:38.374 a new loop starts to emerge.
+00:07:40.376 Nvidia takes their money from Microsoft and others and makes a commitment,
+00:07:45.006 you're not going to believe this,
+00:07:46.507 to invest up to $100 billion in OpenAI.
+00:07:50.011 OpenAI
+00:07:50.636 then commits to using that investment to purchase a huge volume of Nvidia chips.
+00:07:55.391 And with that leftover money, OpenAI
+00:07:58.144 can pay off others like Microsoft.
+00:08:01.314 So Nvidia pays OpenAI, so OpenAI can pay Nvidia
+00:08:05.359 and also pay Microsoft so that Microsoft can invest in OpenAI
+00:08:08.779 so that OpenAI can buy it from Microsoft, so that Microsoft can buy from Nvidia,
+00:08:12.533 so that Nvidia can invest in OpenAI and so on and so on and so on.
+00:08:16.621 There are dozens of investment structures just like this.
+00:08:20.249 And the problem is, these ouroboros- like dealings, are impossible
+00:08:23.878 to track and measure because the revenue of one company
+00:08:27.006 is the cost of another company is the investment of another company.
+00:08:30.760 This money flows from entity to entity, making it difficult to understand
+00:08:34.263 what is real, what is news and what is garbage.
+00:08:37.433 Layer on the fact that many of these deals have a ton
+00:08:40.186 of complex contingencies and financial instruments,
+00:08:43.397 then it becomes impossible to assess the quality of cash
+00:08:46.359 flows and that, in our view, is a problem.
+00:08:49.403 How do you value these companies when it's unclear what's real and what's fake?
+00:08:54.325 And if all these companies are interconnected, what if one of them fails?
+00:08:58.579 The question on everyone's mind is: what will the ripple effect be?
+00:09:03.000 No text
+00:09:05.545 Many people are concerned that the AI bubble looks a lot
+00:09:08.381 like the 2008 great financial crisis and the 90s tech bubble.
+00:09:12.218 But is it true?
+00:09:13.636 All right.
+00:09:14.053 Firstly, let's look at the great financial crisis.
+00:09:16.722 The GFC led to nearly 9 million people losing their jobs
+00:09:20.017 and household net worth falling by $11 trillion.
+00:09:23.271 The cause was subprime and alt-A mortgages.
+00:09:26.524 These low quality mortgages represent approximately 20%
+00:09:30.069 of all US mortgages, or $2.2 trillion.
+00:09:34.198 And this is when the house of cards began to collapse.
+00:09:37.326 Over $500 billion of those loans began to default,
+00:09:41.289 which led to a systemic loss of over $10 trillion.
+00:09:45.459 But there lies the question how did $2.2 trillion worth of loans,
+00:09:50.214 of which only less than half defaulted, lead to over
+00:09:53.926 $10 trillion in losses? Securitization, leverage and derivatives.
+00:09:58.723 These types of tactics increase market exposure
+00:10:01.267 to these crappy garbage assets by nearly 15 times.
+00:10:05.021 Which is why we're saying the AI situation is slightly different.
+00:10:08.649 OpenAI's obligations are not being securitized and spun off
+00:10:12.069 into exotic derivatives, multiplying that global exposure.
+00:10:16.032 What's more is that unlike many of the institutions in the GFC,
+00:10:19.744 the big tech players have a lot of cash and very little debt.
+00:10:23.539 So if something were to go wrong,
+00:10:25.625 they have the cash flow and balance sheet to handle it.
+00:10:28.377 But what about the tech bubble?
+00:10:30.254 Well, this one is a bit more interesting.
+00:10:32.715 The dotcom bubble was brewing for years and everyone got excited
+00:10:36.260 by the prospect of the internet.
+00:10:37.637 You could finally communicate with people
+00:10:39.347 all over the world, you could buy stuff online, etc. etc.
+00:10:43.184 From 1995 to its peak in March 2000.
+00:10:46.479 The Nasdaq surged by 572%.
+00:10:50.274 But in ‘99, the fed started raising interest rates
+00:10:53.110 and investors started asking about profits, only to find none.
+00:10:56.864 Panic set in, and by October 2002,  $5 trillion in market value was wiped out.
+00:11:02.620 During this time, the Nasdaq 100 was trading at a forward P/E ratio of 60x.
+00:11:08.292 Today, that number is 30x, which is 50% cheaper than before.
+00:11:12.880 And not to mention
+00:11:13.881 that the internet bubble busting didn't destroy every single company.
+00:11:18.010 Think about Apple and Amazon.
+00:11:19.845 There were companies that persisted and survived throughout.
+00:11:23.057 The bad businesses failed, and the good ones, they survive.
+00:11:26.435 What's more is that very few of these companies were profitable.
+00:11:29.855 Whereas today, all the major tech companies are super profitable.
+00:11:34.276 That said, yes, the AI bubble doesn't have the debt and derivatives of the GFC.
+00:11:39.448 It doesn't have the same froth of the dotcom bubble,
+00:11:42.368 but it does have trillions of inter-company dealings,
+00:11:45.246 questionable earnings, relatively high valuations
+00:11:48.582 and an underlying economy that cannot sustain low interest rates.
+00:11:51.961 And way too much AI slop, if we're being honest.
+00:11:55.172 As the great Charlie Munger famously said, if you mix raisins
+00:11:58.759 with turds, well, you still got turds.
+00:12:02.012 There are some raisins in here.
+00:12:04.014 Great companies with strong cash flows and real business models.
+00:12:07.810 But around all those lovely raisins, there are a ton of less than lovely turds.
+00:12:13.357 Inter-company deals that create fake revenue and cash flow.
+00:12:16.569 Crazy amounts of spend that would require OpenAI
+00:12:19.447 to become the biggest company in human history.
+00:12:22.158 Discussions of government backstops to reduce the risk.
+00:12:25.619 Turd, turd,
+00:12:27.079 turd,
+00:12:27.997 and raisins still equals turd.
+00:12:31.000 But I guess some people like that.
+00:12:33.627 Thank you for watching.
+00:12:34.795 Subscribe to 2&20 and check out our free discord
+00:12:37.214 in the description where we actually hang out in.

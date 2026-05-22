@@ -1,0 +1,1268 @@
+# tactiq.io free youtube transcript
+# The Biggest Chemical Cover-up in History
+# https://www.youtube.com/watch/SC2eSujzrUY
+
+00:00:00.160 In 1929 in Chicago,
+00:00:02.560 people kept mysteriouslydying inside their homes.
+00:00:06.640 It took 15 deaths for theauthorities to realize
+00:00:09.360 that these people were gettingkilled by...
+00:00:12.560 their fridges
+00:00:14.240 because fridges back then wereno longer just boxes of ice.
+00:00:17.680 Instead, they reliedon a chemical looping
+00:00:20.000 through the back to stay cold.
+00:00:21.920 And the best chemical forthe job was methyl chloride,
+00:00:24.960 a toxic and virtually odorless gas.
+00:00:27.840 So if it somehow leaked from the fridge,
+00:00:30.160 it could kill you without warning.
+00:00:32.240 Other fridges usedflammable gases instead,
+00:00:35.040 so a leak combined witha spark from the stove,
+00:00:37.840 and your house couldsuddenly go up in flames.
+00:00:41.200 So one company triedto solve this problem,
+00:00:44.080 but in the process,
+00:00:45.280 they accidentally created aseemingly magical substance.
+00:00:49.200 Soon, it made its way intoa huge range of products,
+00:00:52.720 which were so popular they ended up
+00:00:54.960 in nearly every home in America.
+00:00:57.840 But what people didn't know
+00:00:59.360 was that these products came at a price.
+00:01:02.240 The chemicals used to make them
+00:01:03.840 were being released into the environment,
+00:01:06.400 slowly poisoning everyoneon the planet,
+00:01:09.680 including me.
+00:01:12.382 (swelling music)
+00:01:12.398 You have high levels of achemical you never heard of.
+00:01:14.320 It shocks me.
+00:01:15.600 Like, where could this have come from?
+00:01:17.280 Almost every living creature,
+00:01:18.880 from polar bears to birds to fish,
+00:01:21.920 massive worldwide contamination
+00:01:23.920 by completely manmadechemicals that are fingerprints
+00:01:28.240 back to just a couple of companies.
+00:01:30.240 This is a video about one
+00:01:32.240 of the biggest chemicalcoverups in history.
+00:01:35.280 For legal reasons, I want tonote that this investigation
+00:01:38.400 is based on publicly availabledocuments, recordings,
+00:01:41.440 and third-party opinions.
+00:01:43.200 All sources are linked in the description.
+00:01:46.240 The story all began withan attempt to save lives.
+00:01:50.400 In 1936, a chemical companycalled DuPont set out
+00:01:54.080 to find a safer alternativeto the gases used in fridges,
+00:01:58.160 one that was neither toxic nor flammable.
+00:02:01.120 Their lead scientist on the project
+00:02:02.720 was a 27-year-old chemistnamed Roy J. Plunkett.
+00:02:06.800 He was experimenting
+00:02:07.920 with a gas calledtetrafluoroethylene, or TFE.
+00:02:11.600 It's a pair of double-bonded carbons,
+00:02:13.840 each bonded to two fluorine atoms.
+00:02:17.520 One morning, as Plunkettwas setting up a test,
+00:02:20.000 his assistant picked outa cylinder full of TFE
+00:02:22.640 and twisted the valve,
+00:02:24.720 but nothing came out.
+00:02:28.240 Plunkett thought the gas must have leaked,
+00:02:30.640 but the cylinder still weighedabout as much as a full one,
+00:02:33.760 so he grabbed a saw andcut the cylinder in half.
+00:02:38.880 Inside, he was shocked to see it was full
+00:02:41.920 of a white, slippery powder.
+00:02:45.200 So what happened to the gas?
+00:02:47.680 Well, what the chemist reasoned
+00:02:49.040 was that under the highpressure of the cylinder,
+00:02:51.200 one of the double bonds
+00:02:52.080 between the carbons inTFE must have broken.
+00:02:54.880 And now those two carbon atomseach had a bonding site free.
+00:02:58.320 So one of them probablygrabbed onto a carbon
+00:03:00.640 from a different TFE molecule,breaking its double bond.
+00:03:04.000 And then that molecule did the same,
+00:03:05.920 and the process repeated again and again
+00:03:08.800 until all of the TFE wastrapped in these long chains.
+00:03:12.960 The gas had polymerized intopolytetrafluoroethylene,
+00:03:16.960 forming this slippery powder.
+00:03:19.280 Plunkett just wanted to get rid of it
+00:03:21.360 because it ruined his experiment.
+00:03:23.840 But before throwing it out,
+00:03:25.280 he decided to do some tests on it.
+00:03:27.680 So he tried pouring water on it,
+00:03:29.360 but the water just beaded off.
+00:03:31.600 So he tried acid. Again, nothing happened.
+00:03:36.160 Then he tried the strongest base he had,
+00:03:39.040 but that wouldn't melt it either.
+00:03:41.200 Plunkett went through allof the solvents in the lab,
+00:03:44.080 but the powder remained intact.
+00:03:46.320 It wouldn't melt, corrode,or react with anything.
+00:03:50.080 It was seemingly indestructible.
+00:03:53.360 The reason it was so indestructible
+00:03:55.200 was because of this bond,the carbon-fluorine bond.
+00:04:00.000 See, out of all of the elements,fluorine is the greediest,
+00:04:03.200 the most electron-hungry atom.
+00:04:06.400 Its outer shell is a single electron away
+00:04:08.800 from being complete, whichwould make it perfectly stable.
+00:04:11.920 So fluorine really, reallywants that electron.
+00:04:15.680 And because it's so smallcompared to most other elements,
+00:04:18.720 the protons in its nucleus can get close
+00:04:20.640 to the electrons of other atoms.
+00:04:22.480 And because of their positive charge,
+00:04:24.000 they pull on them really hard.
+00:04:26.960 So near a carbon atom,
+00:04:28.640 fluorine grabs onto oneof the carbon's electrons
+00:04:31.360 to complete its outer shell,
+00:04:33.440 and this keeps the twoatoms bonded together.
+00:04:37.120 But the fluorine isn't done there.
+00:04:39.840 It keeps tugging onthe carbon's electrons,
+00:04:42.240 pulling them closer to itself,
+00:04:44.480 which makes fluorineslightly negatively charged
+00:04:46.880 and the carbon slightly positive.
+00:04:49.200 So now there's an electrostatic attraction
+00:04:51.520 that makes this bond even stronger.
+00:04:53.920 Now, in reality, electronsbehave more like fuzzy clouds
+00:04:57.040 than the orbiting pointsin this animation,
+00:04:59.120 but the principle still holds.
+00:05:01.360 In terms of energy,
+00:05:02.720 this is actually the strongest single bond
+00:05:04.800 a carbon can form.
+00:05:06.080 So if other atoms or molecules get close,
+00:05:08.800 they're essentially ignored.
+00:05:10.880 And Plunkett's magic powderwas completely covered
+00:05:13.920 in carbon-fluorine bonds,
+00:05:15.680 so it hardly reacted with anything.
+00:05:19.200 Okay, so he is got thisincredibly inert stuff.
+00:05:21.440 Was he really trying to get rid of it?
+00:05:22.880 He actually didn'tknow what to do with it
+00:05:24.560 'cause like what do youdo with the material
+00:05:26.000 that doesn't, you know,react with anything?
+00:05:29.600 But luckily his employer, DuPont,they were actually working
+00:05:32.080 with the US Army on the Manhattan Project.
+00:05:34.000 So they were refininguranium and plutonium
+00:05:36.160 'cause of course there'sa World War II reference
+00:05:37.680 in a Veritasium video.
+00:05:38.960 You just have to have it.
+00:05:40.160 To get the fuel for nuclearbombs, enriched uranium,
+00:05:44.080 you first have to turn the uranium
+00:05:45.680 into a gas, uranium hexafluoride.
+00:05:48.480 It was a nasty chemicalthat corroded everything.
+00:05:51.600 So all the gaskets, seals,
+00:05:53.440 and miles of pipe inthe plant at Oak Ridge
+00:05:55.920 had to constantly replaced,slowing down production.
+00:05:59.120 But then DuPont was like, "Listen,
+00:06:01.360 we have this seeminglyindestructible chemical, right?
+00:06:03.920 It doesn't react withstuff it doesn't corrode,
+00:06:06.320 so maybe we can try and use it
+00:06:07.760 against uranium hexafluoride."
+00:06:09.600 So they get a bunch of this powder,
+00:06:11.200 they cram it together under high pressure
+00:06:13.280 to create these cakes, essentially.
+00:06:15.920 Now you had a solid of this material
+00:06:17.520 that you could machineinto gaskets and cylinders
+00:06:20.000 that you could push into these pipes
+00:06:21.760 and put these tube linings into the pipe,
+00:06:24.480 and boom, it works likemagic, like a charm.
+00:06:27.040 The uranium hexafluoride was no match
+00:06:29.920 for this magic material.
+00:06:31.280 As Gordon Fee, the manager
+00:06:33.120 of the nuclear weapons plant, put it,
+00:06:34.880 "There was never a substituteconsidered, as far as I know."
+00:06:39.360 The material worked so well
+00:06:41.040 that the army wanted touse it for everything.
+00:06:44.080 The same gaskets and sealswere installed into fuel tanks
+00:06:47.040 and airplane engines to protectthem from oil and water.
+00:06:50.400 And weapons manufacturingplants no longer had issues
+00:06:53.040 with the corrosive nitric acidneeded to make explosives.
+00:06:56.640 DuPont saw the potential too,
+00:06:58.480 so they trademarked the material in 1944.
+00:07:00.800 They didn't trademark it
+00:07:02.320 under the name polytetrafluoroethylene
+00:07:04.560 'cause, admittedly,that name kind of sucks.
+00:07:06.400 So they took T-E fromtetra, F-L from fluoro,
+00:07:09.840 and then they had a bunch
+00:07:10.880 of these other miraclematerials, rayon, nylon.
+00:07:14.560 So they took O-N from the endof those, and boom, Teflon.
+00:07:18.800 Nice. Okay, that's a good name.
+00:07:22.240 Under the army's order, DuPontramped up Teflon production
+00:07:25.200 at their test plant inArlington, New Jersey,
+00:07:27.440 giving their wholesupply to the government.
+00:07:29.840 But DuPont struggled toproduce enough Teflon
+00:07:32.560 to meet the military's demand.
+00:07:35.040 As their Arlington scientists put it,
+00:07:37.200 the major advantages ofpolytetrafluoroethylene,
+00:07:40.160 solvent resistance andhigh thermal stability,
+00:07:42.560 offer obstacles from thestandpoint of ease in fabrication.
+00:07:46.280 You could only reallymold Teflon into solids,
+00:07:49.440 so gasket, seals, pipes,
+00:07:51.040 but you couldn't put itinto water to make a spray
+00:07:53.040 because it doesn't dissolve in water.
+00:07:54.320 They actually didn't knowanything that dissolved Teflon,
+00:07:56.720 but there was an even biggerproblem at that point.
+00:07:59.200 To polymerize TFE into Teflon,you can add a reactive atom
+00:08:03.200 or molecule that will hijackthe first carbon double bond
+00:08:06.240 and start the reaction.
+00:08:07.920 This is called the initiator.
+00:08:09.680 And the bond formed betweenit and the first TFE molecule
+00:08:13.040 releases a small amount of energy.
+00:08:15.520 Then a bit of energy is also released
+00:08:17.280 when the next TFE molecule joins the chain
+00:08:19.840 and the next and the next.
+00:08:21.760 And if the process isn't controlled,
+00:08:24.000 the reaction gets very hot very quickly.
+00:08:27.440 And if it gets above 200 degrees celsius,
+00:08:29.920 TFE rapidly decomposes intocarbon and tetrafluoromethane,
+00:08:33.760 which releases evenmore energy all at once.
+00:08:38.640 This caused a massive explosion
+00:08:40.400 at the Arlington plant in1944, killing two workers.
+00:08:45.680 You need a way to dissipate the heat,
+00:08:48.960 take the heat away from the reaction
+00:08:50.800 without it staying in there
+00:08:52.800 and, therefore, expandingand creating that force.
+00:08:55.880 Yeah, and one of the ways to do that
+00:08:58.240 was to have the reactionhappening in water,
+00:09:00.080 because water can absorba huge amount of energy
+00:09:02.320 before it ever heats up.
+00:09:03.880 But if you inject TFEinto a water cylinder,
+00:09:07.120 the gas doesn't dissolve.
+00:09:09.520 Even at high pressure, mostof the TFE just stays on top.
+00:09:13.280 So if you add an initiator,
+00:09:14.880 the polymerization istriggered in one place,
+00:09:17.360 and so it can still cause an explosion.
+00:09:20.400 What you need is some way
+00:09:21.760 to disperse the TFEthroughout the water first.
+00:09:25.040 And to do that, DuPont needed help.
+00:09:28.960 In 1951, they purchaseda special acid from 3M,
+00:09:32.720 the company behind Scotch Tape.
+00:09:34.880 This acid, called PFOA,
+00:09:36.800 looked almost exactly like Teflon.
+00:09:39.280 It had a chain of eight carbonatoms covered in fluorines,
+00:09:42.400 but at the other end, therewas a double-bonded oxygen
+00:09:45.360 and an OH group.
+00:09:46.960 That's what makes it an acid.
+00:09:48.880 And since there were eightcarbons in the chain,
+00:09:51.040 DuPont also referred to the acid as C8.
+00:09:55.200 The tail end of C8, likeTeflon, was hydrophobic,
+00:09:58.400 but the acid head group loved water,
+00:10:00.800 it was hydrophilic.
+00:10:02.480 So when you add C8 into water,
+00:10:04.400 the molecules rearrange themselves
+00:10:06.480 so that the heads touch the water,
+00:10:08.320 but the Teflon-like tails don't.
+00:10:10.800 They create little bubblesall throughout the water,
+00:10:13.840 which are virtually dry on the inside.
+00:10:16.880 If you now inject TFE andstir the whole mixture up,
+00:10:20.160 well, the hydrophobic gas ends up
+00:10:22.080 in the middle of these C8 bubbles.
+00:10:25.360 And those bubbles are dispersed everywhere
+00:10:28.160 evenly throughout the water.
+00:10:30.720 You know what this reminds me of, is soap.
+00:10:34.640 So it's the great combiner
+00:10:36.160 that allows, like, oil and water to mix.
+00:10:38.320 And now if you sprinklein initiator molecules,
+00:10:41.200 the initiator moleculesalso go into these bubbles.
+00:10:43.600 They start the polymerization reaction,
+00:10:45.120 so from TFE to Teflon.
+00:10:47.360 But now since it's happening spread all
+00:10:49.360 throughout these bubbles,the heat is evenly dissipated
+00:10:52.080 throughout the water, and no one explodes.
+00:10:53.880 And since Teflon is nowsuspended in a solution,
+00:10:57.600 you can spray it ontosurfaces like a coating.
+00:11:00.960 This thing doesn't stick to anything.
+00:11:02.560 How do you stick it to the gaskets?
+00:11:04.240 You know, how do you actually use it?
+00:11:06.160 Yeah, yeah, yeah,that's a good question.
+00:11:08.160 So the trick was actually the surface
+00:11:09.680 had to be really rough.
+00:11:10.720 So what you do is yousandblast it to create grooves
+00:11:13.680 and imperfections at this,like, nanoscopic level.
+00:11:16.240 Now if you spray the coating on,
+00:11:18.080 what happens is, if you heatit up, the water evaporates,
+00:11:21.840 the C8, it also evaporates,
+00:11:23.520 but Teflon, instead of itevaporating, it just softens up.
+00:11:26.960 So although there's nochemical interaction here,
+00:11:29.200 now it's mechanicallystuck to the surface.
+00:11:31.760 That's how they got it to stick.
+00:11:38.320 (suspenseful music)(quirky music)
+00:11:38.395 With the war over,
+00:11:39.440 the army lifted the secrecybans on the Teflon patents,
+00:11:42.880 and DuPont was allowedto sell it commercially.
+00:11:45.520 And suddenly, people all over the world
+00:11:47.600 were coating everyday items in Teflon,
+00:11:50.000 trying to create a world-changing product.
+00:11:53.440 One day in 1954, a Frenchengineer, Marc Gregoire,
+00:11:57.200 tried putting Teflon on hisfishing gear to prevent tangles.
+00:12:00.760 But then his wife saw him doing that,
+00:12:02.880 and her reaction was that,"This is absolute nonsense.
+00:12:05.920 No one is ever gonna use this.
+00:12:07.440 You should do something thatsomeone's actually gonna use.
+00:12:10.080 So how about you put it on apan? Make a pan non-stick."
+00:12:13.160 And once these pans hit the market,
+00:12:16.480 it was a cooking revolution.
+00:12:18.120 Teflon.- Teflon.
+00:12:19.840 Teflon.
+00:12:20.440 And DuPont knewexactly how to market it.
+00:12:23.440 Even oatmeal won't stick to Teflon.
+00:12:25.680 Hey, neat. Let me try.
+00:12:28.400 And it wasn't just non-stick pans.
+00:12:30.960 Teflon, C8, and chemicals likeit were used in everything.
+00:12:34.040 Slip-Away contains themagic of DuPont's Teflon.
+00:12:36.640 Suddenly, we had Teflonstain-resistant carpets
+00:12:39.840 and stain protection sprayslike 3M's Scotchgard.
+00:12:43.520 Jackets lined with Teflon werewaterproof and breathable.
+00:12:46.640 Gore-Tex is the brand name.
+00:12:48.360 Teflon was so inert thatmedical implants made out of it
+00:12:52.640 wouldn't be rejected by the body.
+00:12:54.880 It was used to coat the Statueof Liberty's steel framework
+00:12:58.400 to save it from corrosion.
+00:13:00.400 And even bullets were coated with Teflon
+00:13:02.880 to minimize the damage they did coming out
+00:13:04.880 of the gun barrel.
+00:13:06.240 The term Teflon was so ubiquitous
+00:13:07.920 that when the Italian mobster John Gotti
+00:13:09.920 was being prosecuted in the late 1980s,
+00:13:12.320 none of the chargesagainst him would stick.
+00:13:14.720 So he was dubbed Teflon Don.
+00:13:17.280 By the late 1990s,
+00:13:18.720 the Teflon business generatedroughly a billion dollars
+00:13:21.680 in yearly sales for DuPont.
+00:13:23.440 Teflon has a great future,and its uses will be many.
+00:13:27.600 The chemicals were everywhere,
+00:13:31.200 even where they shouldn't be.
+00:13:47.320 He suspected thatsomething in this creek
+00:13:50.160 was poisoning his cows.
+00:14:09.080 Earl was desperate.So he hired a lawyer.
+00:14:13.840 He came to our offices armed
+00:14:16.880 with boxes of VHS videotapes.
+00:14:20.640 We started watching these videotapes,
+00:14:22.480 and you know, there wasa serious problem here.
+00:14:29.800 The animals were wasting away,
+00:14:32.800 and they were skin and bones,
+00:14:34.240 and they had tumors and black teeth.
+00:14:36.560 And you could see, on the videotape,
+00:14:39.280 white foam coming out of the pipe
+00:14:42.560 on this landfill next door
+00:14:44.640 with these animalsstanding in the white foam.
+00:14:47.680 The hair on their hooveswas being eaten off
+00:14:50.480 by whatever was in the water.
+00:14:57.240 It was a discharge pipe,
+00:14:59.840 and it had the marking
+00:15:00.880 of E.I. du Pont de Nemours and Company.
+00:15:03.640 And the landfill that pipewas draining from belonged
+00:15:06.800 to DuPont's massive factory complex
+00:15:08.960 outside of Parkersburg, WestVirginia, just six miles away.
+00:15:14.080 That factory was Washington Works,
+00:15:16.240 the first commercial Teflon plant.
+00:15:19.120 It provided jobs for almost2,000 people in the town.
+00:15:22.960 And DuPont's presence was felt everywhere.
+00:15:25.520 I have been a resident ofParkersburg for 48 years.
+00:15:29.040 I do not work for the DuPont company,
+00:15:31.040 but I have seen how theirpeople have done much
+00:15:33.120 for the cultural growth of this community.
+00:15:34.840 There are facilities fortennis, camping, swimming,
+00:15:39.680 softball, and more than 20areas equipped for cookouts
+00:15:43.120 and family picnics.
+00:15:44.000 DuPont took care of the community.
+00:15:46.960 So when the town folk got word
+00:15:48.240 that Earl Tennant hireda lawyer to investigate,
+00:15:50.480 they shunned him and his family.
+00:15:53.440 As his sister-in-law put it,we'd walk into a restaurant
+00:15:56.320 and everybody in the restaurantwould get up and leave.
+00:15:59.920 But Earl wasn't scaredoff, and neither was Rob.
+00:16:02.880 I thought this was gonnabe pretty straightforward.
+00:16:05.640 See, the US EnvironmentalProtection Agency, the EPA,
+00:16:09.760 dictates exactly which chemicals are safe
+00:16:12.080 to be disposed of in alandfill and in what amounts.
+00:16:15.160 We would get those records and permits,
+00:16:17.600 and it would tell us which chemical
+00:16:19.840 was causing this problem.
+00:16:21.680 But none of those recordswere really showing anything
+00:16:26.000 that was really causing a problem,
+00:16:28.000 you know, nothing that wouldexplain that white foam.
+00:16:30.320 Whatever was in Earl'swater wasn't on the permits.
+00:16:35.200 Now, already in the 1950s,people knew that Teflon,
+00:16:38.080 specifically PTFE, was pretty safe.
+00:16:40.960 It's a long and extremely inert molecule.
+00:16:43.440 So if you ingest it, yourbody just flushes it out.
+00:16:46.560 However, if you heat Teflonto 350 degrees Celsius,
+00:16:49.600 it starts releasing fumesthat make people sick.
+00:16:52.800 This often happened toworkers in Teflon plants.
+00:16:55.520 Stray PTFE powder wouldfall onto their cigarettes
+00:16:58.400 as they were working,
+00:16:59.440 and then later they wouldaccidentally smoke one
+00:17:02.160 of these cigarettes.
+00:17:03.360 Luckily, the symptoms were mild:
+00:17:05.520 fatigue, tightness of chest, headaches,
+00:17:08.079 and they would usuallypass within 48 hours.
+00:17:10.800 It was called polymer fume fever.
+00:17:13.839 And even though it rarely happens today,
+00:17:15.760 it's why you should neveroverheat your Teflon pan
+00:17:18.240 to these temperatures,
+00:17:19.520 especially if you have pet birds at home,
+00:17:21.680 because the fumes aremuch more toxic to them.
+00:17:25.440 But Teflon couldn't havepoisoned Earl's cows.
+00:17:28.560 There were no fumes or high temperatures,
+00:17:30.720 so there must have beensomething else in the water.
+00:17:34.160 Rob filed a legal request
+00:17:35.600 for all of the WashingtonWorks operational records,
+00:17:38.000 and DuPont sent them over,
+00:17:40.720 more than 60,000 documents.
+00:17:43.320 A lot of folks would try to say,
+00:17:46.240 "Okay, you you want a lot of documents,
+00:17:48.160 we'll give you a of documents"
+00:17:50.080 and hope that there'd be no waysomebody could actually wade
+00:17:53.600 through all of these filesand all of these materials.
+00:17:57.200 But I am the kind ofperson that I do dig in,
+00:18:00.240 and I do want to gothrough those documents,
+00:18:02.400 so I actually did read all of that.
+00:18:04.200 And in those files,
+00:18:05.760 a certain chemical keptpopping up everywhere,
+00:18:09.280 C8.
+00:18:10.200 I never saw the kindsof things I was seeing now
+00:18:14.240 in these documents from DuPont.
+00:18:17.660 (foreboding music)
+00:18:17.678 In 1961, the same yearTeflon pans hit the US market,
+00:18:21.680 DuPont's in-house scientiststested C8 on rats.
+00:18:25.600 Ingesting as little as 1.5 milligrams
+00:18:28.240 of C8 per kilogram of bodyweight caused the rat's livers
+00:18:31.760 to grow abnormally.
+00:18:33.440 And a dose of 570 milligramsper kilogram was lethal.
+00:18:37.280 For reference, sodium cyanide,
+00:18:39.200 one of the most dangerouspoisons, is lethal to rats
+00:18:41.920 in doses of five to 15milligrams per kilogram.
+00:18:45.440 But even though C8 was less fatal,
+00:18:47.440 it was concerning for two other reasons.
+00:18:50.880 First, like Teflon,
+00:18:52.240 its tail is made of carbon-fluorine bonds,
+00:18:54.640 which makes it incredibly stable.
+00:18:56.800 So C8 wouldn't break down inthe environment for decades.
+00:19:00.720 And second, C8 looks like the fatty acids
+00:19:03.680 that humans and animalsneed for normal functioning,
+00:19:06.160 just with fluorines instead of hydrogens.
+00:19:08.800 So the concern was that C8could get into the bloodstream,
+00:19:11.840 hitch a ride on the proteins
+00:19:13.040 that transport fatty acids around,
+00:19:14.880 and get almost anywhere in the body.
+00:19:17.440 And because of the carbon-fluorine bonds,
+00:19:19.680 humans and animals haveno way to break down C8,
+00:19:23.360 so it could slowly build up,mimicking those fatty acids
+00:19:26.960 and potentially disruptingthe systems they regulate,
+00:19:29.520 like the liver.
+00:19:30.720 Toxic, persistent, bioaccumulative.
+00:19:34.320 So the concern was it'slike a ticking time bomb.
+00:19:37.520 It's got more opportunity to cause harm.
+00:19:39.840 As a safety measure, thatsame rat study suggested
+00:19:42.960 that all these materials shouldbe handled with extreme care
+00:19:46.880 and that contact with skinshould be strictly avoided.
+00:19:51.200 In 1962, DuPont redid the study
+00:19:53.760 and confirmed that highdoses of C8 kill rats
+00:19:56.960 through injury to the stomach, intestine,
+00:19:59.280 brain, lungs, and pancreas.
+00:20:01.760 Then in 1965, they found thosesame toxic effects in dogs.
+00:20:06.640 The evidence was mounting.
+00:20:12.924 (suspenseful music)(camera clicks)
+00:20:12.958 They were even studying monkeys.
+00:20:14.640 Some of the monkeys were dropping dead.
+00:20:16.560 These chemicals were causing toxic effects
+00:20:18.960 in multiple organ systemsin multiple species.
+00:20:23.440 All these studies weren't being shared
+00:20:25.680 with the scientific community.
+00:20:27.240 And likely no one outside
+00:20:29.280 of DuPont would've noticedsomething was wrong
+00:20:31.840 if it was not for...
+00:20:32.880 Tooth decay, the mostwidespread of all diseases.
+00:20:36.440 In the 1950s, tooth decaywas a nationwide problem.
+00:20:39.920 So the US started addinginorganic fluorides
+00:20:42.720 like sodium fluoride tothe public water supply.
+00:20:46.160 This helped fight cavities.
+00:20:47.680 16 years after fluoridation,
+00:20:50.400 all children will have65% less tooth decay.
+00:20:55.080 In 1975, researchers wanted to know
+00:20:58.240 if that inorganic fluoride wasgetting into people's blood.
+00:21:01.440 So they sampled blood from around the US,
+00:21:03.840 and the results were as expected.
+00:21:06.320 More fluoride in the tapwater meant more fluoride
+00:21:09.040 in the blood.
+00:21:10.080 But they found another typeof fluorine in the blood too,
+00:21:13.600 which was organic fluorine,
+00:21:15.440 carbon-fluorine bonds, and itdidn't follow the same trend.
+00:21:19.560 Well, these researchers were wondering,
+00:21:22.240 where's this coming from?
+00:21:23.600 Because this is not anaturally occurring substance.
+00:21:27.520 And they did research,
+00:21:28.560 and they found that 3M wasmaking these organic fluorides,
+00:21:33.440 things like PFOA.
+00:21:34.880 All right, so they approached3M in 1975, asking them,
+00:21:39.840 "Hey, we found this stuff
+00:21:42.000 in the general US population's blood.
+00:21:44.480 You know, could it be yours?"
+00:21:46.640 And 3M pled ignorance.
+00:21:49.440 But just three months later,
+00:21:51.840 3M compared the spectrum oforganic fluorine from the study
+00:21:55.040 to their own chemicals, and
+00:21:57.440 it was a match.
+00:21:58.880 Their chemicals weregetting into the blood
+00:22:00.880 of people all across the United States,
+00:22:03.440 but they didn't tell the researchers.
+00:22:06.720 3M and DuPont were worried,
+00:22:08.800 so they checked their own workers' blood,
+00:22:11.040 and they found that they toowere contaminated with C8
+00:22:14.480 at levels 1,000 times higherthan those in the study.
+00:22:18.480 And when DuPont checkedtheir medical records,
+00:22:20.880 many of these workers wereshowing signs of liver disease.
+00:22:24.800 Meanwhile, DuPont wasdumping almost 10 tons of C8
+00:22:28.720 into the Ohio River each year,
+00:22:31.040 and they were pilingup thousands more tons
+00:22:33.600 as C8 sludge that would leach
+00:22:35.680 from the landfill next to Earl's farm,
+00:22:38.400 all while showing commercials like these.
+00:22:40.640 And the water thateventually flows to the river
+00:22:43.840 is collected at five points and analyzed
+00:22:46.080 to make sure we don't pollute the Ohio.
+00:22:48.240 And by the early '80s,
+00:22:49.840 the first cancer study is done in rats,
+00:22:52.160 and it confirms PFOA causes,
+00:22:56.080 not just might be linked with,
+00:22:57.520 but causes testicular tumors, all right?
+00:23:01.440 That sends alarm bellsoff within the company
+00:23:04.720 because the concern is, of course,
+00:23:06.880 we're putting this in the air,we're putting in the water.
+00:23:09.120 It's in Teflon.
+00:23:10.240 DuPont collected samplesaround Washington Works,
+00:23:13.520 and C8 wasn't just in the river,
+00:23:15.440 it was in the public water supply.
+00:23:18.240 So in 1984, DuPont officials met
+00:23:21.040 to assess whether C8 should be swapped
+00:23:23.280 for a safer chemical.
+00:23:25.200 But their conclusionwas that currently none
+00:23:27.680 of the options developed are,
+00:23:29.200 from a fine powder business standpoint,
+00:23:31.840 economically attractive,so C8 stuck around,
+00:23:35.920 and DuPont just came up with asafe dose for drinking water.
+00:23:39.920 DuPont scientists are thefirst people on the planet
+00:23:42.960 to say what would be asafe level for humans.
+00:23:45.840 They calculated somethinglike 0.6 parts per billion,
+00:23:50.400 which they rounded up to one.
+00:23:52.080 And the importance ofthat is, at that time,
+00:23:54.560 that was about the lowest levelyou could detect in water.
+00:23:58.720 Essentially, if we candetect it, it's too high.
+00:24:02.080 So to put that into perspective,
+00:24:04.400 here is one 2,500-liter tank of water.
+00:24:08.240 It filled to the brim.
+00:24:09.680 Now, imagine you take one dropof PFOA, 0.05 milliliters,
+00:24:13.840 and you place it not in one of these tanks
+00:24:15.840 or two or three,
+00:24:17.520 20 of these tanks.
+00:24:19.120 That's one part per billion,
+00:24:20.720 and that's the number DuPont thought
+00:24:22.480 would be unsafe for humans to drink.
+00:24:24.160 And after determiningits own safety metric,
+00:24:27.120 DuPont tested the landfillwastewater leaching
+00:24:29.680 into Earl's creek.
+00:24:31.040 It came back at 1,600 parts per billion.
+00:24:34.840 They didn't tell anybody.
+00:24:36.960 So at that point, Ithought I had figured out
+00:24:39.760 what had finally happened to the cows.
+00:24:41.840 Rob compiled all theevidence into a 900-page letter
+00:24:46.240 and sent it to the EPA,the Department of Justice,
+00:24:48.960 and even the US Attorney General.
+00:24:52.000 And just a few months later,
+00:24:53.520 DuPont settled with Earl Tennant
+00:24:55.200 and his family for an undisclosed sum,
+00:24:57.440 although they didn'tadmit to any wrongdoing.
+00:25:00.440 But this stuff wasn't just
+00:25:02.720 in the water the cows were drinking.
+00:25:05.120 This was in
+00:25:06.160 the surrounding communities'public wells, right?
+00:25:09.280 People around Mr. Tennant,
+00:25:10.800 the tens of thousands of people
+00:25:12.320 in that community hadlikely been drinking this
+00:25:14.640 for decades and didn't know.
+00:25:16.360 So Rob sued DuPont again,
+00:25:18.960 now on behalf of the 70,000people around Parkersburg
+00:25:22.880 who were unwittingly exposed to C8.
+00:25:25.680 And it wasn't justParkersburg or West Virginia.
+00:25:29.360 In the year 2000, researchersanalyzed blood samples
+00:25:32.320 from thousands of Americansall across the country,
+00:25:35.440 and 100% of those samplescame back positive for C8
+00:25:40.320 at an average of five parts per billion.
+00:25:43.920 But if virtually everyonein the US is contaminated,
+00:25:47.600 how harmful could C8 really be?
+00:25:50.560 This is exactly what Rob had to find out
+00:25:52.560 to have a fighting chance against DuPont.
+00:25:54.960 So in 2005, he spearheaded a medical study
+00:25:58.080 of everyone around Washington Works.
+00:26:00.800 Scientists need to know
+00:26:02.160 if the chemical C8 causesany health problems.
+00:26:04.800 By completing a health questionnaire
+00:26:06.160 and having your bloodtested, you can help.
+00:26:08.440 Analyzing the blood samples
+00:26:10.000 and medical records took seven long years,
+00:26:13.200 and many in Parkersburg passed away
+00:26:15.200 before a verdict was even reached,
+00:26:16.960 including Earl and his wife Sandra.
+00:26:20.560 But finally, in 2013,
+00:26:22.640 an independent sciencepanel had the results.
+00:26:25.680 They confirmed a probable link between C8
+00:26:28.160 and six human diseases,including thyroid disease,
+00:26:31.840 testicular cancer, and kidney cancer.
+00:26:34.800 And these findings were basedsolely on the nearby community
+00:26:38.080 with an average C8 bloodlevel of 28 parts per billion.
+00:26:42.000 So for example, an Americanmale has around a 1 in 43 chance
+00:26:45.520 of developing kidney cancer.
+00:26:47.200 It's around 1 in 73 for females,
+00:26:49.840 but a person with morethan 30 parts per billion
+00:26:51.840 of C8 in their blood serum
+00:26:53.280 might have about double the odds,
+00:26:55.280 so roughly 1 in 22 for malesand 1 in 37 for females.
+00:27:00.320 But the data in many
+00:27:01.360 of these studies only included survivors,
+00:27:03.760 not people who might havealready died from C8 exposure.
+00:27:06.960 So the verdict was
+00:27:07.920 that the findings must beinterpreted with caution.
+00:27:11.280 The true risk of C8 might be even higher.
+00:27:15.440 Luckily, once these studieswere published in 2013,
+00:27:18.720 DuPont was pressured by theregulators to phase out C8.
+00:27:22.640 And by 2017, they had topay out over $600 million
+00:27:26.480 to victims of C8 exposure,
+00:27:29.280 which is a pretty small price to pay
+00:27:31.040 for a company that made almost $80 billion
+00:27:33.280 in sales just that year.
+00:27:36.000 And all throughout, DuPontdenied any wrongdoing,
+00:27:40.000 but that wasn't the end of itfor Parkersburg or anyone else
+00:27:44.000 because DuPont separatedits entire Teflon business
+00:27:47.280 into a spinoff company, Chemours,
+00:27:49.760 that agreed to use a different chemical.
+00:27:53.360 So what was it?
+00:27:54.520 They simply took C8 andknocked two carbons off
+00:27:58.880 and started making C6.
+00:28:00.760 They called it GenX.
+00:28:03.440 Because it was shorter
+00:28:04.480 and had an oxygen atominterrupting the carbon chain,
+00:28:07.360 it was expected to be more degradable.
+00:28:09.760 So Chemours claimed a dose ashigh as 70 parts per billion
+00:28:12.960 of GenX in drinking waterwould still be safe.
+00:28:15.880 That chemical gets shipped
+00:28:17.920 to the same plant in West Virginia.
+00:28:20.240 So now GenX goes into the air.
+00:28:22.480 GenX goes into the Ohio River.
+00:28:24.480 GenX is found in public water supplies.
+00:28:27.440 So GenX is allowed tocome out into the world,
+00:28:30.640 be used in Teflon.
+00:28:32.560 Then the cancer study is done,
+00:28:34.560 which shows GenX causesthe exact same three tumors
+00:28:39.040 in rats that PFOA did:
+00:28:41.520 liver, testicular, and pancreatic.
+00:28:43.680 And the fact that its chain
+00:28:45.600 is shorter also makes GenX more mobile,
+00:28:48.320 so it could contaminate larger areas.
+00:28:51.280 The truth is we just don'tknow enough about it,
+00:28:54.240 and that's exactly the problem.
+00:28:55.960 It took us decades to get to the point
+00:28:58.720 of finally addressing C8.
+00:29:01.120 They simply tweak it a bit,change the chemical name.
+00:29:04.720 All of the science and allof the concern, that's on C8.
+00:29:09.360 This is C6 or C9 or C4.
+00:29:12.480 You don't have enough evidence
+00:29:14.800 that these other ones are bad.
+00:29:16.720 This is Whac-A-Mole.
+00:29:17.920 We get to the point we're addressing one
+00:29:19.840 and the new one pops up
+00:29:20.960 and we're told we have to start over.
+00:29:22.600 And it isn't just C8 or GenX.
+00:29:26.640 They belong to a family
+00:29:27.840 of over 14,000 differentmanmade chemicals,
+00:29:30.960 all covered in carbon-fluorine bonds.
+00:29:33.600 And companies can makethem however they want,
+00:29:35.840 C7s, C9s, branched, polymers, acids.
+00:29:39.840 The generic term for all ofthese substances is PFAS,
+00:29:43.680 per- and polyfluoroalkyl substances,
+00:29:46.880 and like Teflon, they havealmost magical qualities.
+00:29:50.640 They repel liquids,
+00:29:51.840 so PFAS are used to makeclothing waterproof.
+00:29:54.880 They're also grease-resistant,
+00:29:56.400 so we coat things like fast food wrappers
+00:29:58.400 and microwave popcorn bagsin PFAS to prevent stains.
+00:30:02.160 Waterproof lipstick andmascara, hygiene products,
+00:30:05.040 and even contact lenses have PFAS in.
+00:30:07.680 Even the screen you're watching this on,
+00:30:09.760 likely has a PFAS anti-smudge coating.
+00:30:13.520 (brooding music)
+00:30:14.880 The trouble is that thesame carbon-fluorine bonds
+00:30:17.520 that make PFAS so stable
+00:30:19.120 and useful in consumer products
+00:30:21.440 also make them incrediblypersistent in the environment.
+00:30:25.040 Which is why you might also know PFAS
+00:30:26.960 under a different name, forever chemicals.
+00:30:30.160 They have been foundeverywhere from bustling cities
+00:30:33.520 to untouched areas of wilderness.
+00:30:36.240 Every continent, includingAntarctica, has PFAS all over it.
+00:30:40.960 Almost every living creature
+00:30:43.440 from polar bears to birds to fish,
+00:30:46.640 I mean, this stuff isbeing found everywhere.
+00:30:49.680 So massive worldwide contamination,
+00:30:52.800 but by completely manmade chemicals
+00:30:56.720 that are fingerprints back tojust a couple of companies.
+00:31:00.920 Even though companies knew
+00:31:03.200 how dangerous thesechemicals were 50 years ago,
+00:31:05.680 they decided not to informthe public and the regulators.
+00:31:08.960 So we're only finding out
+00:31:10.400 about this global contamination now.
+00:31:12.880 And there've been many cases
+00:31:14.160 where important public health information
+00:31:16.240 doesn't get widely disseminated for years.
+00:31:19.040 And whenever that happens,
+00:31:20.320 media coverage can be inconsistent,
+00:31:22.400 which is why I've partneredup with Ground News
+00:31:24.960 as the sponsor of this video.
+00:31:27.120 Their platform reveals howstories like these are covered
+00:31:29.760 across the media landscape.
+00:31:31.600 For example, a recent study suggested
+00:31:33.440 that 23 million Americans
+00:31:35.360 were exposed to foreverchemicals through wastewater,
+00:31:38.560 but you probably haven't seen the story
+00:31:40.640 since fewer than 40outlets even published it.
+00:31:43.600 And take a look at how different some
+00:31:45.600 of these headlines are.
+00:31:47.040 With Ground News,
+00:31:48.160 you can also see thatgovernment-funded sources
+00:31:50.320 had limited reporting of this story,
+00:31:52.640 and only 9% of the publicationswere right-leaning.
+00:31:56.080 So Ground News flagged thisas a potential blind spot.
+00:31:59.440 It's highlighted on their blind-spot feed
+00:32:01.680 where you can see stories
+00:32:02.720 that are disproportionately covered
+00:32:04.320 by one side of the political spectrum.
+00:32:07.360 The whole point ofVeritasium is to make videos
+00:32:09.920 that get to the truth,
+00:32:11.040 whether that's explaining misconceptions
+00:32:12.800 or getting to the bottom ofpotentially dangerous chemicals.
+00:32:16.240 Ground News helps us do that,and they can help you too.
+00:32:19.440 So if you, like us, careabout getting to the truth,
+00:32:22.400 go to ground.news/ve or scan this QR code.
+00:32:26.240 Our link gets you 40%off their vantage plan.
+00:32:29.440 And now back to PFAS.
+00:32:32.480 (quirky music)
+00:32:33.920 Okay, now I wanna find out how much
+00:32:37.120 of these chemicals isactually in my blood.
+00:32:40.000 So I have a little test here. (groans)
+00:32:45.520 I hate the idea of drawingmy own blood. (groans)
+00:32:52.320 Okay, that was pretty easy, actually.
+00:32:54.720 I was really worried
+00:32:55.520 that there was not gonnabe enough blood coming out.
+00:32:58.480 But there was plenty.
+00:33:00.400 (sighs) So the question is,
+00:33:03.440 how much of these dangerouschemicals are in my blood?
+00:33:06.360 Has anyone ever come back with blood
+00:33:08.880 that has zero PFAS whatsoever?
+00:33:10.720 I've been doing bloodtesting on PFAS since 2007,
+00:33:14.400 and I've never seen a non-detect.
+00:33:16.200 No way.- So I hear that 98%
+00:33:19.440 of the population has PFAS in their blood,
+00:33:21.440 but I'm looking for that 2% that doesn't
+00:33:23.680 because I've yet to see them.
+00:33:25.320 That's incredible, I mean very,
+00:33:27.440 very bad incredible, but wow.
+00:33:29.840 But if everyone onEarth has trace amounts
+00:33:33.360 of these chemicals in their blood,
+00:33:35.040 how much harm could they really be doing?
+00:33:37.200 I wanna make a distinction
+00:33:38.880 because it turns out not allPFAS are equally dangerous.
+00:33:42.160 You can kind of splitthem up into two groups.
+00:33:44.160 First up, you have long, repeating chains
+00:33:46.320 of carbon-fluorine bonds
+00:33:47.440 that are tens or hundredsof thousands of atoms long,
+00:33:50.880 so stuff like Teflon.
+00:33:52.480 These are so big and inert thateven if you do ingest them,
+00:33:55.120 your body's just gonna flush them out.
+00:33:56.560 They can't be absorbedinto your bloodstream,
+00:33:58.400 so you're pretty safe.
+00:34:00.320 They're called fluoropolymers
+00:34:01.680 because of the long repeating chains
+00:34:03.280 of carbon and fluorine bonds.
+00:34:04.880 But the catch is to makethese fluoropolymers,
+00:34:07.440 stuff like Teflon, you needto use processing aids,
+00:34:09.840 things like PFOA or GenX,and those are the nasty ones.
+00:34:13.600 These molecules are 5 to 10 carbons long,
+00:34:15.840 which makes them small enough
+00:34:17.040 to actually enter the bloodstream.
+00:34:19.760 They have functional groups at the ends
+00:34:21.199 that are usually acids.
+00:34:22.480 The most common ones areperfluoroalkyl acids,
+00:34:25.920 which means that they can bindto the proteins in your blood
+00:34:28.159 and be transported anywhere in the body.
+00:34:30.960 So they slowly accumulateand build up over time.
+00:34:35.360 Now, there are more thanjust two groups of PFAS
+00:34:37.440 and even different definitionsof what PFAS even are,
+00:34:40.800 but most of what we know really relates
+00:34:42.639 to just a handful of chemicalsfrom this group here,
+00:34:45.280 to these perfluoroalkyl acids.
+00:34:48.159 (wondrous music)
+00:34:49.083 Perhaps the most comprehensivedocument on PFAS toxicity
+00:34:52.239 was published in 2022
+00:34:54.080 by the National Academies of Sciences,
+00:34:56.480 Engineering, and Medicine.
+00:34:58.080 And it looked at onlyseven perfluoroalkyl acids.
+00:35:02.400 These are sister chemicals to PFOA.
+00:35:04.880 And some of them, like PFOS and PFHxS,
+00:35:08.560 were used heavily inthe production of stain
+00:35:10.880 and water-resistant productslike 3M's Scotchgard
+00:35:14.400 before they too got phasedout due to toxicity concerns.
+00:35:18.960 The report surmised that if the sum
+00:35:21.040 of these seven acids in your blood
+00:35:22.800 is below two parts per billion,there shouldn't be any harm.
+00:35:27.120 If your level is between 2and 20 parts per billion,
+00:35:29.760 there's a potential forharmful health effects.
+00:35:32.400 Although the exact mechanism
+00:35:34.160 by which PFAS cause harmisn't fully understood,
+00:35:37.600 exposure has mostconsistently been associated
+00:35:40.480 with high cholesterol, adecreased immune system response
+00:35:43.280 to vaccines and infections, kidney cancer,
+00:35:46.000 and decreased growth in infants.
+00:35:48.560 But PFAS have also been linked
+00:35:50.240 to dozens of other conditions,
+00:35:52.240 and above 20 parts per billion,the risk is even greater.
+00:35:56.240 So where do I fall on this graph?
+00:35:59.240 Right, so I have your results here.
+00:36:02.400 You're not gonna tell me what yours were
+00:36:03.840 before I see mine?
+00:36:05.120 No.
+00:36:06.320 All right.
+00:36:07.600 You're positive for PFOA.
+00:36:09.760 Okay.
+00:36:10.560 The level for PFOA fora US person went down
+00:36:15.120 from five parts perbillion around the 2000s
+00:36:17.440 to around 1.46, what you have.
+00:36:20.320 So you're super average for a US person.
+00:36:23.400 Great. Okay.
+00:36:24.640 The good news is though,no GenX for you or for me,
+00:36:28.160 which is great.
+00:36:28.760 All right, let's go.
+00:36:30.520 But the real surprise, I ,guess is PFOS,
+00:36:33.760 the sister chemical, and itwas used in a similar way,
+00:36:36.080 so stain-resistantcarpets, treated clothing,
+00:36:38.080 and your result is at8.93 parts per billion,
+00:36:41.520 whereas the US average is 4.3.
+00:36:45.760 -Yeah.
+00:36:46.160 That's crazy.
+00:36:47.360 Yeah, it is crazy
+00:36:48.640 'cause it was discontinuedpretty much in 2002.
+00:36:51.600 This is not the results I expected.
+00:36:53.920 I honestly expected very boring results
+00:36:55.760 of, like, yeah, you'rearound the middle of the pack
+00:36:58.640 or a little bit on the low side.
+00:37:00.320 And then for PFHxS,
+00:37:02.960 basically PFOS but sixinstead of eight carbons,
+00:37:05.760 your levels here are almostseven parts per billion,
+00:37:08.560 but the US average averageis one part per billion.
+00:37:10.960 You're higher than 95% of Americans.
+00:37:12.800 It just, like, it shocks me
+00:37:14.960 'cause, like, I was fully walking
+00:37:16.400 into this meeting expecting to be,
+00:37:18.080 you know, roughly average.
+00:37:19.360 Yeah, to me, it's scary.
+00:37:20.880 You know, you live ina normal life thinking
+00:37:22.880 that you're taking care of everything,
+00:37:24.400 and then you have high levels
+00:37:25.520 of a chemical you never heard of.
+00:37:26.960 The combined sum of allthe PAS detected in my blood
+00:37:30.560 was 17.92 parts per billion,
+00:37:33.840 more than double the US median.
+00:37:36.480 I'm just below the level
+00:37:37.760 where the National Academiesrecommend additional screenings
+00:37:40.960 for PFAS-related diseases.
+00:37:43.840 I had no idea I would comeback with such elevated levels.
+00:37:46.880 I'd love to get thelevel, sort of, down a bit
+00:37:48.960 to a level where I feellike it's more in line
+00:37:50.960 with the general population.
+00:37:52.280 Yeah.
+00:37:53.200 But, like, where couldthis have come from?
+00:37:55.920 There are three main ways we get exposed
+00:37:57.840 to forever chemicals,
+00:37:59.200 and the one you'll hearthe most about in the media
+00:38:01.280 is likely PFAS-containing products.
+00:38:03.960 Shampoo, dental floss,paints, varnishes.
+00:38:06.480 Potentially dangerous chemicals.
+00:38:08.080 Dangerous chemicals, toxic chemicals.
+00:38:10.320 People are throwing outtheir non-stick cookware.
+00:38:13.680 My wife threw out all ournon-stick pans over a year ago,
+00:38:16.800 and since then, we've beenusing stainless steel.
+00:38:19.040 She is very good at making itnot stick. Me, not so much.
+00:38:22.720 But are pans really the problem?
+00:38:25.200 The actual coating on the pan is Teflon,
+00:38:27.680 which, again, is just a long, inert chain
+00:38:30.000 of carbon-fluorine bonds.
+00:38:31.760 So even if you ingest it, itdoesn't react with your body.
+00:38:35.920 If you have a pan like that at home,
+00:38:37.840 you probably don't need to throw it out.
+00:38:40.160 The same goes for most otherPFAS-containing products.
+00:38:43.840 Waterproof clothing,stain-resistant furniture,
+00:38:46.240 and sweat-proof watchbands
+00:38:47.920 might all release some level of PFAS,
+00:38:50.720 but the risk of direct exposurethrough skin is likely low.
+00:38:55.440 So the bigger problem is how easily PFAS
+00:38:58.160 from these products canend up in the environment.
+00:39:01.040 And many of the factories
+00:39:02.320 that make these productsdon't have a good track record
+00:39:05.440 of keeping the chemicals contained.
+00:39:07.240 People don't understandthat the stories that you see,
+00:39:11.280 for example, what was happening
+00:39:12.560 in the community in West Virginia,
+00:39:15.120 this is the same chemicaland the same things
+00:39:17.840 that we're seeing playout now in Australia
+00:39:21.360 and in Japan, in Italy,in Germany, in the UK.
+00:39:25.440 I mean, there are a lot of folks
+00:39:27.040 that are still not grasping the fact
+00:39:29.520 that these are the same chemicals.
+00:39:31.960 Our second main sourceof exposure is food.
+00:39:35.840 A lot of it comes packagedin PFAS-treated materials,
+00:39:39.040 like takeout boxes,microwave popcorn bags,
+00:39:42.160 and burger wrappers.
+00:39:44.320 It's on a burger wrapper.
+00:39:46.160 Is it a tiny amount? Is ita ridiculously tiny amount?
+00:39:50.680 We actually did tests at the lab
+00:39:53.120 with stuff that usually contains PFAS.
+00:39:55.440 So microwave popcorn, fast food wrappers,
+00:39:58.240 paper cups that are waterproof.
+00:40:00.480 So I have tap water herefrom a house in London.
+00:40:02.800 Could we boil some water?
+00:40:04.160 Because usually youinteract with these products
+00:40:06.480 when they're hot and then seeif any of the PFAS leaches off
+00:40:10.000 and you potentiallyeat them or drink them.
+00:40:12.040 This is citizen science, right?
+00:40:13.840 So it's, like, there might be some error,
+00:40:15.680 but with a solid control
+00:40:17.520 and then with the same tapwater going to all of them,
+00:40:20.240 we can at least get something, yeah.
+00:40:21.640 Yeah, and even if we get nothing,
+00:40:23.120 we'll know that people are probably safe
+00:40:24.720 using these products.
+00:40:25.760 All right.- Whisk it around.
+00:40:27.560 Yeah, really get that PFAS
+00:40:30.000 in that water, right.- The juices going.
+00:40:31.727 And get the
+00:40:31.740 PFAS juices going.- Well, it's supposed
+00:40:32.320 to be safe for human consumption.
+00:40:34.951 Yeah.- That's the wild thing.
+00:40:35.880 We sloshed it around there,
+00:40:37.360 hot water, boiling waterfor around 30 seconds,
+00:40:39.760 and then we tested that waterto see if any of the PFAS
+00:40:42.160 that are used to coat these items
+00:40:43.280 would actually make it into the water.
+00:40:44.880 So here's what I got.
+00:40:45.840 And these are parts per trillion now.
+00:40:47.680 So for PFOA, good news.
+00:40:50.160 Basically no detection anywhere
+00:40:52.320 except for the microwave popcorn.
+00:40:53.760 I will say these are very lowlevels, but hold your horses
+00:40:57.280 'cause microwave popcorn gets worse.
+00:40:59.280 The thing about microwave popcorn,
+00:41:01.360 it's sitting in therewrapped up with the popcorn
+00:41:04.400 for months or years
+00:41:06.240 before you ever stickit in your microwave.
+00:41:08.400 That gives those chemicals plenty of time
+00:41:10.960 to, like, leach into the oils,
+00:41:13.360 and it's gonna go all over the popcorn,
+00:41:14.720 and you're gonna eat it.
+00:41:16.160 This could explain someof our own results.
+00:41:18.400 The level for PFPeA,
+00:41:20.320 which is a shorter variation of PFOA,
+00:41:22.960 came back at 10 parts per trillion
+00:41:24.880 after the popcorn bag test.
+00:41:27.440 And you can see similar results
+00:41:28.880 in some of the other PFAS species.
+00:41:31.120 But then microwave popcornactually drops for PFOS.
+00:41:36.080 Why could that be? We don't actually know.
+00:41:37.960 I was gonna say maybe the PFOS, like,
+00:41:40.080 went on that wrapper and found its friends
+00:41:42.320 and just hung out there.
+00:41:43.800 Yeah, could be.
+00:41:44.800 I know we've only done,like, one test here.
+00:41:47.040 No repeat measurements, so wecan't conclude much from this,
+00:41:50.320 but there's something to be said
+00:41:52.080 for when you're using these products,
+00:41:54.320 they're gonna leach into yourwater and leach into your food
+00:41:56.400 And research tends to agree.
+00:41:59.680 A 2019 study found that eating fast food
+00:42:02.240 and microwave popcorn especiallycan increase your PFAS load
+00:42:06.000 while eating homecooked meals doesn't.
+00:42:08.640 But even something as simpleas reheating your food
+00:42:11.280 on a plate instead of inthe original packaging
+00:42:13.760 could prevent PFAS frommigrating to your food.
+00:42:17.360 Now, you might expect
+00:42:18.240 that these part pertrillion levels we detected
+00:42:20.560 in the London tap waterare nothing compared
+00:42:22.720 to the parts per billionyou'd find in human blood,
+00:42:26.400 but the surprising thing is that
+00:42:27.920 to have two parts per billionof PFOA in your blood,
+00:42:31.200 you don't need to drink water
+00:42:32.640 with two parts per billion of PFOA in it
+00:42:35.920 because PFAS accumulatein your body over time.
+00:42:39.760 So even water with as littleas four parts per trillion
+00:42:42.720 of PFOA combined with otherexposure can be enough
+00:42:46.400 to maintain your blood levels this high.
+00:42:49.600 And this is why, in addition to food,
+00:42:51.920 water is your biggest source of exposure.
+00:42:54.720 This is especially true ifyou live near a PFAS factory
+00:42:57.840 where the local water isoften heavily contaminated.
+00:43:01.200 But the same goes for areasnear military bases or airports.
+00:43:05.920 See, adding chemicals like PFOA
+00:43:07.840 or PFOS to water lowersits surface tension
+00:43:11.200 so the water gets more slippery,
+00:43:13.680 and these chemicals also tend to foam up.
+00:43:16.400 So they make for an excellent ingredient
+00:43:18.320 in firefighting foams,they spread quicker,
+00:43:21.040 and the foam blocks accessto oxygen extremely well.
+00:43:24.800 And since both military bases
+00:43:26.320 and airports frequently dofire drills with these foams,
+00:43:29.360 they end up seeping
+00:43:30.240 into the surrounding soil and groundwater.
+00:43:33.120 But it doesn't stop there.
+00:43:34.800 Currently, we have reachedplanetary saturation levels
+00:43:38.560 for PFAS, which means thatwhen you look up at that cloud
+00:43:42.560 and it rains, it rains unsafe levels
+00:43:45.280 of at least four PFAS species.
+00:43:47.280 It turns out that our entire water cycle
+00:43:50.320 is contaminated with PFAS.
+00:43:52.720 So even when it rainson the Tibetan Plateau,
+00:43:55.920 that rain contains PFAS.
+00:43:58.960 To check the water levels in your area,
+00:44:00.960 you can use these maps
+00:44:02.160 that show PFAScontamination across the US,
+00:44:05.040 Europe, and Australia.
+00:44:06.960 What about Los Angeles, Encino?
+00:44:09.920 That's where I spent, like,7 of the last 10 years.
+00:44:13.040 Crescenta Valley.
+00:44:15.000 Those are all high.
+00:44:17.040 Yeah.
+00:44:17.760 Santa Clarita, some.PFHxS level is crazy.
+00:44:22.240 So maybe you're getting yourwater from Santa Clarita.
+00:44:25.280 Wow.
+00:44:26.160 There's a calculator.
+00:44:27.600 It could give you what anestimate in your blood serum is.
+00:44:30.320 What we can try to do now isput that up in the calculator,
+00:44:32.640 see if you get something close
+00:44:34.080 to what you have, if you want.
+00:44:35.440 Sure.
+00:44:36.200 PFHxS, so typical value for an adult
+00:44:39.680 is one part per billion,
+00:44:41.680 and then the Santa Clarita water
+00:44:43.120 is around 37 parts per trillion.
+00:44:45.800 If you look after, like, 10 years.
+00:44:48.000 So after roughly 10 years of exposure,
+00:44:49.920 you would have to have 6.85parts per billion in your blood.
+00:44:54.160 And then I can tell youthat you are at 6.84.
+00:44:57.000 That would explain things.
+00:44:59.440 Now, I can't say for sure
+00:45:00.880 where my drinking water was coming from,
+00:45:03.120 but if I was consistentlydrinking water contaminated
+00:45:06.000 at similar levels, then thatwould explain my results.
+00:45:10.080 But if you are worriedabout your own water,
+00:45:12.160 you should contact your provider directly
+00:45:14.080 for the most relevant information.
+00:45:16.880 It's concerning just
+00:45:18.080 how unregulated drinking water has been.
+00:45:21.120 It was actually only ayear ago in April 2024
+00:45:23.680 that the US EPA finally set legal limits
+00:45:26.400 for PFAS in drinking water.
+00:45:28.640 The safe level for PFOA went down
+00:45:30.960 from DuPont's initial one part per billion
+00:45:33.440 to four parts per trillion.
+00:45:35.280 So we're no longer talkingabout one drop of PFOA
+00:45:38.000 in 20 of these tanks,
+00:45:39.520 we're talking about one drop in 5,000.
+00:45:42.320 That's five Olympic-sized swimming pools.
+00:45:45.840 And if there's even adrop of PFOA in there,
+00:45:48.800 the EPA is concerned.
+00:45:50.480 The same four parts per trillion limit
+00:45:53.280 was also set for PFOS,the sister chemical.
+00:45:56.240 And GenX went down
+00:45:57.360 from the 70,000 parts pertrillion initially proposed
+00:45:59.920 by Chemours to just 10.
+00:46:02.160 The same goes for PFHxS.
+00:46:04.960 For reference, the EPA'slimit for lead in water
+00:46:07.600 is 10,000 parts per trillion,
+00:46:09.840 and for cyanide, 200,000,
+00:46:12.480 It gives you a pretty clear indication
+00:46:15.040 of how concerned thescientific community is.
+00:46:17.720 And just when we got EPA limits,
+00:46:20.240 we got a new administration in the US,
+00:46:22.560 which might be reversingsome of the PFAS bans.
+00:46:25.440 So you can't alwaysdepend on the regulators,
+00:46:27.600 and you seemingly can'tdepend on the companies
+00:46:30.000 that make this stuff todispose of it safely.
+00:46:33.200 So what can you do?
+00:46:35.840 If your water is contaminated,
+00:46:37.360 you might want to considergetting a PFAS-certified filter.
+00:46:41.600 Reverse osmosis, granulated active carbon,
+00:46:44.320 and ion exchange filters are all capable
+00:46:46.720 of removing PFAS out of drinking water.
+00:46:49.600 But the responsibilityto filter drinking water
+00:46:52.080 shouldn't come down to the individual.
+00:46:54.320 PFAS should be captured at thesource, during manufacturing,
+00:46:58.000 before they ever reach the environment.
+00:47:00.720 And some companies like Puraffinity
+00:47:02.880 are developing customfilters to make that happen.
+00:47:05.760 So very lab-looking lab.
+00:47:08.180 Exactly. Yeah, yeah.
+00:47:09.440 So could you walk me through, like,
+00:47:10.640 what all these pipes do, andwhat do you have in here?
+00:47:12.760 So this water is representative
+00:47:14.960 of where you've had a bigfirefighting foam incident.
+00:47:17.600 So you wanna filter this water,
+00:47:19.360 but basically, the conceptis take it from the top
+00:47:22.320 through the vessel.
+00:47:23.360 As it passes through this material,
+00:47:25.360 it basically sticks on
+00:47:27.120 to some of the PFAS chemicals in water,
+00:47:29.360 and then you run intoanother part of treatment
+00:47:32.080 and a third one.
+00:47:33.200 To me, it seems like if PFASare so, like, bioaccumulative
+00:47:36.720 and actually persistent and stable,
+00:47:38.800 they don't really react with things.
+00:47:40.080 So how do you force them toreact with stuff in here?
+00:47:43.440 Basically, taking advantageof this long organic tail
+00:47:46.960 as well as the polar head,
+00:47:48.400 and so you can have someelectrostatic interactions
+00:47:50.960 with the polar head,
+00:47:51.920 and then you can have some hydrophilic
+00:47:53.520 and hydrophobicinteractions with the tail.
+00:47:55.600 And by combining thesethree binding mechanisms,
+00:47:58.560 you increase massively yourlikelihood of binding PFAS,
+00:48:02.640 even if it's still difficult.
+00:48:03.720 Right, do the levelsdrop 100% already here,
+00:48:06.880 or do you see a gradual decrease in PFAS
+00:48:09.028 as you go?- That's the cool question.
+00:48:09.760 Okay.- So in the beginning,
+00:48:11.120 it drops 100% after this one.
+00:48:13.040 Oh, so problem solved, or?
+00:48:14.840 Problem solved for the time being.
+00:48:16.632 Okay. Okay.- What we see right now
+00:48:18.000 is it will last about 40,000volumes of this vessel.
+00:48:22.320 So a 10-liter vessel wouldbasically provides all
+00:48:25.120 of the PFAS treatment for a household.
+00:48:26.840 In a year.- For a year.
+00:48:28.280 You want this to be in factories first,
+00:48:30.160 so it never gets into the water.
+00:48:31.280 Yeah.- Yeah.
+00:48:31.920 We are talking to thefluorochemicals manufacturers,
+00:48:35.040 and they're really trying to,
+00:48:36.720 yeah, move forward rather thanjust wait for regulations.
+00:48:42.064 (bright music)
+00:48:42.078 Everyone's true risk fromPFAS will be different.
+00:48:45.040 It depends on dozens of factors,
+00:48:46.880 like your watercontamination, your lifestyle,
+00:48:49.520 what you eat.
+00:48:50.800 But how much should youreally worry about it?
+00:48:53.680 Like, if I'm at 17 or18 parts per billion,
+00:48:56.400 is that the equivalent ofdrinking a beer a night
+00:48:58.800 or going out in the Australiansun without sunscreen?
+00:49:01.800 So what I like to do iscreate this hierarchy of risk.
+00:49:05.040 And in terms of hierarchyof risk reduction,
+00:49:08.800 number one on that isstopping smoking, exercising,
+00:49:13.520 consuming a healthy, whole-food diet,
+00:49:15.680 and making sure you're gettingseven to nine hours of sleep.
+00:49:18.480 Then you have mediumlevels of intervention,
+00:49:20.800 seeing your primary care doctor,
+00:49:22.640 controlling your cholesterol numbers.
+00:49:24.240 And then on the lower tier that you have,
+00:49:26.320 PFAS probably falls into that lower tier.
+00:49:28.800 Being preventative about PFAS exposure
+00:49:31.680 is currently our only option
+00:49:33.520 because there are no approvedmedical treatments available.
+00:49:38.080 However, if you compare PFAS contamination
+00:49:40.800 between the sexes, male levelsare consistently higher,
+00:49:44.880 at least up until around the age of 50
+00:49:47.440 when menopause usually starts.
+00:49:49.760 This is partly becausemenstruation, birth,
+00:49:52.000 and lactation are all waysPFAS can escape the body.
+00:49:56.000 PFAS can pass through the placenta
+00:49:57.920 and into the fetus during pregnancy,
+00:50:00.320 and then the baby can also getexposed through breast milk.
+00:50:03.280 It's something that pregnant people
+00:50:05.840 should be extremely careful about.
+00:50:08.000 You know, young childrenare incredibly susceptible.
+00:50:10.800 They're drinking morewater, they're growing,
+00:50:12.880 they're near surfaceslike treated carpets.
+00:50:15.640 Now, not everyone hasto change their lifestyle
+00:50:18.480 because of PFAS, but if youare in a high-risk group
+00:50:22.240 because of pregnancy
+00:50:23.280 or because you live or workin a PFAS-contaminated area,
+00:50:27.280 you might want to consider it.
+00:50:30.320 (fire roaring)
+00:50:31.600 Firefighters haveespecially high PFAS levels
+00:50:34.160 because their gear andfoams are laced with them.
+00:50:37.440 Remarkably, a 2022 study found
+00:50:39.680 that when firefighters donated blood
+00:50:41.760 or plasma frequently enough,
+00:50:43.680 they reduced their PFAS levelsby up to 30% within a year.
+00:50:47.600 And it's kind of ironic that,
+00:50:49.840 you know, our health system'scoming back to bloodletting.
+00:50:52.640 What do you think aboutthe idea of donating blood
+00:50:56.160 as a way to reduce PFAS in the body?
+00:50:58.800 I've never heard of that as a strategy.
+00:51:01.120 That's kind of interesting.
+00:51:02.480 Well, I definitely recommend
+00:51:03.840 people donate blood more frequently,
+00:51:05.520 not because of PFAS exposure,
+00:51:07.040 but because of the factwe desperately need blood.
+00:51:10.400 What's important to note is that,
+00:51:12.160 especially in this current administration,
+00:51:14.080 we need to be very carefulabout shifting budgets away
+00:51:16.640 from research agenciesbecause without that research,
+00:51:19.440 the guidance that I'm giving
+00:51:20.720 is gonna be significantly more flawed.
+00:51:23.280 The reason I'm able totalk about what we know
+00:51:25.200 and what we don't knowcomes from that research.
+00:51:27.120 So if we're gonna be cutting the budgets
+00:51:28.720 to these major agenciesand letting scientists go,
+00:51:31.520 we're only gonna get worseand worse information.
+00:51:33.840 We are still a good few years away
+00:51:36.400 from proper medical treatmentand better PFAS regulations
+00:51:39.600 because this is extremely tricky.
+00:51:41.600 There are places where weshould ban PFAS completely,
+00:51:44.320 like hygiene products,cosmetics, and food packaging,
+00:51:47.600 and some countries are already doing that.
+00:51:50.000 But we also can't ban PFASaltogether, at least not yet,
+00:51:53.520 because we still rely on these chemicals
+00:51:55.440 for things like medical implants.
+00:51:57.520 And it's currently impossibleto make semiconductors
+00:51:59.920 for our electronics without them
+00:52:01.960 All the tubing
+00:52:03.040 for the vaccinemanufacturing is PFAS-based.
+00:52:05.520 They take us to space aswell, our space suits.
+00:52:08.800 But even in these niche applications,
+00:52:10.800 we have to be responsiblearound how we use it.
+00:52:13.200 People are coming together
+00:52:14.320 from a lot of different disciplines
+00:52:16.160 to create destruction mechanisms,
+00:52:18.640 to create novel capture materials,
+00:52:21.200 and to create novel replacements.
+00:52:23.440 I am excited and inspiredby all of the great work
+00:52:27.680 that's going on around me.
+00:52:28.960 So I think if people want to learn more,
+00:52:31.360 I would advise them tolearn about the risk,
+00:52:33.520 but then also learnabout the new technology
+00:52:35.920 that's being developed
+00:52:37.520 that will hopefully putus in the right direction.
+00:52:40.000 So to me,
+00:52:41.600 you know, one of the mostimportant things we can do
+00:52:43.680 is have discussions likewhat we're doing right here.
+00:52:46.400 If the story and theinformation's out there,
+00:52:49.600 people can make informed choices
+00:52:51.520 about whether they want tocontinue purchasing things
+00:52:54.320 that have these materials in them.
+00:52:56.320 And what we're seeing isconsumers, as they do become aware,
+00:53:00.880 are saying, "No, we don'twant these chemicals."
+00:53:03.840 And companies arevoluntarily coming forward
+00:53:06.880 and taking these chemicals out of products
+00:53:09.360 because the consumersare now demanding it.
+00:53:11.560 We've been here beforewith lead in gasoline,
+00:53:14.640 Freon, and asbestos.
+00:53:16.240 And each time, we did the research
+00:53:18.160 and made the right decisionto phase these chemicals out.
+00:53:21.440 With PFAS, we're just startingto understand the problem.
+00:53:24.720 But I'm hopeful we'll makethe same decision again.
+00:53:30.880 If you want to informyourself more about PFAS,
+00:53:33.360 we've attached all the sources we've used
+00:53:35.040 to make this video downin the description.
+00:53:37.520 It's actually our longest episode ever,
+00:53:39.840 and we couldn't have made it
+00:53:41.360 without the help of oursponsor, Ground News.
+00:53:43.840 So if you wanna be more informed
+00:53:45.360 about the issues around theworld that are affecting you
+00:53:47.760 and everyone else out there,
+00:53:49.360 go to ground.news/ve or use this QR code.
+00:53:52.720 I really wanna thank GroundNews for sponsoring this video,
+00:53:55.280 and I wanna thank you for watching.

@@ -1,0 +1,709 @@
+# tactiq.io free youtube transcript
+# What United Healthcare Doesn't Want You To Know
+# https://www.youtube.com/watch/iWMF4e8RG1I
+
+00:00:00.166 December 4th, 2024.
+00:00:02.502 Midtown Manhattan.
+00:00:04.546 Early in the morning, Brian Thompson,
+00:00:06.464 the CEO of United Health
+00:00:08.007 Care, is gunned down.
+00:00:09.968 Inscribed into the bullets.
+00:00:11.886 Deny, depose and defend.
+00:00:14.514 A reference to the tactics
+00:00:16.181 used by health care companies
+00:00:17.559 to increase profits. To the media’s
+00:00:19.811 surprise
+00:00:20.395 Americans show little empathy
+00:00:22.147 towards the victim,
+00:00:23.398 and instead, a country wide
+00:00:25.150 discussion begins
+00:00:26.443 on the state of universal health care.
+00:00:28.987 Today, Americans spend more on health
+00:00:31.031 care than every country on Earth
+00:00:33.283 and by a wide margin.
+00:00:35.660 Worse yet,
+00:00:36.703 Americans spend more
+00:00:37.829 even though they see a doctor 50% less
+00:00:41.624 than other wealthy nations
+00:00:43.334 and the cherry on top?
+00:00:44.961 The average US life
+00:00:46.087 expectancy is three years
+00:00:47.714 lower than comparable countries.
+00:00:49.674 What went wrong?
+00:00:51.134 This is US health care,
+00:00:53.303 an American sickness.
+00:00:56.681 The US
+00:00:57.223 spends nearly $5
+00:00:58.683 trillion on health care every year.
+00:01:00.852 This represents almost 18% of GDP.
+00:01:04.688 However, for all of this money,
+00:01:06.399 the US gets very little.
+00:01:08.234 And ranks
+00:01:08.735 last among ten high income countries
+00:01:11.321 for health outcomes and access.
+00:01:13.656 Even when looking at it
+00:01:14.741 from a purely financial point of view.
+00:01:17.077 Improving the US health care system
+00:01:19.162 could save Americans
+00:01:20.622 nearly $2.5 trillion.
+00:01:24.042 That's enough
+00:01:24.709 to exceed the mandate of Doge
+00:01:26.711 in one year.
+00:01:28.421 To understand
+00:01:29.130 what's driving these high costs
+00:01:30.507 and poor outcomes,
+00:01:31.800 we need to break out
+00:01:32.926 the different components
+00:01:34.177 of the US health care system.
+00:01:35.887 Insurance, health care providers
+00:01:38.223 and pharma.
+00:01:39.307 Let's start off
+00:01:40.058 with health care insurance.
+00:01:43.353 92% of all Americans
+00:01:45.522 have some form of health insurance.
+00:01:47.982 Generally, it's
+00:01:48.691 broken down into employer
+00:01:50.026 sponsored programs.
+00:01:51.361 Government programs,
+00:01:52.695 and individual plans.
+00:01:54.322 Unlike most of the developed world,
+00:01:56.407 when Americans have insurance,
+00:01:58.076 they can select
+00:01:58.868 from multiple providers.
+00:02:00.495 This introduces choice,
+00:02:01.996 which some argue is nice
+00:02:03.706 and allows the consumer
+00:02:05.166 to decide what's best for them.
+00:02:07.335 However, it also introduces complexity.
+00:02:10.964 Each insurance payer can have different
+00:02:12.966 billing codes,
+00:02:13.925 payment processes,
+00:02:15.343 prior authorization protocols,
+00:02:17.303 service levels,
+00:02:18.346 doctor networks,
+00:02:19.514 pharmacy networks, PBMs, and more.
+00:02:22.976 The outcome
+00:02:23.977 providing care becomes
+00:02:25.353 a lot less about medicine
+00:02:27.230 and much more about
+00:02:28.523 administrative functions.
+00:02:30.233 According to the AHA, 40% of total expenses
+00:02:34.154 incurred by hospitals
+00:02:35.697 are related
+00:02:36.406 to administrative functions.
+00:02:38.324 Not medicine. Not care.
+00:02:40.326 Not surgery.
+00:02:41.452 No admin.
+00:02:43.204 In fact, when you compare the U.S.
+00:02:45.123 with other developed
+00:02:45.915 nations, 30% of the difference in cost
+00:02:49.419 is directly due
+00:02:50.795 to administrative overhead
+00:02:52.422 introduced by the insurance regime.
+00:02:55.133 But money isn't everything.
+00:02:56.968 To truly understand the impact.
+00:02:58.720 We need to look at patient outcomes.
+00:03:01.181 U.S.
+00:03:01.598 health insurance
+00:03:02.265 companies deny 16% of all claims,
+00:03:06.102 with companies
+00:03:06.769 like UnitedHealthCare and Medica
+00:03:08.646 denying 32 and 27%, respectively.
+00:03:12.400 This means that a doctor
+00:03:13.693 seeking to provide care
+00:03:14.986 is being rejected
+00:03:15.945 by an insurance company.
+00:03:17.280 nearly one out of every five times.
+00:03:20.825 Ultimately,
+00:03:21.743 this leads to patients
+00:03:22.869 having to make tough decisions
+00:03:24.662 of paying out of pocket
+00:03:25.997 or not pursuing care at all.
+00:03:28.041 For those paying out of pocket,
+00:03:29.626 it could mean taking on large
+00:03:31.002 sums of debt,
+00:03:32.003 often with costs so high that 67%
+00:03:35.840 of all US bankruptcies
+00:03:37.508 are healthcare related,
+00:03:39.010 or they can join the nearly 40%
+00:03:42.013 of Americans
+00:03:42.847 who have or know a family member
+00:03:45.141 who has delayed medical care
+00:03:46.809 due to cost,
+00:03:48.311 often paying the ultimate price.
+00:03:50.855 Health insurance
+00:03:51.606 companies argue
+00:03:52.523 that they do this
+00:03:53.191 to control costs for patients
+00:03:55.109 and ensure that hospitals
+00:03:56.736 aren't being overzealous,
+00:03:58.488 which is partially true.
+00:04:00.865 But these insurance companies
+00:04:02.450 are increasing
+00:04:03.493 the rate of denials over time
+00:04:05.370 and employing new technologies
+00:04:07.080 to quickly reject claims.
+00:04:09.123 From 2022 to 2023,
+00:04:11.709 care denials increased 20 and 56%
+00:04:15.463 for commercial
+00:04:16.297 and Medicare Advantage
+00:04:17.464 claims, respectively.
+00:04:19.091 They do this
+00:04:19.841 because less than 1% of
+00:04:21.678 all claims are appealed.
+00:04:23.596 This isn't because patients
+00:04:24.806 don't believe they need care,
+00:04:26.474 but appealing is costly.
+00:04:28.309 complicated and very time consuming.
+00:04:31.396 Remember, deny, depose and defend.
+00:04:34.774 To make matters worse, 75%
+00:04:37.902 of all Medicare Advantage
+00:04:39.279 denials were overturned.
+00:04:41.531 That's 216,000 denials.
+00:04:45.994 The misalignment of incentives
+00:04:47.870 is so clear and abundant
+00:04:49.956 that it is shocking
+00:04:51.165 that this continues.
+00:04:52.750 It is absolutely in the insurance
+00:04:54.711 company's best interest
+00:04:56.379 to deny as often as legally possible,
+00:04:59.590 regardless of the claim.
+00:05:01.718 But let's not forget
+00:05:03.177 this isn't a rejection
+00:05:04.595 of auto insurance.
+00:05:06.139 This is possibly preventing a human
+00:05:08.266 being in their most vulnerable state
+00:05:10.977 from receiving care that they need.
+00:05:13.396 But if we dig deeper,
+00:05:14.856 it continues to get worse.
+00:05:17.025 Prior
+00:05:17.442 authorizations are a form of approval
+00:05:19.694 that insurance companies must provide
+00:05:21.821 for certain types of care.
+00:05:23.489 This means that if a doctor requires
+00:05:25.366 a certain type of care
+00:05:26.284 for their patient
+00:05:27.368 before they can proceed,
+00:05:29.078 they must get approval
+00:05:30.204 from the insurance company.
+00:05:31.831 Again,
+00:05:32.623 insurance payers claim
+00:05:34.208 that this is to ensure
+00:05:35.918 that care being provided
+00:05:37.128 is actually needed, but often it leads
+00:05:40.214 to extremely negative consequences.
+00:05:42.925 For instance,
+00:05:43.926 30% of radiation oncologists
+00:05:46.804 have had a patient
+00:05:47.764 admitted into the emergency room
+00:05:49.849 or have permanent disability
+00:05:52.268 due to prior authorizations.
+00:05:54.562 This means that a patient was prevented
+00:05:56.773 from getting care in a timely manner
+00:05:59.275 because of the administrative burden
+00:06:01.110 of prior authorizations,
+00:06:02.862 and the outcome was life changing
+00:06:05.907 to receive authorization.
+00:06:07.658 These oncologists need to draft
+00:06:09.410 an explanation
+00:06:10.453 for the insurance companies
+00:06:11.996 that is reviewed by a doctor,
+00:06:13.706 referred to as a peer.
+00:06:15.833 However, 35%
+00:06:17.919 of these peers aren't oncologists,
+00:06:21.339 but this isn't solely an issue
+00:06:23.257 for oncology.
+00:06:24.550 Across all specialties, doctors claim
+00:06:27.595 that peers are only qualified
+00:06:29.889 15% of the time.
+00:06:32.683 One of the reasons
+00:06:33.643 the insurance companies
+00:06:34.685 are able to behave this way
+00:06:36.437 is because of market concentration.
+00:06:38.898 73% of commercial markets, 71%
+00:06:41.859 of Medicare Advantage
+00:06:42.902 markets, and 90% of ACA
+00:06:45.154 markets are considered
+00:06:46.406 highly concentrated.
+00:06:47.990 Some would argue this is a good thing,
+00:06:50.118 because theoretically it would mean
+00:06:51.619 that these insurance companies
+00:06:53.121 can negotiate
+00:06:53.955 better rates with hospitals,
+00:06:55.498 and a smaller
+00:06:56.332 number of payers
+00:06:57.417 would lower administrative burden.
+00:06:59.752 But in reality, this is just not true.
+00:07:02.922 Multiple mergers
+00:07:04.215 have been studied over the years,
+00:07:05.591 including Aetna and Prudential,
+00:07:07.343 UnitedHealth and Sierra and more.
+00:07:09.637 When studied, the results are almost
+00:07:11.889 always the same.
+00:07:13.182 Premiums rise
+00:07:14.600 as the market consolidates.
+00:07:16.853 Instead of passing on savings
+00:07:18.396 to customers,
+00:07:19.063 insurers take advantage
+00:07:20.440 of their market dominance
+00:07:21.816 and increase prices and profits.
+00:07:24.235 And this competitive positioning
+00:07:25.987 is very hard to usurp.
+00:07:28.114 The barrier
+00:07:28.656 to entry of launching
+00:07:29.782 a new paper
+00:07:30.741 is very high due
+00:07:31.993 to regulatory requirements.
+00:07:33.703 Anti-competitive practices and scale.
+00:07:36.456 These insurance companies
+00:07:37.665 have gone a step further
+00:07:39.250 and have begun to vertically integrate
+00:07:41.377 in 2010.
+00:07:42.253 The Affordable Care Act
+00:07:43.421 effectively capped insurance
+00:07:44.922 profit margins
+00:07:46.007 by requiring
+00:07:46.757 that insurers spend 80 to 85%
+00:07:49.719 of what they collect
+00:07:50.678 on medical services.
+00:07:52.263 While this sounds nice in theory,
+00:07:54.182 in practice
+00:07:54.974 it led to insurance
+00:07:56.142 companies seeking profits elsewhere.
+00:07:58.644 For example, UnitedHealth directly
+00:08:01.063 employs 10,000 physicians
+00:08:03.983 and has commercial ties
+00:08:05.234 to an additional 80,000, combined
+00:08:08.321 that is 10% of all American doctors.
+00:08:11.574 Again, this might sound nice,
+00:08:13.242 but as you concentrate more power
+00:08:15.328 into the hands of a few payers,
+00:08:17.163 the ability to increase prices
+00:08:19.123 and generate greater profits
+00:08:21.042 also rises.
+00:08:22.752 This again
+00:08:23.711 is at odds
+00:08:24.420 with the goal of achieving
+00:08:25.546 better health outcomes.
+00:08:27.215 The problem
+00:08:27.757 with the current US health
+00:08:28.966 care insurance regime is that success
+00:08:31.511 for insurance
+00:08:32.220 companies is not success
+00:08:33.846 for the patients.
+00:08:35.139 The unnecessary complexity
+00:08:36.974 of the regime,
+00:08:37.808 mixed with the consolidated power
+00:08:39.977 of the major players, has failed
+00:08:42.313 to lower costs
+00:08:43.272 or improve patient outcomes.
+00:08:45.316 Put simply, it is fundamentally broken.
+00:08:51.364 We've
+00:08:51.572 talked a lot about US
+00:08:52.949 health insurance companies,
+00:08:54.367 but they aren't
+00:08:55.076 the only reason
+00:08:56.077 the health care system is broken.
+00:08:58.204 Health care
+00:08:58.663 providers are also
+00:08:59.956 a part of the problem.
+00:09:01.457 Let's start off with doctors.
+00:09:03.334 This might be hard
+00:09:04.210 for some to believe,
+00:09:05.127 but US doctors are a major contributor
+00:09:08.005 to the overpriced healthcare system.
+00:09:10.883 Take a look at this chart.
+00:09:12.218 It shows the compensation for US
+00:09:14.220 doctors compared
+00:09:15.221 to doctors of other countries.
+00:09:17.181 There are many reasons
+00:09:18.391 why doctors in the US are paid more,
+00:09:20.434 but one of the primary drivers
+00:09:22.311 is the low supply of doctors.
+00:09:24.981 The US has 2.6 practicing physicians
+00:09:27.984 per 1000 people,
+00:09:29.652 compared to the OECD average of 3.7.
+00:09:32.780 But why are there so few doctors
+00:09:34.490 in the US? Simple.
+00:09:36.492 The American Medical Association
+00:09:38.661 artificially constrained supply.
+00:09:41.455 20 years ago,
+00:09:42.707 the AMA
+00:09:43.541 lobbied to reduce
+00:09:44.500 the number of medical schools,
+00:09:46.127 cap federal funding for residencies,
+00:09:48.546 and cut a quarter
+00:09:49.964 of all residency positions.
+00:09:52.008 Because, I quote, they were worried
+00:09:54.719 of an impending surplus of physicians.
+00:09:57.763 This disgusting
+00:09:59.015 move of regulatory capture,
+00:10:00.850 influenced by greed,
+00:10:02.143 meant
+00:10:02.476 the number of medical school
+00:10:03.686 graduates in 1980 was the same as 2005,
+00:10:08.190 even though the US population
+00:10:10.735 increased by 30%.
+00:10:13.613 Now it isn't all the doctor's fault.
+00:10:15.990 Hospital groups
+00:10:16.782 and investors are also a big problem.
+00:10:19.702 Similar to insurance, consolidation
+00:10:21.954 in hospitals
+00:10:22.705 and physician practices is very common.
+00:10:25.458 One of the key drivers
+00:10:26.709 for consolidation is the high
+00:10:28.210 administrative burden
+00:10:29.462 for physicians to remain independent.
+00:10:31.839 Managing all the complexity
+00:10:33.382 of a US
+00:10:33.924 healthcare system
+00:10:34.884 can not only be time consuming,
+00:10:36.969 but costly. By joining larger groups
+00:10:39.513 physicians are often able
+00:10:40.848 to avoid dealing
+00:10:41.641 with administrative headache
+00:10:43.017 that comes with a smaller practice.
+00:10:45.186 Over the past 20 years,
+00:10:46.687 there have been 1000 mergers
+00:10:48.689 among the country's
+00:10:49.482 5000 hospitals,
+00:10:51.192 and this extends beyond hospitals.
+00:10:53.277 Today, three out of every four doctors
+00:10:56.113 now works for a corporate group
+00:10:57.990 or hospital.
+00:10:59.200 Much of this has been executed
+00:11:01.035 by private equity firms.
+00:11:02.703 The one benefit of private equity
+00:11:04.372 is that it
+00:11:04.747 generally lowers costs
+00:11:05.915 within practices,
+00:11:07.041 which should, in theory,
+00:11:08.709 lead to lower prices for patients.
+00:11:10.878 However, given patients
+00:11:12.380 are captive customers,
+00:11:13.923 private equity groups
+00:11:14.924 are fully incentivized
+00:11:16.300 to increase prices.
+00:11:17.885 It's the perfect investment.
+00:11:20.137 Based on a recent study.
+00:11:21.472 When PE firms control
+00:11:22.765 more than 30% of a market.
+00:11:24.725 Prices rise meaningfully.
+00:11:26.769 Specifically, the study saw price
+00:11:28.896 rises of 18%, 16%, and 13%
+00:11:33.359 for Gastro
+00:11:34.276 OBGYN and dermatological practices,
+00:11:36.862 respectively.
+00:11:37.988 One of the most egregious
+00:11:39.365 examples of price rises
+00:11:41.242 was US Anesthesia Partners.
+00:11:43.619 After achieving
+00:11:44.370 significant market
+00:11:45.371 concentration in Denver.
+00:11:47.123 USAP was noted as charging
+00:11:49.291 reimbursement rates
+00:11:50.668 30 to 40% higher than competing groups.
+00:11:54.463 By acquiring a large
+00:11:55.965 share of anesthesiologists
+00:11:57.758 in the Denver area,
+00:11:59.260 payers and patients
+00:12:00.553 had little to no choice
+00:12:02.471 but to pay whatever USAP asked.
+00:12:05.558 All of this
+00:12:06.392 while USAP lowered their own costs.
+00:12:10.354 The saddest part?
+00:12:11.564 Quality of care doesn't increase
+00:12:14.066 and might actually decrease.
+00:12:16.444 A University of Chicago study
+00:12:18.654 found that PE ownership
+00:12:20.030 of nursing homes led to a 10% rise
+00:12:23.409 in short term mortality rates.
+00:12:25.995 Another Harvard study
+00:12:27.455 found that quality of care
+00:12:28.956 declined once
+00:12:30.040 a hospital was acquired by PE firms.
+00:12:32.460 They noted a 25% increase
+00:12:35.004 in hospital complications
+00:12:36.714 and a 38% increase
+00:12:38.591 in bloodstream infections.
+00:12:40.426 Although this may seem
+00:12:41.469 surprising to some,
+00:12:42.595 it makes perfect sense.
+00:12:44.889 To maximize profits,
+00:12:46.265 the best course of action
+00:12:47.933 is to increase the revenue
+00:12:49.518 per patient, per doctor.
+00:12:51.145 This operating leverage
+00:12:52.480 will definitely increase margins,
+00:12:54.273 but may compromise the quality of care.
+00:12:57.151 And since most PE deals are financed
+00:12:59.528 with large sums of debt,
+00:13:01.280 investors are under pressure
+00:13:02.865 to generate additional free cash flow
+00:13:04.992 to pay down the debt.
+00:13:06.577 This might mean cutting corners
+00:13:08.537 to stay afloat,
+00:13:09.789 but it isn't just private hospitals
+00:13:11.624 or PE back rooms
+00:13:12.792 that are part of the problem.
+00:13:14.335 Even nonprofits
+00:13:15.544 hospitals are exemplifying
+00:13:17.046 extreme greed.
+00:13:19.006 For example, the former CEO of UPMC,
+00:13:22.301 a nonprofit hospital, made nearly
+00:13:24.762 $13 million in fiscal year 2022.
+00:13:29.058 Yes, the head of a nonprofit
+00:13:31.727 hospital made nearly $13 million.
+00:13:35.022 When asked about his compensation,
+00:13:37.066 this is what he had to say.
+00:13:38.984 Well, that's your judgment of it.
+00:13:40.903 I think my board determines
+00:13:43.239 what the appropriate
+00:13:44.281 compensation is for me
+00:13:45.658 and for all the other executives.
+00:13:47.368 The conclusion for health care
+00:13:48.702 providers, again, is simple
+00:13:50.788 the pursuit of controlling supply
+00:13:53.082 has led to the ability
+00:13:54.542 to drive up price
+00:13:55.793 without concerns for quality of care.
+00:13:58.420 This applies to doctors
+00:13:59.880 who have artificially lowered
+00:14:01.090 their numbers, and clinic groups
+00:14:02.675 who continue to consolidate
+00:14:04.093 doctors and power.
+00:14:08.973 The last element we
+00:14:10.015 will explore is pharma.
+00:14:11.725 The United States represents
+00:14:13.394 approximately 44% of the world's
+00:14:15.688 pharmaceutical market.
+00:14:17.064 That's over
+00:14:17.606 $600 billion on a per capita basis.
+00:14:21.068 The US spends more on drugs
+00:14:22.528 than anyone else, spending nearly 50%
+00:14:25.281 more than the next highest
+00:14:26.615 country, Germany.
+00:14:28.075 But why? Is the US
+00:14:29.743 just buying different,
+00:14:30.786 better medicines?
+00:14:32.204 No.
+00:14:32.955 In fact,
+00:14:33.581 they're buying
+00:14:34.206 the exact same medicines.
+00:14:36.584 But just paying a lot more.
+00:14:39.003 When Bloomberg analyzed
+00:14:40.379 eight of the best
+00:14:41.213 selling drivers in the US,
+00:14:42.882 even after applying discounts,
+00:14:45.009 all but one or more expensive in the US
+00:14:47.887 than any other major country,
+00:14:50.055 and generally by a wide margin.
+00:14:53.475 One of the more extreme
+00:14:54.685 examples is for the chronic
+00:14:56.103 myeloid leukemia pill Gleevec,
+00:14:58.689 which costs $90,000 a year more
+00:15:01.358 in the US
+00:15:02.234 than the rest of the world, on average.
+00:15:04.320 The craziest part about this, though?
+00:15:06.363 The difference in
+00:15:07.072 price is not just limited
+00:15:08.616 to the US and other countries.
+00:15:10.576 Even within states and counties,
+00:15:12.995 people pay different prices.
+00:15:15.039 Take a commonly used generic versions
+00:15:17.499 of a prostate cancer treatment, Zytiga
+00:15:20.252 they have more than 2200 prices
+00:15:22.755 in Medicare plans.
+00:15:24.131 For example, in Northern Michigan
+00:15:26.050 you'll pay $815,
+00:15:28.969 but hop around to Lake Michigan
+00:15:31.055 and it jumps to nearly $3,400.
+00:15:35.267 One of the reasons given
+00:15:36.310 by pharmaceutical companies
+00:15:37.645 as to the high price of drugs
+00:15:39.313 is R&D costs.
+00:15:40.648 R&D is often the largest expense
+00:15:42.858 for pharma companies,
+00:15:44.151 generally comprising
+00:15:45.277 20 to 40% of revenues.
+00:15:47.488 In addition,
+00:15:48.155 the vast majority of all drug ideas
+00:15:50.407 fail,
+00:15:51.158 making the process
+00:15:52.034 to identify and commercialize
+00:15:53.869 a new drug
+00:15:54.954 extremely time consuming and risky.
+00:15:57.998 However, pharma
+00:15:58.958 companies still generate
+00:16:00.376 substantial margins
+00:16:01.543 and returns on invested capital
+00:16:03.587 as outside of R&D.
+00:16:05.130 These pharma companies
+00:16:06.173 are extremely capital efficient,
+00:16:08.467 and clearly pharma companies
+00:16:10.094 are charging less to other countries.
+00:16:12.721 The main reason medicine in the US is
+00:16:14.807 so expensive
+00:16:15.975 is because,
+00:16:16.475 unlike the rest of the developed world,
+00:16:18.727 the US government does
+00:16:19.770 not negotiate directly
+00:16:21.397 with pharma companies.
+00:16:22.690 In fact, they aren't even allowed to,
+00:16:24.525 as per
+00:16:25.234 the Medicare Noninterference clause,
+00:16:28.028 by spreading the negotiating power
+00:16:29.863 across payers.
+00:16:31.156 The US is unable to realize the scale
+00:16:33.826 benefits that it has.
+00:16:35.536 This negotiating power
+00:16:36.912 was further eroded
+00:16:38.330 when the Medicaid drug
+00:16:39.623 rebate program was put in place.
+00:16:41.625 In essence, the program
+00:16:42.835 set a maximum
+00:16:43.711 price for drugs within Medicaid.
+00:16:45.546 But in doing so,
+00:16:46.630 pharma companies
+00:16:47.589 made up for the lost
+00:16:48.757 revenue with other payers.
+00:16:50.801 The problem with pharma
+00:16:52.011 is not only about prices,
+00:16:53.887 but it's also about ethics.
+00:16:55.848 In 2014,
+00:16:56.974 the open Payments
+00:16:57.975 Database was launched to disclose
+00:16:59.893 financial relationships
+00:17:01.353 between health care providers
+00:17:02.896 and pharma companies.
+00:17:04.314 Now, you might ask,
+00:17:05.357 outside of employment,
+00:17:06.525 why would pharma companies pay doctors?
+00:17:09.403 Very simple.
+00:17:10.820 Pharma companies
+00:17:11.696 want people to use their medicines,
+00:17:13.449 and the only thing in their way
+00:17:15.367 is a doctor prescribing it.
+00:17:17.077 To this end,
+00:17:17.786 they offer illegal kickbacks
+00:17:19.288 and other incentives
+00:17:20.539 to ensure
+00:17:21.248 that doctors recommend their drug
+00:17:23.083 and not someone else's.
+00:17:24.792 Sadly, this behavior is on the rise.
+00:17:27.212 Since
+00:17:27.503 2014, payments have grown from 6.5
+00:17:30.340 billion to $12.8 billion.
+00:17:34.053 Not all of this is illegal,
+00:17:36.055 but in our view,
+00:17:37.014 almost all of it is a gray area.
+00:17:39.516 How can you be sure
+00:17:40.601 that a doctor will be objective
+00:17:42.895 if they have pharma companies
+00:17:44.229 supporting their research,
+00:17:45.773 giving them speaking fees,
+00:17:47.274 hiring them as consultants?
+00:17:48.817 And most atrocious
+00:17:49.777 of all, paying them kickbacks.
+00:17:52.071 There are dozens of examples
+00:17:53.697 of bad behavior.
+00:17:54.907 Novartis in 2010, Pfizer in 2014,
+00:17:58.035 and then more recently, Purdue Pharma
+00:18:00.245 with the opioid crisis.
+00:18:02.081 This is not a financial crime.
+00:18:04.124 Rather, it is a crime against humanity.
+00:18:07.002 The pharma system is very, very broken.
+00:18:10.297 Not only do Americans
+00:18:11.632 pay exorbitant amounts
+00:18:13.008 for the same drug,
+00:18:14.259 but they can't even be sure
+00:18:15.594 that they are being prescribed
+00:18:16.804 the right medicines.
+00:18:21.100 Now, that was a ton of information.
+00:18:23.685 And frankly,
+00:18:24.603 we cut out a lot,
+00:18:25.938 including the impact of PBMs,
+00:18:27.940 hidden fees, price transparency.
+00:18:30.067 The problems with Medicare Advantage,
+00:18:32.152 the destruction of rural hospitals,
+00:18:34.404 and more.
+00:18:35.405 Simply put,
+00:18:36.240 the US health care
+00:18:37.241 system is a behemoth,
+00:18:38.826 and it is very complicated.
+00:18:41.203 But from this complexity rises
+00:18:43.163 extreme inefficiency
+00:18:44.665 and the failure
+00:18:45.624 to achieve the right health outcomes.
+00:18:47.793 That said,
+00:18:48.544 if you are wealthy
+00:18:49.545 and financially stable,
+00:18:51.171 the US health care system
+00:18:52.506 is likely the best on Earth.
+00:18:55.175 The US has the most advanced
+00:18:56.593 technologies,
+00:18:57.386 the most advanced facilities,
+00:18:59.304 arguably the best doctors in the world.
+00:19:02.015 The catch?
+00:19:03.016 You must be able
+00:19:04.268 and willing to pay for it.
+00:19:06.478 The US health care
+00:19:07.396 system is a Lamborghini.
+00:19:09.356 Yes, it is capable, but at what cost?
+00:19:12.943 Would we accept
+00:19:13.986 a world
+00:19:14.653 where the only car you can drive
+00:19:16.238 was a luxury vehicle?
+00:19:18.198 No.
+00:19:19.116 Medicine is an enterprise.
+00:19:20.951 Sure.
+00:19:21.743 But it's different.
+00:19:22.995 It's not about selling
+00:19:24.204 the tastiest cheeseburger.
+00:19:25.873 Nor is it about changing your car tire,
+00:19:28.208 so you can get to work.
+00:19:29.501 It is life or death.
+00:19:31.461 It is as human as it gets.
+00:19:33.755 And even if
+00:19:34.548 you are opposed to a government run
+00:19:36.425 health care model,
+00:19:37.718 you have to admit that those models
+00:19:40.179 are still better
+00:19:41.471 than what the US has today.
+00:19:43.390 Not only is the US
+00:19:44.975 the most expensive in the world,
+00:19:47.352 but it also has
+00:19:48.353 some of the worst outcomes
+00:19:50.022 in the developed world.
+00:19:51.481 If you have watched our channel
+00:19:52.816 for a while,
+00:19:53.817 you might have ascertained
+00:19:55.611 that we're not exactly socialist.
+00:19:57.863 In fact,
+00:19:58.739 you might argue
+00:19:59.907 we are quite pro-business.
+00:20:02.117 But don't let that fool you.
+00:20:03.785 Above everything else,
+00:20:04.912 we care about ethics and outcomes.
+00:20:07.456 And to us, it doesn't matter
+00:20:09.374 whether the US system is public
+00:20:11.251 or private.
+00:20:12.252 The fact of the matter is,
+00:20:14.087 it is a disaster.
+00:20:16.715 It is a system that would reject care
+00:20:18.884 to a sick child
+00:20:20.344 because of prior authorization.
+00:20:22.387 It is a system
+00:20:23.222 that would increase
+00:20:24.056 emergency medicine fees
+00:20:25.682 and surprise recovering patients
+00:20:27.935 with an insurmountable bill.
+00:20:29.895 It is a system where costs continue
+00:20:32.105 to rise, outcomes continue to decline,
+00:20:35.234 and nothing seems to improve.
+00:20:37.694 So we must ask ourselves, is
+00:20:39.863 greed always good?
+00:20:42.824 Thank you for watching.
+00:20:44.076 Subscribe to 2&20
+00:20:45.744 for more on business, economics
+00:20:48.163 and politics.

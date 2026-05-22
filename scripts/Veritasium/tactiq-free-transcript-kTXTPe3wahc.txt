@@ -1,0 +1,539 @@
+# tactiq.io free youtube transcript
+# Parallel Worlds Probably Exist. Here’s Why
+# https://www.youtube.com/watch/kTXTPe3wahc
+
+00:00:00.000 a portion of this video was sponsored by
+00:00:01.979 Norton 360 classical mechanics is great
+00:00:05.609 if you know the state of a system say
+00:00:08.340 the position and velocity of a particle
+00:00:10.349 then you can use an equation Newton's
+00:00:12.840 second law to calculate what that
+00:00:14.280 particle will do in the future in
+00:00:16.460 quantum mechanics if you know the
+00:00:18.600 quantum state of a particle that is its
+00:00:21.000 wave function you can use the
+00:00:22.800 Schrodinger equation to calculate what
+00:00:24.539 that particle will do in the future
+00:00:26.550 usually it spreads out over time as it
+00:00:29.310 is doing here note to make this
+00:00:31.470 animation we really solved the
+00:00:34.020 Schrodinger equation so there's a
+00:00:36.180 beautiful symmetry here if you know the
+00:00:38.670 initial state you can use an equation to
+00:00:41.190 evolve that state smoothly and
+00:00:43.440 continuously into the future the problem
+00:00:46.710 is in quantum mechanics we never
+00:00:48.690 actually observe the wave function like
+00:00:50.760 this instead when we measure it we find
+00:00:53.820 the particle at a single point in space
+00:00:56.030 so how are we to reconcile the
+00:00:58.649 spread-out wavefunction evolving
+00:01:00.750 smoothly under the Schrodinger equation
+00:01:02.250 with this point like particle detection
+00:01:04.830 now I think it's understandable that
+00:01:07.530 when the founders of quantum theory
+00:01:09.000 approached this problem they considered
+00:01:11.220 the measurement more real than the
+00:01:13.619 wavefunction after all the measurement
+00:01:16.080 was something we had actually observed
+00:01:18.060 and it matches our experience of a world
+00:01:21.150 of matter particles it was harder to say
+00:01:24.509 what the wavefunction was exactly
+00:01:26.630 Schrodinger formulated his wave equation
+00:01:29.280 because scientists notably debroglie
+00:01:31.549 suspected that matter has wave-like
+00:01:33.600 properties but it took a third physicist
+00:01:36.600 Max Born to propose how we should
+00:01:39.030 interpret the wave function at each
+00:01:41.880 point in space the wave function has a
+00:01:43.740 complex amplitude essentially just a
+00:01:46.110 real number plus an imaginary number Max
+00:01:48.689 Born suggested if you take that
+00:01:50.220 amplitude and square it you get the
+00:01:52.560 probability of finding the particle
+00:01:54.570 there the fact that you have to square
+00:01:57.090 the amplitude actually appears as a last
+00:01:59.040 minute footnote in boran's paper but
+00:02:01.530 that is how probability was introduced
+00:02:04.380 into the core of our picture of reality
+00:02:07.140 that's a pretty big philosophical leap I
+00:02:09.780 mean no longer is the universe
+00:02:11.610 deterministic
+00:02:12.630 this made a lot of scientists especially
+00:02:14.550 Einstein uncomfortable but the born rule
+00:02:17.460 as it is now called remains at the heart
+00:02:19.860 of quantum mechanics because it is
+00:02:21.180 spectacularly successful at predicting
+00:02:23.610 the outcomes of experiments so the way
+00:02:26.100 quantum mechanics came to be understood
+00:02:27.300 and the way I learned it is that there
+00:02:29.910 are two sets of rules when you're not
+00:02:32.580 looking the wave function simply evolves
+00:02:34.830 according to the Schrodinger equation
+00:02:35.850 but when you are looking when you make a
+00:02:38.190 measurement the wavefunction collapses
+00:02:40.350 suddenly and irreversibly and the
+00:02:42.750 probability of measuring any particular
+00:02:44.670 outcome is given by the amplitude of the
+00:02:47.010 wave function associated with that
+00:02:48.510 outcome squared now Schrodinger himself
+00:02:51.720 hated this formulation which is actually
+00:02:54.750 why he invented the famous Schrodinger's
+00:02:57.060 cat thought experiment put a cat in a
+00:02:59.640 box with a radioactive atom add a
+00:03:02.330 radiation detector that triggers the
+00:03:04.530 release of poisonous cyanide gas now
+00:03:07.740 although it was only meant as a thought
+00:03:09.600 experiment Schrodinger helpfully notes
+00:03:11.490 this device must be secured against
+00:03:14.040 direct interference by the cat anyway
+00:03:16.800 the whole point of the experiment is to
+00:03:19.110 magnify the state of the atom up to the
+00:03:20.910 state of something macroscopic and
+00:03:22.380 tangible he could have picked anything
+00:03:24.570 it didn't have to be alive but
+00:03:26.580 Schrodinger selected a cat if the atom
+00:03:29.610 decays the detector detects radiation
+00:03:32.040 releases the poison and the cat dies if
+00:03:35.040 the atom doesn't decay the detector
+00:03:37.230 doesn't detect radiation poison is not
+00:03:39.030 released and the cat remains alive since
+00:03:42.030 the state of the cat and detector
+00:03:43.980 apparatus are directly tied to the state
+00:03:46.080 of the atom we say they are entangled
+00:03:49.340 where things get weird is that according
+00:03:51.870 to quantum mechanics the state of the
+00:03:53.460 atom does not have to be either decayed
+00:03:55.620 or not decayed generally it's in a
+00:03:57.870 superposition of both decayed and not
+00:04:00.300 decayed at the same time assuming no
+00:04:02.850 measurements have been made this
+00:04:04.790 superposition state of the atom gets
+00:04:07.020 entangled with the detector and then the
+00:04:09.960 cat so after some time the wavefunction
+00:04:13.200 of everything inside the box is in a
+00:04:15.210 superposition of the atom has not
+00:04:17.579 decayed poison not released cat a live
+00:04:19.890 state and the atom has decayed poison
+00:04:23.040 released cat dead
+00:04:24.430 date so according to quantum mechanics
+00:04:26.800 the cat really is both alive and dead at
+00:04:31.000 the same time only when we open the box
+00:04:33.430 and make a measurement does the
+00:04:34.960 wavefunction collapse and the cat
+00:04:37.000 actually becomes either dead or alive
+00:04:40.180 these days Schrodinger's cat is often
+00:04:42.699 used as a way to show how weird quantum
+00:04:45.070 mechanics is but that wasn't
+00:04:46.840 Schrodinger's point he wanted to show
+00:04:49.150 that quantum mechanics as formulated was
+00:04:51.490 wrong so taking up Schrodinger's
+00:04:54.520 argument in this video I want to show
+00:04:56.410 that there is a better way to think
+00:04:58.060 about Schrodinger's cat
+00:04:59.410 in fact a better way to think about
+00:05:01.539 quantum mechanics entirely that I'd
+00:05:03.699 argue is more logical and consistent to
+00:05:07.030 get there we have to examine the three
+00:05:09.009 essential components of Schrodinger's
+00:05:10.930 cat superposition entanglement and
+00:05:13.570 measurement to see if any of them is
+00:05:15.849 flawed the superposition is the idea
+00:05:18.400 that quantum objects can be in two
+00:05:20.080 different states at the same time this
+00:05:22.240 seems like a crazy idea and something
+00:05:24.250 we'd never observe but we do indirectly
+00:05:26.860 with the double slit experiment fire
+00:05:29.349 individual electrons through two slits
+00:05:31.270 at a screen and the pattern you see is
+00:05:33.520 not just the sum of electrons going
+00:05:35.169 separately through one slit and the
+00:05:37.000 other slit it is an interference pattern
+00:05:39.580 we are forced to conclude that a single
+00:05:43.000 electron somehow goes through one slit
+00:05:45.729 and the other slit simultaneously
+00:05:48.039 this is superposition of course it's
+00:05:51.099 easy to understand superposition with
+00:05:52.720 waves they are spread out in space and
+00:05:55.479 it's clear how the peak of a wave from
+00:05:58.030 one slit cancels with the trough of the
+00:05:59.889 wave from another slit to produce the
+00:06:01.900 interference pattern and luckily we know
+00:06:04.300 that when we're not looking electrons
+00:06:06.099 are represented by a wave the wave
+00:06:08.710 function the double slit experiment then
+00:06:11.199 is concrete evidence that this wave
+00:06:13.060 enables individual electrons to pass
+00:06:15.039 through both slits at the same time so
+00:06:18.099 superposition is on solid ground the
+00:06:21.520 next concept is entanglement consider
+00:06:23.919 two electrons fired toward each other
+00:06:25.659 with equal and opposite velocities we
+00:06:28.300 know they will scatter off each other
+00:06:29.650 but we don't know exactly how their
+00:06:32.050 trajectories are given by spread out
+00:06:34.000 wave functions that only give us
+00:06:35.590 probabilities
+00:06:37.050 but as soon as we measure the momentum
+00:06:38.729 of one of the electrons we immediately
+00:06:41.400 know the momentum of the other one it
+00:06:43.979 must be equal and opposite otherwise
+00:06:46.110 conservation of momentum would be
+00:06:47.639 violated now this may seem obvious but
+00:06:51.389 consider that before the measurement the
+00:06:53.460 momentum of each electron was in a
+00:06:55.139 superposition of states measuring one
+00:06:58.039 instantaneously collapsed the
+00:06:59.610 wavefunction of the other and this would
+00:07:01.949 be true even if those electrons were
+00:07:03.840 light-years apart these electrons are
+00:07:06.930 entangled what's really going on here is
+00:07:09.990 that after interacting the electrons do
+00:07:12.449 not have separate wave functions at all
+00:07:14.460 they are described by a single wave
+00:07:17.370 function and this is what it means to be
+00:07:19.680 entangled this explains why measuring
+00:07:22.050 one immediately affects the state of the
+00:07:24.060 other one because the single wave
+00:07:26.130 function has collapsed in fact if we
+00:07:28.949 were being rigorous we'd have to say
+00:07:30.330 that there is only one wave function the
+00:07:32.849 wave function of the entire universe
+00:07:35.009 which includes absolutely everything but
+00:07:38.460 in the case of isolated unentangled
+00:07:40.469 quantum particles we can reasonably talk
+00:07:42.719 about their individual wave functions
+00:07:44.550 and then once they interact with
+00:07:46.259 something else entanglement is the
+00:07:48.509 result so what we've seen is
+00:07:51.449 superposition is really the same thing
+00:07:53.279 as describing systems with waves an
+00:07:55.590 entanglement means that after particles
+00:07:58.139 interact they are described by a single
+00:08:00.060 wave function these are fundamental
+00:08:03.000 parts of quantum theory describing
+00:08:04.560 systems with wave functions that evolve
+00:08:06.719 according to the Schrodinger equation
+00:08:08.150 which leaves only measurement remember
+00:08:11.880 the measurement postulate was added as a
+00:08:14.340 second set of rules to connect the
+00:08:16.380 mathematics of quantum mechanics to what
+00:08:18.389 we actually observe but doesn't it seem
+00:08:21.810 weird that there should be one rule for
+00:08:23.969 how systems evolve when we're not
+00:08:25.469 looking and a different rule for when we
+00:08:27.659 are when you boil it down measurement is
+00:08:30.900 just the interaction of one quantum
+00:08:32.909 system electrons and photons with
+00:08:34.770 another quantum system and we know
+00:08:37.049 exactly how to deal with that we simply
+00:08:39.779 evolve their wave functions according to
+00:08:41.789 the Schrodinger equation so what if we
+00:08:44.550 throw out all the rules associated with
+00:08:46.949 measurement well then in the
+00:08:49.199 Schrodinger's cat thought experiment
+00:08:50.900 the radioactive atom in a superposition
+00:08:52.910 of decayed and not decayed gets
+00:08:55.370 entangled with the detector and in turn
+00:08:57.920 the cat now remember we are also made of
+00:09:00.860 electrons and atoms which obey the laws
+00:09:02.720 of quantum mechanics so we are quantum
+00:09:04.670 mechanical - so when we open the box
+00:09:07.190 there is no measurement no wavefunction
+00:09:09.740 collapse we simply get entangled with
+00:09:12.020 the state of everything inside the box
+00:09:14.029 so we see the cat alive and we see the
+00:09:18.230 cat dead now how is that possible I'm
+00:09:21.680 guessing you've never seen both an alive
+00:09:23.960 and dead cat before but the solution is
+00:09:26.960 it's because the you that saw the cat
+00:09:28.910 alive and the you that saw it dead
+00:09:30.950 actually inhabit separate worlds by that
+00:09:34.310 I mean they exist in their own complete
+00:09:36.950 realities and those realities will never
+00:09:38.660 interact but where did these separate
+00:09:41.240 worlds come from well something I
+00:09:43.700 haven't mentioned yet are all the
+00:09:45.170 particles of the environment the air
+00:09:46.850 molecules photons everything that we are
+00:09:49.310 not keeping track of if a quantum object
+00:09:52.279 in a superposition gets entangled with
+00:09:54.380 the environment it is said to undergo
+00:09:56.690 environmental decoherence this branches
+00:09:59.930 the wave function of the universe
+00:10:01.040 essentially
+00:10:02.180 splitting the universe into two slightly
+00:10:04.310 different copies so a more realistic
+00:10:07.430 account of Schrodinger's cat goes like
+00:10:09.290 this the radioactive atom evolves from
+00:10:12.050 100% not decayed into a quantum
+00:10:14.510 superposition of decayed and not decayed
+00:10:17.029 the detector becomes entangled with this
+00:10:19.760 superposition state of the atom but the
+00:10:23.240 detector is being bombarded by all these
+00:10:25.250 air molecules and photons in the box
+00:10:27.529 which would bounce off differently if it
+00:10:29.480 is detected radiation than if it hasn't
+00:10:31.730 so almost immediately the detector
+00:10:34.610 becomes entangled with the state of the
+00:10:36.709 environment it D coheres branching the
+00:10:39.740 wavefunction in to at that moment you
+00:10:43.279 are split into two identical copies one
+00:10:46.220 entangled with each outcome of the
+00:10:48.020 experiment you continue to be identical
+00:10:50.300 until you open the box but in this case
+00:10:52.430 the cat actually is alive or dead you
+00:10:54.620 were just finding out by opening the box
+00:10:56.330 what we are unaware of is that the other
+00:10:58.970 outcome also happened just to someone
+00:11:01.220 who is not you anymore I mean both
+00:11:03.200 observers
+00:11:03.950 came from you but they are no longer you
+00:11:05.960 and they're no longer identical to each
+00:11:07.910 other this interpretation of quantum
+00:11:12.410 mechanics is called many worlds and it
+00:11:14.240 was formulated by Hugh Everett and if
+00:11:16.760 it's true the branching of the
+00:11:18.410 wavefunction is happening all the time
+00:11:20.210 so frequently in fact that the rate may
+00:11:22.850 well be infinite creating infinite
+00:11:25.520 subtly different worlds all the time may
+00:11:27.500 sound implausible to put it mildly but
+00:11:30.440 consider that all those worlds are
+00:11:32.360 naturally part of the mathematics of
+00:11:34.070 quantum mechanics many worlds just takes
+00:11:36.590 them seriously to get rid of them
+00:11:38.990 requires something like the collapse of
+00:11:40.970 the wavefunction and the point is our
+00:11:43.760 experience of reality would be the same
+00:11:45.860 in the many-worlds picture as it is if
+00:11:47.930 the wavefunction collapses but the
+00:11:50.090 formalism is so much cleaner and more
+00:11:52.310 elegant all we have are wave functions
+00:11:54.380 that evolved under the Schrodinger
+00:11:56.360 equation the implication is that the
+00:11:58.730 founders of quantum theory may have got
+00:12:00.530 it exactly backwards the wavefunction is
+00:12:03.500 the complete picture of reality and our
+00:12:06.440 measurement is just a tiny fraction of
+00:12:08.810 it the part we become entangled with
+00:12:10.550 when we interact with a quantum object
+00:12:12.680 in a superposition the universe also
+00:12:15.230 goes back to being deterministic every
+00:12:17.450 outcome happens a hundred percent of the
+00:12:19.940 time it only doesn't look that way to us
+00:12:22.340 because we only experience our tiny
+00:12:24.770 sliver of the multiverse now I imagine
+00:12:28.130 that a lot of you have questions and
+00:12:30.020 possibly objections to this so I went to
+00:12:32.450 the expert okay so I wanted to make this
+00:12:37.880 video about many worlds but I was
+00:12:39.740 concerned I was gonna screw it up so
+00:12:41.600 I've come here to meet Caltech professor
+00:12:43.850 Sean Carroll who has literally written
+00:12:45.830 the book on many worlds look something
+00:12:48.470 deeply hidden available wherever books
+00:12:49.880 available
+00:12:50.900 let's ask probably the common sort of
+00:12:55.010 YouTube questions the good arguments
+00:12:57.770 against this yes how many how many
+00:13:01.130 worlds are there now the first one is
+00:13:03.020 energy energization
+00:13:04.370 how is energy conserved is completely
+00:13:06.980 clear in the math the energy of the
+00:13:10.610 whole wavefunction is a hundred percent
+00:13:12.860 super-duper conserved but there's a
+00:13:15.440 difference between the energy of the
+00:13:17.300 whole way
+00:13:17.699 function and the energy that people in
+00:13:19.889 each branch perceive so what you should
+00:13:22.799 think of is not duplicating the whole
+00:13:25.350 universe but taking a certain amount of
+00:13:27.509 universe and sort of subdividing it
+00:13:29.399 slicing it into two pieces the pieces
+00:13:32.279 look identical from the inside except
+00:13:34.919 that one has spin up the one has spin
+00:13:36.269 down or something like that but they're
+00:13:38.129 really contributing less than the
+00:13:40.109 original to the total energy of
+00:13:41.819 everything let's ask the question about
+00:13:44.100 how many words there are how frequently
+00:13:46.169 are they branching right we have no idea
+00:13:48.509 there's a short answer to this and I
+00:13:50.579 think it's embarrassing that we don't
+00:13:51.600 have any idea it's certainly often it's
+00:13:54.089 certainly a lot right the universe
+00:13:56.249 branches whenever a quantum system in
+00:13:58.139 superposition becomes entangled with its
+00:13:59.850 environment so you have atomic nuclei in
+00:14:04.199 your body that are radioactive they
+00:14:06.269 decay 5000 times a second there's a
+00:14:08.759 radioactive decay in your body every one
+00:14:11.309 of those either decays or doesn't do you
+00:14:12.929 think of it as a superposition once it
+00:14:14.459 decays it sort of interacts with what's
+00:14:16.049 around it becomes entangled and the
+00:14:18.509 universe branches its wave function
+00:14:20.249 right so branching is happening many
+00:14:22.499 many times a second just because a
+00:14:24.059 radioactive decays in your body now is
+00:14:26.489 it happening infinitely often we don't
+00:14:29.699 know because we don't know whether the
+00:14:31.799 total number of possible branches is
+00:14:34.230 infinitely big or finite its joy mungus
+00:14:37.259 by any stretch there's plenty of room
+00:14:39.179 for all these branches to exist and it
+00:14:41.309 might very well be finite but that the
+00:14:43.410 details hinge on things we don't
+00:14:45.179 understand about quantum gravity and
+00:14:47.069 cosmology and the theory of everything
+00:14:48.509 and all that stuff so it's a big number
+00:14:50.850 but we don't know how big let's deal
+00:14:52.439 with the misconception that many-worlds
+00:14:54.209 means everything that could possibly
+00:14:56.549 happen happens yeah that's not true many
+00:14:59.609 worlds means the wavefunction obeys the
+00:15:01.559 Schrodinger equation that's what it
+00:15:02.669 means the Schrodinger equation predicts
+00:15:04.619 many things could potentially happen but
+00:15:07.379 not everything so for example an
+00:15:10.109 electron will never convert into a
+00:15:11.699 proton it would violate conservation of
+00:15:14.609 mass conservation of charge all of these
+00:15:16.589 things things of the Schrodinger
+00:15:18.029 equation gives zero probability to ever
+00:15:20.609 happening what about you becoming
+00:15:22.289 president yes that could happen there
+00:15:24.509 there is a world in which you're
+00:15:26.069 president there is a world well to be
+00:15:28.049 SuperDuper clear
+00:15:30.010 not be me who is president Raney a
+00:15:31.540 version of me right right but there is
+00:15:33.460 the branching happens your those are two
+00:15:35.590 separate people now but there is a
+00:15:36.700 version of you who is currently
+00:15:38.140 president yes that's right and who was
+00:15:39.640 tweeting it's a very low amplitude world
+00:15:41.440 it's a very small probability but it's
+00:15:44.050 there yes I mean I think this is the way
+00:15:45.760 in which it feels more complicated than
+00:15:47.440 or it feels more ridiculous then
+00:15:51.850 Copenhagen because Copenhagen's like
+00:15:53.380 there's just one world this is it that's
+00:15:54.780 what you experience and but look the
+00:15:57.970 universe the good old universe
+00:16:00.010 forget about quantum mechanics okay just
+00:16:01.990 like the cows mantra universe where we
+00:16:03.190 see all the galaxies and everything we
+00:16:04.990 don't see the whole universe we see a
+00:16:06.550 finite amount of it because light moves
+00:16:08.350 at the speed of lights is a place beyond
+00:16:09.820 which we can't see the universe could be
+00:16:12.400 infinitely big we don't know
+00:16:14.860 it's certainly very plausible universe
+00:16:17.140 is infinitely big it's plausible that
+00:16:19.180 everywhere in the universe looks more or
+00:16:21.730 less like what we see with galaxies and
+00:16:24.040 stars in the whole bit if that's true
+00:16:26.520 there's an infinite number of copies of
+00:16:29.410 people exactly like you some of them are
+00:16:32.380 presidents some of them are winning NBA
+00:16:34.030 championships some of them are
+00:16:35.290 supermodels whatever this just because
+00:16:37.510 there's a lot of different shuffling
+00:16:38.890 around of the atoms okay has nothing to
+00:16:40.870 do with quantum mechanics or weirdness
+00:16:42.280 does that bother you does that like rub
+00:16:45.640 you the wrong way
+00:16:46.270 kind of I think but but but I agree it's
+00:16:49.690 less weird than the quantum idea and I
+00:16:52.540 think in both cases it's it's because
+00:16:55.150 you know human beings there's some
+00:16:57.130 cognitive bias I don't know what it's
+00:16:59.320 called but there's a cognitive bias that
+00:17:01.000 says the only probabilities for anything
+00:17:03.250 or 0% 50% 100% and when I tell you
+00:17:07.060 something can happen but the probability
+00:17:09.430 is really really really really really
+00:17:10.750 really really really low you feel like
+00:17:13.180 but it could happen
+00:17:13.980 let me focus on that come on that
+00:17:16.209 possibility that it happens I'm like no
+00:17:17.980 don't do that it's just not sufficiently
+00:17:20.920 probable that it's worth worrying about
+00:17:22.390 in any way when the world branches here
+00:17:25.270 does it branch instantly far away
+00:17:27.819 the answer is it's up to you this is the
+00:17:31.060 annoying part of the answer I can write
+00:17:33.190 down a description in which the
+00:17:35.530 branching happens instantly throughout
+00:17:37.000 all of space I use that description to
+00:17:39.070 make predictions about what people will
+00:17:40.960 see all those predictions come out
+00:17:42.990 percent completely true I can write an
+00:17:45.450 alternative description in which the
+00:17:47.160 branching sort of spreads out of the
+00:17:48.630 speed of light and I make a different
+00:17:50.790 set of predictions but guess what
+00:17:52.020 they're exactly the same predictions
+00:17:53.490 there's no difference between what those
+00:17:55.020 two pictures actually predict and what
+00:17:58.080 this is reflecting is God doesn't know
+00:18:01.110 about branches
+00:18:02.070 there's the wave function of the
+00:18:03.870 universe that's all it really exists
+00:18:05.970 okay
+00:18:06.540 breaking the wave function the universe
+00:18:08.340 into different pieces that you and I
+00:18:10.470 call branches or Worlds is very
+00:18:13.110 convenient for us human beings but
+00:18:15.720 that's all it is it's not built into the
+00:18:18.360 fabric of reality itself it's just like
+00:18:21.210 it's exactly like for the air in this
+00:18:23.580 room rather than listing the position
+00:18:26.730 and velocity of every single air
+00:18:28.110 molecule I just tell you the temperature
+00:18:29.880 and the pressure and things like that
+00:18:30.929 right that's a convenient description
+00:18:33.420 for us human beings it's not the full
+00:18:35.160 description of the reality and branches
+00:18:37.380 are exactly the same way so if you get
+00:18:39.059 annoyed that there's two different ways
+00:18:40.260 of describing the branching you have to
+00:18:42.540 remember that the whole idea of
+00:18:43.530 branching is just a human convenience
+00:18:46.790 hey this portion of the video is
+00:18:49.140 sponsored by Norton 360 a global leader
+00:18:51.570 in cyber safety Norton 360 comes with
+00:18:54.270 multiple layers of protection for your
+00:18:56.130 devices not just antivirus and
+00:18:58.200 anti-spyware but also things like dark
+00:19:00.450 web monitoring powered by LifeLock this
+00:19:02.910 software monitors the dark web for uses
+00:19:05.309 of your personal information now of
+00:19:07.679 course no one can prevent all cybercrime
+00:19:09.870 but it's important to take a
+00:19:11.400 multi-layered approach to protection
+00:19:12.929 because cyber threats are constantly
+00:19:14.880 evolving that's why Norton 360 also
+00:19:17.429 comes with a virtual private network or
+00:19:19.320 VPN a VPN creates a private encrypted
+00:19:22.200 data tunnel that helps prevent cyber
+00:19:23.700 criminals from hacking into your Wi-Fi
+00:19:26.010 and intercepting the data you are
+00:19:27.600 sending and receiving this is
+00:19:29.580 particularly useful when you're using
+00:19:31.200 public Wi-Fi I like to use it when I'm
+00:19:33.780 traveling so when I'm connecting to
+00:19:35.880 Wi-Fi is in hotels or airports or coffee
+00:19:38.160 shops it just gives me that extra peace
+00:19:40.770 of mind right now you can get up to 60%
+00:19:43.290 off by using promo code veritasium or by
+00:19:45.630 clicking the link in the description now
+00:19:47.730 Norton 360 has graciously given me
+00:19:49.470 Norton 360 deluxe to try out for myself
+00:19:51.750 and I'm really enjoying it so I want to
+00:19:54.330 thank
+00:19:54.750 three-sixty for sponsoring this portion
+00:19:56.490 of the video and I want to thank you for
+00:19:58.350 watching

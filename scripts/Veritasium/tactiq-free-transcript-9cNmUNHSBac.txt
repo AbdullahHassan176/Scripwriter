@@ -1,0 +1,303 @@
+# tactiq.io free youtube transcript
+# Most People Don't Know How Bikes Work
+# https://www.youtube.com/watch/9cNmUNHSBac
+
+00:00:00.000 Most people don't knowhow bicycles actually work.
+00:00:03.929 [Off screen] Let's try it again.
+00:00:04.645 So we modified this bike to prove it.
+00:00:11.850 This video was sponsored by KiwiCo.
+00:00:14.100 More about them at the end of the show.
+00:00:17.630 When you're riding a bikeand you want to turn left,
+00:00:20.120 I think most people just imagine
+00:00:21.610 you turn the handlebars to the left.
+00:00:23.840 This is a bike to testwhether that is true.
+00:00:26.490 And it's made by my friend Rick here.
+00:00:29.020 and he's got a radiocontroller that allows him
+00:00:31.490 to lock out the steering to one side.
+00:00:35.040 So, what he's gonna do is as I'm biking,
+00:00:36.730 he's gonna pick whether I can turn
+00:00:38.900 either to the left or to the right.
+00:00:40.670 So, go for it.
+00:00:42.210 [Rick] I'm giving it a left turn.
+00:00:43.800 It pulls the pin out,
+00:00:45.140 but you can see that youcan still fully steer
+00:00:48.200 after I've pulled the pin out.
+00:00:49.080 I've armed it.
+00:00:51.480 There's where it locks. - OK
+00:00:52.390 Now, that that's when your LED comes on
+00:00:55.110 and that just says turn that way.
+00:00:56.380 Turn left. - Yeah
+00:00:57.658 And if I try to turn right, I can't.
+00:01:00.070 And if I try to turn left-
+00:01:01.280 You can.
+00:01:02.113 I can.
+00:01:02.946 So the question is
+00:01:03.925 can I successfully executethis left-hand turn?
+00:01:07.436 Should we give it a shot?
+00:01:08.269 I mean, he's not gonna tellme whether it's left or right,
+00:01:09.910 so I have to look at the LED to know
+00:01:11.710 which way I can still turn.
+00:01:13.770 [Rick] You let meknow when you're ready.
+00:01:16.880 Okay.
+00:01:19.296 (exclaims)
+00:01:20.250 No!
+00:01:22.170 That was meant to be a turn to the right
+00:01:23.750 but there was no chance in hell.
+00:01:25.500 Left.
+00:01:26.553 (exclaims)
+00:01:27.830 Right.
+00:01:32.300 All right.
+00:01:33.181 (exclaims)
+00:01:35.460 Right, right, right!
+00:01:37.580 God!
+00:01:39.100 If you look closely,you can see the problem.
+00:01:41.900 Here, I'm trying to turn right
+00:01:44.150 but steering that way puts me off balance.
+00:01:47.930 If you could ride this bicycle,
+00:01:49.690 you would find it'simpossible to turn left
+00:01:51.950 without first steering right
+00:01:53.680 and it's impossible to turn right
+00:01:55.242 without first steering left.
+00:01:58.410 This seems wrong.
+00:02:00.410 I think most peoplebelieve you turn a bike
+00:02:02.008 simply by pointing the handlebars
+00:02:03.790 in the direction you want to go.
+00:02:05.500 After all, this is how you drive a car.
+00:02:08.550 Point the front wheelsany direction you like
+00:02:10.949 and the car just goes that way.
+00:02:13.350 But the difference with a bicycle
+00:02:14.828 is steering doesn't just affectthe direction you're headed;
+00:02:18.500 it also affects your balance.
+00:02:21.690 Imagine you want to make a right turn
+00:02:24.030 so you steer the handlebars to the right.
+00:02:26.600 What you've done is effectively
+00:02:28.630 steered the bike out from under you.
+00:02:31.180 So now you're leaning to the left
+00:02:33.860 and the ground puts a forceon the bike to the left
+00:02:36.209 so the only way not to fall
+00:02:38.040 is to steer the bike to the left.
+00:02:40.310 You have made a left turn.
+00:02:42.860 If you really wanted to turn right,
+00:02:44.810 you first have tocounter-steer to the left
+00:02:47.310 so you can lean right into the turn.
+00:02:50.890 This is something anyone whorides a bike knows intuitively
+00:02:54.320 but not explicitly.
+00:02:55.970 Turn left!
+00:02:57.250 Film someone riding a bike towards you
+00:02:59.180 and tell them which direction to turn
+00:03:01.290 and you will find that they counter-steer
+00:03:03.100 without even thinking about it.
+00:03:04.572 Hard left!
+00:03:08.970 When you're riding a bike,
+00:03:10.640 it's exactly the same as whatwe call an inverted pendulum
+00:03:13.460 or balancing a broomstick on your hand.
+00:03:16.200 If I'm balancing it and Ijust start walking toward you,
+00:03:18.770 it will always fall away from you.
+00:03:21.150 If I want to walk towardsyou, it's easy enough to do
+00:03:23.020 and people inherently know how to do it.
+00:03:24.720 If I pull it backward, I cannow start walking that way.
+00:03:28.400 I have to initiate thelean to turn into it.
+00:03:32.710 If you want to movethe pendulum somewhere,
+00:03:34.660 you first move the basein the opposite direction.
+00:03:37.970 And now the pendulum is leaning
+00:03:39.960 in the direction you want to go
+00:03:41.430 so you can move with it.
+00:03:44.350 And it's the same with a unicycle.
+00:03:47.100 In order to go forward,
+00:03:48.510 first, you have to peddle back.
+00:03:50.260 So, you're leaning forward
+00:03:52.030 and then you can go forward with it.
+00:03:54.710 Everything you're doing on a unicycle
+00:03:56.270 is all about keeping that contact patch
+00:03:59.120 right where it needsto be relative to you.
+00:04:01.710 You're balancing the broomstick.
+00:04:03.380 It's just that on a unicycle,
+00:04:04.860 you do the longitudinalbalance with the pedals
+00:04:08.220 and you do the lateralbalance, the side to side,
+00:04:10.810 the same as you do with a bike.
+00:04:11.720 You essentially- sorta, smallcounter-steer to get that weight,
+00:04:14.650 to get the contact patch out,
+00:04:16.660 and then you can pedaland bring it under you.
+00:04:19.350 Now I should point out
+00:04:20.390 that sometimes when the steering locked,
+00:04:22.570 we just happened to beleaning in the right direction
+00:04:25.140 to execute the turn.
+00:04:26.347 Right, right, right, right, right!
+00:04:27.960 Right, right, right, right.
+00:04:29.390 [Off Screen] Oh, managed it!
+00:04:30.540 Essentially by sheer luck,
+00:04:31.950 we had counter-steered
+00:04:33.200 before that side of thehandlebars locked out.
+00:04:36.040 Now, I can keep going.
+00:04:37.760 [Rick] Yeah, but don't turn left
+00:04:38.830 or you're gonna be screwed.
+00:04:39.990 I can't turn left.
+00:04:42.140 What's interesting about this is it shows
+00:04:43.850 that you can still ride thebike perfectly well, right?
+00:04:45.970 It's just you can't turn left.
+00:04:48.730 The funny thing is that youcouldn't initiate the turn.
+00:04:52.216 I mean, the wild takeaway is that
+00:04:54.700 steering is not just for turning the bike;
+00:04:57.680 steering is for balancing.
+00:04:58.890 That's exactly right.
+00:05:00.250 Why is it hard to balanceon a stationary bike?
+00:05:03.820 I think most people believe
+00:05:04.830 it's because the wheels aren't spinning
+00:05:06.690 so there's no gyroscopic effect,
+00:05:09.060 but that's not it.
+00:05:10.890 The truth is you use steering
+00:05:12.760 to keep the bike underneath you
+00:05:14.830 but steering doesn't workwhen you're stationary.
+00:05:17.820 Your balance comes not so much
+00:05:19.140 from how you positionyour body over the bike,
+00:05:21.610 but by how you steer the biketo keep it underneath you.
+00:05:25.270 Even when going straight,
+00:05:26.620 you're constantly makingsmall steering adjustments
+00:05:29.330 to maintain balance.
+00:05:31.200 You're moving the contact patch
+00:05:32.650 of the front wheel under you.
+00:05:33.770 You're doing exactly what you do
+00:05:34.810 when you balance abroomstick on your hand.
+00:05:37.990 So, if the rider is responsible
+00:05:39.840 for steering the bike to keep it balanced,
+00:05:41.890 how do bikes without riders stay upright?
+00:05:45.210 As long as a bike is movingwith sufficient speed,
+00:05:47.740 it can keep coasting indefinitely.
+00:05:50.558 I first became aware of this phenomenon
+00:05:52.560 through the great videos by MinutePhysics,
+00:05:54.610 which inspired me to make this video.
+00:05:56.650 You should definitely check them out.
+00:05:58.750 But it turned out the ground
+00:06:00.210 where we went to test thiseffect was really bumpy,
+00:06:03.600 but the bike still manages toabsorb all these perturbations
+00:06:06.940 and remain stable.
+00:06:08.880 So, how does it do this?
+00:06:10.990 I think most people believeit's the wheels spinning
+00:06:13.310 that creates some sortof gyroscopic effect
+00:06:15.810 that resists falling over
+00:06:17.920 just like in this demonstrationof gyroscopic precession.
+00:06:21.300 Yhe wheel stays upright
+00:06:22.530 even though gravity is pulling it down.
+00:06:25.340 But this is not why bikes are stable.
+00:06:28.320 Just watch what happens
+00:06:29.290 when we lock the handlebars completely
+00:06:31.390 so you can only go straight ahead.
+00:06:33.430 Locked out, locked out.
+00:06:34.880 Whoa!
+00:06:37.570 All that is happeningis the steering is locked.
+00:06:40.200 You just got to ride it.
+00:06:41.120 You don't have to turn.
+00:06:41.953 You just ride.
+00:06:43.360 Letting go.
+00:06:44.193 Some people tried going really fast.
+00:06:48.315 (group laughs)
+00:06:52.200 Others experimented withextreme balancing techniques.
+00:06:55.800 He's leaning. Don't go too fast!
+00:06:58.882 (group laughs)
+00:07:02.957 But even with the gyroscopic
+00:07:04.380 effect of the wheels,
+00:07:05.530 no one was able to keep the bike upright
+00:07:07.470 for more than a few seconds.
+00:07:09.077 (crowd exclaims)
+00:07:11.540 This is not safe for a second.
+00:07:13.370 It is just as hard to balance
+00:07:15.040 on a bike with locked steering
+00:07:16.980 as it is to balance on a stationary bike.
+00:07:19.000 No, this one is impossible.
+00:07:21.270 Because you can't steer the bike
+00:07:23.260 back under you.
+00:07:24.770 The real reason bicyclesare stable without riders
+00:07:27.177 is because they're cleverlydesigned to steer themselves.
+00:07:31.420 If they start falling to one side,
+00:07:33.350 the handlebars turn in that direction
+00:07:35.680 to steer the wheels back underneath them.
+00:07:38.600 At least three mechanisms
+00:07:40.200 are responsible for abike's corrective steering.
+00:07:43.140 The first is that due tothe angle of the front fork,
+00:07:45.960 the steering axis intersects the ground
+00:07:48.820 in front of where thewheel touches the ground.
+00:07:52.060 So, if the bike startsleaning to the left,
+00:07:54.050 the force from the ground on the tire
+00:07:55.787 turns the wheel to the left.
+00:07:58.330 If the bike starts leaning right,
+00:07:59.730 the force from the groundpushes the wheel to the right.
+00:08:02.760 The front wheel of a bicycleis essentially a caster wheel,
+00:08:06.240 like those you find onstrollers or shopping carts.
+00:08:09.480 Whichever way you drive them,
+00:08:10.930 the wheel falls in line androlls in the same direction.
+00:08:14.740 The second reason for abike's corrective steering
+00:08:17.380 is that the center of mass
+00:08:18.550 of the handlebars and front wheel
+00:08:20.490 are located slightly infront of the steering axis.
+00:08:23.810 So, when the bike leans left,
+00:08:25.580 their weight pushes thefront wheel to the left.
+00:08:28.240 If the bike leans right, theirweight steers to the right.
+00:08:32.309 And the third mechanismis a gyroscopic effect
+00:08:35.220 but it doesn't keep thebike upright directly;
+00:08:38.039 it just helps steer.
+00:08:40.020 If you have a gyroscope
+00:08:41.179 and you push down on the left-hand side,
+00:08:43.470 the gyro will turn left.
+00:08:45.700 If you push down on the rightside, it will turn right.
+00:08:49.400 This is known as gyroscopic precession.
+00:08:52.120 It seems as though the force you apply
+00:08:54.170 takes effect 90 degreesfrom where you applied it.
+00:08:57.910 So, bikes are stableprimarily because of steering.
+00:09:01.720 They have built-in mechanismsfor steering themselves.
+00:09:05.300 In fact, you don't needall three mechanisms
+00:09:07.810 to create a stable bike.
+00:09:09.690 Researchers created thisweird-looking bicycle
+00:09:12.520 to prove a point.
+00:09:13.880 It has no gyroscopic effect
+00:09:15.780 thanks to counter-rotating wheels
+00:09:17.700 above the wheels that touch the floor.
+00:09:19.750 Plus, there is no caster effect
+00:09:22.080 because the front wheel touches the floor
+00:09:23.920 in front of the steering axis.
+00:09:26.350 But this bike is made stableby its mass distribution,
+00:09:30.080 the force of gravity on which
+00:09:31.610 steers it in the direction of any lean.
+00:09:35.350 Understanding how bicycles work
+00:09:37.340 is still an active area of research.
+00:09:40.080 There is a program you can use to input
+00:09:42.100 all the different bicycle parameters
+00:09:43.770 and see the range of speedsover which it is self-stable.
+00:09:47.650 And this research isleading to better bikes.
+00:09:50.580 This prototype has a smartmotor in the handlebars
+00:09:53.300 to actively help steer,
+00:09:55.300 keeping the bike uprighteven at low speeds.
+00:09:58.550 I guess it's fitting that we are still
+00:10:00.650 learning new things about bicycles
+00:10:02.630 since most of us are able to ride one
+00:10:04.760 without any knowledge ofhow we're actually doing it.
+00:10:08.936 (futuristic sound effects play)
+00:10:12.520 Hey, this video is sponsored by KiwiCo,
+00:10:14.740 creator of awesomehands-on projects and toys
+00:10:17.170 designed to expose kids to STEAM concepts.
+00:10:19.690 And with the holidays fast approaching,
+00:10:21.330 a KiwiCo subscription is the perfect gift
+00:10:23.880 for any of the young people in your life.
+00:10:25.820 KiwiCo now has ninedifferent subscription lines
+00:10:28.370 for different age groups and topics.
+00:10:30.500 Plus, they ship to more than 40 countries.
+00:10:32.770 I think it's such a great gift
+00:10:34.240 because each month a boxturns up at your door
+00:10:36.660 and provides hours ofentertainment and learning.
+00:10:39.660 My kids love buildingKiwiCo projects with me.
+00:10:42.410 It's a special thing we do together
+00:10:44.310 and you can jump right in
+00:10:45.510 because each box comes withall the supplies you need,
+00:10:48.470 even a few extra incase you lose something.
+00:10:50.950 You know, today I builtthis waterwheel fountain
+00:10:53.400 in fitting with the wheel theme.
+00:10:55.390 The design and instructionsare so well thought out
+00:10:57.800 because each projectis designed by experts
+00:11:00.150 and tested with kids.
+00:11:01.760 There's also an educational magazine
+00:11:03.410 with lots of additional contentaround the crate's theme.
+00:11:06.360 For viewers of this channel,
+00:11:07.610 KiwiCo are offering 50% offyour first month of any crate.
+00:11:10.890 Just go to kiwico.com/veritasium50.
+00:11:14.250 I will put that linkdown in the description.
+00:11:16.600 So, I want to thank KiwiCofor supporting Veritasium
+00:11:18.950 and I want to thank you for watching.

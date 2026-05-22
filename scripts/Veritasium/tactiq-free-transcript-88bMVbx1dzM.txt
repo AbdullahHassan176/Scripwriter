@@ -1,0 +1,317 @@
+# tactiq.io free youtube transcript
+# What if you just keep zooming in?
+# https://www.youtube.com/watch/88bMVbx1dzM
+
+00:00:00.200 This is a tiny piece of metal just three millimeters across.
+00:00:03.720 And here's what happens if you just keep zooming in:
+00:00:07.200 1,000 times,
+00:00:09.920 100,000 times,
+00:00:12.160 50 million times.
+00:00:14.480 Each of these blobs is an actual atom.
+00:00:18.520 I saw this the other day at the University of Sydney,
+00:00:20.640 and it kind of blew my mind because up until just 30 years ago,  
+00:00:24.680 directly seeing atoms like this was thought to be impossible.
+00:00:29.240 The rooms that you're going to see here are perhaps the most shielded rooms on campus,
+00:00:34.960 or even in the whole of Sydney, I would say.
+00:00:37.480 And perhaps also the most expensive.
+00:00:40.000 That's wild.
+00:00:41.920 So why is it so hard to see atoms?
+00:00:45.600 Well, you can't actually see atoms with visible light.
+00:00:48.200 That's because while light has wavelengths between 380 and 750 nanometers,
+00:00:52.560 an atom is still over 3000 times smaller, just 0.1 nanometers.
+00:00:57.880 And if the wavelength of light is much bigger than the thing you're trying to see,
+00:01:00.920 the light will just diffract or bend around it so you won't be able to see it.
+00:01:06.360 So if you want to see atoms, you need something with a much, much smaller wavelength.
+00:01:11.440 The best candidate isn't even light.
+00:01:14.920 It's electrons.
+00:01:17.760 In 1924, a French physicist named Louis de Broglie worked out that everything was sort of wavelike.
+00:01:24.440 Not just light, but matter too.
+00:01:26.440 Atoms, molecules, even you yourself have a wavelength.
+00:01:30.400 And the formula for this wavelength is Planck's constant,  
+00:01:33.280 divided by the object's momentum, that is, mass times velocity.
+00:01:37.960 So here what you actually see,  
+00:01:39.320 that's the column of the microscope where we accelerate the 300 kV electrons down.
+00:01:44.160 300 kilovolts, these electrons?
+00:01:46.560 So they are relativistic particles.
+00:01:49.462 How fast are they moving? 99% of the speed of light?
+00:01:51.615 Around 80.80% the speed of light?
+00:01:54.555 Yeah.So what would be their wavelength?
+00:01:56.360 The wavelength is the Planck constant over the momentum, right?
+00:01:59.240 So if we calculate that, we come to around between 2 to 3 picometers.
+00:02:04.280 Whoa!
+00:02:05.360 That's over 100,000 times smaller than visible light.
+00:02:08.080 So theoretically, you get 100,000 times more resolution.
+00:02:13.640 Shortly after de Broglie's discovery, a group of scientists in Germany started  
+00:02:17.320 working on a microscope that would use these high-speed electrons.
+00:02:21.600 The only problem is you can't bend electrons using glass lenses.
+00:02:25.840 So how do you focus them?
+00:02:28.720 Hans Busch, a German physicist, suggested that an electromagnetic lens might do the trick.
+00:02:33.880 He published his results in 1926, but never actually built one.
+00:02:38.920 Fortunately, a copy of his paper fell into the hands of an eager young PhD student, Ernst Ruska.
+00:02:46.120 Ruska built his first prototype by coiling up  
+00:02:48.320 some wire and surrounding it with iron — taking care to leave a gap in the middle.
+00:02:53.040 Then, when he passed a current through the coil,  
+00:02:55.160 it induced a donut-shaped magnetic field through the metal and across this gap.
+00:02:59.600 This was his lens.
+00:03:02.400 To test it, Ruska first boiled electrons off a tungsten filament,  
+00:03:06.040 the same kind of filament you'd find in an incandescent light bulb.
+00:03:09.640 He accelerated these free electrons through a  
+00:03:11.640 positively charged anode down to his electromagnetic lens.
+00:03:15.920 As an electron approaches the lens, the magnetic field exerts a force on it.
+00:03:20.080 So if an electron is traveling in the y direction and the magnetic fields are in the x direction,
+00:03:24.760 this force, called the Lorentz force, pushes it in the z direction.
+00:03:28.840 But as the electron moves this way, it encounters other magnetic field lines along the donut shape,
+00:03:34.080 which constantly point its motion in a circle.
+00:03:37.240 But then this circular motion means the Lorentz force starts pushing the  
+00:03:40.560 electron inwards as well, spiraling it into the center of the lens.
+00:03:45.440 Now, if you trace the path of the whole beam of electrons,  
+00:03:48.480 you'll see they all get steered into the center, focusing the beam.
+00:03:54.880 By 1931, Ruska and his colleague,Max Knoll, used this kind of design  
+00:03:59.840 to build the first working electron microscope.
+00:04:02.680 It was pretty basic, made of brass roughly bolted together, but it worked.
+00:04:10.640 The image itself was created once the focused  
+00:04:12.960 electron beam hit a sample sitting at the focal point.
+00:04:15.880 The sample needed to be incredibly thin, only around 100 nanometers thick.
+00:04:20.320 More electrons would make it through the thinner parts of the sample than  
+00:04:23.120 the thicker parts, creating an electron imprint of the sample.
+00:04:27.160 Then a second electromagnetic lens magnified this  
+00:04:29.880 imprint down onto a fluorescent detector, producing the final image.
+00:04:34.400 This was known as a transmission electron microscope or TEM.
+00:04:39.800 Now, early versions of the microscope barely magnified at all.
+00:04:43.080 In fact, it wasn't even better than an optical microscope.
+00:04:46.680 But Ruska was determined.
+00:04:50.000 Over the next few years, he experimented with  
+00:04:52.320 adding more lenses onto the microscope to create bigger and bigger images.
+00:04:56.800 By the mid-1930s, Ruska had gotten the TEM way past 10,000 times magnification.
+00:05:02.840 It could produce close-ups of insects, bacteria,  
+00:05:05.960 and even viruses at a level far surpassing the optical microscope.
+00:05:11.840 But right as Ruska's TEM was taking off, a German physicist named Otto Scherzer  
+00:05:16.851 published a paper claiming that the microscope was about to hit a brick wall.
+00:05:23.360 There was a flaw in the electromagnetic lens, he wrote, that was completely unavoidable.
+00:05:30.760 For an electron to make it to the focus of the lens,  
+00:05:33.520 it needs to be deflected by a specific amount.
+00:05:36.400 If you simplify its trajectory, you can define that ideal deflection with this angle theta.
+00:05:42.240 This angle depends on the horizontal distance  
+00:05:44.360 of the electron from the optical axis, and how far down the axis the focus is,
+00:05:49.531 also known as the focal length.
+00:05:51.091 The shorter the focal length, the stronger the magnification.
+00:05:54.800 If you graph this angle as a function of distance to the optical axis,  
+00:05:58.440 you'll see that it can be approximated as linear.
+00:06:01.920 The problem is that the magnetic field doesn't scale linearly.
+00:06:05.400 It's much stronger near the edges of the magnet.
+00:06:08.600 So if you plot the curve for the actual deflection of the electrons,  
+00:06:12.040 you'll see that the magnetic field overdeflects the electrons further out.
+00:06:16.040 Their angles are bigger than they should be,  
+00:06:17.920 so they end up focusing before the rays in the middle.
+00:06:21.000 And as a result, the focus is spread across the  
+00:06:23.880 optical axis instead of being contained in a single point.
+00:06:28.000 The blur starts out around the edges of the image, but it gets worse the higher the magnification.
+00:06:33.760 This is called spherical aberration, and it distorts every radially symmetric magnetic lens.
+00:06:40.480 In fact, it doesn't just affect magnetic lenses.
+00:06:44.040 Every spherical lens, from a camera to a telescope to a magnifying glass also suffers from it.
+00:06:50.960 But there is a surprisingly simple way to minimize spherical aberration. Just add  
+00:06:55.800 a second lens, one that diverges light instead of converging it.
+00:07:00.720 Now, a diverging lens also suffers from spherical aberration.
+00:07:04.240 But if it has the same amount of aberration as your converging lens just in reverse,
+00:07:09.120 you can stack the two to essentially cancel out their effects.
+00:07:12.960 And that removes the aberrations almost entirely.
+00:07:16.320 Almost all modern lens systems in cameras  
+00:07:18.640 and microscopes use some sort of correcting divergent lens.
+00:07:22.680 So you might imagine that the TEM simply needs its own version of a  
+00:07:26.760 diverging spherical lens to magnify further.
+00:07:29.920 But with magnets, this is physically impossible.
+00:07:33.680 Every magnet has two poles, a North and a South. It's impossible to just have one.
+00:07:39.240 Even if you split a magnet down the middle,  
+00:07:41.120 it creates two smaller magnets, both with a North and South.
+00:07:45.240 And all magnetic field lines have to start at one pole and end at the other, forming a closed loop.
+00:07:50.840 It's a direct result of the second Maxwell equation because the field  
+00:07:54.360 that you create has field lines that start and end at the same magnet.
+00:07:59.120 So the electrons will always cross through two lines.
+00:08:03.120 The first time it passes through, by the Lorentz force, it's brought into the spiraling motion.
+00:08:08.160 And then the second time from that spiraling motion,  
+00:08:11.360 which has then a slightly different direction, it's pushed towards the axis.
+00:08:16.520 That's why all electromagnetic lenses by default will converge that beam, and never diverge it.
+00:08:24.240 Even if you shot electrons in from the other side of the lens, they would still get focused.
+00:08:30.080 This is what Otto Scherzer's paper proved in 1936, stopping progress on the TEM.
+00:08:35.679 It is impossible to produce a radially symmetric magnetic lens that diverges.
+00:08:41.280 And this was, of course, a big roadblock for the development of electron microscopy,
+00:08:45.040 because people saw, okay, we can accelerate electrons as much as we want,
+00:08:50.200 the presence of spherical aberration will always be in the way.
+00:08:55.360 Because of this roadblock, advancements in the microscope's resolution slowed significantly.
+00:09:00.280 By 1955, another microscope beat the TEM to the punch and  
+00:09:04.560 took the first generally accepted image of atoms.
+00:09:09.080 This was called the field ion microscope,  
+00:09:11.280 and it worked by shooting helium or neon atoms at an atomically sharp needle tip.
+00:09:16.520 The tip was positively charged. So when the gas atoms hit the needle,  
+00:09:20.760 they got ionized and were ejected off perpendicular to the surface.
+00:09:24.880 And that could form an impression of the atomic structure of the tip.
+00:09:29.720 But this method was limited.
+00:09:31.920 You could only get a sense of the atomic structure of the very tip of the needle.
+00:09:36.200 And the images weren't all that impressive.
+00:09:39.640 Luckily, Ruska's electron microscope  
+00:09:41.800 wouldn't stay stuck in the realm of insects and bacteria forever.
+00:09:46.920 Now, you might not be an insect getting bombarded with relativistic electrons,
+00:09:50.680 but it can sometimes feel like it when you're getting  
+00:09:53.680 bombarded with spam calls and targeted ads.
+00:09:56.800 It's a real problem when we're researching for our videos.
+00:09:59.520 I was reading up on lenses and optics,  
+00:10:01.760 and a few days later I started getting targeted ads for glasses and eye surgery.
+00:10:06.840 So someone out there is probably selling my browsing data.
+00:10:10.320 But this is where today's sponsor, Incogni, comes in.
+00:10:13.400 With your permission, Incogni will fight the data  
+00:10:16.520 brokers on your behalf by finding out who has your data, which laws apply,  
+00:10:20.640 and then they request, with the appropriate legal language, your information be deleted.
+00:10:25.520 You just sign up and they'll give you a list of all the companies that have your information,  
+00:10:29.720 how severe each claim is, and the status of all your requests.
+00:10:33.000 Now, I signed up last April, and since then they filed 317 requests for me,  
+00:10:37.520 281 of which have been completed, saving me over 210 hours of work.
+00:10:42.320 And now I'm no longer getting ads for glasses I don't need.
+00:10:45.640 So to try it Incogni and fight against the data brokers, visit Incogni.com/Veritasium.
+00:10:50.904 You can also click the link in the description or scan this QR code.
+00:10:54.520 Make sure to use the code Veritasium to get 60%  
+00:10:57.160 off your annual subscription to take control of your data today.
+00:11:00.680 That's Incogni.com/Veritasium.
+00:11:03.080 And now back to the electron microscope.
+00:11:06.200 Despite Scherzer's aberration limit work on the transmission electron microscope continued.
+00:11:11.206 During the next four decades.
+00:11:13.142 People tried boosting the resolution with clever workarounds, and perhaps none more  
+00:11:17.000 so than British-American physicist Albert Crewe.
+00:11:21.000 His idea was to replace the tungsten filament,  
+00:11:23.480 which fired off electrons at random, with a more directed source.
+00:11:27.840 So instead of boiling electrons off the surface,  
+00:11:30.200 he tried pulling them off with a stronger electric field.
+00:11:34.120 And, by sharpening the tungsten into a fine tip,  
+00:11:37.040 he was able to create a narrow beam which was over a thousand times brighter than before.
+00:11:43.360 He paired his new narrow beam with an unlikely technology.
+00:11:48.640 The cathode ray tube TV.
+00:11:51.320 These TVs worked by scanning an electron beam across a screen. The  
+00:11:55.000 screen was coated in a phosphor that produced light when hit by electrons.
+00:11:58.760 And by varying the intensity of the electron beam,  
+00:12:01.160 you could vary the brightness of the screen, giving you a black-and-white image.
+00:12:07.200 Crewe was inspired to design a similar electron beam for the TEM
+00:12:10.920 that would scan across the nanoscopic sample.
+00:12:13.960 So instead of creating an imprint of the whole sample at once,
+00:12:17.640 Crewe's electron beam made smaller imprints, mapping the sample out bit by bit.
+00:12:22.880 This wasn't the first time someone had tried to make a scanning version of the TEM.
+00:12:27.042 German researcher Manfred von Ardenne built an early prototype in the 1930s,  
+00:12:33.005 but it was destroyed during WWII.
+00:12:36.120 When Crewe revived Ardenne's design, he made several drastic improvements,  
+00:12:40.280 and by 1970 he had this.
+00:12:43.200 The first image of single atoms taken with the electron microscope.
+00:12:50.040 Researchers quickly jumped to employ his tech, producing countless images of atoms.
+00:12:56.080 After nearly a century of improvements from Ruska, Crewe, and many others,  
+00:13:00.320 the magnification upgrades on the TEM had reached their peak.
+00:13:05.280 But Scherzer's problem persisted.
+00:13:08.280 Spherical aberration set a hard limit on how small you could see.
+00:13:12.600 Even Crewe himself gave up on trying to get around it after over ten years of work.
+00:13:17.720 "Unfortunately, we could never make it work. After many heartbreaking attempts,  
+00:13:22.280 we were forced to admit defeat."
+00:13:25.000 Around this time, other microscopes emerged that could also image atoms.
+00:13:29.600 These probe microscopes work by gliding an incredibly small stylus across the sample.
+00:13:34.920 The stylus detects variations in quantum effects  
+00:13:37.400 or nanoscale forces to then map the surface structure of the sample.
+00:13:41.720 These were easier to build, and because they didn't use any lenses,  
+00:13:45.480 they weren't limited by spherical aberration.
+00:13:48.160 Their images were even 3D.
+00:13:51.080 But the looming issue was that these probes weren't really  
+00:13:54.240 seeing atoms. It was more like feeling atoms.
+00:13:58.160 Throughout the 80s and 90s, this was all we had.
+00:14:01.880 But what if there was another way?
+00:14:04.440 Scherzer's theorem proof that a diverging, radially symmetric lens isn't possible.
+00:14:09.400 But if you're willing to give up on that symmetry, well, the theorem no longer applies.
+00:14:14.400 The problem is that radial symmetry is arguably the most important property of  
+00:14:18.400 any lens, because if you break the symmetry, you also break the image.
+00:14:26.280 But three maverick scientists thought there might be a way.
+00:14:29.800 Knut Urban, Max Haider, and Harold Rose were known  
+00:14:32.800 in the electron microscope community as troublemakers,
+00:14:36.040 and for years barely anyone had been interested in their research or,  
+00:14:40.440 more importantly, in funding it.
+00:14:43.080 And for a good reason too. Their idea was kind of crazy.
+00:14:46.960 I mean, they purposely wanted to break the image using a lens that wasn't symmetric.
+00:14:51.640 Their hope was that there would be a small part  
+00:14:54.200 of this distorted image that would be slightly diverging.
+00:14:57.960 And maybe, just maybe, this small part could correct the  
+00:15:01.760 spherical aberration of the original lens.
+00:15:04.720 So they got to work
+00:15:08.088 To distort the image, they used a massive nest of electromagnets with six,  
+00:15:12.600 eight, or even ten separate coils and magnets with bumpy magnetic fields.
+00:15:18.000 These were known as the hexapole, octopole, and decapole magnets.
+00:15:22.520 So as the electron beam passed through a hexapole,  
+00:15:25.440 it would twist and squeeze the flat 2D image into a triangular saddle.
+00:15:31.000 And the circumference of the original beam would be pushed into the three corners,  
+00:15:35.400 with the rest of the interior stretched out.
+00:15:38.720 But now the middle of the image would have a slight concave bow,  
+00:15:42.440 giving the effect of a small divergence.
+00:15:45.360 Then Rose, Haider, and Urban forced the beam through a second hexapole , one that worked  
+00:15:49.920 the opposite way, so it would unbend the distorted image back into a circular shape.
+00:15:55.760 But now they, calculated this new image might have the remnants  
+00:15:59.240 of that tiny divergence still in its center, with spherical aberration pointing in the opposite way.
+00:16:05.360 So if they got their maths and engineering exactly right, they could feed an image with  
+00:16:09.960 spherical aberration through these two lenses to almost completely counteract the effect.
+00:16:15.960 And I imagine a lot of people in the field thought it was a crazy idea when it was proposed, right?
+00:16:19.920 Not only the concept, but, that this is, like, technically feasible, I believe. 
+00:16:25.360 It was thought that this is not possible.
+00:16:29.720 By May 1997, the group had just two months of  
+00:16:32.520 development time left before their last sponsor withdrew their backing.
+00:16:36.080 And to make matters worse, their latest lens iteration was still just on the drawing board.
+00:16:41.240 But somehow, by the 23rd of July,  
+00:16:43.200 just a week before their funding ran out, the new lens was ready to test.
+00:16:47.840 They gingerly placed it into the microscope,  
+00:16:50.480 but like every time before it, the lens was unstable and failed.
+00:16:54.840 So they decided to switch off the equipment for 24 hours to allow the magnets to settle.
+00:17:00.320 And then at 2 a.m. on the 24th, they turned it on again,  
+00:17:04.920 and almost magically, the picture started to stabilize.
+00:17:10.880 Suddenly, there was no aberration. Only beautiful, clear images of atoms.
+00:17:19.560 After more than 60 years of failed attempts,  
+00:17:22.200 Urban, Rose, and Haider pulled off the seemingly impossible.
+00:17:25.839 With this method, they cut the resolution of the TEM down to only 0.13 nanometers.
+00:17:31.720 An average TEM image went from looking like this to this.
+00:17:38.120 A few months after the group's breakthrough,  
+00:17:40.080 Knut Urban attended a microscopy conference to share these results.
+00:17:43.920 But because of the group's reputation,  
+00:17:45.680 he was relegated to a small back room that barely anyone noticed.
+00:17:50.840 Soon, however, word spread that against all odds,  
+00:17:53.920 his pictures seemed real. Then a crowd of hundreds formed.
+00:17:59.280 People were lining up outside, hoping to get a glimpse of their stunningly sharp images.
+00:18:09.960 So we're going to get a sample holder.
+00:18:13.080 Yeah, so we got a sample holder out.
+00:18:15.720 We put that under the optical microscope.
+00:18:18.280 So the sample itself is a small lamella that you can't see without the optical microscope.
+00:18:26.040 Yeah.Have a look through that.
+00:18:30.400 Beautiful. On top of the B there's a prong. Yeah. And on the very top  
+00:18:34.840 of that on the left-hand side, looks like a little bit of dust.
+00:18:38.840 That's our actual sample.
+00:18:47.400 Okay, now I simply go up with the magnification and I do a very few, like, more basic alignments.  
+00:18:55.200 In this electron microscope because it's called transmission electron microscope,
+00:18:59.520 the electrons always transmit the sample.
+00:19:01.913 Here we  look through our entire sample at the same time.
+00:19:05.821  And that's why it's so important that we align the sample.
+00:19:08.058 If you imagine atoms in a high-symmetry direction are lined up like pearls on a string.
+00:19:14.207 When we look down it, well, we can see an image.
+00:19:16.800 But if we are in, like, some random direction that everything would be just blurred.
+00:19:20.600 So that's why we have to do some tilting in the edge.
+00:19:23.400 And this is where the actual sample starts — the strontium titanate.
+00:19:27.160 And this is a thin region where we hope to get atomic resolution.
+00:19:32.400 So this is 5000 times? Yes
+00:19:35.560 Wow.
+00:19:36.200 And we see strontium, titanium. We see oxygen. We see carbon. That's contamination.
+00:19:42.280 So most likely what we're looking at is carbon contamination.
+00:19:46.360 When you do this focus, what are you really looking for?
+00:19:49.640 I look for this edge to become sharp.
+00:19:58.008 See atoms.
+00:19:59.091 What? Just like that. That's wild.  
+00:20:07.679 Shortly after, the group successfully corrected 
+00:20:11.172  Orndrej Krivanek independently achieved  
+00:20:13.274 the same for Crewe’s version of the microscope, the scanning TEM.
+00:20:18.560 And in 2020, all four were awarded the prestigious Kavli Prize in  
+00:20:22.680 Nanoscience for accomplishing what so many others thought impossible.
+00:20:27.520 Through their persistence and ingenuity, seeing atoms like this is, well, normal.
+00:20:36.440 How big of a difference does aberration correction make?
+00:20:39.560 If you want to see atoms and if you want to, for example, measure in atomic distances,  
+00:20:45.360 and if you want to learn what type of atoms you have, you need aberration correction.
+00:20:50.960 Any research that's material science. Materials engineering, chemical engineering...
+00:20:57.160 You need to see what's happening at the atomic  level
+00:20:59.618 because you want to relate the properties to the structure.
+00:21:03.120 If you can't see the structure at the atomic level, you only have half of the information.
+00:21:07.320 So that was a game changer.
+00:21:08.880 That's why nowadays every university in principle needs a microscope like that.
