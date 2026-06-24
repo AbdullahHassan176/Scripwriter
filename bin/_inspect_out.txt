@@ -1,0 +1,7 @@
+﻿Spoken word count : 2054 words
+Your speaking rate : 173 WPM  (calibrated from 53s sample)
+Estimated runtime  : 11 min 51 sec
+
+  At 128 WPM (128 WPM ΓÇö slow/deliberate): 16:02
+  At 150 WPM (150 WPM ΓÇö conversational): 13:41
+  At 173 WPM (your measured rate): 11:52

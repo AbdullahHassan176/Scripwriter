@@ -1,0 +1,1025 @@
+# tactiq.io free youtube transcript
+# The Rise and Rule of Elon Musk
+# https://www.youtube.com/watch/WYQxG4KEzvo
+
+00:00:00.137 (soft music)
+00:00:00.970 I mean, my mind is a storm.
+00:00:03.240 I don't think mostpeople would wanna be me.
+00:00:05.610 They may think they would wanna be me,
+00:00:06.750 but they don't, they don't know.
+00:00:08.904 [Interviewer] Is yourstorm a happy storm?
+00:00:11.130 No.
+00:00:13.920 I've grown tired ofhearing the name Elon Musk
+00:00:16.920 and not really understandingwhat's going on.
+00:00:19.290 Who is this guy?
+00:00:20.190 Where is he from?
+00:00:21.780 How has he built a hugebusiness empire to become one
+00:00:24.510 of the richest people in the world?
+00:00:26.400 And what can we learn abouthis purchase of Twitter?
+00:00:29.340 So I've been going on a deep dive,
+00:00:31.470 finding everything I can about this guy,
+00:00:33.660 his upbringing, businesses he's started,
+00:00:35.880 talking to people whohave worked with him,
+00:00:37.350 who have worked for him.
+00:00:38.610 Many of these peoplewanna remain anonymous
+00:00:40.530 for reasons you will soon understand.
+00:00:43.290 I've talked to people wholove him, people who hate him,
+00:00:45.600 people who used to lovehim and now hate him.
+00:00:47.730 If I were an employeeat Twitter right now,
+00:00:49.350 I'd probably just do your job,
+00:00:51.810 don't let him know your name.
+00:00:53.340 So after a few monthsof reporting on this,
+00:00:55.830 I feel like I finally havea handle on who this guy is.
+00:00:59.070 I understand how he built his empire,
+00:01:00.960 how he treats the people around him,
+00:01:02.910 and the real reason Ibelieve he bought Twitter.
+00:01:06.300 Elon Musk put in an offer.
+00:01:07.860 An unsolicited bid to buythe social media platform.
+00:01:10.987 [Reporter] $44 billion.
+00:01:13.363 So let me show you therise and rule of Elon Musk.
+00:01:18.030 You're a super villain.
+00:01:20.640 That's what a super villain does.
+00:01:22.290 [Elon] Yeah.
+00:01:23.732 [Announcer] He's addicted todrama, he's addicted to risk,
+00:01:25.650 and whenever things seemto be going smoothly,
+00:01:28.410 he almost has a compulsionto stir things up.
+00:01:34.302 (soft music)
+00:01:42.480 [Johnny] Elon Musk wasborn in the summer of 1971
+00:01:45.330 in South Africa.
+00:01:46.830 From a young age, he wasbullied pretty relentlessly
+00:01:49.290 by kids at school forbeing scrawny and nerdy.
+00:01:52.800 You know, bullied quite a lot.
+00:01:54.090 I got punched in the face many times.
+00:01:55.410 [Johnny] Musk would later say
+00:01:57.205 that he's on the autism spectrum,
+00:01:58.717 though he was never diagnosed.
+00:01:59.790 It got really bad for young Elon.
+00:02:02.130 Like one time.
+00:02:03.210 When he got beaten up at school once
+00:02:05.310 and so bloody, he hadto go to the hospital.
+00:02:07.449 The scars were actuallyworse when he came home
+00:02:10.530 and his father made himstand in front of him
+00:02:13.020 and berated him for more thanan hour, calling him stupid,
+00:02:16.980 saying it was his fault.
+00:02:18.720 Stories like this makeme sick to my stomach
+00:02:22.080 and you realize that the trauma
+00:02:25.110 and scars from this kindof abuse, both physical
+00:02:28.140 and emotional, they don't go away easily.
+00:02:31.920 Speaking of his dad,there's a lot of rumors
+00:02:34.980 that Elon came from a rich dad
+00:02:37.380 who owned Emerald mines in South Africa
+00:02:39.990 and that he was set up to be successful
+00:02:41.700 because of family wealth.
+00:02:43.260 This isn't factually accurate.
+00:02:46.020 Elon's dad did import emeralds,
+00:02:48.120 but there wasn't a lotof money in this family.
+00:02:50.820 He never owned a emeraldmine. This is total bull shit.
+00:02:54.090 If you want more detail on that,
+00:02:55.380 you can go check out our sourceswhere we put the fact check
+00:02:58.470 for every of the assertions in this video.
+00:03:00.810 Anyway, what Elon did haveat a young age was a skill
+00:03:04.200 for computers and programming.
+00:03:06.589 (soft music)
+00:03:08.280 [Elon] I taught myselfhow to program computers,
+00:03:10.800 but mostly 'cause Iwanted to program games.
+00:03:12.660 At the age of 12, heinvented a video game.
+00:03:15.300 Mom, do you remember when I was 12
+00:03:16.620 and I created my own video game.
+00:03:18.300 [Johnny] That he sold to a magazine for,
+00:03:20.395 $500.
+00:03:21.228 It was his first business move in tech,
+00:03:25.083 his first interest in space.
+00:03:27.540 Around 12 or 13, I hadkind of an existential crisis
+00:03:30.810 trying to figure out the meaning of life.
+00:03:33.000 From an early age.
+00:03:34.380 Musk found meaning inthe idea of the potential
+00:03:38.970 of humanity, what humanscan do as a collective,
+00:03:41.700 how we as a species have somehowbeen able to work together
+00:03:45.960 to explore the meaning of the universe.
+00:03:48.990 My motivation was thatif we can expand the scope
+00:03:52.260 and scale of consciousness,
+00:03:53.340 maybe we can find out the meaning of life.
+00:03:54.930 I mean, you hear this and itkind of sounds overly grand,
+00:03:57.900 kind of delusional, overly idealistic,
+00:04:00.690 but honestly,
+00:04:01.680 this is what motivatesMusk from a very young age
+00:04:04.980 and he doesn't bend on what he wants
+00:04:08.010 and what he's willing to do to achieve it.
+00:04:11.430 So he leaves South Africa whenhe is 18 and moves to Canada
+00:04:14.070 and eventually ends up inPennsylvania where he goes
+00:04:16.769 to college and gets a degreein economics and physics.
+00:04:19.740 At the age of 24, hemoves out to California
+00:04:22.019 to pursue a PhD at Stanford,
+00:04:24.570 but he never starts the program.
+00:04:26.130 Instead he starts his first business.
+00:04:29.091 (soft music)
+00:04:32.992 Okay, so I'm not gonna gointo the details of every one
+00:04:34.530 of Elon's companiesbecause there are a lot.
+00:04:37.290 If you want to deep dive,read this very thick book,
+00:04:40.350 this was a foundationalpart of our reporting
+00:04:43.560 and it details the play byplay on all of these companies.
+00:04:47.670 For now, let me give you a quick summary
+00:04:49.680 of the businesses thisguy built to become one
+00:04:52.470 of the richest men on the planet.
+00:04:54.750 His first company was called Zip2.
+00:04:56.640 He started it in 1995 withhis brother, who seems
+00:04:59.912 to have an affinity for cowboy hats.
+00:05:02.176 (whip snapping)- Yee-haw.
+00:05:04.620 His company provided maps
+00:05:06.330 and business directoriesfor online newspapers.
+00:05:09.840 I know those words soundvery strange to us now,
+00:05:12.060 but like back in 1995, it was a huge deal.
+00:05:14.730 It almost was like the precursor to
+00:05:16.410 what Google Maps is today,and it was very successful.
+00:05:19.140 We helped bring onlineseveral hundred newspapers
+00:05:22.080 that previously were only in print.
+00:05:24.260 It was acquired a fewyears later for $307 million,
+00:05:27.960 22 million of those dollarsgoing right into Elon's pocket.
+00:05:31.380 Suddenly Elon is rich.
+00:05:33.333 Receiving cash is cash.
+00:05:35.070 I mean, those are just alarge number of Ben Franklins.
+00:05:37.770 He uses the money to startanother company called X.com.
+00:05:41.550 No, no, no, not thatX.com, the first X.com,
+00:05:45.300 which you now know today as PayPal.
+00:05:47.730 So this is an ATM.
+00:05:49.050 All we're gonna do is
+00:05:49.883 transform the traditionalbanking industry.
+00:05:52.020 It was basically an online bank
+00:05:54.000 and it was revolutionary at the time.
+00:05:55.770 So much so that in 2002, eBay bought it
+00:05:58.650 for $1.5 billion.(cash register ringing)
+00:06:01.980 Elon got 180 million of those dollars,
+00:06:05.220 and now he's officially super rich.
+00:06:07.530 There it is gentlemen, thefastest car in the world.
+00:06:09.540 So what to do with all of this money?
+00:06:11.730 The answer for Elon Musk was
+00:06:13.410 to try out the craziestideas he could think of.
+00:06:16.590 Oh, I have like about180 million from PayPal.
+00:06:18.630 I thought, you know, I'llallocate half of that to SpaceX
+00:06:21.990 and Tesla and Solar City.
+00:06:23.190 That should be fine. I'll have90 million. Like that's lots.
+00:06:25.470 I thought our probability ofsuccess was less than 10%.
+00:06:28.620 It would be foolish to thinkanything else other than that.
+00:06:31.511 (soft music)
+00:06:34.620 Ever since he was a kidmaking video games about space,
+00:06:37.350 Elon has been motivated by this idea
+00:06:39.270 of humans expanding outsideof earth, humans becoming a,
+00:06:42.297 Multi planet species.
+00:06:43.980 We would like to helpmake life multi-planetary.
+00:06:46.620 The extension of life to multiple planets.
+00:06:48.690 In early two thousands,Tesla already existed.
+00:06:51.000 They were making electric cars,
+00:06:52.680 but there were kind ofhigh-end niche sports cars.
+00:06:55.860 Elon was really interested in this.
+00:06:56.990 So he came in as an investor
+00:06:58.740 and eventually becamethe CEO with the vision
+00:07:01.650 of turning electric cars mainstream
+00:07:04.170 and ushering a whole newera of transportation.
+00:07:07.260 But these ideas were moreexpensive than he anticipated.
+00:07:11.550 Things cost more andtook longer than I thought.
+00:07:13.980 So I had a choice of eitherput the rest of the money in
+00:07:17.670 or the companies are gonna die.
+00:07:19.560 His rockets kept blowing up.
+00:07:21.480 His electric cars weredevilishly complicated
+00:07:24.030 to manufacture, but Elondeveloped this addiction to risk
+00:07:27.720 and intensity that kepthim pushing forward
+00:07:30.570 despite these challenges.
+00:07:31.920 Tesla reinvented how cars were made.
+00:07:34.410 Thanks to innovative technology
+00:07:36.210 and manufacturing,really clever engineering
+00:07:38.910 and a waterfall of government subsidies.
+00:07:41.340 He was able to skyrocket Tesla into one
+00:07:44.250 of the most valuablecompanies in the world,
+00:07:46.830 overtaking every other car company
+00:07:49.410 by a long shot in just a few years.
+00:07:52.950 And this company was weird.
+00:07:54.300 It wasn't obeying all the rules,
+00:07:56.250 like there was almost noofficial marketing campaign.
+00:07:58.980 And Elon decided to make allof his technology open source.
+00:08:02.400 The patents were not copyrighted.
+00:08:04.230 Anyone could see them
+00:08:05.250 and use them with the hope that the market
+00:08:07.110 for electric vehicles would take off,
+00:08:08.940 and that the world would morequickly move away from the use
+00:08:11.730 of fossil fuels, which wouldultimately benefit Tesla.
+00:08:14.400 So if somebody comes andmakes a better electric car
+00:08:16.890 than Tesla, and it's somuch better than ours
+00:08:19.290 that we can't sell our cars
+00:08:20.670 and we go bankrupt,
+00:08:22.170 I still think that's agood thing for the world.
+00:08:23.790 These were bold, crazy moves,
+00:08:26.250 but they were totally working.
+00:08:27.660 Meanwhile, Elon's Space Company was about
+00:08:30.810 to go out of business
+00:08:32.210 (soft music)
+00:08:34.100 For SpaceX, the firstthree launches failed.
+00:08:39.426 Just barely able to scrapetogether enough parts
+00:08:42.510 and money to do the the fourth launch.
+00:08:45.626 And then, after six yearsand six months of stress
+00:08:49.380 and intensity, Elon's dreams of going
+00:08:51.780 to space started to come true.
+00:08:54.321 (upbeat music)
+00:09:01.475 (cheering)
+00:09:07.350 I'm gonna explain a littlebit more about how he did all
+00:09:09.600 of this, but the big deal about SpaceX is
+00:09:11.820 that they created a reusable rocket.
+00:09:13.860 Every other rocket is disposable.
+00:09:15.240 You can only use it onceand it's very expensive.
+00:09:17.250 But Elon proved thatyou could use a rocket
+00:09:19.470 and safely land it backdown onto the surface
+00:09:21.420 of earth and then use it again.
+00:09:23.460 Soon, SpaceX would becarrying NASA astronauts
+00:09:26.460 and supplies to theInternational Space Station,
+00:09:28.680 launching military satellitesinto space for the Pentagon,
+00:09:31.290 launching dozens ofsatellites up into space
+00:09:33.540 for commercial use,
+00:09:34.650 and even launching the firstever private space flight
+00:09:37.320 for tourism.
+00:09:38.280 Space travel was officially reinvented.
+00:09:41.160 I think we're at the dawn of a new era
+00:09:42.450 and it's a reason for people to be excited
+00:09:44.580 and inspired to be human.
+00:09:45.720 Okay? But what's crazyis that during all of this,
+00:09:47.850 Elon is also launching a bunch
+00:09:49.710 of other companies likeThe Boring Company,
+00:09:51.930 which is trying to revolutionize traffic
+00:09:53.910 and transportation bybuilding smarter tunnels.
+00:09:57.420 Oh my God, it just hitme that it's boring,
+00:09:59.520 like boring into the side of a mountain.
+00:10:01.590 Oh my God, that just hit me, right now?
+00:10:08.400 This company also turnedinto like a blank canvas
+00:10:10.980 for Elon Musk to playout all of his childish,
+00:10:13.710 silly ideas like selling a flamethrower
+00:10:16.890 or this perfume that smellslike singed human hair.
+00:10:21.420 And yes, Musk uses hisbusinesses as kind of a way
+00:10:24.990 to troll humanity while alsotrying to save humanity.
+00:10:28.440 It's this behavior that alot of people find refreshing
+00:10:30.960 and ends up getting a lot of attention
+00:10:32.790 and becoming a marketing toolfor all of his companies.
+00:10:35.730 He starts building Neuralink,which is designing a way
+00:10:38.430 for humans to controlcomputers with their brains,
+00:10:41.040 which is already havingsome initial successes.
+00:10:43.650 And now that Elon's companycan easily go to space,
+00:10:45.750 he starts sending up thesesmall satellites, 6,000 of them
+00:10:49.590 that are orbiting the earth,
+00:10:50.730 and he starts providinginternet to remote places,
+00:10:53.340 arguably changing thecourse of the war in Ukraine
+00:10:56.340 by providing Ukrainiansoldiers with internet
+00:10:58.800 during the initial invasion from Russia.
+00:11:01.200 Though that's gotten morecomplicated in recent months
+00:11:03.180 as Russian soldiers havestarted to use Starlink
+00:11:05.670 and it's a whole other rabbit hole.
+00:11:06.900 Okay, but we're not doneyet with Elon's companies.
+00:11:08.880 He also co-founded OpenAI way back in 2015
+00:11:12.750 who went on to make ChatGPT.
+00:11:14.970 He later left the companyover disagreements
+00:11:17.307 and then has recently startedhis own AI company called,
+00:11:20.910 you Guessed it, xAI.
+00:11:23.700 Yes, the guy loves the letter X.
+00:11:26.370 It's literally the name ofseveral of his companies
+00:11:29.280 and one of his children.
+00:11:31.440 Each one of these ventures points back
+00:11:33.330 to Elon's childish idealism.
+00:11:36.180 This grand vision of testing the limits of
+00:11:38.970 what humans can do by pushingour understanding of physics
+00:11:43.140 and working together todo crazy amazing things.
+00:11:46.470 But then after buildingall of these companies
+00:11:48.600 that are focused onpushing the physical limits
+00:11:51.540 of human potential,
+00:11:52.710 Elon in recent years has set his sights
+00:11:55.620 on reshaping another industry.
+00:11:58.285 (soft music)
+00:12:02.190 [Announcer] Tonight, the richest man
+00:12:03.420 in the world is hunting for more.
+00:12:05.310 [Reporter] Put in anoffer of almost $44 billion
+00:12:07.740 to buy Twitter.
+00:12:08.610 [Reporter] All of Twitter.
+00:12:10.206 Is this all a troll or is this very real?
+00:12:13.890 Elon Musk has beenportrayed as both a reckless,
+00:12:17.280 unethical billionaireas well as a visionary
+00:12:20.970 who is changing the world for the better.
+00:12:22.800 And what you think abouthim probably comes from
+00:12:26.550 what you read about him.
+00:12:28.620 And what you read about himwas probably served to you
+00:12:31.710 by an algorithm.
+00:12:32.790 This is how our medialandscape works these days
+00:12:35.250 and it's getting us deeperand deeper into trouble,
+00:12:38.160 which is a major theme in this video,
+00:12:40.140 but it's also in line withthe sponsor of today's video,
+00:12:43.410 which is Ground News.
+00:12:45.030 Ground News is a platformthat I've been using
+00:12:47.340 to navigate this problem,to find a balanced view
+00:12:50.310 where I can see bothsides of a news story.
+00:12:52.740 Ground News aggregates, tens of thousands
+00:12:55.020 of news articles from aroundthe world into one place,
+00:12:58.200 and then allows you to critically examine
+00:13:00.750 how that news is being covered.
+00:13:02.430 Here's a recent story
+00:13:03.690 that on the left you can seefrom the Los Angeles Times
+00:13:06.810 that engineers sue Elon Musk
+00:13:09.690 and SpaceX saying
+00:13:10.950 that the company mirroredhis juvenile, crude X posts.
+00:13:15.300 While on the right you'vegot the New York Post saying
+00:13:18.180 that Elon Musk was sued
+00:13:19.620 by fired engineers alleging Elon Musk
+00:13:23.640 allowed pervasive sexist culture.
+00:13:25.770 These headlines have subtle bias in them.
+00:13:27.840 Like the left-leaning headline suggests
+00:13:29.730 that Musk's personal behaviorwas directly responsible
+00:13:33.300 while the right-leaningheadline emphasizes
+00:13:35.730 that they were fired employees
+00:13:37.860 and that there was analleged sexist culture
+00:13:40.200 softening any kind of blametowards Musk and his company.
+00:13:43.260 This is really subtle stuffthat's hard to pay attention to
+00:13:45.330 if you're just scrolling your algorithm.
+00:13:47.700 Ground News emphasizes andhighlights these biases
+00:13:51.240 and allows you to be morecritical as a news consumer.
+00:13:53.850 Not only do they showthis bias distribution,
+00:13:55.890 but they also have a tool that rates
+00:13:57.420 how factual an article is,
+00:13:59.400 and my favorite, they havethis blind spot detector
+00:14:02.850 that pays attention to thearticles that you tend to read
+00:14:05.460 and presents you withstuff that might be outside
+00:14:08.280 of your comfort zone,
+00:14:09.390 but that you probably need to see
+00:14:11.130 to be a balanced news consumer.
+00:14:13.170 This is a really cool tool.I'm very glad they exist.
+00:14:16.410 I'm really glad they'responsoring today's video.
+00:14:18.210 If you wanna try this out for yourself,
+00:14:19.320 go to groundnews.com/johnnyharris
+00:14:21.420 where you'll get 40% off the vantage plan,
+00:14:23.970 which is unlimited accessto all of these features.
+00:14:26.760 I use Ground News, I thinkit's really important
+00:14:29.070 in today's media landscape.
+00:14:30.600 I'm grateful that theysponsored today's video.
+00:14:32.622 With that, let's dive backinto the story of Elon Musk.
+00:14:37.950 [Announcer] Tonight, the richest man
+00:14:39.150 in the world is hunting for more.
+00:14:42.780 Okay, so we're getting into this.
+00:14:45.120 Why did Elon buy Twitter?
+00:14:46.470 What can we learn from it?
+00:14:47.370 Before we do that, I wantto tell you a little bit
+00:14:49.530 about what I learned aboutElon Musk as a leader
+00:14:53.160 after talking to peoplewho have worked with him,
+00:14:55.560 people who have worked under him.
+00:14:56.790 There's a few key lessonsthat I've taken away from all
+00:14:59.850 of these conversationswe've had with these people
+00:15:02.220 and doing research on him.
+00:15:03.510 I will not be quoting them directly
+00:15:05.550 because most of themasked to remain anonymous.
+00:15:08.479 (soft music)
+00:15:10.590 The first thing I heard over
+00:15:11.850 and over again is how obsessedElon Musk is with the details
+00:15:15.438 of what his companies are building.
+00:15:17.490 [Elon] I think peoplethink like I'm a business guy
+00:15:19.380 or something like that,
+00:15:20.550 engineering looks like80% or more of my time.
+00:15:23.370 [Johnny] One source I talked to
+00:15:24.660 who worked closely with Musk,
+00:15:26.220 estimates that he spends 90% of his time
+00:15:28.830 in technical details
+00:15:30.450 with a whiteboard out,looking at code with engineers
+00:15:33.360 and programmers, solving veryspecific details in meetings
+00:15:37.170 that sometimes go intothe middle of the night.
+00:15:39.270 And this gets to oursecond takeaway, which is
+00:15:41.130 that Elon questions everythingand I mean everything.
+00:15:44.760 You can see this really clearly.
+00:15:46.050 When he was building SpaceX,
+00:15:47.730 It was tough goingthere in the beginning
+00:15:49.590 'cause I'd never built anything physical.
+00:15:51.750 I mean, I'd built likelittle model rockets as a kid
+00:15:54.030 and that kind of thing,but I'd never had a company
+00:15:56.160 that built anything physical.
+00:15:57.420 Elon's original idea forSpaceX was to buy Russian rockets
+00:16:00.960 that had been decommissioned
+00:16:02.130 and to rebuild them more efficiently.
+00:16:03.870 I can tell you it was very weird going
+00:16:05.370 to the Russian rocket forces
+00:16:06.750 and saying, I'd like to buytwo of your biggest rockets.
+00:16:09.810 They thought I was crazy,but I did have money.
+00:16:12.090 He went to Russia
+00:16:13.170 and quickly discovered thatthe price that governments pay
+00:16:16.320 for rockets is astronomical.
+00:16:18.780 It felt absurd.
+00:16:20.190 On the flight home, Elon makes this list
+00:16:22.740 of every component he can thinkof needed to build a rocket,
+00:16:26.040 and then he put in the estimated price
+00:16:28.200 for just the materials and the components.
+00:16:30.570 What he found is that the pricesthat they were quoting him
+00:16:33.030 for these rocket partswere highly inflated.
+00:16:35.790 He interrogated every singlecost associated with rockets
+00:16:39.450 and started to make plans on
+00:16:40.800 how his team could find a muchcheaper way to build them.
+00:16:44.010 He did this over andover and over until soon
+00:16:47.040 his team was manufacturing 70% of all
+00:16:51.540 of the rocket components for SpaceX
+00:16:53.670 and saving millions of dollars.
+00:16:57.270 I heard story after storylike this, Elon showing up,
+00:17:01.230 talking to some low level engineer,
+00:17:03.630 working on some very specific problem
+00:17:06.089 and interrogating it
+00:17:07.349 until he found the most efficient answer.
+00:17:10.319 Oh, and this wasn't abouthim being collaborative
+00:17:12.720 or inclusive of his employees.
+00:17:14.430 This is about him stresstesting every single assumption,
+00:17:18.030 pushing every single thing to the limit so
+00:17:20.160 that he can find the mostefficient way to build something.
+00:17:22.920 This also makes working forElon incredibly stressful.
+00:17:26.280 He'll show up, he'll question everything,
+00:17:28.140 and then he'll tell peoplethat a six month timeline needs
+00:17:31.260 to be condensed down into 90 days.
+00:17:33.270 Everyone's jaw drops.
+00:17:34.560 They say it's impossible, andhe says it has to be possible
+00:17:38.040 and then everyone makes it happen.
+00:17:39.300 Which gets me to numberfour, the people around him.
+00:17:42.960 Musk's ruthless idealism
+00:17:45.750 and vision for the futurehas attracted a lot really
+00:17:49.560 talented people who bringthese dreams to life.
+00:17:52.620 These people have ralliedaround his mission
+00:17:55.080 to reinvent transportationor take humans to Mars.
+00:17:58.500 They're the ones who make it happen
+00:18:00.420 with unprecedented speed and efficiency.
+00:18:02.940 These four things arereally his superpowers.
+00:18:06.780 They're the ingredientsthat have allowed him
+00:18:08.700 to reinvent entire industries,
+00:18:10.770 but this isn't the full picture.
+00:18:12.240 Everyone I talk to includes the fact
+00:18:14.610 that Elon can be a total asshole
+00:18:17.370 and is a lot of the time.
+00:18:19.020 Hate me, like me or indifferent.
+00:18:20.760 Do you want the best car ordo you not want the best car?
+00:18:23.447 (laughing)
+00:18:24.280 [Johnny] He is abrupt, he is blunt,
+00:18:26.010 and he puts basically no effortinto making you like him.
+00:18:29.010 No, I am not the evil.I just misunderstood.
+00:18:31.984 (whistling)
+00:18:34.140 One irony I kept hearingis that Musk cares so much
+00:18:37.800 about humanity, but he doesn'treally care about humans.
+00:18:41.310 Okay, so I'm the father of an11-year-old who is autistic,
+00:18:44.760 and I myself identify as beingon some part of the spectrum.
+00:18:48.300 And so listening to hoursof Musk, I see moments that
+00:18:51.870 to most people might looklike him being mean hearted
+00:18:54.450 and arrogant, and extreme, and even cruel,
+00:18:57.270 but to me feel more like him being unaware
+00:19:00.060 or perhaps unwilling to playby the rules of social norms.
+00:19:04.140 Okay, but, and because my sonis probably watching this,
+00:19:08.040 I need to make one thing crystal clear
+00:19:10.200 that there is a line here.
+00:19:11.730 Musk's behavior, especially recently,
+00:19:14.460 can quickly cross intomalicious, temperamental,
+00:19:18.540 mean hearted and harmfulbehavior that goes well
+00:19:21.570 beyond anything that can be justified
+00:19:23.250 or explained byneurodivergence, into something
+00:19:26.220 that looks a lot more likeaggressive bullying, coercion,
+00:19:30.240 unethical business practices.
+00:19:32.160 There's almost a demon mode of Elon Musk
+00:19:34.800 where he turns really dark
+00:19:36.960 and that can be veryproblematic, especially
+00:19:39.510 when it came to acquiring Twitter.
+00:19:41.310 My point is that there's some empathy
+00:19:43.050 that is warranted here.
+00:19:44.400 It can be a blurry line,
+00:19:45.900 but Musk very clearly crosses that line.
+00:19:48.862 Something we'll talk aboutmore in a little bit.
+00:19:50.970 But for now, let's get backto our list, these five things
+00:19:53.880 that are the big takeawayson how Musk operates
+00:19:56.400 and how he's built his empire.
+00:19:57.900 And let's look at where thisgot him by the early 2020s.
+00:20:01.230 His four big companies had grown rapidly
+00:20:03.210 to become worth billions.
+00:20:05.130 Tesla reaching a trilliondollar valuation,
+00:20:07.800 one of the most valuablecompanies on earth,
+00:20:10.080 revolutionizing the car industry.
+00:20:11.850 And by January, 2021, thesesuccesses has skyrocketed Musk
+00:20:15.480 to become the world's richest man
+00:20:17.970 according to Forbes Billionaire Tracker.
+00:20:20.820 But don't be fooled.
+00:20:22.350 For Musk, this actuallyisn't an ideal situation.
+00:20:25.680 Musk's biographer, WalterIsaacson, wrote this amazing book
+00:20:28.950 that details all of thisprivate communication
+00:20:31.170 that really gives us an insidelook into the psychology
+00:20:33.300 of Musk during this time.
+00:20:34.980 And he documents thisconversation between Shivan Zilis,
+00:20:38.730 the director of operationsat one of his companies,
+00:20:41.160 and the mother of a set of Elon's twins,
+00:20:44.070 and Elon in a text thatread, "You don't have
+00:20:47.100 to be in a state of war all the time,
+00:20:49.083 or is that where you find greater comfort,
+00:20:51.840 when you're in periods of war?"
+00:20:53.310 And he replies that it's apart of his default setting.
+00:20:57.630 Zilis then tells Isaacson
+00:20:59.130 that "It was like he waswinning the simulation
+00:21:01.500 and now he felt at a loss at what to do.
+00:21:03.810 Extended periods of calmwere unnerving for him."
+00:21:07.864 The guy is addicted toconflict and crisis,
+00:21:10.770 and tension, and drama.
+00:21:12.450 And being the world's richest man
+00:21:14.456 with all these successeswas uncomfortable.
+00:21:16.320 He needed a new stormto throw himself into,
+00:21:19.312 and so he chose the storm of all storms.
+00:21:23.375 (deep music)
+00:21:28.715 At the end of 2022, he buysTwitter for $44 billion.
+00:21:31.920 In his offer letter, hetells us why he's doing it.
+00:21:34.170 He believes that Twitter has the potential
+00:21:36.480 to be the platform for freespeech around the globe,
+00:21:39.690 and that free speech isa societal imperative
+00:21:42.090 for a functioning democracy.
+00:21:46.913 And right away, Musk applieshis playbook to the company,
+00:21:50.340 sending out a midnightemail telling the thousands
+00:21:52.830 of employees that there'sgonna be a new Twitter culture
+00:21:56.040 that is quote, "Extremelyhardcore, long hours,
+00:21:59.520 high intensity."
+00:22:00.450 And tells anyone who wants to stay
+00:22:01.980 to fill out this form or be fired.
+00:22:04.650 Thousands of Twitteremployees are being laid off,
+00:22:07.050 locked out of their work email accounts.
+00:22:08.760 Twitter has fired half of its seven
+00:22:10.860 and a half thousand staff.
+00:22:12.510 We called it the Twitter Hunger Games.
+00:22:18.090 I thought a lot about howto talk about Musk's foray
+00:22:21.150 into Twitter because itis in the news right now.
+00:22:23.730 It is shaping the way that we receive
+00:22:25.800 and talk about information,
+00:22:27.150 and there's a lot of hot takes out there.
+00:22:28.590 What I decided to do here is to try
+00:22:30.360 to give the most earnestunderstanding as to Musk's motives.
+00:22:33.930 Why did he do this?
+00:22:34.980 What does he want from it,
+00:22:36.600 and what is he doing to reshapeTwitter around this vision?
+00:22:41.880 [Joe] What was itultimately that led you
+00:22:43.950 to make the decision to do it?
+00:22:45.808 [Elon] It's somewhat melodramatic,
+00:22:47.190 but I was worried about that it was
+00:22:51.096 having a corrosive effect on civilization.
+00:22:54.450 So first and foremost,
+00:22:55.440 free speech is like thething he says over and over.
+00:22:58.230 Free speech. Free speech. Free speech.
+00:23:00.482 Free speech is the only waythat humans are gonna thrive.
+00:23:02.100 And because Musk's mainmission is the advancement
+00:23:04.830 of human civilization, he must buy Twitter
+00:23:07.050 and make it the free speech platform.
+00:23:09.450 The platform where we haveperhaps the most important
+00:23:11.940 conversations in the world.
+00:23:13.140 He says this over and over likein this tweet where he says,
+00:23:15.877 "This is a battle for thefuture of civilization.
+00:23:18.210 If free speech is lost, even in America,
+00:23:20.592 tyranny is all that lies ahead."
+00:23:22.890 So that's number one on whathe says his motives are.
+00:23:26.009 [Elon] I think part of it is that,
+00:23:27.750 it's where it was located,
+00:23:29.670 which is, you know,downtown San Francisco.
+00:23:32.130 [Johnny] The next pillarof Musk's reasoning has to do
+00:23:34.650 with the city of San Francisco.
+00:23:36.600 [Elon] Is there a placethat's more far left
+00:23:38.580 than San Francisco, Berkeley?
+00:23:40.299 [Johnny] Twitter's headquartersis located right here
+00:23:43.530 in downtown San Francisco.
+00:23:45.240 And for Musk, that's a big problem.
+00:23:47.370 [Elon] It was an accidentalfar left information weapon
+00:23:51.600 that was then harnessed by the far left
+00:23:54.150 who could not themselvescreate the weapon,
+00:23:56.340 but happened to be co-locatedwhere the technologists were.
+00:23:59.820 Okay, so let me get this straight.
+00:24:01.680 Musk believes thatTwitter being in the heart
+00:24:05.280 of a liberal city means that the engineers
+00:24:07.260 and leaders deciding what gets elevated
+00:24:09.300 and suppressed on Twitter areinfected with the politics
+00:24:13.440 of the liberal city.
+00:24:14.640 And so they're more likelyto elevate their ideology,
+00:24:17.280 a megaphone, an information weapon.
+00:24:19.890 That's his argument.
+00:24:21.270 I have a couple issues with the argument
+00:24:24.330 and its logical underpinning,
+00:24:26.250 but again, this is aboutwhat Elon Musk says
+00:24:29.247 and his motivations for buying Twitter.
+00:24:31.470 And number three, thegovernment is censoring Twitter
+00:24:35.490 and Twitter is letting them.
+00:24:36.900 [Elon] Twitter was simplyan arm of the government.
+00:24:40.230 You know, a state publication is the way
+00:24:42.510 to think of old Twitter.
+00:24:44.010 It's a state publication.
+00:24:45.420 Alright, this is our list.
+00:24:46.650 We're gonna get to each of these
+00:24:47.940 and like try to understand them all.
+00:24:49.260 But like is anyone elsewondering what happened here?
+00:24:52.470 It feels like the story wentfrom quirky visionary engineer
+00:24:55.530 uses his brilliant unorthodox,
+00:24:57.480 socially immature tactics and obsessions
+00:25:00.000 to accomplish unprecedentedengineering feats.
+00:25:02.880 To said quirky engineers suddenly
+00:25:05.160 dedicates his brilliantmind away from physics
+00:25:07.710 and towards social media
+00:25:09.510 because he believes thatthere's a deep state conspiracy
+00:25:11.730 between San Franciscotechnologists infected
+00:25:14.280 with liberal bias and theircensoring government overlords,
+00:25:17.970 and he is going to fix it.
+00:25:19.946 (soft music)
+00:25:22.200 What happened?
+00:25:23.670 I actually never got to the bottom of that
+00:25:26.850 and I don't think anyone has.
+00:25:29.850 That's actually been a central question
+00:25:31.230 that was never answered forme during this reporting.
+00:25:33.630 We do know this pivothappened sometime in 2020.
+00:25:36.360 Why did Musk shift to obsessing over this?
+00:25:39.390 The answer to that probably lies somewhere
+00:25:41.310 in Elon Musk's brain,and it is not ethical
+00:25:44.250 or useful for me to try toopine on his mental health
+00:25:47.730 or what is going on in his brain.
+00:25:49.080 So let's stick to the facts.
+00:25:50.820 Here is the logical framework
+00:25:52.260 that Elon Musk used to buy Twitter.
+00:25:54.870 This is what he wants todo with it is fix this.
+00:25:57.120 Let's see what happens next.
+00:26:01.885 So after firing most of the employees
+00:26:04.260 and changing the nameto his favorite letter,
+00:26:06.510 he gets to work on free speech.
+00:26:08.700 He lets big accounts
+00:26:09.780 that were previously bannedback onto the platform,
+00:26:12.090 including former President Donald Trump,
+00:26:13.890 comedian Kathy Griffin,lawmaker Marjorie Taylor Greene,
+00:26:16.770 Jordan Peterson.
+00:26:17.640 Within a few months he posts this tweet
+00:26:19.950 around the Super Bowl and he notices
+00:26:22.020 that this tweet gets lessengagement than the tweet
+00:26:25.410 by President Joe Biden.
+00:26:27.038 Elon does not like this.
+00:26:29.430 He calls an urgent meeting
+00:26:30.840 and tasks 80 engineers toquickly rebuild a version
+00:26:34.770 of the algorithm thatwill allow his tweets
+00:26:37.320 to be artificially boostedby a factor of a thousand.
+00:26:41.070 I was kind of skeptical onhow sensational was reported,
+00:26:44.400 but through my conversations, confirmed
+00:26:46.530 that this actually went down.
+00:26:47.940 Like the old Twitter was not built
+00:26:49.320 to artificially boost one account.
+00:26:51.750 And Elon, the free speech guy was like,
+00:26:54.480 I need you to boost my account
+00:26:55.890 because it's not getting asmuch attention as the president
+00:26:58.740 and the 80 engineers did.
+00:27:00.510 So a few months after buying the company,
+00:27:02.430 Elon now has super algorithmic power
+00:27:05.007 and he uses it to startto amplify certain people.
+00:27:09.690 So I know what you're thinking, Johnny,
+00:27:11.100 you just disagree with these people
+00:27:12.600 and so you think that it'sbad that Elon let them on,
+00:27:15.000 but really free speech isabout letting everyone talk.
+00:27:17.550 Yes, absolutely. That is true.
+00:27:19.740 And yet Elon uses anartificially amplified voice
+00:27:23.760 to prop up a very specifictype of voice on Twitter
+00:27:27.630 to amplify ideas, extreme ideas,
+00:27:31.920 harmful ideas, not just toliberals in San Francisco,
+00:27:35.550 but ideas that we as humanityrecognize are bad ideas.
+00:27:39.750 And now someone with amassive megaphone has control
+00:27:43.050 on how big those ideas can get.
+00:27:45.150 Even Bill Maher, the Elon fanboy.
+00:27:48.300 There's a very few people whoactually make change happen.
+00:27:52.032 You are one of those people.
+00:27:53.913 Even he could not understandwhy Elon was doing this.
+00:27:57.570 I understand why he wanted
+00:27:59.040 to like have a platformwhere you have free speech,
+00:28:01.560 but like why then embracethe worst people on it.
+00:28:05.400 And then Elon isn't totallyconsistent about this.
+00:28:07.770 Like in the case of Alex Jones
+00:28:09.479 who spreads horrendous conspiracies
+00:28:12.450 and misinformation to a lot of people.
+00:28:14.310 When asked why Elon didn'tlet him go back onto Twitter,
+00:28:17.280 he said no.
+00:28:18.113 Saying that he had no mercy for anyone
+00:28:20.370 who would use the deathof children for gain,
+00:28:23.070 politics or fame.
+00:28:24.660 He did eventually reinstateAlex Jones after running a poll.
+00:28:27.780 But you start to see thathe'll reinstate anyone
+00:28:30.450 unless he personally takes issue
+00:28:32.850 with their views or what they said.
+00:28:34.620 What's puzzling to me is
+00:28:35.610 that this isn't free speech absolutism.
+00:28:38.640 It's not say anything you want.
+00:28:40.650 Musk's new Twitter then starts banning
+00:28:43.530 and suppressing Substack links,
+00:28:46.050 Substack the place whereindependent journalists write.
+00:28:49.153 Musk made the changewhere you can't comment
+00:28:50.550 or like on anything thathas a Substack article
+00:28:53.040 and you can't embed tweetsin your Substack article.
+00:28:55.830 That doesn't feel like free speech to me.
+00:28:57.720 Musk then decides
+00:28:58.770 that the word cisgenderis a slur on Twitter
+00:29:02.250 and threatens to banpeople who use it too much.
+00:29:05.400 Is that free speech?
+00:29:06.990 He then starts banning journalists
+00:29:08.970 who criticize him, though hedid reinstate a few of them
+00:29:12.150 after a vote.
+00:29:13.500 And then start suing mediawatchdog organizations
+00:29:16.860 like the Center forCountering Digital Hate,
+00:29:18.810 trying to silence them
+00:29:19.890 for criticizing the new Twitter.
+00:29:22.020 Musk, of course, lost withthe verdict coming out saying
+00:29:25.170 that this lawsuit was basically
+00:29:27.000 about trying to silence criticism
+00:29:29.280 and deter others fromcriticizing his company.
+00:29:32.700 He's someone who is willingto use his enormous wealth
+00:29:35.520 and power to silence people.
+00:29:37.320 Like this is such clearanti-free speech behavior.
+00:29:40.830 When Twitter users organizeda protest against making users
+00:29:44.580 pay for a blue check mark,he banned that account.
+00:29:48.300 And this is what's so mind bending.
+00:29:50.070 Like I swear he's trolling us here.
+00:29:52.110 He says that he'sobsessed with free speech,
+00:29:54.168 but then immediatelyafter taking over Twitter,
+00:29:57.210 he demonstrates an extremehypocrisy for that very point.
+00:30:01.290 And I secretly think he's doing that
+00:30:03.180 so that we are talking about it right now.
+00:30:05.190 I don't think it wasever about free speech.
+00:30:07.170 I also think that when heposts political propaganda ads
+00:30:10.908 like this conspiracy video that says
+00:30:13.530 that Democrats are letting immigrants in
+00:30:16.350 to turn America into single party rule
+00:30:18.960 and has almost a hundred million views.
+00:30:21.109 I think he's doing that not
+00:30:23.790 because he agrees with thisfactless piece of propaganda,
+00:30:27.390 but because he loves to rile people up.
+00:30:30.540 Though maybe he does agreewith it, I don't know.
+00:30:32.670 Either way, he has built a platform
+00:30:34.650 that gives him the biggest megaphone
+00:30:36.540 and suppresses people that criticize him.
+00:30:39.120 That is not free speech.
+00:30:41.460 Okay, but let's move on
+00:30:42.450 because free speech was justone of his three major motives.
+00:30:45.420 What about this argumentthat Twitter is infected
+00:30:48.660 with liberal ideology becauseit is based in San Francisco?
+00:30:52.110 Luckily we have data.
+00:30:55.221 This was a great study, very thorough,
+00:30:57.720 algorithmic amplificationof politics on Twitter.
+00:31:00.720 It's a study from before Elon took over.
+00:31:03.660 They conducted a longrunning, massive scale,
+00:31:06.270 randomized experiment wherethey looked at a huge number
+00:31:10.260 of tweets from seven countries
+00:31:12.570 and they found that in sixout of the seven countries,
+00:31:16.140 including the United States,
+00:31:17.430 that quote, "Themainstream political right
+00:31:20.160 enjoys a higher algorithmic amplification
+00:31:23.130 than the mainstream political left."
+00:31:25.290 They saw this over and over.
+00:31:27.269 Oh, and also a reallyinteresting side note here is
+00:31:30.000 that they found that Twitter actually
+00:31:31.530 doesn't amplify far left orfar right political groups,
+00:31:35.880 more than moderate ones,
+00:31:37.500 which is a myth that I believeduntil I read this study.
+00:31:40.500 But the whole point is
+00:31:41.333 that old Twitter didnot have a liberal bias.
+00:31:43.650 If anything, it had a conservative bias.
+00:31:46.260 This study is very robust proof of that
+00:31:48.570 despite Elon's theory thatTwitter being in San Francisco
+00:31:51.870 infected it with a liberal bias.
+00:31:53.670 Go to the sources and read the study
+00:31:55.080 for yourself if you wanna poke into it.
+00:31:56.550 If there's anything wrongwith it that I'm missing,
+00:31:58.740 please tell me.
+00:31:59.910 But it seems like prettysolid proof to me.
+00:32:02.040 Okay, but what about the last critique?
+00:32:04.020 And this is a big one.
+00:32:05.010 Musk believed that Twitter wasbeing censored by governments
+00:32:09.300 and Twitter was letting them do this.
+00:32:11.040 And guess what? That is actually true.
+00:32:14.850 Upon taking over Twitter,Musk cracked into all
+00:32:17.430 of the internal communications
+00:32:19.140 and found a bunch of emails that showed
+00:32:22.410 how Twitter had banned
+00:32:23.790 and suppressed informationthat it deemed harmful
+00:32:26.400 and dangerous, but thatthey did so sometimes
+00:32:29.580 with a political bias.
+00:32:30.990 You can see things likeBiden's team asking Twitter
+00:32:33.690 to review these tweetsthat they didn't like.
+00:32:35.730 Yes, governments aroundthe world can ask Twitter
+00:32:38.190 to take things down in their country
+00:32:40.290 that they think are breaking the law
+00:32:41.880 or that are harmful to national security.
+00:32:44.070 And this happened on both sides.
+00:32:45.840 The Trump White House askedTwitter to take things down
+00:32:48.330 as well, but this reporting did reveal
+00:32:50.190 what looked like a lotof left-leaning bias
+00:32:53.368 in censoring certainhighly sensitive content
+00:32:55.470 that would be damaging to the left.
+00:32:57.477 The the big example of thiswas this New York Post article
+00:33:01.080 about Hunter Biden's laptop.
+00:33:02.700 Twitter severely censored this,
+00:33:04.680 not even letting peopleDM the link to each other
+00:33:07.020 and making up a thinjustification for it later.
+00:33:09.660 Now, content moderation,deciding what is harmful
+00:33:13.500 and what should be censoredand what shouldn't,
+00:33:15.780 is a really difficult task.
+00:33:17.700 But for a lot of people, including myself,
+00:33:19.290 this crossed a line.
+00:33:20.670 This was not okay.
+00:33:21.780 Though I have to say
+00:33:22.620 that Hunter Biden New York Post article
+00:33:24.930 was the most sort of egregious one.
+00:33:27.060 A lot of the other stuff in theTwitter files was not nearly
+00:33:29.910 as black and white.
+00:33:31.050 Much more nuanced, much more complicated.
+00:33:33.090 The point is there shouldbe transparency here,
+00:33:35.310 and I agree with Musk on that.
+00:33:37.110 Okay, but this is once again
+00:33:38.790 where we find some strange paradox
+00:33:41.850 that doesn't make any sense, which is
+00:33:43.200 that since Musk took over,
+00:33:45.240 government censorshipon Twitter has gone up.
+00:33:48.690 Twitter suspended multiple journalists
+00:33:50.280 from prominent outletsincluded the Washington Post,
+00:33:52.500 the New York Times, and CNN.
+00:33:54.180 Tonight, a number
+00:33:55.556 of high profile journalistshave been silenced.
+00:33:57.360 Here are the number of takedown requests that governments
+00:34:00.210 around the world made toTwitter in the six months
+00:34:02.940 before Musk took over.
+00:34:04.380 And these are the onesthat Twitter complied with.
+00:34:07.020 Twitter would fully comply
+00:34:08.520 with the government's censorship request
+00:34:10.920 about half of the time.
+00:34:12.360 The other half of the time they'd say no.
+00:34:14.280 In the six months after Musk, the number
+00:34:16.380 of requests went up,probably because Musk got rid
+00:34:19.170 of a lot of the automatic moderation.
+00:34:21.120 But look, Musk's Twitter now says yes
+00:34:24.840 to government censorshipover 80% of the time,
+00:34:28.350 way more than the old Twitter.
+00:34:30.570 Wait, what?
+00:34:31.590 And look, the kind ofstuff that Musk is allowing
+00:34:34.980 to be censored on the platformis really sensitive stuff
+00:34:38.370 for free speech.
+00:34:39.480 Like take Turkey for example.
+00:34:41.310 There was a Turkish election last year.
+00:34:43.320 The president of Turkey,himself, a massive user
+00:34:46.500 of state censorship, pressured Twitter
+00:34:48.659 to block the accounts of afew people he didn't like,
+00:34:51.360 a Kurdish businessman, aninvestigative journalist,
+00:34:54.270 both of them vocalcritics of the president.
+00:34:56.699 Like this is like clear black
+00:34:58.530 and white political censorshipin an election year.
+00:35:01.530 Like make the guy
+00:35:02.640 who is criticizing me go away.
+00:35:04.620 And guess what?
+00:35:05.660 Musk's Twitter did it. They said yes.
+00:35:08.910 They banned the accounts
+00:35:10.470 and then said we didn't have a choice.
+00:35:13.170 They were gonna shut down all of Twitter
+00:35:14.730 so we had to do it.
+00:35:15.780 And then they pattedthemselves on the back
+00:35:17.490 about how they werestill trying to fight it,
+00:35:19.470 and they're doing so much forbattling government censorship
+00:35:21.870 and transparency on the platform.
+00:35:23.550 But guess what? They did have a choice.
+00:35:25.770 This same kind of thing happenedbefore Musk ever came in
+00:35:28.950 and Twitter fought back.
+00:35:30.450 In a previous Turkish election,
+00:35:32.580 the government tried to do the same thing,
+00:35:34.410 censor posts about corruptionwithin the Turkish government.
+00:35:37.980 They asked Twitter to take these down
+00:35:39.600 and Twitter said, no.
+00:35:41.610 They fired back that political speech is
+00:35:43.703 among the most important speech,
+00:35:45.720 especially when it concernsmatters of possible corruption.
+00:35:48.930 So Turkey shut down Twitter,it was down for a couple
+00:35:52.440 of weeks while theybattled it out in court
+00:35:54.570 and the Turkish government lost.
+00:35:56.670 Indeed, they lost
+00:35:57.930 because they were tryingto censor political speech
+00:36:00.330 and Twitter fought back.
+00:36:02.100 There's even more recentexamples like Wikipedia
+00:36:04.984 or Wokipedia as Elon callsit, refusing to comply
+00:36:09.270 with the Turkish governmentcensorship requests,
+00:36:11.970 getting completely shut downfor almost three years only
+00:36:14.920 to have it be overturnedin Turkish courts.
+00:36:18.570 A major win for free speech in Turkey,
+00:36:21.210 which is something that'sin short supply lately.
+00:36:23.400 So like Wikipedia, Twitter can do this.
+00:36:26.340 They can say no to the Turkish government
+00:36:28.710 if they're actuallycrusaders for free speech
+00:36:30.593 and they're actually againstgovernment censorship,
+00:36:33.840 they would have said no in 2023.
+00:36:36.420 Musk's Twitter did this in India too,
+00:36:38.970 when the Indian governmentasked Twitter to censor a bunch
+00:36:43.050 of journalists, includingan entire BBC bureau
+00:36:45.990 and a documentary that was critical
+00:36:47.610 of the government and thepresident, and Twitter complied.
+00:36:50.670 Elon, where is yourconviction for free speech?
+00:36:53.093 Where is your hate forgovernment censorship
+00:36:55.560 in moments like this whereit really, really matters?
+00:36:58.500 But for Elon Musk, he's got a lot
+00:37:00.390 of other things he needs to think about.
+00:37:02.160 He needs to think aboutthe market for Teslas,
+00:37:05.040 who might be buying hissatellites or rockets.
+00:37:08.040 He needs to be thinking about
+00:37:09.120 where Tesla factories might be set up,
+00:37:11.280 the market for his electric cars.
+00:37:13.530 This is a conflict ofinterest that gets in the way
+00:37:15.900 of his idealistic vision for free speech
+00:37:19.380 and his hate for government censorship.
+00:37:22.350 Twitter used to have a page
+00:37:23.580 where they would publish in detail
+00:37:25.800 why they would take downany content they took down
+00:37:28.830 at the request of the government.
+00:37:30.360 And there's this research lab at Harvard
+00:37:32.100 that would aggregate allof this for the public.
+00:37:34.200 When our story producerAlex went to go look
+00:37:36.660 for these government requests from Turkey
+00:37:38.610 and India, she found thatthey no longer were there.
+00:37:42.750 This page had gone quiet.
+00:37:44.700 So she reached out to the Harvardlab and got this response.
+00:37:49.110 Twitter stopped sharing thisdata starting in April, 2023.
+00:37:54.060 No more transparency ongovernment censorship.
+00:37:56.790 It looks like it's down to thewhims of one super rich dude.
+00:38:01.380 That is not free speech,that is the antithesis of
+00:38:04.710 what this guy said he was going to build.
+00:38:07.350 So no, I don't think Elon Musk is earnest
+00:38:10.920 about these three thingsthat he said were his motive
+00:38:14.610 for buying Twitter.
+00:38:15.780 In fact, after looking into all of this,
+00:38:17.520 I'm having a hard time figuring out
+00:38:19.020 what Elon is earnest aboutat all, other than his belief
+00:38:22.890 that humans have the potentialto do amazing things.
+00:38:26.310 I do believe that in all ofthis, that is the one thing
+00:38:29.130 that has stayed consistent.
+00:38:30.510 But how he's pursuing that goal
+00:38:32.460 and that vision in recentyears is baffling, confusing
+00:38:37.950 and in my mind, quiteharmful to our society.
+00:38:42.330 Twitter seems much more like a platform
+00:38:45.393 where he can bully thepeople he doesn't like.
+00:38:48.690 He can feed his addiction to crisis
+00:38:51.780 and controversy while alsoshowing a childish hypocrisy
+00:38:56.250 in his principles and values.
+00:38:58.110 But unlike his other ventures,
+00:39:00.360 which you can tell when they're successful
+00:39:03.000 because they're physics,
+00:39:04.200 the rocket either goes upinto space or it doesn't.
+00:39:06.587 The car drives or it doesn't.
+00:39:08.880 This new venture doesn'thave a physical feedback loop
+00:39:12.690 that tells him if it'sdoing good or working.
+00:39:15.690 Instead, he's playing with thedelicate, precarious nature
+00:39:19.980 of information in the internet age,
+00:39:22.350 something that is already in crisis
+00:39:24.300 and now is being chippedaway at by one rich dude
+00:39:27.930 who gets off on crisis.
+00:39:29.550 And what blows my mind mostis that in the process of all
+00:39:32.310 of this, Musk isundermining his own dream,
+00:39:36.090 his own vision.
+00:39:37.470 This is a sentiment Iheard from the employees
+00:39:40.410 and colleagues of Elon Musk.
+00:39:42.000 They felt betrayed, likethis man pushed them
+00:39:46.110 to think differently, to dothings that seemed impossible,
+00:39:49.677 all in the name of this grand vision of
+00:39:51.990 what humanity could be, whatwe could do as a civilization.
+00:39:55.350 And yet in recent years,he seems to be sabotaging
+00:39:57.870 that very vision, alienating the people
+00:40:00.840 and customers that he needsto bring this vision to life.
+00:40:04.470 In my mind, Elon has exchangedthat vision for controversy
+00:40:09.210 and division that forcesall of us to talk about it.
+00:40:13.020 Here we are talking aboutit, talking about him.
+00:40:16.260 I think a part of himloves that or needs that.
+00:40:20.550 And yet after all of this,defenders of Elon will continue
+00:40:24.090 to argue that only someone like this
+00:40:27.420 could be the one to change the world.
+00:40:29.610 To anyone I've offended,
+00:40:30.810 I just wanna say Ireinvented electric cars
+00:40:33.840 and I'm sending peopleto Mars on a rocket ship,
+00:40:35.910 did you think I was alsogonna be a chill normal dude?
+00:40:38.699 (audience laughing)
+00:40:42.120 And yeah, I get that the people
+00:40:43.110 who change the worldaren't normal and orthodox,
+00:40:45.960 they're not nice.
+00:40:46.950 But I don't accept this wayof thinking about Musk today,
+00:40:49.560 maybe a couple years ago.
+00:40:50.760 But in recent years,
+00:40:51.630 Musk has shown it's hisaddiction to crisis and attention
+00:40:55.500 that is having a corrosiveeffect on our society, validating
+00:40:58.710 and glorifying ways of actingthat rewards the worst parts
+00:41:02.760 of us, and instead of saving civilization,
+00:41:06.990 driving us further apart.
+00:41:10.525 (soft music)
+00:41:33.120 Hey everyone,
+00:41:34.359 thanks for watching thisdeep dive on Elon Musk.
+00:41:36.420 I wanna tell you about our newchannel called Search Party.
+00:41:39.540 It is a deep dive intogeopolitics and sports.
+00:41:42.740 It is started by SamEllis, my old Vox colleague
+00:41:45.750 who now has a wonderfulchannel that we collaborate on
+00:41:49.140 and it is awesome.
+00:41:51.000 Go check it out. Thank youeveryone over at The Newsroom,
+00:41:53.400 which is on Patreon, the people
+00:41:55.586 who support our deep divereporting every month.
+00:41:57.840 I really appreciate your support.
+00:41:59.930 Patreon.com/johnnyharrisif you wanna go check
+00:42:02.580 out the perks there.
+00:42:03.840 We also still have a fewhundred copies of this poster
+00:42:06.960 that I designed a fewmonths ago, maybe last year.
+00:42:10.680 And it is still around,a few hundred copies left
+00:42:13.590 if you want to go buy them.
+00:42:15.900 If they still exist at this point,
+00:42:17.460 they could be sold out.
+00:42:18.450 It is a poster of all the map projections
+00:42:21.420 and it's called All Maps Are Wrong,
+00:42:23.550 and I'm very proud of it.
+00:42:24.720 You can have it on yourwall like I have it on mine.
+00:42:27.090 All of our sources are in the description
+00:42:28.980 if you want to go poke into them.
+00:42:30.540 And thank you all for being here.
+00:42:32.670 I'll see you in the next one. Bye-Bye.
+00:42:35.650 (soft music)

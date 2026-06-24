@@ -51,14 +51,14 @@ A workspace for writing, rewriting, and deeply analyzing short-form and long-for
 
 ## Abdullah Hassan (own channel)
 
-Personal writing preferences: **`AbdullahHassan/writing-style-guide.md`** · **`AbdullahHassan/academic-writing-profile.md`** · **`AbdullahHassan/avoid-ai-sounding-writing.md`** · **`AbdullahHassan/edit-patterns-from-sa-script.md`** (real edit patterns)
+Personal writing preferences: **`AbdullahHassan/writing-style-guide.md`** · **`AbdullahHassan/scriptwriting.md`** (structural & production decisions) · **`AbdullahHassan/qaanitah-hunter-voice.md`** · **`AbdullahHassan/speak-vs-show-checklist.md`** · **`AbdullahHassan/edit-patterns-from-sa-script.md`** · **`AbdullahHassan/avoid-ai-sounding-writing.md`** (essay validation lines §4.5b)
 
 ---
 
 ## Workflow: Writing New Scripts
 
 1. Read this file (`ai.md`)
-2. For **Abdullah's** scripts, read `AbdullahHassan/writing-style-guide.md`
+2. For **Abdullah's** scripts, read `AbdullahHassan/writing-style-guide.md` and `AbdullahHassan/scriptwriting.md`
 3. Read the target creator's analysis doc in `docs/`
 4. Read 2-3 of their transcripts from `scripts/<creator>/`
 5. Write the script in `generatedScripts/`, matching tone and structure per the analysis doc

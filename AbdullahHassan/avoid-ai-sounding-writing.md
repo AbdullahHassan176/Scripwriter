@@ -59,6 +59,7 @@ Cut or rewrite on sight unless you **meant** it in dialogue or a direct quote.
 | **multifaceted** | Hides lack of facets | List the 2–3 facets |
 | **in today’s [fast-paced/digital] world** | Throat-clearing | Start with your hook |
 | **it’s important to note that** | AI hedge | Just state the note |
+| **the concern was not imaginary** / **the fear was real** / **this was not a coincidence** | AI pre-validating its own point before making it | Delete; lead with the evidence — the evidence validates itself |
 | **in conclusion** (mid-essay) | You already hate this | Section heading or pivot sentence |
 | **as an AI** / **I hope this helps** | Obvious | Never |
 | **navigate** (challenges) | Coaching cliché | *face*, *deal with*, or name policy |
@@ -119,6 +120,26 @@ After thirty years, a gap like that is still a policy choice.
 
 Use **one** clean contrast per section if needed (*“They say corruption. That’s not the answer.”*). Do not stack the em-dash formula.
 
+### 4.1c Split-sentence contrast (same pattern without the em-dash)
+
+AI produces the same rhythm by splitting one idea into two short punchy sentences:
+
+`	ext
+BAD (split-sentence contrast rhythm):
+COVID did not create that number. It just made it impossible to deny.
+Screens were an easy villain. The real story was more complicated.
+`
+
+These read as punchy and dramatic in your head, but on camera they land as AI-scripted contrast. Merge them into one flowing sentence instead:
+
+`	ext
+BETTER:
+COVID arrived on top of a loneliness problem that had been growing for years.
+Screens took the blame, even though the research was pointing somewhere else.
+`
+
+**Rule:** If sentence B negates, qualifies, or flips sentence A, they are one thought. Write them as one sentence. *(Male Loneliness Gaming script, Jun 2026)*
+
 ### 4.1b “Not X, but Y” / contrast stacking (general)
 
 Community + Presbitero-adjacent pattern: AI loves symmetrical reframes.
@@ -149,6 +170,48 @@ Corruption. Zuma. State capture. Done.
 
 You explicitly **banned** this for video; academic you use **full sentences** and `1)` `2)` lists — not fake poetry.
 
+### 4.2b Short sentences are fine as orients and pivots — not as contrasts
+
+2and20 uses short sentences freely as **section openers** (*"This is London."*), **question pivots** (*"But why was this the case?"*), and **single confirms** (*"Well, yeah."*). These work because they orient or invite, not because they contrast.
+
+The problem is using short sentences as back-to-back contrast pairs mid-argument, or splitting a contrast across paragraph boundaries so the last sentence of one paragraph and the first of the next form a "not X / but Y" pattern.
+
+```text
+BAD (cross-paragraph contrast pair):
+…Screens took the blame.
+
+That blame was not the whole story.
+
+BETTER (one paragraph, one honest flip):
+…Screens were blamed for making it worse — and for some men using games compulsively to
+avoid the world, that blame is fair. But for men using them in moderation, in communities
+that talk about more than the game, the data points somewhere more complicated.
+```
+
+**Rule:** Check paragraph boundaries. If the last sentence of one paragraph and the first sentence of the next form a "not X / yes Y" pair, merge them or rewrite the close of the first paragraph. *(2and20 reference, Jun 2026)*
+
+### 4.2c Event-labelling with dramatic nouns
+
+AI names events with a dramatic noun rather than describing what actually happened:
+
+```text
+BAD (dramatic label — tells instead of shows):
+The 2019 panel was a warning.
+COVID was the accelerant.
+That moment was a turning point / reckoning / catalyst.
+```
+
+These feel weighty on the page but are hollow on camera — the listener gets the label, not the event. Replace by describing what researchers were doing, what the event closed or opened, what people experienced:
+
+```text
+BETTER (concrete — shows what happened):
+Researchers were already raising the alarm by 2019.
+When COVID closed what was left of those spaces, men who had been quietly
+managing with one or two connections were left with none.
+```
+
+**Rule:** If the sentence contains the structure "[event] was a [dramatic noun]", rewrite it as what the event actually did. *(Male Loneliness Gaming script, Jun 2026)*
+
 ### 4.3 Short sentence chains + abstract nouns
 
 Reddit pattern: *“The grassfield is not a place, it's an ideal. Distances shorten. Colours become vivid.”*
@@ -173,6 +236,54 @@ GOOD: The NHI Bill proposes a single purchaser for all registered citizens (NDoH
 | Let’s dive into the fascinating world of… | To understand 1994, you need to know what came before. |
 | This article will discuss… | The purpose of this paper is to answer the following: "…" |
 | Without further ado… | (delete) |
+
+### 4.5b Essay validation lines (Abdullah rejects these)
+
+AI drafts **label importance** instead of **stating the fact**. These read like a submitted essay, not a person talking.
+
+```text
+BAD (essay voice):
+That was not a slogan for the campaign trail. It was the economic promise
+the liberation movement had carried for decades.
+
+The people in those queues were not voting for a symbol. They were voting
+for Mandela to deliver that plan.
+
+That is the tension at the centre of his legacy.
+
+What followed was not a reversal of his choice — it was what that choice
+made room for.
+```
+
+```text
+BETTER (spoken — same facts, no narrator grading):
+The ANC had been saying that for forty years before Mandela ever took office.
+Share the mines. Share the banks. Share the land. That is what people
+expected when they voted.
+
+Those people in the queues were voting for jobs and land. They were voting
+for Mandela to deliver that plan.
+
+So here is the split in his legacy. He ended apartheid without civil war…
+But the economic promise he carried into power was postponed in 1996.
+
+Mandela left office in 1999. No president after him reversed that 1996 choice.
+They just had to live with it.
+```
+
+**Patterns to cut on sight:**
+
+| Essay tell | Why it fails spoken | Replace with |
+|------------|---------------------|--------------|
+| *not a slogan for the campaign trail* | Meta-commentary on the quote | *The ANC had been saying that for forty years…* |
+| *the liberation movement* | Textbook noun — you say *the ANC* | *the ANC* / *they* / *Mandela's party* |
+| *at the centre of his legacy* | Abstract framing | *So here is the split in his legacy* or just state the split |
+| *would define everything that came after* | Future-perfect essay voice | *Mandela had to choose* / *From here, everything else follows* |
+| *By then, the language had flipped* | Passive, literary | *And by 1996, he was saying something very different* |
+| *He was not X. He was Y.* (stacked) | Contrast spam | One plain sentence: *He knew the jobs crisis was not fixed. He was explaining why.* (max once) |
+| *not voting for a symbol* | Profound-sounding false binary | Name what they wanted: *jobs and land* |
+
+**Rule:** If the line **evaluates** a quote or moment instead of **continuing the story**, rewrite or delete.
 
 ### 4.6 Over-metaphoring
 
@@ -285,7 +396,7 @@ If an editor flags you, point to **specificity and structure** — not vocabular
 
 1. **Generate** with [`writing-style-guide.md`](writing-style-guide.md) + [`academic-writing-profile.md`](academic-writing-profile.md) in context — not vanilla prompts.  
 2. **Paste plain** — strip markdown/chat formatting.  
-3. **Blacklist pass** — Tier A words → delete or replace (search: `delve`, `landscape`, `testament`, `underscore`, `game changer`, `pivotal`, `crucial`, `navigate`, `robust`, `seamless`).  
+3. **Blacklist pass** — Tier A words → delete or replace (search: `delve`, `landscape`, `testament`, `underscore`, `game changer`, `pivotal`, `crucial`, `navigate`, `robust`, `seamless`, `still matters`, `the research is clear that`).  
 4. **Em dash pass** — replace 70%+ with commas or full stops.  
 5. **Contrast pass** — keep best **one** “not X / real answer is Y” per section.  
 6. **Specificity pass** — every abstract noun gets a number, date, or `[SHOW:]`.  
@@ -366,6 +477,14 @@ When generating for Abdullah, **never**:
 | did fail / did change | failed / changed (unless contrast: *did not*) |
 | That matters. But… | But… / [show stakes in the same sentence] |
 | This matters because… (×N) | [one concrete proof instead] |
+| Stigma still matters: | [state the mechanism: *because the stigma was treating…*] |
+| The research is clear that… | [drop framing; state the fact] |
+| not a slogan for the campaign trail | The ANC had been saying that for [X] years… |
+| the liberation movement | the ANC / Mandela's party |
+| at the centre of his legacy | So here is the split… / (state the split directly) |
+| would define everything that came after | Mandela had to choose / From here, everything else follows |
+| By then, the language had flipped | And by 1996, he was saying something very different |
+| not voting for a symbol | voting for jobs and land |
 
 ---
 

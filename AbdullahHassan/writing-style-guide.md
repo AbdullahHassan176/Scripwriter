@@ -11,6 +11,10 @@
 
 **How you actually edit drafts (before/after patterns):** [`edit-patterns-from-sa-script.md`](edit-patterns-from-sa-script.md)
 
+**Speak vs show / repetition (2and20 · Veritasium · EE):** [`speak-vs-show-checklist.md`](speak-vs-show-checklist.md)
+
+**Qaanitah Hunter reporting voice (when requested):** [`qaanitah-hunter-voice.md`](qaanitah-hunter-voice.md)
+
 ---
 
 ## Three Registers (Know Which One You’re In)
@@ -29,14 +33,14 @@ Academic and video writing share the same **intellectual habits** (systems think
 
 - **Persona:** Regional expert in African and emerging-market economies — not a pundit, not a journalist doing hot takes.
 - **Tone:** Authoritative but conversational. Measured energy that builds; flat and confident on thesis lines, not performative outrage.
-- **Primary format:** Long-form documentary explainer (15–20 min), styled after **2 and 20** and **Qaanitah Hunter** — date/person cold open, structural “But…” flip, literary close with a historical quote.
+- **Primary format:** Long-form documentary explainer (15–20 min), styled after **2 and 20** and **Qaanitah Hunter** — date/person cold open, structural “But…” flip, literary close with a historical quote. For Qaanitah-style drafts, see [`qaanitah-hunter-voice.md`](qaanitah-hunter-voice.md).
 - **Audience default:** **International** — viewers may know nothing about the country. Explain every local term, acronym, and institution on first use.
 
 ---
 
 ## Core Beliefs (What Every Script Should Do)
 
-1. **Break a lazy headline** — e.g. “South Africa failed because of corruption” is incomplete; the real story is structural (who owned what after the political transition).
+1. **Break a lazy headline** — deliver on the title with a **specific human story**, not a lecture the audience already knows. Example: *Nelson Mandela's Biggest Regret* = Mandela's promise → his 1996 choice → what it cost — not “everyone knows the economic transition failed.”
 2. **Use the full timeline** — bad outcomes that span 30 years are not explained by one president or one scandal.
 3. **Separate layers** — bottom (structural deal), middle (institutions over decades), top (acute corruption/scandal). Never treat the top layer as the whole story.
 4. **Earn specificity** — named people, dates, numbers, and sources. Vague claims sound like opinion; specifics sound like journalism.
@@ -58,6 +62,16 @@ Academic and video writing share the same **intellectual habits** (systems think
 
 Sections should be labelled clearly: `[HOOK]`, `[SECTION 1 — …]`, etc., with **timeline cues** so editors and viewers know where they are (`[SHOW: timeline — 1996 highlighted]`).
 
+**Format flexibility by topic type:**
+
+The 2and20 defaults (date/place/person cold open · documentary subtitle title card · thematic sponsor) are optimised for geopolitical and historical topics where a named event or person anchors the story. For cultural analysis, psychology, or social trend pieces, these may be adapted:
+
+- **Cold open:** May open on a statistic, a parallel trend, or a personal statement rather than a hard date/place/person — provided it sets a clear contradiction within the first 60 seconds. What must remain: a hook that creates an unanswered question the rest of the video resolves.
+- **Title card:** May take a question format ("Is gaming making us more depressed?") rather than the documentary subtitle format when the thesis is genuinely unresolved at the point of the reveal. Choose whichever creates more tension at that beat.
+- **Sponsor:** Required when monetising. When absent (early videos, non-monetised content), leave a `[SPONSOR PLACEHOLDER]` in the script at the 5–7 minute mark so the structural slot is maintained even if the read is not yet recorded.
+
+What must always remain regardless of topic type: the **"But…" flip** · the **mid-subscribe nudge** before a key reveal · the **literary close** with a primary source quote held on screen.
+
 ---
 
 ## Voice & Sentence Rules
@@ -73,13 +87,15 @@ Sections should be labelled clearly: `[HOOK]`, `[SECTION 1 — …]`, etc., with
 - End sections with a **micro-hook** into the next (question, contrast, or “But underneath…”).
 - **Show** why something is significant (chart, number, image) — don’t **tell** the audience it “matters” in a throwaway line.
 - **Sound spoken on camera** — oral pivots where needed: *right?*, *If only it was that simple*, *That being said*, *Yeah, those…* (see [`edit-patterns-from-sa-script.md`](edit-patterns-from-sa-script.md)).
+- **Use rhetorical question ladders for social silence** — when explaining why a stigma, behaviour pattern, or public silence persists, build a short cascade of genuine questions ("Is it because…?", "And if that cost is real, why…?", "Do men actually need permission…?") rather than stating the cause declaratively. Close the ladder with one plain declarative that lands the weight. See `edit-patterns-from-sa-script.md` §13.
 - **Teach big policy forks out loud** — frame the setup (e.g. power transfer between parties), then **Option A / Option B**, then which was chosen — don’t jump to *“They chose to keep the structure”* in one sentence.
 - **TH sign-off includes the show title** — *“I am Abdullah… This is [Title].”* (2and20-style).
 
 ### Don’t
 
 - **No essay bridges before data** — cut lines like *“the numbers tell a different story”*; go from *“If only it was that simple”* (or similar) straight into the chart.
-- **No faux-contrast emphasis** — avoid AI lines like *“That is not destiny — it is unfinished business”* or *“X is not Y, it is Z.”* Say it plainly: *“After thirty years, a gap like that is still a policy choice.”*
+- **No essay validation lines** — cut narrator lines that **grade** a quote or moment instead of continuing the story: *“That was not a slogan for the campaign trail”*, *“the liberation movement had carried for decades”*, *“at the centre of his legacy”*, *“would define everything that came after”*. State the fact in plain speech: *“The ANC had been saying that for forty years”*, *“Those people were voting for jobs and land”*. See [`avoid-ai-sounding-writing.md`](avoid-ai-sounding-writing.md) §4.5b.
+- **No faux-contrast emphasis** — banned in three forms: (1) em-dash flip: *“That is not destiny — it is unfinished business”*; (2) explicit contrast: *“X is not Y, it is Z”*; (3) split-sentence contrast: two short punchy sentences where the second negates or qualifies the first (*“COVID did not create that number. It just made it impossible to deny.”*). All three are the same AI rhythm. If sentence B qualifies sentence A, merge them into one. Say it plainly: *“After thirty years, a gap like that is still a policy choice.”* See void-ai-sounding-writing.md §4.1–4.1c.
 - **No “Treat X as Y, not Z” / listicle commands** — avoid *“Treat land reform as delivery, not slogans”*, *“Hold the coalition to…”*, *“Use the institutions…”*. Say what people can do in normal speech: *“One place to start is…”*, *“On land, the gap was never only about…”*.
 - **No “that matters” / “this matters” as narrator filler** — you do not need to keep telling people something matters. If it matters, **prove it** in the next sentence (data, contrast, consequence). Cut standalone lines like *“That matters. But the structural problems…”* → go straight to *“But the structural problems…”* or fold the stakes into the line (*“Rolling blackouts largely stopped — but who owns the land still hasn’t shifted.”*). Same ban on *“And that matters.”*, *“Which is why this matters.”*, *“Here’s why that matters.”* stacked across a script. **Exception:** rare, specific clause where “matters” names a **trade-off** (*“cleaner government matters — but it is not the whole fix”*) — once per piece at most, not as a tic.
 - **No emphatic `did` + verb** when simple past is enough — write *“The economy grew”*, not *“The economy did grow”*. Same for *failed*, *changed*, *improve*, etc. Reserve *did* for **contrast or negation** (*“GDP did not grow”*, *“growth did happen, but only in headline terms”*) — not as a default way to state a past fact.
@@ -236,7 +252,7 @@ VISUAL CONVENTION:
 - [ ] Full sentences; no fragment chains; simple past (*grew*) not filler *did grow*
 - [ ] No empty *that matters* / *this matters* — stakes shown, not announced
 - [ ] Spoken pivots where needed; Section 1–level ideas use Option A/B or questions, not one compressed paragraph
-- [ ] TH line ends with *This is [Title]*
+- [ ] TH line ends with *This is [Title]* — or, for social/cultural topics, a question format that opens the thesis rather than stating it
 - [ ] Thesis clear by end of hook; title card spoken
 - [ ] Timeline spans full period, not one administration
 - [ ] Three layers (structure / institutions / scandal) if applicable
